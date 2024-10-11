@@ -36,8 +36,8 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Access to all itineraries
+    description                           : For example, check <a href="https://www.trackmapgo.com/trackpack/GOA/Kyrgyzstan">Kyrgyzstan</a> for more information.
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
