@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.trackmapgo.trackmap" ],
+             "appIDs": [ "82428UCFFB.com.trackmapgo.trackmap" ],
              "components": [
                {
                   "#": "no_universal_links",
