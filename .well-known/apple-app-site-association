@@ -11,16 +11,32 @@
                },
                {
                   "/": "/login",
-                  "comment": "continuation url after validating email"
+                  "comment": "continuation url after email signin link"
                },
                {
-                  "/": "/trackpack/*/*",
+                  "/": "/verify",
+                  "comment": "continuation url after email verification"
+               },
+               {
+                  "/": "/tp/*/*",
                   "comment": "itineraries as /trackpack/GOA/Kyrgyzstan"
                },
                {
-                  "/": "/itinerary/*/*/*",
+                  "/": "/trackpack/*",
+                  "comment": "itineraries as /trackpack/<id>"
+               },
+               {
+                  "/": "/it/*/*/*",
                   "?": { "step": "?*" },
-                  "comment": "itineraries as /itinerary/GOA/Kyrgyzstan/K12?step=1"
+                  "comment": "itinerary as /itinerary/GOA/Kyrgyzstan/K12?step=1"
+               },
+               {
+                  "/": "/itinerary/*",
+                  "comment": "itinerary as /itinerary/<id> or step as /itinerary/<id>?step=1"
+               },
+               {
+                  "/": "/waypoint/*",
+                  "comment": "waypoint as /waypoint/<id>"
                },
                {
                   "/": "/country/*",
