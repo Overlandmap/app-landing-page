@@ -2,18 +2,18 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 6476698675                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                : 6741202903                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : ch                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://trackmapgo.com/presskit                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://overlandmap.ch/presskit                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/full_logo.jpeg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Track Map Go                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/full_logo.jpeg                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Overland Map                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : All your itineraries, on your phone or table.
+app_description                           : All your itineraries, on your phone or tablet.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -25,9 +25,9 @@ your_link                                 : https://www.himalayaoffroad.com
 your_city                                 :                                 
 email_address                             : info@himalayaoffroad.com
 facebook_username                         :                                           
-instagram_username                        : trackmapgo
+instagram_username                        : overlandmap
 twitter_username                          : 
-github_username                           : trackmapgo
+github_username                           : Overlandmap
 youtube_username                          :
 mastodon_link                             : 
 
@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Access to all itineraries
-    description                           : For example, check <a href="https://www.trackmapgo.com/trackpack/GOA/Kyrgyzstan">Kyrgyzstan</a> for more information.
+    description                           : For example, check <a href="https://www.overlandmap.ch/trackpack/GOA/Kyrgyzstan">Kyrgyzstan</a> for more information.
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview

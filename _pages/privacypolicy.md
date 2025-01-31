@@ -3,58 +3,106 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 ---
-
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Last Updated: January 31, 2025
 
-<br>
+## Introduction
+This Privacy Policy explains how we collect, use, and protect your personal information when you use our application. We are committed to ensuring the privacy and security of your data.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## Information We Collect
+We collect only the minimum information necessary to provide you with our services:
+- Email address
+- Username
+- Password (stored in encrypted format)
+- Purchase history related to itinerary packs
+- User reviews
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### User Reviews and Comments
+When you write reviews or comments in our application:
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+Only your chosen display name will be shown publicly
+Your email address is never displayed or shared
+Your display name can be changed at any time through your account settings
+Reviews and comments will remain under your display name even if you delete your account, but won't be associated to your e-mail anymore
 
-<br>
+## Third-Party Services
+### Mapbox Services
+Our application uses Mapbox for mapping services. As part of this integration:
+- Mapbox may collect location data and usage information to provide mapping functionality
+- This data collection is governed by Mapbox's privacy policy, which can be found at: https://www.mapbox.com/legal/privacy
+- We recommend reviewing Mapbox's privacy policy to understand their data collection practices
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+### Location Services
+Location services are used to:
+- Display your current position on the map while following itineraries
+- Provide accurate navigation guidance
+- Enable real-time progress tracking on routes
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+To control location services:
+1. During first app launch, you'll be asked to authorize location access "While Using the App"
+2. You can later modify this setting:
+   - iOS: Settings → Privacy → Location Services → [App Name]
+   - Android: Settings → Apps → [App Name] → Permissions → Location
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+Important notes about location services:
+- Location access is only required "while app in use"
+- You can use the app without location services, but your current position won't be displayed on maps
+- Location data is only used for real-time display and is not stored by our application
+- Mapbox processes location data according to their privacy policy
 
-<br>
+## How We Use Your Information
+Your information is used exclusively for:
+1. Account creation and management
+2. Authentication and security
+3. Processing your itinerary pack purchases
+4. Communicating essential service-related information
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## Data Storage and Security
+- All personal data is stored securely using industry-standard encryption protocols
+- Passwords are hashed and encrypted
+- Regular security audits are conducted to ensure data protection
+- Data is stored on secure servers with restricted access
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## Third-Party Sharing
+We do not share, sell, rent, or trade your personal information with any third parties. Your data remains strictly within our application's ecosystem. The only exception is the location data collected by Mapbox as described in the "Third-Party Services" section.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## Data Retention
+We retain your personal information only for as long as necessary to:
+- Maintain your active account
+- Process your purchases
+- Comply with legal obligations
+- Resolve potential disputes
 
-<br>
+## Your Rights
+You have the right to:
+- Access your personal information
+- Correct inaccurate data
+- Request deletion of your account and associated data
+- Export your data in a common format
+- Withdraw consent for data processing
+- Control location sharing through application settings
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## Changes to Personal Information
+You can review and update your personal information at any time through your account settings in the application.
 
-<br>
+## Account Deletion
+If you choose to delete your account:
+- All personal information will be permanently removed
+- Purchase history will be anonymized
+- Deletion process will be completed within 30 days
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## Updates to Privacy Policy
+We may update this Privacy Policy occasionally. Users will be notified of any material changes via email or through the application.
+
+## Contact Us
+If you have questions about this Privacy Policy or your personal data, please contact us at:
+- Email: privacy@himalayaoffroad.com
+- Address: 
+Himalaya Offroad Sarl
+rue Charles-Knapp 33a
+2000 Neuchâtel
+Suisse
+
+## Governing Law
+This Privacy Policy is governed by and construed in accordance with applicable data protection laws.

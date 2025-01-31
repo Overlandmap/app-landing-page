@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "82428UCFFB.com.trackmapgo.trackmap" ],
+             "appIDs": [ "82428UCFFB.ch.overlandmap.map" ],
              "components": [
                {
                   "#": "no_universal_links",
@@ -48,11 +48,11 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "6476698675.com.trackmapgo.trackmap" ]
+      "apps": [ "82428UCFFB.ch.overlandmap.map" ]
    },
 
 
     "appclips": {
-        "apps": ["6476698675.com.trackmapgo.trackmap.clip"]
+        "apps": ["82428UCFFB.ch.overlandmap.map.clip"]
     }
 }
