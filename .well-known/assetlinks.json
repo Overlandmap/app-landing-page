@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "ch.overlandmap.map",
       "sha256_cert_fingerprints": [
-        "A7:46:BC:B6:43:03:19:EA:D3:C1:74:BE:61:52:6A:9F:C1:B4:01:98:7D:77:F3:87:E7:89:5B:69:39:94:A6:E1"
+        "A7:46:BC:B6:43:03:19:EA:D3:C1:74:BE:61:52:6A:9F:C1:B4:01:98:7D:77:F3:87:E7:89:5B:69:39:94:A6:E1",
+        "92:82:16:6C:0E:11:AF:97:A4:0D:EE:1E:8D:CB:30:43:05:E0:56:1E:DC:03:46:E1:AE:C8:E4:C5:6A:64:50:66"
       ]
     }
   }
