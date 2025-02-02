@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ch.overlandmap.map",
+      "sha256_cert_fingerprints": [
+        "A7:46:BC:B6:43:03:19:EA:D3:C1:74:BE:61:52:6A:9F:C1:B4:01:98:7D:77:F3:87:E7:89:5B:69:39:94:A6:E1"
+      ]
+    }
+  }
+]
