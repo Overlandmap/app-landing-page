@@ -27,7 +27,7 @@
 
             var userLang = navigator.language || navigator.userLanguage;
             if (userLang.startsWith("fr")) {
-                linkElement.linkContent = "{{ page.link_text_fr }}";
+                linkElement.textContent = "{{ page.link_text_fr }}";
                 textElement.textContent = "{{ page.title_fr }}";
             } else {
                 linkElement.textContent = "{{ page.link_text_en }}";
