@@ -27,11 +27,11 @@
 
             var userLang = navigator.language || navigator.userLanguage;
             if (userLang.startsWith("fr")) {
-                textElement.linkContent = '{{ page.link_text_fr }}';
-                textElement.textContent = '{{ page.title_fr }}';
+                textElement.linkContent = "{{ page.link_text_fr }}";
+                textElement.textContent = "{{ page.title_fr }}";
             } else {
-                linkElement.textContent = '{{ page.link_text_en }}';
-                textElement.textContent = '{{ page.title_en }}';
+                linkElement.textContent = "{{ page.link_text_en }}";
+                textElement.textContent = "{{ page.title_en }}";
             }
 
         });
