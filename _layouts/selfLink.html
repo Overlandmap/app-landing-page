@@ -12,7 +12,7 @@
         <div class="container subPageContainer">
         {% include header.html %}
             <article id="page-header" class="page markdown-body">
-                {{ page.title_fr }}
+                <h3>{{ page.title_fr }}</h3>
                 <p id="page-url"><a href="{{ page.url | relative_url }}">Cliquez ici</a></p>
             </article>
         </div>
@@ -23,7 +23,7 @@
             var url = window.location.href;
             var linkElement = document.querySelector("#page-url a");
             linkElement.href = url;
-            var textElement = document.querySelector("#page-header");
+            var textElement = document.querySelector("#page-header h3");
 
             var userLang = navigator.language || navigator.userLanguage;
             if (userLang.startsWith("fr")) {
