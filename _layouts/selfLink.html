@@ -13,11 +13,18 @@
         {% include header.html %}
             <article class="page markdown-body">
                 {{ content }}
-                <p><a href="{{ page.url | relative_url }}">Cliquez ici</a></p>
+                <p id="page-url"><a href="{{ page.url | relative_url }}">Cliquez ici</a></p>
             </article>
         </div>
         {% include appstoreimages.html %}
     </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var url = window.location.href;
+            var linkElement = document.querySelector("#page-url a");
+            linkElement.href = url;
+        });
+    </script>
 </body>
 
 </html>
