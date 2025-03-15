@@ -23,7 +23,7 @@
             var url = window.location.href;
             var linkElement = document.querySelector("#page-url a");
             linkElement.href = url;
-            var textElement = document.querySelector("#page-header a");
+            var textElement = document.querySelector("#page-header");
 
             var userLang = navigator.language || navigator.userLanguage;
             if (userLang.startsWith("fr")) {
