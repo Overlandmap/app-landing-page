@@ -18,6 +18,10 @@
                   "comment": "continuation url after email verification"
                },
                {
+                  "/": "/verify/",
+                  "comment": "continuation url after email verification"
+               },
+               {
                   "/": "/tp/*/*",
                   "comment": "itineraries as /trackpack/GOA/Kyrgyzstan"
                },
