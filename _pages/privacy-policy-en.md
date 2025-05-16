@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 # Privacy Policy
 
-Last Updated: January 31, 2025
+Last Updated: October 27, 2024
 
 ## Introduction
 This Privacy Policy explains how we collect, use, and protect your personal information when you use our application. We are committed to ensuring the privacy and security of your data.
