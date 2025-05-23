@@ -6,7 +6,7 @@ ios_app_id                                : 6741202903                          
 ios_app_country                           : ch                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=ch.overlandmap.map&hl=en                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -20,14 +20,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Laurent Bendel                                
+your_name                                 : Himalaya Offroad                                
 your_link                                 : https://www.himalayaoffroad.com                   
 your_city                                 :                                 
 email_address                             : info@himalayaoffroad.com
 facebook_username                         :                                           
-instagram_username                        : overlandmap
+instagram_username                        : himoffroad
 twitter_username                          : 
-github_username                           : Overlandmap
+github_username                           : 
 youtube_username                          :
 mastodon_link                             : 
 
@@ -36,45 +36,42 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Access to all itineraries
-    description                           : For example, check <a href="https://www.overlandmap.ch/trackpack/GOA/Kyrgyzstan">Kyrgyzstan</a> for more information.
-    fontawesome_icon_name                 : magic
+  - title                                 : Tailored for the overlander
+    description                           : Over 100 itineraries in 5 countries, with detailed maps and information.
+    fontawesome_icon_name                 : globe
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Background information
+    description                           : Geographical, historical and cultural information about the countries and regions you're visiting.
+    fontawesome_icon_name                 : book
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Always with you
+    description                           : No need to be connected to the internet. All your itineraries are stored on your phone or tablet.
+    fontawesome_icon_name                 : tablet-screen-button
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Detailed maps, tailored for offroad use
+    description                           : Download it on your device and use it offline. No need to be connected to the internet.
+    fontawesome_icon_name                 : map
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Export in GPX or KML format
+    description                           : Export your itinerary to your favourite GPS navigation app (e.g. Google Maps, OsmAnd, Organic Maps, etc.).
+    fontawesome_icon_name                 : location-crosshairs
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Satellite and 3D view
+    description                           : View your itinerary in 3D with global satellite imagery.
+    fontawesome_icon_name                 : satellite
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Full-text search
+    description                           : Search for any place, itinerary or point of interest in the app.
+    fontawesome_icon_name                 : magnifying-glass
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Share your comments
+    description                           : Share your remarks and updates with other users.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Always up-to-date
+    description                           : The updates and correction to the itineraries are automatically downloaded to your device.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
