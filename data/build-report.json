@@ -1,0 +1,29 @@
+{
+  "buildInfo": {
+    "timestamp": "2026-01-22T15:32:21.703Z",
+    "duration": 1769095941703,
+    "nodeVersion": "v22.9.0",
+    "platform": "darwin"
+  },
+  "dataStats": {
+    "countries": {
+      "fetched": 242,
+      "processed": 242,
+      "withIso3": 0,
+      "withBorders": 0
+    },
+    "borders": {
+      "fetched": 334,
+      "processed": 334,
+      "withGeometry": 334
+    },
+    "mappings": {
+      "iso3Lookup": 0
+    }
+  },
+  "qualityMetrics": {
+    "countryProcessingRate": 100,
+    "borderProcessingRate": 100,
+    "iso3CoverageRate": 0
+  }
+}
