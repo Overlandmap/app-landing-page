@@ -161,6 +161,27 @@
       "ru": "Военная зона, поездки в Мускох и Каобаль-Гали запрещены."
     }
   },
+  "in-pk-siachen": {
+    "id": "in-pk-siachen",
+    "type": 0,
+    "name": "Siachen",
+    "comment": "The Siachen glacier is the highest battleground in the world. It is claimed by India and Pakistan and controlled by neither.",
+    "updatedAt": {
+      "_seconds": 1769593162,
+      "_nanoseconds": 819000000
+    },
+    "comment_translations": {
+      "en": "The Siachen glacier is the highest battleground in the world. It is claimed by India and Pakistan and controlled by neither.",
+      "fr": "Le glacier de Siachen est le champ de bataille le plus élevé du monde. Il est revendiqué par l'Inde et le Pakistan, et aucun des deux ne le contrôle.",
+      "de": "Der Siachen-Gletscher ist das höchstgelegene Schlachtfeld der Welt. Er wird von Indien und Pakistan beansprucht und von keinem der beiden kontrolliert.",
+      "it": "Il ghiacciaio Siachen è il campo di battaglia più alto del mondo. È rivendicato da India e Pakistan, ma non è controllato da nessuno dei due.",
+      "es": "El glaciar de Siachen es el campo de batalla más alto del mundo. India y Pakistán lo reclaman, pero ninguno de ellos lo controla.",
+      "pt": "A geleira de Siachen é o campo de batalha mais alto do mundo. É reivindicada pela Índia e pelo Paquistão, mas não é controlada por nenhum dos dois.",
+      "nl": "De Siachen-gletsjer is het hoogste slagveld ter wereld. India en Pakistan claimen het gebied, maar geen van beide heeft het onder controle.",
+      "pl": "Lodowiec Siachen to najwyżej położone pole bitwy na świecie. Roszczenia roszczą sobie Indie i Pakistan, ale żadna z nich nie kontroluje jego terytorium.",
+      "ru": "Ледник Сиачен — самое высокое в мире поле битвы. На него претендуют Индия и Пакистан, но он не контролируется ни одной из этих стран."
+    }
+  },
   "in-sikkim": {
     "id": "in-sikkim",
     "type": 2,

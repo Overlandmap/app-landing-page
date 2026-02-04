@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-01-22T15:32:21.681Z",
+    "generatedAt": "2026-02-04T21:07:51.988Z",
     "totalTrackPacks": 5,
     "editor": "GOA"
   },
@@ -330,12 +330,12 @@
       "hillshade_version": 2,
       "contour_version": 4,
       "contour": "12wVB1LVLUJywh3SutXJ",
-      "trackPackZip_version": 42,
-      "trackPackZip": "XFhBvbVy7ZM0Jw4N2vML",
       "freeItineraryZip_version": 42,
       "freeItineraryZip": "a8xtD5mNfgCN9TEEu5bz",
       "pmtilesMap_version": 5,
-      "pmtilesMap": "PNSR1Rb2hWxc9rJYpBMo"
+      "pmtilesMap": "PNSR1Rb2hWxc9rJYpBMo",
+      "trackPackZip_version": 45,
+      "trackPackZip": "WxTMVsrEx5htHR1BgeoX"
     }
   ]
 }
