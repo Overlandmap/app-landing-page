@@ -1,0 +1,62 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "82428UCFFB.ch.overlandmap.map" ],
+             "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+               },
+               {
+                  "/": "/login",
+                  "comment": "continuation url after email signin link"
+               },
+               {
+                  "/": "/verify",
+                  "comment": "continuation url after email verification"
+               },
+               {
+                  "/": "/verify/",
+                  "comment": "continuation url after email verification"
+               },
+               {
+                  "/": "/tp/*/*",
+                  "comment": "itineraries as /trackpack/GOA/Kyrgyzstan"
+               },
+               {
+                  "/": "/trackpack/*",
+                  "comment": "itineraries as /trackpack/<id>"
+               },
+               {
+                  "/": "/it/*/*/*",
+                  "?": { "step": "?*" },
+                  "comment": "itinerary as /itinerary/GOA/Kyrgyzstan/K12?step=1"
+               },
+               {
+                  "/": "/itinerary/*",
+                  "comment": "itinerary as /itinerary/<id> or step as /itinerary/<id>?step=1"
+               },
+               {
+                  "/": "/waypoint/*",
+                  "comment": "waypoint as /waypoint/<id>"
+               },
+               {
+                  "/": "/country/*",
+                  "exclude": true,
+                  "comment": "Matches any URL with a path that starts with /help/website/ and instructs the system not to open it as a universal link."
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "82428UCFFB.ch.overlandmap.map" ]
+   },
+
+
+    "appclips": {
+        "apps": ["82428UCFFB.ch.overlandmap.map.clip"]
+    }
+}
