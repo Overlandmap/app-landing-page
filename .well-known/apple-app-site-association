@@ -18,10 +18,6 @@
                   "comment": "continuation url after email verification"
                },
                {
-                  "/": "/verify/",
-                  "comment": "continuation url after email verification"
-               },
-               {
                   "/": "/tp/*/*",
                   "comment": "itineraries as /trackpack/GOA/Kyrgyzstan"
                },
@@ -44,8 +40,19 @@
                },
                {
                   "/": "/country/*",
-                  "exclude": true,
-                  "comment": "Matches any URL with a path that starts with /help/website/ and instructs the system not to open it as a universal link."
+                  "comment": "country as /country/{adm0_a3"
+               },
+               {
+                  "/": "/border/*",
+                  "comment": "border as /border/{doc_id}"
+               },
+               {
+                  "/": "/border_post/*",
+                  "comment": "border post as /border_post/{doc_id}"
+               },
+               {
+                  "/": "/zone/*",
+                  "comment": "zone as /zone/{doc_id}"
                }
              ]
            }
