@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-02-05T21:03:07.216Z",
+    "generatedAt": "2026-02-08T06:42:30.283Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -580,9 +580,23 @@
           "ru": "Абу-Даби",
           "zh": "阿布扎比"
         },
+        "insurance": 1,
+        "insurance_url": "https://uaeaber.com",
+        "insurance_comment": "You'll find insurance booth at the borders. But if you ship your vehicle, or if need to renew it, you can also do it online.\nPrice is about 210 AED / 15 days for a car/bike, 315 AED / 1 month, done in minutes (when it's up). \nSomme people report having trouble with their home credit card; as usual, a good work-around is to use Apple Pay.",
         "updatedat": {
-          "_seconds": 1770199379,
-          "_nanoseconds": 936000000
+          "_seconds": 1770484411,
+          "_nanoseconds": 311000000
+        },
+        "insurance_comment_translations": {
+          "en": "You'll find insurance booth at the borders. But if you ship your vehicle, or if need to renew it, you can also do it online.\nPrice is about 210 AED / 15 days for a car/bike, 315 AED / 1 month, done in minutes (when it's up). \nSomme people report having trouble with their home credit card; as usual, a good work-around is to use Apple Pay.",
+          "fr": "Vous trouverez des guichets d'assurance aux frontières. Si vous faites expédier votre véhicule ou si vous devez renouveler votre assurance, vous pouvez également le faire en ligne.\n\nLe prix est d'environ 210 AED pour 15 jours pour une voiture ou une moto, et de 315 AED pour 1 mois. L'opération est effectuée en quelques minutes (lorsqu'elle est disponible).\n\nCertaines personnes signalent des problèmes avec leur carte bancaire habituelle ; comme toujours, une bonne solution consiste à utiliser Apple Pay.",
+          "de": "Sie finden Versicherungsschalter an den Grenzen. Wenn Sie Ihr Fahrzeug versenden oder Ihre Versicherung verlängern müssen, können Sie dies auch online erledigen.\nDer Preis beträgt ca. 210 AED für 15 Tage für ein Auto/Motorrad und 315 AED für einen Monat. Die Abwicklung dauert nur wenige Minuten (sofern verfügbar). Einige Nutzer berichten von Problemen mit ihrer Kreditkarte; wie üblich ist Apple Pay eine gute Alternative.",
+          "it": "Troverai uno sportello assicurativo alle frontiere. Ma se spedisci il tuo veicolo o se devi rinnovarlo, puoi farlo anche online.\nIl prezzo è di circa 210 AED / 15 giorni per un'auto/moto, 315 AED / 1 mese, e si fa in pochi minuti (quando scade).\nAlcune persone segnalano problemi con la propria carta di credito; come al solito, una buona soluzione è usare Apple Pay.",
+          "es": "Encontrarás una oficina de seguros en las fronteras. Si envías tu vehículo o necesitas renovarlo, también puedes hacerlo en línea.\nEl precio es de unos 210 AED por 15 días para un coche o una moto, y de 315 AED por un mes, que se completa en minutos (cuando se agote el plazo).\nAlgunas personas informan tener problemas con su tarjeta de crédito; como siempre, una buena solución es usar Apple Pay.",
+          "pt": "Você encontrará um guichê de seguro nas fronteiras. Mas se você enviar seu veículo, ou se precisar renová-lo, também poderá fazer isso online.\nO preço é de cerca de 210 AED por 15 dias para um carro/moto, 315 AED por 1 mês, feito em minutos (quando estiver disponível).\nAlgumas pessoas relatam ter problemas com seus cartões de crédito nacionais; como de costume, uma boa solução alternativa é usar o Apple Pay.",
+          "nl": "Je vindt een verzekeringskantoor aan de grens. Maar als je je voertuig verzendt of je verzekering wilt verlengen, kun je dat ook online doen.\n\nDe prijs is ongeveer 210 AED voor 15 dagen voor een auto/motor, 315 AED voor 1 maand, en het is binnen enkele minuten geregeld (wanneer de verzekering afloopt).\n\nSommige mensen melden problemen met hun eigen creditcard; zoals gewoonlijk is Apple Pay een goede oplossing.",
+          "pl": "Na granicy znajdziesz punkt ubezpieczeniowy. Jeśli jednak wysyłasz swój pojazd lub chcesz go odnowić, możesz to zrobić online.\nCena wynosi około 210 AED / 15 dni za samochód/motocykl, 315 AED / 1 miesiąc, a wszystko to w kilka minut (po wygaśnięciu polisy).\nNiektórzy zgłaszają problemy z kartą kredytową; jak zwykle, dobrym rozwiązaniem jest skorzystanie z Apple Pay.",
+          "ru": "На границе вы найдете страховой пункт. Но если вы отправляете свой автомобиль или вам нужно продлить страховку, вы также можете сделать это онлайн.\nЦена составляет около 210 дирхамов ОАЭ за 15 дней для автомобиля/мотоцикла, 315 дирхамов ОАЭ за 1 месяц, оформление занимает несколько минут (когда доступно).\nНекоторые люди сообщают о проблемах со своей домашней кредитной картой; как обычно, хорошим решением является использование Apple Pay."
         }
       },
       "borderIds": [],
@@ -5697,18 +5711,6 @@
         "visa": 2,
         "visa_url": "https://indianvisaonline.gov.in/",
         "stay_duration": "6 months within a period of 12 months",
-        "comment": "Note that special permits (free) are required for the following areas:\n- Ladakh border areas\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC), but this maps reflects the current, real situation on the ground.",
-        "comment_translations": {
-          "en": "Note that special permits (free) are required for the following areas:\n- Ladakh border areas\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC), but this maps reflects the current, real situation on the ground.",
-          "fr": "Veuillez noter que des permis spéciaux (gratuits) sont requis pour les zones suivantes :\n\n- Zones frontalières du Ladakh\n- Spiti\n- Sikkim\n- Arunachal Pradesh\n\nLes motos sont interdites sur les autoroutes (à l'européenne, séparées du reste du monde), mais elles n'y sont pas soumises à péage.\n\nVeuillez noter que la loi indienne interdit de représenter la frontière réelle avec la Chine (LaC) et le Pakistan (LoC), mais cette carte reflète la situation actuelle sur le terrain.",
-          "de": "Beachten Sie, dass für folgende Gebiete Sondergenehmigungen (kostenlos) erforderlich sind:\n- Grenzgebiete von Ladakh\n- Spiti\n- Sikkim\n- Arunachal Pradesh. Motorräder sind auf Autobahnen (nach europäischem Vorbild, mit separaten Fahrspuren) verboten, jedoch mautfrei.\nDas indische Gesetz verbietet die Darstellung der tatsächlichen Grenze zu China (LaC) und Pakistan (LoC). Diese Karte spiegelt jedoch die aktuelle Situation vor Ort wider.",
-          "it": "Si noti che sono richiesti permessi speciali (gratuiti) per le seguenti aree:\n- Aree di confine del Ladakh\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nLe motociclette sono vietate sulle autostrade (di tipo europeo, separate), ma non è previsto il pagamento di alcun pedaggio.\nSi noti che la legge indiana vieta di raffigurare il confine effettivo con Cina (LaC) e Pakistan (LoC), ma queste mappe riflettono la situazione attuale e reale sul territorio.",
-          "es": "Tenga en cuenta que se requieren permisos especiales (gratuitos) para las siguientes zonas:\n- Zonas fronterizas de Ladakh\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nLas motocicletas tienen prohibido circular por autopistas (al estilo europeo, separadas), pero tampoco pagan peaje.\nTenga en cuenta que la ley india prohíbe representar la frontera real con China (LaC) y Pakistán (LoC), pero este mapa refleja la situación real actual sobre el terreno.",
-          "pt": "Observe que autorizações especiais (gratuitas) são necessárias para as seguintes áreas:\n- Áreas fronteiriças de Ladakh\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nMotocicletas são proibidas em rodovias (estilo europeu, separadas), mas também não pagam pedágio.\n\nObserve que a lei indiana proíbe a representação da fronteira real com a China (LaC) e o Paquistão (LoC), mas este mapa reflete a situação atual e real no terreno.",
-          "nl": "Houd er rekening mee dat voor de volgende gebieden speciale vergunningen (gratis) vereist zijn:\n- Grensgebieden van Ladakh\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nMotorfietsen zijn verboden op snelwegen (Europese stijl, gescheiden rijstroken), maar er wordt ook geen tol betaald.\n\nMerk op dat de Indiase wet het afbeelden van de daadwerkelijke grens met China (LaC) en Pakistan (LoC) verbiedt, maar deze kaart geeft de huidige, reële situatie ter plaatse weer.",
-          "pl": "Należy pamiętać, że specjalne zezwolenia (bezpłatne) są wymagane w następujących obszarach:\n- obszary przygraniczne z Ladakhiem\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nMotocykle mają zakaz poruszania się po autostradach (typu europejskiego, wydzielonych), ale nie są również objęte żadnymi opłatami drogowymi.\nNależy pamiętać, że indyjskie prawo zabrania przedstawiania rzeczywistej granicy z Chinami (LaC) i Pakistanem (LoC), ale niniejsza mapa odzwierciedla aktualną, rzeczywistą sytuację na miejscu.",
-          "ru": "Обратите внимание, что для следующих районов требуются специальные разрешения (бесплатные):\n- Приграничные районы Ладакха\n- Спити\n- Сикким\n- Аруначал-Прадеш\nМотоциклы запрещены на автомагистралях (европейского типа, разделенных полосами), но за проезд по ним плата не взимается.\nОбратите внимание, что индийское законодательство запрещает отображение фактической границы с Китаем (LaC) и Пакистаном (LoC), но эта карта отражает текущую реальную ситуацию на местах."
-        },
         "carnet_comment_translations": {
           "en": "You can leave the vehicle in the country for a maximum of 180 days.",
           "fr": "Vous pouvez laisser le véhicule dans le pays pendant une durée maximale de 180 jours.",
@@ -5766,9 +5768,21 @@
           "zh": "新德里",
           "pt": "Nova Deli"
         },
+        "comment": "Note that special permits (free) are required for the following areas:\n- Ladakh [border areas](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC), but this map reflects the current, real situation on the ground.",
         "updatedat": {
-          "_seconds": 1770199390,
-          "_nanoseconds": 474000000
+          "_seconds": 1770483558,
+          "_nanoseconds": 234000000
+        },
+        "comment_translations": {
+          "pl": "Należy pamiętać, że specjalne zezwolenia (bezpłatne) są wymagane w następujących obszarach:\n- obszary przygraniczne z Ladakhiem\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nMotocykle mają zakaz poruszania się po autostradach (typu europejskiego, wydzielonych), ale nie są również objęte żadnymi opłatami drogowymi.\nNależy pamiętać, że indyjskie prawo zabrania przedstawiania rzeczywistej granicy z Chinami (LaC) i Pakistanem (LoC), ale niniejsza mapa odzwierciedla aktualną, rzeczywistą sytuację na miejscu.",
+          "de": "Beachten Sie, dass für folgende Gebiete Sondergenehmigungen (kostenlos) erforderlich sind:\n- [Grenzgebiete von Ladakh](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorräder sind auf Autobahnen (nach europäischem Vorbild, mit separaten Fahrspuren) verboten, jedoch mautfrei.\nDas indische Gesetz verbietet die Darstellung der tatsächlichen Grenze zu China (LaC) und Pakistan (LoC). Diese Karte spiegelt jedoch die aktuelle Situation vor Ort wider.",
+          "en": "Note that special permits (free) are required for the following areas:\n- Ladakh [border areas](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC), but this maps reflects the current, real situation on the ground.",
+          "es": "Tenga en cuenta que se requieren permisos especiales (gratuitos) para las siguientes zonas:\n- [Zonas fronterizas](@in-ladakh) de Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nLas motocicletas tienen prohibido circular por autopistas (al estilo europeo, separadas), pero tampoco pagan peaje.\nTenga en cuenta que la ley india prohíbe representar la frontera real con China (LaC) y Pakistán (LoC), pero este mapa refleja la situación real actual sobre el terreno.",
+          "fr": "Veuillez noter que des permis spéciaux (gratuits) sont requis pour les zones suivantes :\n\n- [Zones frontalières](@in-ladakh) du Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\n\nLes motos sont interdites sur les autoroutes (à l'européenne, séparées du reste du monde), mais elles n'y sont pas soumises à péage.\n\nVeuillez noter que la loi indienne interdit de représenter la frontière réelle avec la Chine (LaC) et le Pakistan (LoC), mais cette carte reflète la situation actuelle sur le terrain.",
+          "it": "Si noti che sono richiesti permessi speciali (gratuiti) per le seguenti aree:\n- [Aree di confine](@in-ladakh) del Ladakh\n- [Spiti](@in-spiti\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nLe motociclette sono vietate sulle autostrade (di tipo europeo, separate), ma non è previsto il pagamento di alcun pedaggio.\nSi noti che la legge indiana vieta di raffigurare il confine effettivo con Cina (LaC) e Pakistan (LoC), ma queste mappe riflettono la situazione attuale e reale sul territorio.",
+          "nl": "Houd er rekening mee dat voor de volgende gebieden speciale vergunningen (gratis) vereist zijn:\n- [Grensgebieden](@in-ladakh) van Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorfietsen zijn verboden op snelwegen (Europese stijl, gescheiden rijstroken), maar er wordt ook geen tol betaald.\n\nMerk op dat de Indiase wet het afbeelden van de daadwerkelijke grens met China (LaC) en Pakistan (LoC) verbiedt, maar deze kaart geeft de huidige, reële situatie ter plaatse weer.",
+          "pt": "Observe que autorizações especiais (gratuitas) são necessárias para as seguintes áreas:\n- [Áreas fronteiriças](@in-ladakh) de Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotocicletas são proibidas em rodovias (estilo europeu, separadas), mas também não pagam pedágio.\n\nObserve que a lei indiana proíbe a representação da fronteira real com a China (LaC) e o Paquistão (LoC), mas este mapa reflete a situação atual e real no terreno.",
+          "ru": "Обратите внимание, что для следующих районов требуются специальные разрешения (бесплатные):\n- [Приграничные районы Ладакха](@in-ladakh)\n- [Спити](@in-spiti)\n- [Сикким](@in-sikkim)\n- [Аруначал-Прадеш](@in-arunachal)\nМотоциклы запрещены на автомагистралях (европейского типа, разделенных полосами), но за проезд по ним плата не взимается.\nОбратите внимание, что индийское законодательство запрещает отображение фактической границы с Китаем (LaC) и Пакистаном (LoC), но эта карта отражает текущую реальную ситуацию на местах."
         }
       },
       "borderIds": [],
@@ -9964,7 +9978,6 @@
         },
         "capital": "Muscat",
         "carnet": 1,
-        "carnet_comment": "It is sometimes asked at the border, but usually not.\nIt is required when shipping into the country.",
         "continent": "Asia",
         "currency": "OMR",
         "currency_symbol": "﷼",
@@ -10034,9 +10047,11 @@
           "zh": "马斯喀特",
           "pt": "Mascate"
         },
+        "insurance": 1,
+        "carnet_comment": "It is sometimes asked at the border, but usually not.\nIt is definitely required when shipping into the country.",
         "updatedat": {
-          "_seconds": 1770199396,
-          "_nanoseconds": 972000000
+          "_seconds": 1770530828,
+          "_nanoseconds": 7000000
         }
       },
       "borderIds": [],
