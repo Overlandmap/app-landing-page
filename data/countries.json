@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-02-08T06:42:30.283Z",
+    "generatedAt": "2026-03-27T04:51:25.082Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -1556,9 +1556,11 @@
           "ru": "Бахрейн",
           "zh": "巴林"
         },
+        "insurance": 2,
+        "insurance_comment": "Use the \"Jesr insurance\" app to purchase it.",
         "updatedat": {
-          "_seconds": 1770199382,
-          "_nanoseconds": 195000000
+          "_seconds": 1774585690,
+          "_nanoseconds": 852000000
         }
       },
       "borderIds": [],
@@ -4607,7 +4609,6 @@
         "timezone": "Asia/Tbilisi",
         "carnet": 0,
         "visa": 0,
-        "visa_comment": "You'll need to buy a medicla insurance, or proof that your insurance provides the required coverage.",
         "bounding_box": [
           39.97832,
           41.070215,
@@ -4635,9 +4636,23 @@
           "zh": "格鲁吉亚",
           "pt": "Geórgia"
         },
+        "insurance": 1,
+        "visa_comment": "You'll need to show proof that your health insurance provides the required coverage of 30'000 GEL for the duration of your stay (a written confirmation in English or Georgian from your insurance company).\nOtherwise, you can purchase an insurance online for less than 1€ per day, e.g. at : \nhttps://imedil.ge/visitors-insurance/en",
+        "visa_comment_translations": {
+          "en": "You'll need to show proof that your health insurance provides the required coverage of 30'000 GEL for the duration of your stay (a written confirmation in English or Georgian from your insurance company).\nOtherwise, you can purchase an insurance online for less than 1€ per day, e.g. at : \nhttps://imedil.ge/visitors-insurance/en",
+          "fr": "Vous devrez fournir la preuve que votre assurance maladie couvre les frais de 30 000 GEL pendant toute la durée de votre séjour (une confirmation écrite en anglais ou en géorgien de votre compagnie d'assurance).\n\nSinon, vous pouvez souscrire une assurance en ligne pour moins de 1 € par jour, par exemple sur :\n\nhttps://imedil.ge/visitors-insurance/en",
+          "de": "Sie müssen nachweisen, dass Ihre Krankenversicherung die erforderliche Deckung von 30.000 GEL für die Dauer Ihres Aufenthalts abdeckt (eine schriftliche Bestätigung Ihrer Versicherung in englischer oder georgischer Sprache).\n\nAlternativ können Sie online eine Versicherung für weniger als 1 € pro Tag abschließen, z. B. unter:\nhttps://imedil.ge/visitors-insurance/en",
+          "it": "Dovrai dimostrare che la tua assicurazione sanitaria fornisce la copertura richiesta di 30.000 GEL per la durata del tuo soggiorno (una conferma scritta in inglese o georgiano della tua compagnia assicurativa).\nIn alternativa, puoi acquistare un'assicurazione online per meno di 1 € al giorno, ad esempio all'indirizzo:\nhttps://imedil.ge/visitors-insurance/en",
+          "es": "Deberá demostrar que su seguro médico cubre la cobertura requerida de 30 000 GEL durante su estancia (una confirmación por escrito en inglés o georgiano de su compañía de seguros).\nTambién puede contratar un seguro en línea por menos de 1 € al día, por ejemplo, en: https://imedil.ge/visitors-insurance/en",
+          "pt": "Você precisará apresentar comprovante de que seu seguro saúde oferece a cobertura obrigatória de 30.000 GEL para o período da sua estadia (uma confirmação por escrito em inglês ou georgiano da sua seguradora).\nCaso contrário, você pode adquirir um seguro online por menos de 1€ por dia, por exemplo, em: \nhttps://imedil.ge/visitors-insurance/en",
+          "nl": "U dient aan te tonen dat uw ziektekostenverzekering de vereiste dekking van 30.000 GEL dekt gedurende uw verblijf (een schriftelijke bevestiging in het Engels of Georgisch van uw verzekeringsmaatschappij).\n\nAnders kunt u online een verzekering afsluiten voor minder dan € 1 per dag, bijvoorbeeld via: https://imedil.ge/visitors-insurance/en",
+          "pl": "Będziesz musiał przedstawić dowód, że Twoje ubezpieczenie zdrowotne zapewnia wymaganą ochronę w wysokości 30 000 GEL na czas Twojego pobytu (pisemne potwierdzenie w języku angielskim lub gruzińskim od Twojej firmy ubezpieczeniowej).\nMożesz również wykupić ubezpieczenie online za mniej niż 1 € dziennie, np. na stronie:\nhttps://imedil.ge/visitors-insurance/en",
+          "ru": "Вам потребуется предоставить подтверждение того, что ваша медицинская страховка покрывает необходимые расходы в размере 30 000 GEL на весь период вашего пребывания (письменное подтверждение на английском или грузинском языке от вашей страховой компании).\nВ противном случае вы можете приобрести страховку онлайн менее чем за 1 евро в день, например, по адресу:\nhttps://imedil.ge/visitors-insurance/en"
+        },
+        "stay_duration": "90 days",
         "updatedat": {
-          "_seconds": 1770199388,
-          "_nanoseconds": 307000000
+          "_seconds": 1774585944,
+          "_nanoseconds": 766000000
         }
       },
       "borderIds": [],
@@ -5733,17 +5748,6 @@
           "pl": "6 miesięcy w okresie 12 miesięcy",
           "ru": "6 месяцев в течение 12 месяцев"
         },
-        "visa_comment_translations": {
-          "en": "You can very easily get an e-visa online, or a \"sticker\" visa in an embassy.\nNote that you can't enter India overland with an e-visa. It has to be processed at an airport immigration office to be accepted.\nBut it you have a multiple-entry e-visa, and you have entered the country by air, then you can later re-enter India at a land border, should you, e.g., visit Nepal and come back.\nIf you're coming into India overland, then you'll need to get your visa from an embassy, which will stick a visa into your passport.",
-          "fr": "Vous pouvez très facilement obtenir un visa électronique en ligne ou un visa autocollant auprès d'une ambassade.\n\nAttention : un visa électronique ne vous permet pas d'entrer en Inde par voie terrestre. Il doit être traité au bureau de l'immigration d'un aéroport pour être valide.\n\nCependant, si vous possédez un visa électronique à entrées multiples et que vous êtes entré dans le pays par avion, vous pourrez y revenir ultérieurement par voie terrestre, par exemple après un voyage au Népal.\n\nSi vous entrez en Inde par voie terrestre, vous devrez obtenir votre visa auprès d'une ambassade, qui apposera un visa dans votre passeport.",
-          "de": "Sie können ganz einfach ein E-Visum online oder ein Visum in Form eines Aufklebers bei einer Botschaft beantragen.\nBeachten Sie, dass Sie mit einem E-Visum nicht auf dem Landweg nach Indien einreisen können. Es muss bei der Einwanderungsbehörde am Flughafen bearbeitet werden.\nWenn Sie jedoch ein E-Visum für mehrfache Einreisen besitzen und bereits auf dem Luftweg eingereist sind, können Sie später über eine Landgrenze wieder nach Indien einreisen, beispielsweise wenn Sie Nepal besuchen und zurückkehren.\nFür die Einreise nach Indien auf dem Landweg benötigen Sie ein Visum, das Sie bei einer Botschaft beantragen und in Ihren Reisepass einkleben können.",
-          "it": "È possibile ottenere facilmente un visto elettronico online o un visto \"adesivo\" presso un'ambasciata.\nSi noti che non è possibile entrare in India via terra con un visto elettronico. Deve essere elaborato presso un ufficio immigrazione aeroportuale per essere accettato.\nTuttavia, se si dispone di un visto elettronico a ingressi multipli e si è entrati nel Paese per via aerea, è possibile rientrare in India in seguito tramite una frontiera terrestre, ad esempio se si visita il Nepal e si torna indietro.\nSe si entra in India via terra, è necessario ottenere il visto da un'ambasciata, che lo apporrà sul passaporto.",
-          "es": "Puede obtener fácilmente una visa electrónica en línea o una visa adhesiva en una embajada.\nTenga en cuenta que no puede ingresar a la India por tierra con una visa electrónica. Debe tramitarse en una oficina de inmigración del aeropuerto para que sea aceptada.\nSin embargo, si tiene una visa electrónica de entradas múltiples y ha ingresado al país por vía aérea, puede volver a ingresar a la India por tierra posteriormente, por ejemplo, si visita Nepal y regresa.\nSi ingresa a la India por tierra, deberá obtener su visa en una embajada, que la pegará en su pasaporte.",
-          "pt": "Você pode obter um visto eletrônico online com muita facilidade ou um visto adesivo em uma embaixada.\nObserve que você não pode entrar na Índia por via terrestre com um visto eletrônico. Ele precisa ser processado em um escritório de imigração do aeroporto para ser aceito.\nMas se você tiver um visto eletrônico de múltiplas entradas e tiver entrado no país por via aérea, poderá reentrar na Índia por uma fronteira terrestre posteriormente, caso visite o Nepal e retorne, por exemplo.\nSe você estiver entrando na Índia por via terrestre, precisará obter seu visto em uma embaixada, que colará um visto em seu passaporte.",
-          "nl": "Je kunt heel gemakkelijk online een e-visum aanvragen, of een visumsticker bij een ambassade.\n\nLet op: je kunt India niet over land binnenkomen met een e-visum. Het moet worden verwerkt bij de immigratiedienst op de luchthaven om te worden geaccepteerd.\n\nMaar als je een e-visum voor meerdere binnenkomsten hebt en je bent het land per vliegtuig binnengekomen, dan kun je later India weer binnenkomen via een landsgrens, bijvoorbeeld als je Nepal bezoekt en terugkomt.\n\nAls je India over land binnenkomt, moet je je visum aanvragen bij een ambassade, die een visumsticker in je paspoort plakt.",
-          "pl": "Możesz bardzo łatwo uzyskać wizę elektroniczną online lub wizę „naklejkową” w ambasadzie.\nNależy pamiętać, że nie można wjechać do Indii drogą lądową z wizą elektroniczną. Aby wiza została zaakceptowana, musi zostać przetworzona w biurze imigracyjnym na lotnisku.\nJeśli jednak posiadasz wizę elektroniczną wielokrotnego wjazdu i wjechałeś do kraju drogą lotniczą, możesz później ponownie wjechać do Indii przez granicę lądową, np. w przypadku wizyty w Nepalu i powrotu.\nJeśli wjeżdżasz do Indii drogą lądową, musisz uzyskać wizę w ambasadzie, która wklei wizę do Twojego paszportu.",
-          "ru": "Электронную визу можно легко получить онлайн, или же визу в виде наклейки в посольстве.\nОбратите внимание, что въезд в Индию по электронной визе по суше невозможен. Для её получения необходимо пройти процедуру оформления в иммиграционном пункте аэропорта.\nОднако, если у вас многократная электронная виза, и вы въехали в страну по воздуху, вы можете позже повторно въехать в Индию через сухопутную границу, например, если посетите Непал и вернетесь обратно.\nЕсли вы въезжаете в Индию по суше, вам потребуется получить визу в посольстве, которое проставит визу в ваш паспорт."
-        },
         "visa_comment": "You can very easily get an e-visa online, or a \"sticker\" visa in an embassy.\nNote that if you have an e-visa you can only enter via certain borders, currently at all airports and from Nepal at the \nBut it you have a multiple-entry e-visa, and you have entered the country by air, then you can later re-enter India at a land border, should you, e.g., visit Nepal and come back.\nIf you're coming into India overland, then you'll need to get your visa from an embassy, which will stick a visa into your passport.",
         "bounding_box": [
           68.165039,
@@ -5768,21 +5772,32 @@
           "zh": "新德里",
           "pt": "Nova Deli"
         },
-        "comment": "Note that special permits (free) are required for the following areas:\n- Ladakh [border areas](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC), but this map reflects the current, real situation on the ground.",
+        "comment": "Note that special permits (free) are required for the following areas:\n- Ladakh [border areas](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll. For foreigners driving their car/truck, it doesn't seem possible to join the FASTag automatic collecting system, so you'll have to pay at the gate. If you pay in cash, the price is double, but if you pay with UPI, then the price is only 25% more.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC); nevertheless, this map reflects the current, real situation on the ground.",
         "updatedat": {
-          "_seconds": 1770483558,
-          "_nanoseconds": 234000000
+          "_seconds": 1770799674,
+          "_nanoseconds": 182000000
         },
         "comment_translations": {
-          "pl": "Należy pamiętać, że specjalne zezwolenia (bezpłatne) są wymagane w następujących obszarach:\n- obszary przygraniczne z Ladakhiem\n- Spiti\n- Sikkim\n- Arunachal Pradesh\nMotocykle mają zakaz poruszania się po autostradach (typu europejskiego, wydzielonych), ale nie są również objęte żadnymi opłatami drogowymi.\nNależy pamiętać, że indyjskie prawo zabrania przedstawiania rzeczywistej granicy z Chinami (LaC) i Pakistanem (LoC), ale niniejsza mapa odzwierciedla aktualną, rzeczywistą sytuację na miejscu.",
-          "de": "Beachten Sie, dass für folgende Gebiete Sondergenehmigungen (kostenlos) erforderlich sind:\n- [Grenzgebiete von Ladakh](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorräder sind auf Autobahnen (nach europäischem Vorbild, mit separaten Fahrspuren) verboten, jedoch mautfrei.\nDas indische Gesetz verbietet die Darstellung der tatsächlichen Grenze zu China (LaC) und Pakistan (LoC). Diese Karte spiegelt jedoch die aktuelle Situation vor Ort wider.",
-          "en": "Note that special permits (free) are required for the following areas:\n- Ladakh [border areas](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC), but this maps reflects the current, real situation on the ground.",
-          "es": "Tenga en cuenta que se requieren permisos especiales (gratuitos) para las siguientes zonas:\n- [Zonas fronterizas](@in-ladakh) de Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nLas motocicletas tienen prohibido circular por autopistas (al estilo europeo, separadas), pero tampoco pagan peaje.\nTenga en cuenta que la ley india prohíbe representar la frontera real con China (LaC) y Pakistán (LoC), pero este mapa refleja la situación real actual sobre el terreno.",
-          "fr": "Veuillez noter que des permis spéciaux (gratuits) sont requis pour les zones suivantes :\n\n- [Zones frontalières](@in-ladakh) du Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\n\nLes motos sont interdites sur les autoroutes (à l'européenne, séparées du reste du monde), mais elles n'y sont pas soumises à péage.\n\nVeuillez noter que la loi indienne interdit de représenter la frontière réelle avec la Chine (LaC) et le Pakistan (LoC), mais cette carte reflète la situation actuelle sur le terrain.",
-          "it": "Si noti che sono richiesti permessi speciali (gratuiti) per le seguenti aree:\n- [Aree di confine](@in-ladakh) del Ladakh\n- [Spiti](@in-spiti\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nLe motociclette sono vietate sulle autostrade (di tipo europeo, separate), ma non è previsto il pagamento di alcun pedaggio.\nSi noti che la legge indiana vieta di raffigurare il confine effettivo con Cina (LaC) e Pakistan (LoC), ma queste mappe riflettono la situazione attuale e reale sul territorio.",
-          "nl": "Houd er rekening mee dat voor de volgende gebieden speciale vergunningen (gratis) vereist zijn:\n- [Grensgebieden](@in-ladakh) van Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorfietsen zijn verboden op snelwegen (Europese stijl, gescheiden rijstroken), maar er wordt ook geen tol betaald.\n\nMerk op dat de Indiase wet het afbeelden van de daadwerkelijke grens met China (LaC) en Pakistan (LoC) verbiedt, maar deze kaart geeft de huidige, reële situatie ter plaatse weer.",
-          "pt": "Observe que autorizações especiais (gratuitas) são necessárias para as seguintes áreas:\n- [Áreas fronteiriças](@in-ladakh) de Ladakh\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotocicletas são proibidas em rodovias (estilo europeu, separadas), mas também não pagam pedágio.\n\nObserve que a lei indiana proíbe a representação da fronteira real com a China (LaC) e o Paquistão (LoC), mas este mapa reflete a situação atual e real no terreno.",
-          "ru": "Обратите внимание, что для следующих районов требуются специальные разрешения (бесплатные):\n- [Приграничные районы Ладакха](@in-ladakh)\n- [Спити](@in-spiti)\n- [Сикким](@in-sikkim)\n- [Аруначал-Прадеш](@in-arunachal)\nМотоциклы запрещены на автомагистралях (европейского типа, разделенных полосами), но за проезд по ним плата не взимается.\nОбратите внимание, что индийское законодательство запрещает отображение фактической границы с Китаем (LaC) и Пакистаном (LoC), но эта карта отражает текущую реальную ситуацию на местах."
+          "en": "Note that special permits (free) are required for the following areas:\n- Ladakh [border areas](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorcycles are banned from motorways (europe-style, separated), but they also don't pay any toll. For foreigners driving their car/truck, it doesn't seem possible to join the FASTag automatic collecting system, so you'll have to pay at the gate. If you pay in cash, the price is double, but if you pay with UPI, then the price is only 25% more.\nNote that the Indian law forbids depicting the actual border with China (LaC) and Pakistan (LoC); nevertheless, this map reflects the current, real situation on the ground.",
+          "fr": "Veuillez noter que des permis spéciaux (gratuits) sont requis pour les zones suivantes :\n\n- Ladakh [zones frontalières](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nLes motos sont interdites sur les autoroutes (à l'européenne, séparées), mais elles n'y paient pas de péage. Pour les étrangers conduisant leur voiture ou leur camion, il ne semble pas possible d'adhérer au système de péage automatique FASTag ; le paiement se fera donc à l'entrée. Le prix est doublé en espèces, mais seulement 25 % plus cher en cas de paiement par UPI.\n\nVeuillez noter que la loi indienne interdit de représenter la frontière réelle avec la Chine (LaC) et le Pakistan (LoC) ; néanmoins, cette carte reflète la situation actuelle sur le terrain.",
+          "de": "Beachten Sie, dass für die folgenden Gebiete Sondergenehmigungen (kostenlos) erforderlich sind:\n- Ladakh [Grenzgebiete](@in-ladakh)\n- Spiti](@in-spiti)\n- Sikkim](@in-sikkim)\n- Arunachal Pradesh](@in-arunachal) Motorräder sind auf Autobahnen (europäisches Vorbild, separate Autobahnen) verboten, zahlen aber keine Maut. Für ausländische Autofahrer scheint die Teilnahme am automatischen FASTag-System nicht möglich zu sein; die Maut muss daher am Mauttor bezahlt werden. Bei Barzahlung verdoppelt sich der Preis, bei Zahlung mit UPI beträgt der Aufpreis nur 25 %.\nBitte beachten Sie, dass die indische Gesetzgebung die Darstellung der tatsächlichen Grenze zu China (LaC) und Pakistan (LoC) verbietet; diese Karte spiegelt jedoch die aktuelle Situation vor Ort wider.",
+          "it": "Si prega di notare che sono richiesti permessi speciali (gratuiti) per le seguenti aree:\n- Ladakh [aree di confine](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nLe motociclette sono vietate sulle autostrade (di tipo europeo, separate), ma non pagano alcun pedaggio. Per gli stranieri che guidano la propria auto/camion, non sembra possibile aderire al sistema di riscossione automatica FASTag, quindi è necessario pagare al casello. Se si paga in contanti, il prezzo è doppio, ma se si paga con UPI, il prezzo è solo del 25% in più.\nSi prega di notare che la legge indiana proibisce di raffigurare il confine effettivo con Cina (LaC) e Pakistan (LoC); tuttavia, questa mappa riflette la situazione attuale e reale sul territorio.",
+          "es": "Tenga en cuenta que se requieren permisos especiales (gratuitos) para las siguientes zonas:\n- Ladakh [zonas fronterizas](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nLas motocicletas tienen prohibido circular por autopistas (al estilo europeo, separadas), pero tampoco pagan peaje. Los extranjeros que conducen su coche o camión no parecen poder unirse al sistema automático de recogida FASTag, por lo que deberán pagar en la puerta. Si paga en efectivo, el precio es el doble, pero si paga con UPI, el precio es solo un 25 % superior.\nTenga en cuenta que la ley india prohíbe representar la frontera real con China (LaC) y Pakistán (LoC); sin embargo, este mapa refleja la situación real actual sobre el terreno.",
+          "pt": "Observe que autorizações especiais (gratuitas) são necessárias para as seguintes áreas:\n- Ladakh [áreas de fronteira](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotocicletas são proibidas em rodovias (estilo europeu, separadas), mas também não pagam pedágio. Para estrangeiros dirigindo seus carros/caminhões, não parece ser possível aderir ao sistema de cobrança automática FASTag, então você terá que pagar no portão. Se você pagar em dinheiro, o preço é o dobro, mas se pagar com UPI, o preço é apenas 25% a mais.\nObserve que a lei indiana proíbe a representação da fronteira real com a China (LaC) e o Paquistão (LoC); no entanto, este mapa reflete a situação atual e real no terreno.",
+          "nl": "Houd er rekening mee dat voor de volgende gebieden speciale vergunningen (gratis) vereist zijn:\n- Ladakh [grensgebieden](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotorfietsen zijn verboden op snelwegen (Europese stijl, gescheiden rijstroken), maar er wordt ook geen tol betaald. Voor buitenlanders die met hun auto/vrachtwagen rijden, lijkt het niet mogelijk om gebruik te maken van het automatische FASTag-systeem, dus moet u bij de tolpoort betalen. Als u contant betaalt, is de prijs het dubbele, maar als u met UPI betaalt, is de prijs slechts 25% hoger.\n\nMerk op dat de Indiase wetgeving het verbiedt om de daadwerkelijke grens met China (LaC) en Pakistan (LoC) weer te geven; desondanks geeft deze kaart de huidige, werkelijke situatie ter plaatse weer.",
+          "pl": "Należy pamiętać, że specjalne zezwolenia (bezpłatne) są wymagane w następujących obszarach:\n- Ladakh [obszary przygraniczne](@in-ladakh)\n- [Spiti](@in-spiti)\n- [Sikkim](@in-sikkim)\n- [Arunachal Pradesh](@in-arunachal)\nMotocykle mają zakaz poruszania się po autostradach (typu europejskiego, wydzielonych), ale nie są za nie pobierane żadne opłaty. Dla obcokrajowców prowadzących samochody osobowe/ciężarówki dołączenie do automatycznego systemu poboru opłat FASTag wydaje się niemożliwe, więc będą musieli uiścić opłatę przy bramce. W przypadku płatności gotówką cena jest podwójna, ale w przypadku płatności UPI cena jest tylko o 25% wyższa.\nNależy pamiętać, że indyjskie prawo zabrania przedstawiania rzeczywistej granicy z Chinami (LaC) i Pakistanem (LoC); niemniej jednak mapa ta odzwierciedla aktualną, rzeczywistą sytuację na miejscu.",
+          "ru": "Обратите внимание, что для следующих районов требуются специальные разрешения (бесплатные):\n- Ладакх [приграничные районы](@in-ladakh)\n- [Спити](@in-spiti)\n- [Сикким](@in-sikkim)\n- [Аруначал-Прадеш](@in-arunachal)\nМотоциклы запрещены на автомагистралях (по европейскому образцу, разделенных), но за проезд по ним плата не взимается. Иностранцам, управляющим легковыми автомобилями/грузовиками, по всей видимости, не удастся подключиться к автоматической системе сбора платы FASTag, поэтому им придется платить на въезде. При оплате наличными цена удваивается, а при оплате через UPI – всего на 25%.\nОбратите внимание, что индийское законодательство запрещает отображать фактическую границу с Китаем (LaC) и Пакистаном (LoC); тем не менее, эта карта отражает текущую реальную ситуацию на местах."
+        },
+        "visa_comment_translations": {
+          "en": "You can very easily get an e-visa online, or a \"sticker\" visa in an embassy.\nNote that if you have an e-visa you can only enter via certain borders, currently at all airports and from Nepal at the \nBut it you have a multiple-entry e-visa, and you have entered the country by air, then you can later re-enter India at a land border, should you, e.g., visit Nepal and come back.\nIf you're coming into India overland, then you'll need to get your visa from an embassy, which will stick a visa into your passport.",
+          "fr": "Vous pouvez très facilement obtenir un visa électronique en ligne ou un visa autocollant auprès d'une ambassade.\n\nVeuillez noter qu'avec un visa électronique, vous ne pouvez entrer en Inde que par certains points de passage frontaliers, actuellement tous les aéroports et le point de passage frontalier du Népal.\n\nCependant, si vous possédez un visa électronique à entrées multiples et que vous êtes entré en Inde par avion, vous pourrez y revenir ultérieurement par voie terrestre, par exemple après un voyage au Népal.\n\nSi vous entrez en Inde par voie terrestre, vous devrez obtenir votre visa auprès d'une ambassade, qui apposera un visa dans votre passeport.",
+          "de": "Sie können ganz einfach ein E-Visum online oder ein Visum in Form eines Aufklebers bei einer Botschaft beantragen.\n\nBeachten Sie, dass Sie mit einem E-Visum nur über bestimmte Grenzübergänge einreisen können, derzeit über alle Flughäfen und aus Nepal über den Grenzübergang [fehlende Angabe].\nWenn Sie jedoch ein E-Visum zur mehrfachen Einreise besitzen und bereits auf dem Luftweg eingereist sind, können Sie später über einen Landgrenzübergang wieder nach Indien einreisen, beispielsweise wenn Sie Nepal besuchen und zurückkehren.\nBei der Einreise nach Indien auf dem Landweg benötigen Sie ein Visum, das Sie bei einer Botschaft beantragen und in Ihren Reisepass einkleben lassen können.",
+          "it": "È possibile ottenere facilmente un visto elettronico online o un visto \"adesivo\" presso un'ambasciata.\nSi noti che se si dispone di un visto elettronico, è possibile entrare solo attraverso determinati confini, attualmente in tutti gli aeroporti e dal Nepal.\nTuttavia, se si dispone di un visto elettronico a ingressi multipli e si è entrati nel Paese per via aerea, è possibile rientrare in India attraverso un confine terrestre, ad esempio se si visita il Nepal e si torna indietro.\nSe si arriva in India via terra, è necessario ottenere il visto da un'ambasciata, che lo apporrà sul passaporto.",
+          "es": "Puede obtener fácilmente una visa electrónica en línea o una visa adhesiva en una embajada.\nTenga en cuenta que si tiene una visa electrónica, solo puede entrar por ciertas fronteras, actualmente en todos los aeropuertos y desde Nepal.\nSin embargo, si tiene una visa electrónica de entradas múltiples y ha entrado al país por vía aérea, podrá volver a entrar a la India posteriormente por una frontera terrestre, por ejemplo, si visita Nepal y regresa.\nSi entra a la India por tierra, deberá obtener su visa en una embajada, que la pegará en su pasaporte.",
+          "pt": "Você pode obter um visto eletrônico online com muita facilidade ou um visto impresso em uma embaixada.\nObserve que, se você tiver um visto eletrônico, só poderá entrar por determinadas fronteiras, atualmente em todos os aeroportos e vindo do Nepal.\nMas se você tiver um visto eletrônico de múltiplas entradas e tiver entrado no país por via aérea, poderá reentrar na Índia por uma fronteira terrestre posteriormente, caso visite o Nepal e retorne.\nSe você estiver entrando na Índia por via terrestre, precisará obter seu visto em uma embaixada, que colará um visto em seu passaporte.",
+          "nl": "Je kunt heel gemakkelijk online een e-visum aanvragen, of een visumsticker bij een ambassade.\n\nHoud er rekening mee dat je met een e-visum alleen via bepaalde grensovergangen India kunt binnenkomen, momenteel via alle luchthavens en vanuit Nepal via de grensposten.\nMaar als je een e-visum voor meerdere binnenkomsten hebt en je bent India per vliegtuig binnengekomen, dan kun je later India weer binnenkomen via een landgrens, bijvoorbeeld als je Nepal bezoekt en terugkomt.\n\nAls je India over land binnenkomt, moet je je visum aanvragen bij een ambassade, die een visumsticker in je paspoort plakt.",
+          "pl": "Możesz bardzo łatwo uzyskać wizę elektroniczną online lub wizę „naklejkową” w ambasadzie.\nPamiętaj, że jeśli posiadasz wizę elektroniczną, możesz wjechać do Indii tylko przez niektóre granice, obecnie na wszystkich lotniskach, a z Nepalu przez…\nJeśli jednak posiadasz wizę elektroniczną wielokrotnego wjazdu i wjechałeś do kraju drogą lotniczą, możesz później ponownie wjechać do Indii przez granicę lądową, np. jeśli odwiedzisz Nepal i wrócisz.\nJeśli wjeżdżasz do Indii drogą lądową, musisz uzyskać wizę w ambasadzie, która wklei wizę do Twojego paszportu.",
+          "ru": "Электронную визу можно легко получить онлайн, или же визу в виде наклейки в посольстве.\nОбратите внимание, что при наличии электронной визы въезд возможен только через определенные границы, в настоящее время — через все аэропорты, а из Непала — через другие.\nОднако, если у вас многократная электронная виза, и вы въехали в страну воздушным путем, то позже вы можете повторно въехать в Индию через сухопутную границу, если, например, посетите Непал и вернетесь обратно.\nЕсли вы въезжаете в Индию по суше, вам потребуется получить визу в посольстве, которое вклеит визу в ваш паспорт."
         }
       },
       "borderIds": [],
@@ -6388,9 +6403,7 @@
           "-KwAYrk5gX1uJRLHKdLs": "SAU"
         },
         "capital": "عمان‎",
-        "carnet": 1,
         "carnet_comment": "You can enter without a carnet and stay with your vehicle up to 1 month (TIP).\nIf your vehicle has a petrol engine, you can extend your TIP at the custom office at the border.\nIf your vehicle has a diesel engine and you want to stay longer than 1 month, you need a carnet and have it stamped at the border.",
-        "comment": "Insurance (bike): 27 JOD\nCarnet stamp: 20 JOD",
         "continent": "Asia",
         "currency": "JOD",
         "driving": "r",
@@ -6463,9 +6476,15 @@
           "zh": "约旦",
           "pt": "Jordânia"
         },
+        "stay_duration": "30 days (sometimes you can ask for more).",
+        "carnet": 0,
+        "tip": "TIP is given at then entry for 20 JOD.",
+        "insurance": 1,
+        "insurance_comment": "Insurance price is (1 month):\n- bike: 20 JOD\n- car: 53 JOD\n- camper: 100 JOD",
+        "comment": "Exit fees: 10 JOD pp + 25 JOD per car.",
         "updatedat": {
-          "_seconds": 1770199391,
-          "_nanoseconds": 510000000
+          "_seconds": 1774585218,
+          "_nanoseconds": 837000000
         }
       },
       "borderIds": [],
@@ -6575,7 +6594,6 @@
         "overlanding": 3,
         "population": 17544000,
         "timezone": "Asia/Almaty",
-        "visa_comment": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days.",
         "carnet": 0,
         "insurance": 1,
         "stay_duration": "12 months, including time in Russia and Kyrgyzstan.",
@@ -6652,9 +6670,10 @@
           "zh": "阿斯塔納",
           "pt": "Astana"
         },
+        "visa_comment": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days.\nYou can stay up to 90 days within a period of 180 days, and up to 120 days during a calendar year.",
         "updatedat": {
-          "_seconds": 1770199391,
-          "_nanoseconds": 703000000
+          "_seconds": 1774585922,
+          "_nanoseconds": 328000000
         }
       },
       "borderIds": [],
@@ -9987,7 +10006,6 @@
         "overlanding": 3,
         "population": 4491000,
         "timezone": "Asia/Muscat",
-        "comment": "Easiest and most tourist-friendly country in the peninsula. Not that one can now traverse the Musandam peninsula (exclave) using a new official crossing at Dibba Al Fujairah.",
         "visa": 0,
         "visa_url": "https://evisa.rop.gov.om/",
         "visa_comment": "Most nationalities are eligible to enter visa-free for 14 days (just a stamp in the passport at the\" border). But this cannot be extended, you must get out of the country before the end of your 14 days. \nIf you want to stay longer, you can apply for a 30-days e-visa (2025: 20 OMR), which you can also extend online for 30 more days. For another extension, you'll have to visit the local DGPCS office.",
@@ -10049,9 +10067,10 @@
         },
         "insurance": 1,
         "carnet_comment": "It is sometimes asked at the border, but usually not.\nIt is definitely required when shipping into the country.",
+        "comment": "Easiest and most tourist-friendly country in the peninsula. Not that one can now traverse the Musandam peninsula (exclave) using a new official crossing at Dibba Al Fujairah.\nNote: RHD vehicles are banned.",
         "updatedat": {
-          "_seconds": 1770530828,
-          "_nanoseconds": 7000000
+          "_seconds": 1774585269,
+          "_nanoseconds": 817000000
         }
       },
       "borderIds": [],
@@ -10084,7 +10103,6 @@
         "visa_url": "https://visa.nadra.gov.pk/visa-prior-to-arrival-tourist/",
         "insurance": 0,
         "visa": 3,
-        "visa_comment": "The online \"visa prior to arrival\" is currently suspended, so you'll have to revert to getting a visa at the embassy.\nIn case it is restored, note that this online visa isn't valid for an entry from Afghanistan (Torkham or Chamman border posts).\nNote that if you're in India, you'll have to use a VPN to connect to this site.",
         "comment": "The border with India is closed since the 2025 aerial war between the 2 countries.",
         "comment_translations": {
           "en": "The border with India is closed since the 2025 aerial war between the 2 countries.",
@@ -10096,17 +10114,6 @@
           "nl": "De grens met India is gesloten sinds de luchtoorlog tussen de twee landen in 2025.",
           "pl": "Granica z Indiami jest zamknięta od czasu wojny powietrznej między tymi dwoma krajami w 2025 roku.",
           "ru": "Граница с Индией закрыта с момента окончания воздушной войны между двумя странами в 2025 году."
-        },
-        "visa_comment_translations": {
-          "en": "The online \"visa prior to arrival\" is currently suspended, so you'll have to revert to getting a visa at the embassy.\nIn case it is restored, note that this online visa isn't valid for an entry from Afghanistan (Torkham or Chamman border posts).\nNote that if you're in India, you'll have to use a VPN to connect to this site.",
-          "fr": "Le service de visa en ligne avant l'arrivée est actuellement suspendu. Vous devrez donc obtenir votre visa auprès de l'ambassade.\n\nSi ce service est rétabli, veuillez noter que ce visa en ligne n'est pas valable pour une entrée en provenance d'Afghanistan (postes frontières de Torkham ou de Chamman).\n\nVeuillez noter que si vous vous trouvez en Inde, vous devrez utiliser un VPN pour vous connecter à ce site.",
-          "de": "Die Online-Beantragung eines Visums vor der Einreise ist derzeit ausgesetzt. Sie müssen daher wieder ein Visum bei der Botschaft beantragen.\nSollte die Online-Beantragung wieder möglich sein, beachten Sie bitte, dass dieses Visum nicht für die Einreise aus Afghanistan (Grenzübergänge Torkham oder Chamman) gültig ist.\nHinweis: Wenn Sie sich in Indien befinden, benötigen Sie ein VPN, um auf diese Website zuzugreifen.",
-          "it": "Il \"visto prima dell'arrivo\" online è attualmente sospeso, quindi dovrai tornare a ottenere un visto presso l'ambasciata.\nNel caso in cui venisse ripristinato, tieni presente che questo visto online non è valido per l'ingresso dall'Afghanistan (posti di frontiera di Torkham o Chamman).\nSe ti trovi in India, dovrai utilizzare una VPN per connetterti a questo sito.",
-          "es": "El sistema de visado en línea antes de la llegada está suspendido, por lo que deberá volver a obtenerlo en la embajada.\nEn caso de que se restablezca, tenga en cuenta que este visado en línea no es válido para entrar desde Afganistán (puestos fronterizos de Torkham o Chamman).\nSi se encuentra en la India, deberá usar una VPN para conectarse a este sitio.",
-          "pt": "O visto online antes da chegada está temporariamente suspenso, portanto, você terá que solicitar o visto pessoalmente na embaixada.\nCaso o serviço seja restabelecido, observe que este visto online não é válido para entrada pelo Afeganistão (postos de fronteira de Torkham ou Chamman).\nObserve também que, se você estiver na Índia, precisará usar uma VPN para se conectar a este site.",
-          "nl": "De online \"visumaanvraag vóór aankomst\" is momenteel opgeschort, dus u moet uw visum aanvragen bij de ambassade.\n\nMocht de online aanvraag weer mogelijk zijn, houd er dan rekening mee dat dit online visum niet geldig is voor binnenkomst vanuit Afghanistan (grensposten Torkham of Chamman).\n\nAls u zich in India bevindt, moet u een VPN gebruiken om verbinding te maken met deze website.",
-          "pl": "Internetowa opcja „wizy przed przyjazdem” jest obecnie zawieszona, więc będziesz musiał/a ponownie ubiegać się o wizę w ambasadzie.\nW przypadku jej przywrócenia, pamiętaj, że ta internetowa wiza nie jest ważna na wjazd z Afganistanu (przejścia graniczne Torkham lub Chamman).\nPamiętaj, że jeśli jesteś w Indiach, musisz skorzystać z VPN, aby połączyć się z tą stroną.",
-          "ru": "Онлайн-система «виза до прибытия» в настоящее время приостановлена, поэтому вам придется получать визу в посольстве.\nВ случае ее восстановления, обратите внимание, что эта онлайн-виза недействительна для въезда из Афганистана (пограничные пункты Торхам или Чамман).\nОбратите внимание, что если вы находитесь в Индии, вам потребуется использовать VPN для подключения к этому сайту."
         },
         "bounding_box": [
           60.843359,
@@ -10127,9 +10134,21 @@
           "zh": "伊斯蘭堡",
           "pt": "Islamabade"
         },
+        "visa_comment": "The online \"visa prior to arrival\" is currently suspended, so you'll have to revert to getting a visa at the embassy. For this, you'll need a LoI (letter of invitation) from a local travel agency.\nIn case the VOA is restored, remember that this online visa isn't valid for an entry from Afghanistan (Torkham or Chamman border posts).\nNote also that if you're in India, you'll have to use a VPN to connect to the official site. Indian nationals have much more stringent requirements to be granted a visa.",
         "updatedat": {
-          "_seconds": 1770199397,
-          "_nanoseconds": 71000000
+          "_seconds": 1770799199,
+          "_nanoseconds": 262000000
+        },
+        "visa_comment_translations": {
+          "en": "The online \"visa prior to arrival\" is currently suspended, so you'll have to revert to getting a visa at the embassy. For this, you'll need a LoI (letter of invitation) from a local travel agency.\nIn case the VOA is restored, remember that this online visa isn't valid for an entry from Afghanistan (Torkham or Chamman border posts).\nNote also that if you're in India, you'll have to use a VPN to connect to the official site. Indian nationals have much more stringent requirements to be granted a visa.",
+          "fr": "Le service de visa en ligne avant l'arrivée est actuellement suspendu. Vous devrez donc obtenir votre visa auprès de l'ambassade. Pour cela, vous aurez besoin d'une lettre d'invitation (LoI) d'une agence de voyages locale.\n\nSi le service de visa à l'arrivée est rétabli, veuillez noter que ce visa en ligne n'est pas valable pour une entrée en provenance d'Afghanistan (postes frontières de Torkham ou de Chamman).\n\nNotez également que si vous vous trouvez en Inde, vous devrez utiliser un VPN pour vous connecter au site officiel. Les ressortissants indiens sont soumis à des conditions d'obtention de visa beaucoup plus strictes.",
+          "de": "Die Online-Beantragung eines Visums vor der Ankunft ist derzeit ausgesetzt. Sie müssen daher wieder ein Visum bei der Botschaft beantragen. Hierfür benötigen Sie eine Einladung (Letter of Invitation, LoI) eines lokalen Reisebüros.\nSollte die Online-Beantragung wieder möglich sein, beachten Sie bitte, dass dieses Visum nicht für die Einreise aus Afghanistan (Grenzübergänge Torkham oder Chamman) gültig ist.\nWenn Sie sich in Indien befinden, benötigen Sie außerdem ein VPN, um auf die offizielle Website zuzugreifen. Für indische Staatsangehörige gelten deutlich strengere Visabestimmungen.",
+          "it": "Il \"visto prima dell'arrivo\" online è attualmente sospeso, quindi dovrai tornare a ottenere un visto presso l'ambasciata. Per questo, avrai bisogno di una LoI (lettera di invito) da un'agenzia di viaggi locale.\nNel caso in cui il VOA venga ripristinato, ricorda che questo visto online non è valido per un ingresso dall'Afghanistan (posti di frontiera di Torkham o Chamman).\nTieni inoltre presente che se ti trovi in India, dovrai utilizzare una VPN per connetterti al sito ufficiale. I cittadini indiani hanno requisiti molto più rigorosi per ottenere un visto.",
+          "es": "El sistema de visado en línea antes de la llegada está suspendido, por lo que deberá volver a obtenerlo en la embajada. Para ello, necesitará una carta de invitación de una agencia de viajes local.\nEn caso de que se restablezca el VOA, recuerde que este visado en línea no es válido para entrar desde Afganistán (puestos fronterizos de Torkham o Chamman).\nTenga en cuenta también que, si se encuentra en la India, deberá usar una VPN para conectarse al sitio web oficial. Los ciudadanos indios tienen requisitos mucho más estrictos para obtener un visado.",
+          "pt": "O visto online antes da chegada está atualmente suspenso, portanto, você terá que solicitar o visto na embaixada. Para isso, você precisará de uma carta-convite de uma agência de viagens local.\nCaso o visto online antes da chegada seja restabelecido, lembre-se de que ele não é válido para entrada pelo Afeganistão (postos de fronteira de Torkham ou Chamman).\nObserve também que, se você estiver na Índia, precisará usar uma VPN para se conectar ao site oficial. Os cidadãos indianos têm requisitos muito mais rigorosos para a concessão de um visto.",
+          "nl": "Het online aanvragen van een visum vóór aankomst is momenteel opgeschort, dus u moet uw visum aanvragen bij de ambassade. Hiervoor heeft u een uitnodigingsbrief (LoI) van een lokaal reisbureau nodig.\n\nMocht het visum vóór aankomst weer beschikbaar komen, houd er dan rekening mee dat dit online visum niet geldig is voor binnenkomst vanuit Afghanistan (grensposten Torkham of Chamman).\n\nLet er ook op dat u, als u zich in India bevindt, een VPN moet gebruiken om verbinding te maken met de officiële website. Voor Indiase staatsburgers gelden veel strengere eisen voor het verkrijgen van een visum.",
+          "pl": "Internetowa „wiza przed przyjazdem” jest obecnie zawieszona, więc będziesz musiał/a wrócić do ubiegania się o wizę w ambasadzie. W tym celu będziesz potrzebować LoI (listu zapraszającego) z lokalnego biura podróży.\nW przypadku przywrócenia VOA, pamiętaj, że ta wiza internetowa nie jest ważna na wjazd z Afganistanu (przejścia graniczne Torkham lub Chamman).\nPamiętaj również, że jeśli jesteś w Indiach, musisz skorzystać z VPN, aby połączyć się z oficjalną stroną. Obywatele Indii mają znacznie bardziej rygorystyczne wymagania, aby uzyskać wizę.",
+          "ru": "Онлайн-виза «до прибытия» в настоящее время приостановлена, поэтому вам придется получать визу в посольстве. Для этого вам понадобится приглашение (LoI) от местного туристического агентства.\nВ случае восстановления визы по прибытии, помните, что эта онлайн-виза недействительна для въезда из Афганистана (пограничные пункты Торхам или Чамман).\nТакже обратите внимание, что если вы находитесь в Индии, вам придется использовать VPN для подключения к официальному сайту. К гражданам Индии предъявляются гораздо более строгие требования для получения визы."
         }
       },
       "borderIds": [],
@@ -10956,9 +10975,11 @@
           "ru": "Доха",
           "zh": "多哈"
         },
+        "insurance": 2,
+        "carnet_comment": "If you don' have a carnet, you can also make a deposit of 65$ + a non-refundable fee of 120$.",
         "updatedat": {
-          "_seconds": 1770199398,
-          "_nanoseconds": 436000000
+          "_seconds": 1774585731,
+          "_nanoseconds": 84000000
         }
       },
       "borderIds": [],
@@ -13655,7 +13676,6 @@
         "timezone": "Europe/Istanbul",
         "visa": 0,
         "visa_comment": "You can stay a maximum of 90 days per period of 180 days (period starts at the date of first entry).\nIf you need to stay longer, you must apply for a Short Term Residence Permit (https://en.goc.gov.tr/residence-permit-types).",
-        "comment": "Officially called Republic of Türkiye since 2021, to avoid confusing it with the bird.\nYou can enter with your vehicle without paying any tax, and leave it in the country for a maximum of 2 years, but only if it hasn't spent more than 185 days in the previous year (365-days period before the entry date of the vehicle).\nIn other words, it's usually not an issue for overlanders limited to a 90-days stay anyway. It's there to prevent people with local residency keeping their foreign-plated car indefinitely in Turkey by doing a border run every other year.",
         "carnet": 0,
         "comment_translations": {
           "en": "Officially called Republic of Türkiye since 2021, to avoid confusing it with the bird.\nYou can enter with your vehicle without paying any tax, and leave it in the country for a maximum of 2 years, but only if it hasn't spent more than 185 days in the previous year (365-days period before the entry date of the vehicle).\nIn other words, it's usually not an issue for overlanders limited to a 90-days stay anyway. It's there to prevent people with local residency keeping their foreign-plated car indefinitely in Turkey by doing a border run every other year.",
@@ -13702,9 +13722,10 @@
           "zh": "安卡拉",
           "pt": "Ancara"
         },
+        "comment": "Officially called Republic of Türkiye since 2021, to avoid confusing it with the bird.\nYou can enter with your vehicle without paying any tax, and leave it in the country for a maximum of 2 years, but only if it hasn't spent more than 185 days in the previous year (365-days period before the entry date of the vehicle).\nIn other words, it's usually not an issue for overlanders limited to a 90-days stay anyway. It's there to prevent people with local residency keeping their foreign-plated car indefinitely in Turkey by doing a border run every other year.\nUseful web sites:\n- check your HGS account (motorway tolls): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- check if you have an speeding ticket to pay: https://dijital.gib.gov.tr",
         "updatedat": {
-          "_seconds": 1770199402,
-          "_nanoseconds": 194000000
+          "_seconds": 1774585517,
+          "_nanoseconds": 404000000
         }
       },
       "borderIds": [],
@@ -14099,7 +14120,6 @@
         "timezone": "Asia/Tashkent",
         "visa": 0,
         "visa_link": "https://e-visa.gov.uz/application",
-        "visa_comment": "Citizens from most European countries can enter visa-free for up to 30 days.\nOtherwise, the 30-days e-visa costs 20$. \nNote that you're required to register at OVIR within 3 days of entering the country. It is best done by your hotel manager, so if you're camping, you'll have to do it yourself.",
         "carnet": 0,
         "insurance": 0,
         "insurance_comment": "You'll find an insurance booth at most borders. ",
@@ -14165,9 +14185,11 @@
           "zh": "乌兹别克斯坦",
           "pt": "Uzbequistão"
         },
+        "stay_duration": "3 months",
+        "visa_comment": "Citizens from most European countries can enter visa-free for up to 30 days.\nOtherwise, the 30-days e-visa costs 20$. \nNote that you're required to register at OVIR within 3 days of entering the country. It is best done by your hotel manager, so if you're camping, you'll have to do it yourself, on this site:\nhttps://reg.emehmon.uz/\nBut you'll need to have an uzbek bank card to pay.",
         "updatedat": {
-          "_seconds": 1770199402,
-          "_nanoseconds": 875000000
+          "_seconds": 1774585371,
+          "_nanoseconds": 27000000
         }
       },
       "borderIds": [],
