@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-03-27T04:51:25.082Z",
+    "generatedAt": "2026-04-09T06:45:45.598Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -164,11 +164,9 @@
         "population": 32527000,
         "timezone": "Asia/Kabul",
         "carnet": 0,
-        "visa": 3,
         "voa": false,
         "tip": "You need a road permit to drive in Afghanistan with a foreign vehicle. It can be obtained at the embassy where you'll get your visa, or directly at the border at Shir Khan Bandar. Price is 100$ (30$ for motorcycles).",
         "stay_duration": "30 days",
-        "visa_comment": "A visa is available at most embassies in nearby countries, and nearby consulates such as Mashad, Peshawar and Quetta; but the visa delivered at the embassy in Dushanbe is not valid for entry (they deliver a visa for the old government).\nNote that a visa can be purchased directly at the border at Shir Khan Bandar (Tajikistan), but not at the other border posts.",
         "comment": "Tourism is possible with little restrictions in Afghanistan, and with relatively good safety (for the region). Due to local customs, single women will face more hurdles and although possible their visit will be less enjoyable that for a man, unfortunately. For example, a head scarf is necessary and some places like the Band-e-Amir lakes are (theoretically) forbidden to women.",
         "comment_translations": {
           "en": "Tourism is possible with little restrictions in Afghanistan, and with relatively good safety (for the region). Due to local customs, single women will face more hurdles and although possible their visit will be less enjoyable that for a man, unfortunately. For example, a head scarf is necessary and some places like the Band-e-Amir lakes are (theoretically) forbidden to women.",
@@ -239,9 +237,12 @@
           "pt": "Cabul",
           "es": "Kabul"
         },
+        "visa": 3,
+        "visa_url": "https://visaportal.eafghans.com",
+        "visa_comment": "A new e-visa has been put in place, but it is valid only for an entry via Kabul airport (see website).\nFor an overland trip, you'll need to get your visa from an embassy, or at a nearby consulate such as Mashad, Peshawar and Quetta; note that the visa delivered at the embassy in Dushanbe is not valid for entry (they deliver a visa for the old government).\nA visa can also be purchased directly at the border at Shir Khan Bandar (Tajikistan), but not at the other border posts.",
         "updatedat": {
-          "_seconds": 1770199379,
-          "_nanoseconds": 46000000
+          "_seconds": 1775149508,
+          "_nanoseconds": 132000000
         }
       },
       "borderIds": [],
@@ -8075,11 +8076,6 @@
         "overlanding": 3,
         "population": 34378000,
         "timezone": "Africa/Casablanca",
-        "borders": {
-          "-KwAYrlpwhsGkg7Dybay": "DZA",
-          "-KwAYrkBbK5OnRNkuLNA": "SAH",
-          " -KwAYrkBbK5OnRNkuLN-X": "MRT"
-        },
         "visa": 0,
         "stay_duration": "6 months",
         "tip": "Keep the paper which is given when you enter the country, you'll need to give it back when you leave.",
@@ -8116,6 +8112,11 @@
         "updatedat": {
           "_seconds": 1770199393,
           "_nanoseconds": 848000000
+        },
+        "borders": {
+          "-KwAYrlpwhsGkg7Dybay": "DZA",
+          "-KwAYrkBbK5OnRNkuLNA": "SAH",
+          "-KwAYrkBbK5OnRNkuLN-X": "MRT"
         }
       },
       "borderIds": [],
@@ -10832,7 +10833,6 @@
           "pl": "Izrael nie uznaje niepodległości Palestyny i sprawuje kontrolę administracyjną nad granicami tego terytorium.",
           "ru": "Израиль не признает независимость Палестины и сохраняет административный контроль над границами этой территории."
         },
-        "visa_comment": "Under the jurisdiction of Israel, so Israel visa requirement apply (none needed for most nationalities).\nNote that coming from Jordan (Allenby Bridge), the Jordanians don't stamp you out, so you can come back on the same visa. But no vehicle is allowed through this border post.",
         "visa_comment_translations": {
           "en": "Under the jurisdiction of Israel, so Israel visa requirement apply (none needed for most nationalities).\nNote that coming from Jordan (Allenby Bridge), the Jordanians don't stamp you out, so you can come back on the same visa. But no vehicle is allowed through this border post.",
           "fr": "Sous juridiction israélienne, un visa israélien est requis (sauf pour la plupart des nationalités).\n\nÀ noter : en venant de Jordanie (pont Allenby), les autorités jordaniennes n'apposent pas de tampon à la sortie ; vous pouvez donc revenir avec le même visa. Cependant, aucun véhicule n'est autorisé à franchir ce poste frontière.",
@@ -10867,9 +10867,11 @@
           "zh": "巴勒斯坦",
           "pt": "Palestina"
         },
+        "visa_comment": "Under the jurisdiction of Israel, so Israel visa requirement apply (none needed for most nationalities).\nNote that coming from Jordan (King Hussein Bridge), the Jordanians don't stamp you out, so you can come back on the same visa. But no vehicle is allowed through this border post.\nAlso, if you're renting a vehicle from Israel (Israeli number plate), then you're not allowed to visit many places in Palestine (class A mainly), check with your rental company.",
+        "visa": 0,
         "updatedat": {
-          "_seconds": 1770199398,
-          "_nanoseconds": 266000000
+          "_seconds": 1774879254,
+          "_nanoseconds": 8000000
         }
       },
       "borderIds": [],

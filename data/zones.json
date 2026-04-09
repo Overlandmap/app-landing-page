@@ -60,7 +60,6 @@
     "type": 1,
     "name": "South Algeria",
     "country": "DZA",
-    "comment": "A military escort and a guide is required to travel in the region of Tamanrasset and Djanet.\nAlso, an authorization is needed to travel to the border with Mauritania/SADR.",
     "comment_translations": {
       "en": "A military escort and a guide is required to travel in the region of Tamanrasset and Djanet.\nAlso, an authorization is needed to travel to the border with Mauritania/SADR.",
       "fr": "Une escorte militaire et un guide sont requis pour se déplacer dans la région de Tamanrasset et Djanet.\n\nUne autorisation est également nécessaire pour se rendre à la frontière avec la Mauritanie/RASD.",
@@ -78,9 +77,10 @@
       11.655296598530853,
       29.53498761897471
     ],
+    "comment": "A military escort and a guide is required to travel in the region of Tamanrasset and Djanet.",
     "updatedAt": {
-      "_seconds": 1770482046,
-      "_nanoseconds": 727000000
+      "_seconds": 1775149735,
+      "_nanoseconds": 551000000
     }
   },
   "eg-sinai": {

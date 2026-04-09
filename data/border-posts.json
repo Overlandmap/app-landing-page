@@ -26,8 +26,6 @@
       "_latitude": 31.8738717,
       "_longitude": 35.5409112
     },
-    "name": "Allenby Bridge",
-    "comment": "Only pedestrians (and bicycles) are allowed to cross, no motor vehicles.\nIf you'd like to visit Israel from Jordan, this is worth knowing:\nThis border is controlled by the Israelis, but they stamp you on a separate piece of paper, and on the Syrian side they don't stamp you out, so if you come back to Syria using this same border post, there will be no trace of your visit to Israel in your passport (which is important for some countries such as Iran or Sudan).\nNote that Jordanian visas are not available at this border: if you're crossing from Israel, you'll need to have purchased an e-visa beforehand.",
     "comment_translations": {
       "en": "Only pedestrians (and bicycles) are allowed to cross, no motor vehicles.\nIf you'd like to visit Israel from Jordan, this is worth knowing:\nThis border is controlled by the Israelis, but they stamp you on a separate piece of paper, and on the Syrian side they don't stamp you out, so if you come back to Syria using this same border post, there will be no trace of your visit to Israel in your passport (which is important for some countries such as Iran or Sudan).\nNote that Jordanian visas are not available at this border: if you're crossing from Israel, you'll need to have purchased an e-visa beforehand.",
       "fr": "Seuls les piétons (et les cyclistes) sont autorisés à franchir la frontière ; aucun véhicule motorisé n'est autorisé.\n\nSi vous souhaitez vous rendre en Israël depuis la Jordanie, voici quelques informations utiles :\n\nCette frontière est contrôlée par les Israéliens, mais un tampon est apposé sur un document séparé. Du côté syrien, aucun tampon n'est apposé sur votre passeport. Ainsi, si vous retournez en Syrie par ce même poste frontière, votre passage en Israël ne fera l'objet d'aucune mention dans votre passeport (ce qui est important pour certains pays comme l'Iran ou le Soudan).\n\nVeuillez noter que les visas jordaniens ne sont pas délivrés à cette frontière : si vous traversez la frontière depuis Israël, vous devez avoir obtenu un visa électronique au préalable.",
@@ -40,9 +38,11 @@
       "ru": "Пересечение границы разрешено только пешеходам (и велосипедистам), автомобили запрещены.\nЕсли вы хотите посетить Израиль из Иордании, стоит знать следующее:\nЭта граница контролируется Израилем, но они ставят штамп на отдельном листе бумаги, а на сирийской стороне штампа о выезде не ставят, поэтому, если вы вернетесь в Сирию через этот же пограничный пункт, в вашем паспорте не будет никаких следов вашего визита в Израиль (что важно для некоторых стран, таких как Иран или Судан).\nОбратите внимание, что иорданские визы на этой границе не выдаются: если вы пересекаете границу из Израиля, вам необходимо заранее приобрести электронную визу."
     },
     "geohash": "sv9m2f2n",
+    "comment": "Only pedestrians (and bicycles) are allowed to cross, no motor vehicles.\nIf you'd like to visit Israel from Jordan, this is worth knowing:\nThis border is controlled by the Israelis, but they stamp you on a separate piece of paper, and on the Jordan side they don't stamp you out (even though they make you pay the exit tax, 10 JOD), so if you return to Jordan using this same border post, there will be no trace of your visit to Israel in your passport (which is important for some countries such as Iran or Sudan).\nNote that Jordanian visas are not available at this border: if this is your first entry into Jordan, then you'll need to have purchased an e-visa beforehand.",
+    "name": "King Hussein Bridge / Allenby Bridge",
     "updatedAt": {
-      "_seconds": 1769107905,
-      "_nanoseconds": 363000000
+      "_seconds": 1774878923,
+      "_nanoseconds": 907000000
     }
   },
   {
@@ -4580,9 +4580,10 @@
     },
     "name": "Rub' al Khali",
     "geohash": "t5zqre9g",
+    "comment": "Oman to Saudi :\nAs you pass the first gates, you first drive through the Omani customs vehicle search (just a quick look). They ask for the carnet to stamp, and if you have none, it’s fine.\nNo need to go to the passport building, when you exit Oman you can drive through the gates where they stamp you out. Done with Oman. \nOn the Saudi side, you start with the immigration. If you have purchased your e-visa beforehand, then they will see it on their computer at the gate and you’re let through, they don't stamp your passport anymore. \nNext are the Saudi customs. They will ask one thing: if you have alcohol. And they’ll search your vehicle. Plus maybe a dog sniff. You also need to get your car/truck x-rayed. \nLast gate is for Manafith, the vehicle insurance. If you’ve done it online, then you just show it and you’re good to go. Otherwise the guy will happily do it for you (unlike other border posts). Credit cards welcome. \nJust as you exit the border facilities, you’ll see a small grocery shop and a restaurant to the left, and an ATM to the right. \nThe first fuel station on Saudi side is 5 km further down the road. \nNote that it’s forbidden to leave the road anywhere near the border.",
     "updatedAt": {
-      "_seconds": 1769107911,
-      "_nanoseconds": 747000000
+      "_seconds": 1770800044,
+      "_nanoseconds": 525000000
     }
   },
   {
@@ -5392,6 +5393,21 @@
     "updatedAt": {
       "_seconds": 1769107912,
       "_nanoseconds": 615000000
+    }
+  },
+  {
+    "id": "vgZUTuC9C0KK0XKrAYnz",
+    "is_open": 1,
+    "countries": "TUR-SYR",
+    "location": {
+      "_latitude": 36.23123,
+      "_longitude": 36.69214
+    },
+    "name": "Bab al-Hawa",
+    "comment": "Normally the transit is restricted (by Turkey) to Turks and Syrians. But as other countries closed down during the Iran war, it opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey.\nIt seems also that some (foreign) vehicles have been able to cross, but this is not confirmed.",
+    "updatedAt": {
+      "_seconds": 1775716480,
+      "_nanoseconds": 934000000
     }
   },
   {
