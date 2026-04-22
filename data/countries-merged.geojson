@@ -58264,9 +58264,10 @@
         "ADM0_A3": "SYR",
         "NAME": "Syria",
         "ABBREV": "Syria",
-        "overlanding": 2,
+        "overlanding": 3,
         "iso_a2": "SY",
         "driving": "r",
+        "carnet": 0,
         "visa": 1
       },
       "geometry": {

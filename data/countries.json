@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-04-09T06:45:45.598Z",
+    "generatedAt": "2026-04-22T09:04:08.960Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -2715,31 +2715,9 @@
         "timezone": "Africa/Kinshasa",
         "visa_url": "https://evisa.gouv.cd/",
         "comment": "Most of the country is in ruins, the roads are missing in many provinces, except for the transit between Kinshasa and Matadi",
-        "comment_translations": {
-          "en": "Most of the country is in ruins, the roads are missing in many provinces, except for the transit between Kinshasa and Matadi",
-          "fr": "La majeure partie du pays est en ruines, les routes sont inexistantes dans de nombreuses provinces, à l'exception de l'axe de transit entre Kinshasa et Matadi.",
-          "de": "Der größte Teil des Landes liegt in Trümmern, in vielen Provinzen fehlen die Straßen, mit Ausnahme der Verbindungsstraße zwischen Kinshasa und Matadi.",
-          "it": "La maggior parte del paese è in rovina, le strade mancano in molte province, tranne che per il transito tra Kinshasa e Matadi",
-          "es": "La mayor parte del país está en ruinas, faltan carreteras en muchas provincias, excepto el tránsito entre Kinshasa y Matadi.",
-          "pt": "Grande parte do país está em ruínas, as estradas desapareceram em muitas províncias, com exceção da rota entre Kinshasa e Matadi.",
-          "nl": "Het grootste deel van het land ligt in puin, in veel provincies zijn de wegen verdwenen, met uitzondering van de verbindingsweg tussen Kinshasa en Matadi.",
-          "pl": "Większość kraju leży w ruinie, w wielu prowincjach brakuje dróg, z wyjątkiem tranzytu między Kinszasą a Matadi",
-          "ru": "Большая часть страны лежит в руинах, во многих провинциях отсутствуют дороги, за исключением транзитной дороги между Киншасой и Матади."
-        },
         "insurance_scheme": "yellow_card",
         "visa": 3,
         "visa_comment": "There is now the possibility of purchasing an eVisa online, but it's expensive (300$ + 90$) and it's currently only valid for an entry by air.\nYou should normally get your visa in your home country. It is more difficult to get it in Africa. You can try in Accra but there is no guarantee you'll get it.",
-        "visa_comment_translations": {
-          "en": "There is now the possibility of purchasing an eVisa online, but it's expensive (300$ + 90$) and it's currently only valid for an entry by air.\nYou should normally get your visa in your home country. It is more difficult to get it in Africa. You can try in Accra but there is no guarantee you'll get it.",
-          "fr": "Il est désormais possible d'acheter un visa électronique en ligne, mais il est coûteux (300 $ + 90 $) et n'est actuellement valable que pour une entrée par avion.\n\nNormalement, vous devriez obtenir votre visa dans votre pays d'origine. Il est plus difficile de l'obtenir en Afrique. Vous pouvez tenter votre chance à Accra, mais rien ne garantit son obtention.",
-          "de": "Es besteht nun die Möglichkeit, ein eVisum online zu erwerben, allerdings ist es teuer (300 $ + 90 $) und gilt derzeit nur für die Einreise auf dem Luftweg. Normalerweise sollten Sie Ihr Visum in Ihrem Heimatland beantragen. In Afrika ist es schwieriger, ein Visum zu erhalten. Sie können es in Accra versuchen, aber es gibt keine Garantie, dass Sie es bekommen.",
-          "it": "Ora è possibile acquistare un visto elettronico online, ma è costoso (300$ + 90$) e al momento è valido solo per un ingresso aereo.\nDi solito dovresti ottenere il visto nel tuo paese d'origine. È più difficile ottenerlo in Africa. Puoi provare ad Accra, ma non c'è garanzia di ottenerlo.",
-          "es": "Ahora existe la posibilidad de comprar una eVisa en línea, pero es cara (300 $ + 90 $) y actualmente solo es válida para entrar por avión. Normalmente, debería obtener la visa en su país de origen. Es más difícil obtenerla en África. Puede intentarlo en Acra, pero no hay garantía de obtenerla.",
-          "pt": "Agora existe a possibilidade de comprar um eVisa online, mas é caro (US$ 300 + US$ 90) e atualmente só é válido para entrada por via aérea.\nNormalmente, você deve obter seu visto em seu país de origem. É mais difícil obtê-lo na África. Você pode tentar em Accra, mas não há garantia de que conseguirá.",
-          "nl": "Het is nu mogelijk om online een e-visum aan te vragen, maar dat is duur ($300 + $90) en het is momenteel alleen geldig voor een reis per vliegtuig.\nNormaal gesproken moet je je visum in je eigen land aanvragen. In Afrika is het lastiger om er een te krijgen. Je kunt het in Accra proberen, maar er is geen garantie dat je er een krijgt.",
-          "pl": "Obecnie istnieje możliwość zakupu e-wizy online, ale jest ona droga (300$ + 90$) i obecnie ważna tylko na wjazd drogą lotniczą.\nZwykle należy uzyskać wizę w swoim kraju ojczystym. W Afryce uzyskanie jej jest trudniejsze. Można spróbować w Akrze, ale nie ma gwarancji, że się ją otrzyma.",
-          "ru": "Сейчас есть возможность приобрести электронную визу онлайн, но это дорого (300$ + 90$) и в настоящее время она действительна только для въезда воздушным транспортом.\nОбычно визу следует получать в своей стране. В Африке получить визу сложнее. Можно попробовать в Аккре, но нет гарантии, что вам её получат."
-        },
         "bounding_box": [
           12.213672,
           -13.453809,
@@ -2764,9 +2742,43 @@
           "ru": "Киншаса",
           "zh": "金沙薩"
         },
+        "money": "USD is widely accepted, especially in hotels and fuel stations, but EUR and other currencies can be easily changed for COD on the street.",
         "updatedat": {
-          "_seconds": 1770199384,
-          "_nanoseconds": 660000000
+          "_seconds": 1776783900,
+          "_nanoseconds": 833000000
+        },
+        "comment_translations": {
+          "en": "Most of the country is in ruins, the roads are missing in many provinces, except for the transit between Kinshasa and Matadi",
+          "fr": "La majeure partie du pays est en ruines, les routes sont inexistantes dans de nombreuses provinces, à l'exception de l'axe de transit entre Kinshasa et Matadi.",
+          "de": "Der größte Teil des Landes liegt in Trümmern, in vielen Provinzen fehlen die Straßen, mit Ausnahme der Verbindungsstraße zwischen Kinshasa und Matadi.",
+          "it": "Gran parte del paese è in rovina, le strade sono inesistenti in molte province, ad eccezione del collegamento tra Kinshasa e Matadi.",
+          "es": "La mayor parte del país está en ruinas, faltan carreteras en muchas provincias, excepto la vía de tránsito entre Kinshasa y Matadi.",
+          "pt": "Grande parte do país está em ruínas, as estradas desapareceram em muitas províncias, com exceção da rota entre Kinshasa e Matadi.",
+          "nl": "Het grootste deel van het land ligt in puin, in veel provincies zijn de wegen verdwenen, met uitzondering van de verbindingsweg tussen Kinshasa en Matadi.",
+          "pl": "Większość kraju leży w ruinie, w wielu prowincjach brakuje dróg, z wyjątkiem tranzytu między Kinszasą a Matadi",
+          "ru": "Большая часть страны лежит в руинах, во многих провинциях отсутствуют дороги, за исключением транзитной дороги между Киншасой и Матади."
+        },
+        "visa_comment_translations": {
+          "en": "There is now the possibility of purchasing an eVisa online, but it's expensive (300$ + 90$) and it's currently only valid for an entry by air.\nYou should normally get your visa in your home country. It is more difficult to get it in Africa. You can try in Accra but there is no guarantee you'll get it.",
+          "fr": "Il est désormais possible d'acheter un visa électronique en ligne, mais il est coûteux (300 $ + 90 $) et n'est actuellement valable que pour une entrée par avion.\n\nNormalement, vous devriez obtenir votre visa dans votre pays d'origine. Il est plus difficile de l'obtenir en Afrique. Vous pouvez tenter votre chance à Accra, mais rien ne garantit son obtention.",
+          "de": "Es besteht nun die Möglichkeit, ein eVisum online zu erwerben, allerdings ist es teuer (300 $ + 90 $) und gilt derzeit nur für die Einreise auf dem Luftweg. Normalerweise sollten Sie Ihr Visum in Ihrem Heimatland beantragen. In Afrika ist es schwieriger, ein Visum zu erhalten. Sie können es in Accra versuchen, aber es gibt keine Garantie, dass Sie es bekommen.",
+          "it": "Ora è possibile acquistare un visto elettronico online, ma è costoso (300$ + 90$) ed è attualmente valido solo per l'ingresso in aereo.\nNormalmente, il visto si ottiene nel proprio paese d'origine. Ottenerlo in Africa è più difficile. Si può provare ad Accra, ma non c'è alcuna garanzia di ottenerlo.",
+          "es": "Ahora es posible comprar una visa electrónica en línea, pero es cara (300 $ + 90 $) y actualmente solo es válida para entradas por vía aérea.\n\nNormalmente, debes obtener tu visa en tu país de origen. Es más difícil obtenerla en África. Puedes intentarlo en Accra, pero no hay garantía de que la consigas.",
+          "pt": "Agora existe a possibilidade de comprar um eVisa online, mas é caro (US$ 300 + US$ 90) e atualmente só é válido para entrada por via aérea.\nNormalmente, você deve obter seu visto em seu país de origem. É mais difícil obtê-lo na África. Você pode tentar em Accra, mas não há garantia de que conseguirá.",
+          "nl": "Het is nu mogelijk om online een e-visum aan te vragen, maar dat is duur ($300 + $90) en het is momenteel alleen geldig voor een reis per vliegtuig.\nNormaal gesproken moet je je visum in je eigen land aanvragen. In Afrika is het lastiger om er een te krijgen. Je kunt het in Accra proberen, maar er is geen garantie dat je er een krijgt.",
+          "pl": "Obecnie istnieje możliwość zakupu e-wizy online, ale jest ona droga (300$ + 90$) i obecnie ważna tylko na wjazd drogą lotniczą.\nZwykle należy uzyskać wizę w swoim kraju ojczystym. W Afryce uzyskanie jej jest trudniejsze. Można spróbować w Akrze, ale nie ma gwarancji, że się ją otrzyma.",
+          "ru": "Сейчас есть возможность приобрести электронную визу онлайн, но это дорого (300$ + 90$) и в настоящее время она действительна только для въезда воздушным транспортом.\nОбычно визу следует получать в своей стране. В Африке получить визу сложнее. Можно попробовать в Аккре, но нет гарантии, что вам её получат."
+        },
+        "money_translations": {
+          "en": "USD is widely accepted, especially in hotels and fuel stations, but EUR and other currencies can be easily changed for COD on the street.",
+          "fr": "Le dollar américain est largement accepté, notamment dans les hôtels et les stations-service, mais l'euro et d'autres devises peuvent être facilement changés en espèces à la livraison dans la rue.",
+          "de": "US-Dollar werden weitgehend akzeptiert, insbesondere in Hotels und Tankstellen, aber Euro und andere Währungen können problemlos auf der Straße gegen Barzahlung getauscht werden.",
+          "it": "Il dollaro statunitense è ampiamente accettato, soprattutto negli hotel e nelle stazioni di servizio, ma l'euro e altre valute possono essere facilmente cambiate in contanti per strada.",
+          "es": "El dólar estadounidense (USD) es ampliamente aceptado, especialmente en hoteles y gasolineras, pero el euro (EUR) y otras divisas se pueden cambiar fácilmente contra reembolso en la calle.",
+          "pt": "O dólar americano é amplamente aceito, especialmente em hotéis e postos de gasolina, mas o euro e outras moedas podem ser facilmente trocados por pagamento na entrega em lojas de rua.",
+          "nl": "De Amerikaanse dollar wordt overal geaccepteerd, vooral in hotels en bij tankstations, maar euro's en andere valuta kunnen gemakkelijk op straat worden omgewisseld voor contant geld.",
+          "pl": "Dolary amerykańskie są powszechnie akceptowane, zwłaszcza w hotelach i na stacjach benzynowych, ale EUR i inne waluty można bez problemu wymienić na płatność za pobraniem na ulicy.",
+          "ru": "Доллар США широко принимается к оплате, особенно в отелях и на автозаправочных станциях, но евро и другие валюты можно легко обменять на наличный расчет на улице."
         }
       },
       "borderIds": [],
@@ -3785,9 +3797,21 @@
           "ru": "Кито",
           "zh": "基多"
         },
+        "money": "USD is the official currency.",
         "updatedat": {
-          "_seconds": 1770199386,
-          "_nanoseconds": 696000000
+          "_seconds": 1776784547,
+          "_nanoseconds": 480000000
+        },
+        "money_translations": {
+          "en": "USD is the official currency.",
+          "fr": "Le dollar américain est la monnaie officielle.",
+          "de": "Der US-Dollar ist die offizielle Währung.",
+          "it": "Il dollaro statunitense è la valuta ufficiale.",
+          "es": "El dólar estadounidense es la moneda oficial.",
+          "pt": "O dólar americano é a moeda oficial.",
+          "nl": "De Amerikaanse dollar is de officiële munteenheid.",
+          "pl": "Oficjalną walutą jest USD.",
+          "ru": "Доллар США является официальной валютой."
         }
       },
       "borderIds": [],
@@ -4639,21 +4663,32 @@
         },
         "insurance": 1,
         "visa_comment": "You'll need to show proof that your health insurance provides the required coverage of 30'000 GEL for the duration of your stay (a written confirmation in English or Georgian from your insurance company).\nOtherwise, you can purchase an insurance online for less than 1€ per day, e.g. at : \nhttps://imedil.ge/visitors-insurance/en",
+        "stay_duration": "90 days, or 3 years after getting a temporary number plate (100$).",
+        "updatedat": {
+          "_seconds": 1775890008,
+          "_nanoseconds": 429000000
+        },
         "visa_comment_translations": {
           "en": "You'll need to show proof that your health insurance provides the required coverage of 30'000 GEL for the duration of your stay (a written confirmation in English or Georgian from your insurance company).\nOtherwise, you can purchase an insurance online for less than 1€ per day, e.g. at : \nhttps://imedil.ge/visitors-insurance/en",
           "fr": "Vous devrez fournir la preuve que votre assurance maladie couvre les frais de 30 000 GEL pendant toute la durée de votre séjour (une confirmation écrite en anglais ou en géorgien de votre compagnie d'assurance).\n\nSinon, vous pouvez souscrire une assurance en ligne pour moins de 1 € par jour, par exemple sur :\n\nhttps://imedil.ge/visitors-insurance/en",
           "de": "Sie müssen nachweisen, dass Ihre Krankenversicherung die erforderliche Deckung von 30.000 GEL für die Dauer Ihres Aufenthalts abdeckt (eine schriftliche Bestätigung Ihrer Versicherung in englischer oder georgischer Sprache).\n\nAlternativ können Sie online eine Versicherung für weniger als 1 € pro Tag abschließen, z. B. unter:\nhttps://imedil.ge/visitors-insurance/en",
-          "it": "Dovrai dimostrare che la tua assicurazione sanitaria fornisce la copertura richiesta di 30.000 GEL per la durata del tuo soggiorno (una conferma scritta in inglese o georgiano della tua compagnia assicurativa).\nIn alternativa, puoi acquistare un'assicurazione online per meno di 1 € al giorno, ad esempio all'indirizzo:\nhttps://imedil.ge/visitors-insurance/en",
-          "es": "Deberá demostrar que su seguro médico cubre la cobertura requerida de 30 000 GEL durante su estancia (una confirmación por escrito en inglés o georgiano de su compañía de seguros).\nTambién puede contratar un seguro en línea por menos de 1 € al día, por ejemplo, en: https://imedil.ge/visitors-insurance/en",
+          "it": "Dovrete dimostrare che la vostra assicurazione sanitaria copre l'importo minimo di 30.000 GEL per tutta la durata del soggiorno (una conferma scritta in inglese o georgiano rilasciata dalla vostra compagnia assicurativa).\n\nIn alternativa, potete stipulare un'assicurazione online per meno di 1€ al giorno, ad esempio al seguente indirizzo:\nhttps://imedil.ge/visitors-insurance/en",
+          "es": "Deberá presentar un comprobante de que su seguro médico ofrece la cobertura requerida de 30 000 GEL durante su estancia (una confirmación por escrito en inglés o georgiano de su compañía aseguradora).\n\nTambién puede contratar un seguro en línea por menos de 1 € al día, por ejemplo, en: https://imedil.ge/visitors-insurance/en",
           "pt": "Você precisará apresentar comprovante de que seu seguro saúde oferece a cobertura obrigatória de 30.000 GEL para o período da sua estadia (uma confirmação por escrito em inglês ou georgiano da sua seguradora).\nCaso contrário, você pode adquirir um seguro online por menos de 1€ por dia, por exemplo, em: \nhttps://imedil.ge/visitors-insurance/en",
           "nl": "U dient aan te tonen dat uw ziektekostenverzekering de vereiste dekking van 30.000 GEL dekt gedurende uw verblijf (een schriftelijke bevestiging in het Engels of Georgisch van uw verzekeringsmaatschappij).\n\nAnders kunt u online een verzekering afsluiten voor minder dan € 1 per dag, bijvoorbeeld via: https://imedil.ge/visitors-insurance/en",
           "pl": "Będziesz musiał przedstawić dowód, że Twoje ubezpieczenie zdrowotne zapewnia wymaganą ochronę w wysokości 30 000 GEL na czas Twojego pobytu (pisemne potwierdzenie w języku angielskim lub gruzińskim od Twojej firmy ubezpieczeniowej).\nMożesz również wykupić ubezpieczenie online za mniej niż 1 € dziennie, np. na stronie:\nhttps://imedil.ge/visitors-insurance/en",
           "ru": "Вам потребуется предоставить подтверждение того, что ваша медицинская страховка покрывает необходимые расходы в размере 30 000 GEL на весь период вашего пребывания (письменное подтверждение на английском или грузинском языке от вашей страховой компании).\nВ противном случае вы можете приобрести страховку онлайн менее чем за 1 евро в день, например, по адресу:\nhttps://imedil.ge/visitors-insurance/en"
         },
-        "stay_duration": "90 days",
-        "updatedat": {
-          "_seconds": 1774585944,
-          "_nanoseconds": 766000000
+        "stay_duration_translations": {
+          "en": "90 days, or 3 years after getting a temporary number plate (100$).",
+          "fr": "90 jours, ou 3 ans après l'obtention d'une plaque d'immatriculation temporaire (100 $).",
+          "de": "90 Tage oder 3 Jahre nach Erhalt eines temporären Nummernschildes (100 $).",
+          "it": "90 giorni, o 3 anni dopo aver ottenuto una targa temporanea (100$).",
+          "es": "90 días o 3 años después de obtener una matrícula temporal (100$).",
+          "pt": "90 dias ou 3 anos após a obtenção de uma placa temporária (100 dólares).",
+          "nl": "90 dagen, of 3 jaar na het verkrijgen van een tijdelijk kenteken (100 dollar).",
+          "pl": "90 dni lub 3 lata po otrzymaniu tymczasowej tablicy rejestracyjnej (100 USD).",
+          "ru": "90 дней или 3 года после получения временного номерного знака (100$)."
         }
       },
       "borderIds": [],
@@ -5929,30 +5964,8 @@
         "comment": "Iran is open and a historically has always been a grzat tourist destination, with the caveat that some tourists have been arbitrarily arrested and detained on bogus charges of spying. That's the reason most countries recommend not to visit Iran.",
         "carnet_comment": "A carnet is required. There are ways to get a temporary, Iran-only carnet at the border, which is very expensive and not refundable. So a carnet is a must to enter with their own vehicle.",
         "insurance": 0,
-        "comment_translations": {
-          "en": "Iran is open and a historically has always been a grzat tourist destination, with the caveat that some tourists have been arbitrarily arrested and detained on bogus charges of spying. That's the reason most countries recommend not to visit Iran.",
-          "fr": "L'Iran est un pays ouvert et a toujours été une destination touristique prisée, malgré le fait que certains touristes aient été arrêtés et détenus arbitrairement sous de fausses accusations d'espionnage. C'est pourquoi la plupart des pays déconseillent de se rendre en Iran.",
-          "de": "Der Iran ist ein offenes und traditionell beliebtes Reiseziel, allerdings wurden einige Touristen willkürlich unter fadenscheinigen Spionagevorwürfen verhaftet und festgehalten. Aus diesem Grund raten die meisten Länder von einer Reise in den Iran ab.",
-          "it": "L'Iran è un paese aperto e storicamente è sempre stato una meta turistica ambita, con la precisazione che alcuni turisti sono stati arrestati e detenuti arbitrariamente con false accuse di spionaggio. Questo è il motivo per cui la maggior parte dei paesi sconsiglia di visitare l'Iran.",
-          "es": "Irán es un país abierto e históricamente siempre ha sido un excelente destino turístico, con la salvedad de que algunos turistas han sido arrestados y detenidos arbitrariamente bajo falsas acusaciones de espionaje. Por eso, la mayoría de los países recomiendan no visitar Irán.",
-          "pt": "O Irã é um país aberto e historicamente sempre foi um ótimo destino turístico, com a ressalva de que alguns turistas foram presos e detidos arbitrariamente sob falsas acusações de espionagem. Essa é a razão pela qual a maioria dos países recomenda não visitar o Irã.",
-          "nl": "Iran is een open land en is historisch gezien altijd een populaire toeristische bestemming geweest, met de kanttekening dat sommige toeristen willekeurig zijn gearresteerd en vastgehouden op valse beschuldigingen van spionage. Dat is de reden waarom de meeste landen afraden om Iran te bezoeken.",
-          "pl": "Iran jest krajem otwartym i historycznie zawsze był atrakcyjnym kierunkiem turystycznym, z zastrzeżeniem, że niektórzy turyści byli arbitralnie aresztowani i zatrzymywani pod fałszywymi zarzutami szpiegostwa. Dlatego większość krajów odradza podróżowanie do Iranu.",
-          "ru": "Иран открыт для туристов и исторически всегда был популярным туристическим направлением, за исключением случаев, когда некоторые туристы были произвольно арестованы и задержаны по сфабрикованным обвинениям в шпионаже. Именно поэтому большинство стран не рекомендуют посещать Иран."
-        },
         "stay_duration": "5 months",
         "visa_comment": "An eVisa is theoretically available but not very reliable. A visa is best secured via a travel agency, which will get an official confirmation from the ministry. With this confirmation, you can then walk into any embassy and buy your visa.\nNote that citizens of the USA, UK, Canada and Australia can't travel on their own in Iran, they need a guide at all time.\nThe 30 days visa can be extended twice in most province capitals, so you could stay a total of 90 consecutive days in the country.\nSome nationalities can enter visa-free. Israelis can't enter at all.",
-        "visa_comment_translations": {
-          "en": "An eVisa is theoretically available but not very reliable. A visa is best secured via a travel agency, which will get an official confirmation from the ministry. With this confirmation, you can then walk into any embassy and buy your visa.\nNote that citizens of the USA, UK, Canada and Australia can't travel on their own in Iran, they need a guide at all time.\nThe 30 days visa can be extended twice in most province capitals, so you could stay a total of 90 consecutive days in the country.\nSome nationalities can enter visa-free. Israelis can't enter at all.",
-          "fr": "Un visa électronique est théoriquement disponible, mais peu fiable. Il est préférable de passer par une agence de voyages pour obtenir un visa, qui se chargera d'obtenir une confirmation officielle du ministère. Grâce à cette confirmation, vous pourrez ensuite vous rendre dans n'importe quelle ambassade et acheter votre visa.\n\nVeuillez noter que les citoyens des États-Unis, du Royaume-Uni, du Canada et de l'Australie ne peuvent pas voyager seuls en Iran ; ils doivent être accompagnés d'un guide en permanence.\n\nLe visa de 30 jours peut être prolongé deux fois dans la plupart des capitales provinciales, ce qui vous permet de séjourner jusqu'à 90 jours consécutifs dans le pays.\n\nCertaines nationalités sont exemptées de visa. Les Israéliens ne sont pas autorisés à entrer en Iran.",
-          "de": "Ein elektronisches Visum (eVisum) ist zwar theoretisch erhältlich, aber nicht sehr zuverlässig. Ein Visum erhalten Sie am besten über ein Reisebüro, das Ihnen eine offizielle Bestätigung vom Ministerium ausstellt. Mit dieser Bestätigung können Sie dann in jeder Botschaft Ihr Visum beantragen.\nBitte beachten Sie, dass Staatsbürger der USA, Großbritanniens, Kanadas und Australiens nicht ohne Begleitung in den Iran reisen dürfen. Sie benötigen jederzeit einen Reiseführer.\nDas 30-Tage-Visum kann in den meisten Provinzhauptstädten zweimal verlängert werden, sodass Sie sich insgesamt bis zu 90 Tage am Stück im Land aufhalten können.\nEinige Nationalitäten können visumfrei einreisen. Israelis dürfen nicht einreisen.",
-          "it": "Un visto elettronico è teoricamente disponibile, ma non molto affidabile. Il modo migliore per ottenere un visto è tramite un'agenzia di viaggi, che otterrà una conferma ufficiale dal Ministero. Con questa conferma, potrete recarvi in qualsiasi ambasciata e acquistare il visto.\nSi noti che i cittadini di Stati Uniti, Regno Unito, Canada e Australia non possono viaggiare da soli in Iran, ma necessitano di una guida in ogni momento.\nIl visto di 30 giorni può essere prorogato due volte nella maggior parte dei capoluoghi di provincia, quindi è possibile rimanere nel Paese per un totale di 90 giorni consecutivi.\nAlcune nazionalità possono entrare senza visto. Gli israeliani non possono entrare affatto.",
-          "es": "En teoría, una visa electrónica está disponible, pero no es muy fiable. La mejor manera de obtenerla es a través de una agencia de viajes, que obtendrá una confirmación oficial del ministerio. Con esta confirmación, podrá acudir a cualquier embajada y comprar su visa.\nTenga en cuenta que los ciudadanos de EE. UU., Reino Unido, Canadá y Australia no pueden viajar solos a Irán; necesitan un guía en todo momento.\nLa visa de 30 días se puede extender dos veces en la mayoría de las capitales de provincia, por lo que podría permanecer un total de 90 días consecutivos en el país.\nAlgunas nacionalidades pueden entrar sin visa. Los israelíes no pueden entrar.",
-          "pt": "Um visto eletrônico (eVisa) está teoricamente disponível, mas não é muito confiável. A melhor maneira de obter um visto é por meio de uma agência de viagens, que conseguirá uma confirmação oficial do ministério. Com essa confirmação, você poderá ir a qualquer embaixada e comprar seu visto.\nObserve que cidadãos dos EUA, Reino Unido, Canadá e Austrália não podem viajar sozinhos para o Irã; eles precisam de um guia o tempo todo.\nO visto de 30 dias pode ser prorrogado duas vezes na maioria das capitais de província, então você poderia ficar um total de 90 dias consecutivos no país.\nAlgumas nacionalidades podem entrar sem visto. Israelenses não podem entrar de forma alguma.",
-          "nl": "Een e-visum is theoretisch beschikbaar, maar niet erg betrouwbaar. Het is het beste om een visum aan te vragen via een reisbureau, dat een officiële bevestiging van het ministerie zal verkrijgen. Met deze bevestiging kunt u vervolgens naar elke ambassade gaan en uw visum kopen.\n\nLet op: burgers van de VS, het VK, Canada en Australië kunnen niet zelfstandig naar Iran reizen; zij hebben te allen tijde een gids nodig.\n\nHet visum voor 30 dagen kan in de meeste provinciehoofdsteden tweemaal worden verlengd, waardoor u in totaal 90 aaneengesloten dagen in het land kunt verblijven.\n\nSommige nationaliteiten kunnen visumvrij binnenkomen. Israëliërs kunnen Iran helemaal niet in.",
-          "pl": "Wiza elektroniczna jest teoretycznie dostępna, ale nie jest zbyt wiarygodna. Wizę najlepiej uzyskać za pośrednictwem biura podróży, które otrzyma oficjalne potwierdzenie z ministerstwa. Z tym potwierdzeniem można udać się do dowolnej ambasady i kupić wizę.\nNależy pamiętać, że obywatele USA, Wielkiej Brytanii, Kanady i Australii nie mogą podróżować po Iranie samodzielnie, potrzebują przewodnika przez cały czas.\nWizę 30-dniową można przedłużyć dwukrotnie w większości stolic prowincji, co oznacza, że można przebywać w kraju łącznie 90 kolejnych dni.\nObywatele niektórych państw mogą wjechać bez wizy. Obywatele Izraela nie mogą wjechać w ogóle.",
-          "ru": "Электронная виза теоретически доступна, но не очень надежна. Лучше всего оформить визу через туристическое агентство, которое получит официальное подтверждение от министерства. С этим подтверждением вы можете обратиться в любое посольство и купить визу.\nОбратите внимание, что граждане США, Великобритании, Канады и Австралии не могут путешествовать в Иран самостоятельно, им постоянно необходим гид.\n30-дневную визу можно продлить дважды в большинстве столиц провинций, поэтому вы можете находиться в стране в общей сложности 90 дней подряд.\nГраждане некоторых стран могут въезжать без визы. Гражданам Израиля въезд вообще запрещен."
-        },
         "stay_duration_translations": {
           "en": "5 months",
           "fr": "5 mois",
@@ -5970,17 +5983,6 @@
           63.305176,
           39.768555
         ],
-        "carnet_comment_translations": {
-          "en": "A carnet is required. There are ways to get a temporary, Iran-only carnet at the border, which is very expensive and not refundable. So a carnet is a must to enter with their own vehicle.",
-          "de": "Ein Carnet ist erforderlich. Es gibt zwar Möglichkeiten, an der Grenze ein temporäres, nur für den Iran gültiges Carnet zu erhalten, dieses ist jedoch sehr teuer und wird nicht erstattet. Daher ist ein Carnet für die Einreise mit dem eigenen Fahrzeug zwingend notwendig.",
-          "it": "È obbligatorio il carnet. Esistono modi per ottenere un carnet temporaneo, valido solo per l'Iran, alla frontiera, ma è molto costoso e non rimborsabile. Pertanto, il carnet è obbligatorio per entrare con il proprio veicolo.",
-          "es": "Se requiere un carnet. Hay maneras de obtener un carnet temporal, exclusivo para Irán, en la frontera, que es muy caro y no reembolsable. Por lo tanto, es imprescindible tener un carnet para entrar con vehículo propio.",
-          "pt": "É necessário um Carnet de Passagem. Existem maneiras de obter um Carnet de Passagem temporário, válido apenas para o Irã, na fronteira, mas ele é muito caro e não reembolsável. Portanto, o Carnet de Passagem é imprescindível para entrar com veículo próprio.",
-          "nl": "Een carnet is vereist. Er zijn manieren om aan de grens een tijdelijk carnet te verkrijgen dat alleen geldig is in Iran, maar dit is erg duur en niet restitueerbaar. Een carnet is dus een absolute noodzaak om met een eigen voertuig het land binnen te komen.",
-          "pl": "Wymagany jest karnet. Istnieją sposoby na uzyskanie tymczasowego karnetu tylko dla Iranu na granicy, ale jest on bardzo drogi i nie podlega zwrotowi. Dlatego karnet jest niezbędny, aby wjechać własnym pojazdem.",
-          "ru": "Для въезда необходим карнет. Существуют способы получить на границе временный карнет, предназначенный только для Ирана, который очень дорог и не подлежит возврату. Поэтому карнет обязателен для въезда на собственном транспортном средстве.",
-          "fr": "Un carnet de passage est obligatoire. Il est possible d'obtenir un carnet temporaire, valable uniquement en Iran, à la frontière, mais il est très coûteux et non remboursable. Un carnet est donc indispensable pour entrer en Iran avec son propre véhicule."
-        },
         "capital_translations": {
           "de": "Teheran",
           "en": "Tehran",
@@ -6000,9 +6002,54 @@
           "zh": "伊朗",
           "pt": "Irã"
         },
+        "money": "Credit cards are not accepted in Iran, due to sanctions, so you'll need to bring in enough cash for your whole trip (USD/EUR preferred).\nThe current rate can be found here: https://www.bonbast.com\nNote that there are 2 series of bank notes in circulation: the old rial, and the new toman (sometimes labeled \"cheque\"), 1 toman = 10'000 rials. Actually, there are 3 currencies, because some Iranians still think in \"old\" tomans, which are worth 10 rials. So the rates on the above website are in \"old\" tomans, so multiply by 10 for rials, and divide by 1000 for the new tomans.",
         "updatedat": {
-          "_seconds": 1770199390,
-          "_nanoseconds": 794000000
+          "_seconds": 1776783647,
+          "_nanoseconds": 74000000
+        },
+        "comment_translations": {
+          "en": "Iran is open and a historically has always been a grzat tourist destination, with the caveat that some tourists have been arbitrarily arrested and detained on bogus charges of spying. That's the reason most countries recommend not to visit Iran.",
+          "fr": "L'Iran est un pays ouvert et a toujours été une destination touristique prisée, malgré le fait que certains touristes aient été arrêtés et détenus arbitrairement sous de fausses accusations d'espionnage. C'est pourquoi la plupart des pays déconseillent de se rendre en Iran.",
+          "de": "Der Iran ist ein offenes und traditionell beliebtes Reiseziel, allerdings wurden einige Touristen willkürlich unter fadenscheinigen Spionagevorwürfen verhaftet und festgehalten. Aus diesem Grund raten die meisten Länder von einer Reise in den Iran ab.",
+          "it": "L'Iran è un paese aperto e storicamente è sempre stata una meta turistica molto apprezzata, con la precisazione che alcuni turisti sono stati arrestati e detenuti arbitrariamente con false accuse di spionaggio. Questo è il motivo per cui la maggior parte dei paesi sconsiglia di visitare l'Iran.",
+          "es": "Irán es un país abierto y, históricamente, siempre ha sido un gran destino turístico, con la salvedad de que algunos turistas han sido arrestados y detenidos arbitrariamente bajo falsas acusaciones de espionaje. Por eso, la mayoría de los países recomiendan no visitar Irán.",
+          "pt": "O Irã é um país aberto e historicamente sempre foi um ótimo destino turístico, com a ressalva de que alguns turistas foram presos e detidos arbitrariamente sob falsas acusações de espionagem. Essa é a razão pela qual a maioria dos países recomenda não visitar o Irã.",
+          "nl": "Iran is een open land en is historisch gezien altijd een populaire toeristische bestemming geweest, met de kanttekening dat sommige toeristen willekeurig zijn gearresteerd en vastgehouden op valse beschuldigingen van spionage. Dat is de reden waarom de meeste landen afraden om Iran te bezoeken.",
+          "pl": "Iran jest krajem otwartym i historycznie zawsze był atrakcyjnym kierunkiem turystycznym, z zastrzeżeniem, że niektórzy turyści byli arbitralnie aresztowani i zatrzymywani pod fałszywymi zarzutami szpiegostwa. Dlatego większość krajów odradza podróżowanie do Iranu.",
+          "ru": "Иран открыт для туристов и исторически всегда был популярным туристическим направлением, за исключением случаев, когда некоторые туристы были произвольно арестованы и задержаны по сфабрикованным обвинениям в шпионаже. Именно поэтому большинство стран не рекомендуют посещать Иран."
+        },
+        "visa_comment_translations": {
+          "en": "An eVisa is theoretically available but not very reliable. A visa is best secured via a travel agency, which will get an official confirmation from the ministry. With this confirmation, you can then walk into any embassy and buy your visa.\nNote that citizens of the USA, UK, Canada and Australia can't travel on their own in Iran, they need a guide at all time.\nThe 30 days visa can be extended twice in most province capitals, so you could stay a total of 90 consecutive days in the country.\nSome nationalities can enter visa-free. Israelis can't enter at all.",
+          "fr": "Un visa électronique est théoriquement disponible, mais peu fiable. Il est préférable de passer par une agence de voyages pour obtenir un visa, qui se chargera d'obtenir une confirmation officielle du ministère. Grâce à cette confirmation, vous pourrez ensuite vous rendre dans n'importe quelle ambassade et acheter votre visa.\n\nVeuillez noter que les citoyens des États-Unis, du Royaume-Uni, du Canada et de l'Australie ne peuvent pas voyager seuls en Iran ; ils doivent être accompagnés d'un guide en permanence.\n\nLe visa de 30 jours peut être prolongé deux fois dans la plupart des capitales provinciales, ce qui vous permet de séjourner jusqu'à 90 jours consécutifs dans le pays.\n\nCertaines nationalités sont exemptées de visa. Les Israéliens ne sont pas autorisés à entrer en Iran.",
+          "de": "Ein elektronisches Visum (eVisum) ist zwar theoretisch erhältlich, aber nicht sehr zuverlässig. Ein Visum erhalten Sie am besten über ein Reisebüro, das Ihnen eine offizielle Bestätigung vom Ministerium ausstellt. Mit dieser Bestätigung können Sie dann in jeder Botschaft Ihr Visum beantragen.\nBitte beachten Sie, dass Staatsbürger der USA, Großbritanniens, Kanadas und Australiens nicht ohne Begleitung in den Iran reisen dürfen. Sie benötigen jederzeit einen Reiseführer.\nDas 30-Tage-Visum kann in den meisten Provinzhauptstädten zweimal verlängert werden, sodass Sie sich insgesamt bis zu 90 Tage am Stück im Land aufhalten können.\nEinige Nationalitäten können visumfrei einreisen. Israelis dürfen nicht einreisen.",
+          "it": "In teoria è possibile ottenere un visto elettronico, ma non è molto affidabile. Il modo migliore per ottenere un visto è tramite un'agenzia di viaggi, che si occuperà di ottenere una conferma ufficiale dal ministero competente. Con questa conferma, potrete poi recarvi in qualsiasi ambasciata e acquistare il visto.\nSi noti che i cittadini di Stati Uniti, Regno Unito, Canada e Australia non possono viaggiare da soli in Iran, ma devono essere accompagnati da una guida per tutta la durata del soggiorno.\nIl visto di 30 giorni può essere prorogato due volte nella maggior parte dei capoluoghi di provincia, consentendo quindi un soggiorno totale di 90 giorni consecutivi nel Paese.\nAlcune nazionalità possono entrare senza visto. Gli israeliani non possono entrare affatto.",
+          "es": "En teoría, existe una visa electrónica, pero no es muy fiable. Lo mejor es obtenerla a través de una agencia de viajes, que se encargará de conseguir una confirmación oficial del ministerio. Con esta confirmación, podrá acudir a cualquier embajada y comprar su visa.\n\nTenga en cuenta que los ciudadanos de EE. UU., Reino Unido, Canadá y Australia no pueden viajar solos a Irán; necesitan un guía en todo momento.\n\nLa visa de 30 días se puede prorrogar dos veces en la mayoría de las capitales de provincia, por lo que podría permanecer un total de 90 días consecutivos en el país.\nAlgunas nacionalidades pueden entrar sin visa. Los israelíes no pueden entrar en absoluto.",
+          "pt": "Um visto eletrônico (eVisa) está teoricamente disponível, mas não é muito confiável. A melhor maneira de obter um visto é por meio de uma agência de viagens, que conseguirá uma confirmação oficial do ministério. Com essa confirmação, você poderá ir a qualquer embaixada e comprar seu visto.\nObserve que cidadãos dos EUA, Reino Unido, Canadá e Austrália não podem viajar sozinhos para o Irã; eles precisam de um guia o tempo todo.\nO visto de 30 dias pode ser prorrogado duas vezes na maioria das capitais de província, então você poderia ficar um total de 90 dias consecutivos no país.\nAlgumas nacionalidades podem entrar sem visto. Israelenses não podem entrar de forma alguma.",
+          "nl": "Een e-visum is theoretisch beschikbaar, maar niet erg betrouwbaar. Het is het beste om een visum aan te vragen via een reisbureau, dat een officiële bevestiging van het ministerie zal verkrijgen. Met deze bevestiging kunt u vervolgens naar elke ambassade gaan en uw visum kopen.\n\nLet op: burgers van de VS, het VK, Canada en Australië kunnen niet zelfstandig naar Iran reizen; zij hebben te allen tijde een gids nodig.\n\nHet visum voor 30 dagen kan in de meeste provinciehoofdsteden tweemaal worden verlengd, waardoor u in totaal 90 aaneengesloten dagen in het land kunt verblijven.\n\nSommige nationaliteiten kunnen visumvrij binnenkomen. Israëliërs kunnen Iran helemaal niet in.",
+          "pl": "Wiza elektroniczna jest teoretycznie dostępna, ale nie jest zbyt wiarygodna. Wizę najlepiej uzyskać za pośrednictwem biura podróży, które otrzyma oficjalne potwierdzenie z ministerstwa. Z tym potwierdzeniem można udać się do dowolnej ambasady i kupić wizę.\nNależy pamiętać, że obywatele USA, Wielkiej Brytanii, Kanady i Australii nie mogą podróżować po Iranie samodzielnie, potrzebują przewodnika przez cały czas.\nWizę 30-dniową można przedłużyć dwukrotnie w większości stolic prowincji, co oznacza, że można przebywać w kraju łącznie 90 kolejnych dni.\nObywatele niektórych państw mogą wjechać bez wizy. Obywatele Izraela nie mogą wjechać w ogóle.",
+          "ru": "Электронная виза теоретически доступна, но не очень надежна. Лучше всего оформить визу через туристическое агентство, которое получит официальное подтверждение от министерства. С этим подтверждением вы можете обратиться в любое посольство и купить визу.\nОбратите внимание, что граждане США, Великобритании, Канады и Австралии не могут путешествовать в Иран самостоятельно, им постоянно необходим гид.\n30-дневную визу можно продлить дважды в большинстве столиц провинций, поэтому вы можете находиться в стране в общей сложности 90 дней подряд.\nГраждане некоторых стран могут въезжать без визы. Гражданам Израиля въезд вообще запрещен."
+        },
+        "carnet_comment_translations": {
+          "en": "A carnet is required. There are ways to get a temporary, Iran-only carnet at the border, which is very expensive and not refundable. So a carnet is a must to enter with their own vehicle.",
+          "fr": "Un carnet ATA est obligatoire. Il est possible d'obtenir un carnet ATA temporaire, valable uniquement en Iran, à la frontière, mais il est très coûteux et non remboursable. Un carnet ATA est donc indispensable pour entrer en Iran avec son propre véhicule.",
+          "de": "Ein Carnet ist erforderlich. Es gibt zwar Möglichkeiten, an der Grenze ein temporäres, nur für den Iran gültiges Carnet zu erhalten, dieses ist jedoch sehr teuer und wird nicht erstattet. Daher ist ein Carnet für die Einreise mit dem eigenen Fahrzeug zwingend notwendig.",
+          "it": "È necessario un carnet. Esistono modi per ottenere un carnet temporaneo, valido solo per l'Iran, direttamente alla frontiera, ma è molto costoso e non rimborsabile. Pertanto, il carnet è indispensabile per entrare nel Paese con il proprio veicolo.",
+          "es": "Se requiere un carnet. Existen maneras de obtener un carnet temporal válido solo para Irán en la frontera, pero es muy caro y no reembolsable. Por lo tanto, es indispensable contar con un carnet para ingresar con vehículo propio.",
+          "pt": "É necessário um Carnet de Passagem. Existem maneiras de obter um Carnet de Passagem temporário, válido apenas para o Irã, na fronteira, mas ele é muito caro e não reembolsável. Portanto, o Carnet de Passagem é imprescindível para entrar com veículo próprio.",
+          "nl": "Een carnet is vereist. Er zijn manieren om aan de grens een tijdelijk carnet te verkrijgen dat alleen geldig is in Iran, maar dit is erg duur en niet restitueerbaar. Een carnet is dus een absolute noodzaak om met een eigen voertuig het land binnen te komen.",
+          "pl": "Wymagany jest karnet. Istnieją sposoby na uzyskanie tymczasowego karnetu tylko dla Iranu na granicy, ale jest on bardzo drogi i nie podlega zwrotowi. Dlatego karnet jest niezbędny, aby wjechać własnym pojazdem.",
+          "ru": "Для въезда необходим карнет. Существуют способы получить на границе временный карнет, предназначенный только для Ирана, который очень дорог и не подлежит возврату. Поэтому карнет обязателен для въезда на собственном транспортном средстве."
+        },
+        "money_translations": {
+          "en": "Credit cards are not accepted in Iran, due to sanctions, so you'll need to bring in enough cash for your whole trip (USD/EUR preferred).\nThe current rate can be found here: https://www.bonbast.com\nNote that there are 2 series of bank notes in circulation: the old rial, and the new toman (sometimes labeled \"cheque\"), 1 toman = 10'000 rials. Actually, there are 3 currencies, because some Iranians still think in \"old\" tomans, which are worth 10 rials. So the rates on the above website are in \"old\" tomans, so multiply by 10 for rials, and divide by 1000 for the new tomans.",
+          "fr": "Les cartes de crédit ne sont pas acceptées en Iran en raison des sanctions. Vous devrez donc prévoir suffisamment d'argent liquide pour toute la durée de votre séjour (de préférence en USD ou EUR).\n\nLe taux de change actuel est disponible ici : https://www.bonbast.com\nNotez qu'il existe deux séries de billets en circulation : l'ancien rial et le nouveau toman (parfois appelé « chèque »). 1 toman = 10 000 rials. En réalité, il existe trois monnaies, car certains Iraniens raisonnent encore en « anciens » tomans, qui valent 10 rials. Les taux affichés sur le site mentionné ci-dessus sont donc en « anciens » tomans. Il faut donc multiplier par 10 pour obtenir des taux en rials et diviser par 1 000 pour obtenir des taux en nouveaux tomans.",
+          "de": "Aufgrund von Sanktionen werden in Iran keine Kreditkarten akzeptiert. Bringen Sie daher ausreichend Bargeld für Ihre gesamte Reise mit (vorzugsweise USD/EUR).\nDen aktuellen Wechselkurs finden Sie hier: https://www.bonbast.com\nBeachten Sie, dass zwei Banknotenserien im Umlauf sind: der alte Rial und der neue Toman (manchmal auch als „Scheck“ bezeichnet). 1 Toman entspricht 10.000 Rial. Tatsächlich gibt es drei Währungen, da einige Iraner noch immer mit dem alten Toman rechnen, der 10 Rial wert ist. Die Kurse auf der oben genannten Website beziehen sich daher auf den alten Toman. Multiplizieren Sie den Betrag mit 10 für Rial und teilen Sie ihn durch 1000 für den neuen Toman.",
+          "it": "A causa delle sanzioni, in Iran non si accettano carte di credito, quindi è necessario portare con sé contanti a sufficienza per l'intero viaggio (preferibilmente USD/EUR).\nIl tasso di cambio attuale è disponibile qui: https://www.bonbast.com\nSi noti che sono in circolazione due serie di banconote: il vecchio rial e il nuovo toman (a volte etichettato come \"assegno\"), 1 toman = 10.000 rial. In realtà, ci sono tre valute, perché alcuni iraniani ragionano ancora in termini di \"vecchi\" toman, che valgono 10 rial. Pertanto, i tassi di cambio sul sito web sopra indicato sono in \"vecchi\" toman, quindi moltiplicate per 10 per ottenere i rial e dividete per 1000 per i nuovi toman.",
+          "es": "Debido a las sanciones, en Irán no se aceptan tarjetas de crédito, por lo que deberá llevar suficiente efectivo para todo su viaje (se prefiere USD/EUR).\n\nPuede consultar el tipo de cambio actual aquí: https://www.bonbast.com\nTenga en cuenta que circulan dos series de billetes: el rial antiguo y el toman nuevo (a veces denominado \"cheque\"). 1 toman equivale a 10 000 riales. En realidad, existen tres monedas, ya que algunos iraníes aún utilizan los tomanes antiguos, que equivalen a 10 riales. Por lo tanto, los tipos de cambio en la página web mencionada están expresados en tomanes antiguos. Para obtener los riales, multiplique por 10 y para los tomanes nuevos, divida entre 1000.",
+          "pt": "Cartões de crédito não são aceitos no Irã devido às sanções, então você precisará levar dinheiro suficiente para toda a sua viagem (preferencialmente USD/EUR).\nA taxa de câmbio atual pode ser encontrada aqui: https://www.bonbast.com\nObserve que existem duas séries de notas bancárias em circulação: o rial antigo e o toman novo (às vezes chamado de \"cheque\"), 1 toman = 10.000 riais. Na verdade, existem três moedas, porque alguns iranianos ainda pensam em tomans \"antigos\", que valem 10 riais. Portanto, as taxas no site acima estão em tomans \"antigos\", então multiplique por 10 para riais e divida por 1000 para os tomans novos.",
+          "nl": "Creditcards worden in Iran niet geaccepteerd vanwege sancties, dus u moet voldoende contant geld meenemen voor uw hele reis (USD/EUR heeft de voorkeur).\n\nDe actuele wisselkoers vindt u hier: https://www.bonbast.com\nLet op: er zijn twee soorten bankbiljetten in omloop: de oude rial en de nieuwe toman (soms aangeduid als \"cheque\"), 1 toman = 10.000 rial. Eigenlijk zijn er drie valuta's, omdat sommige Iraniërs nog steeds in \"oude\" tomans denken, die 10 rial waard zijn. De koersen op de bovenstaande website zijn dus in \"oude\" tomans, vermenigvuldig met 10 voor rial en deel door 1000 voor de nieuwe toman.",
+          "pl": "Karty kredytowe nie są akceptowane w Iranie z powodu sankcji, dlatego należy zabrać ze sobą wystarczającą ilość gotówki na cały wyjazd (preferowane USD/EUR).\nAktualny kurs można znaleźć tutaj: https://www.bonbast.com\nNależy pamiętać, że w obiegu są dwie serie banknotów: stary rial i nowy toman (czasami nazywany „czekiem”). 1 toman = 10 000 riali. W rzeczywistości istnieją trzy waluty, ponieważ niektórzy Irańczycy nadal myślą w „starych” tomanach, które są warte 10 riali. Kursy na powyższej stronie internetowej są podane w „starych” tomanach, więc należy pomnożyć przez 10 w przypadku riali i podzielić przez 1000 w przypadku nowych tomanów.",
+          "ru": "В Иране кредитные карты не принимаются из-за санкций, поэтому вам нужно будет взять с собой достаточно наличных денег на всю поездку (предпочтительно доллары США/евро).\nАктуальный курс можно найти здесь: https://www.bonbast.com\nОбратите внимание, что в обращении находятся 2 серии банкнот: старый риал и новый томан (иногда обозначаемый как «чек»), 1 томан = 10 000 риалов. На самом деле существует 3 валюты, потому что некоторые иранцы до сих пор мыслят в «старых» томанах, которые стоят 10 риалов. Поэтому курсы на указанном выше сайте указаны в «старых» томанах, поэтому умножьте на 10 для риалов и разделите на 1000 для новых томанов."
         }
       },
       "borderIds": [],
@@ -6036,7 +6083,6 @@
         "timezone": "Asia/Baghdad",
         "visa": 2,
         "visa_url": "https://eservice.evisa.iq/",
-        "visa_comment": "The fee is 206,000 IQD, (about 160$) for most nationals (30 days).\nIf you require a visa for the Kurdistan region only, you can get it at the port of entry (100'000 IQD), or online (75$) at:\nhttps://visit.gov.krd/\nIsraelis are banned from Iraq.",
         "visa_comment_translations": {
           "en": "The fee is 206,000 IQD, (about 160$) for most nationals (30 days).\nIf you require a visa for the Kurdistan region only, you can get it at the port of entry (100'000 IQD), or online (75$) at:\nhttps://visit.gov.krd/\nIsraelis are banned from Iraq.",
           "fr": "Les frais s'élèvent à 206 000 IQD (environ 160 $) pour la plupart des ressortissants (séjour de 30 jours).\n\nSi vous avez besoin d'un visa uniquement pour la région du Kurdistan, vous pouvez l'obtenir au point d'entrée (100 000 IQD) ou en ligne (75 $) sur :\n\nhttps://visit.gov.krd/ Les ressortissants israéliens ne sont pas autorisés à entrer en Irak.",
@@ -6100,9 +6146,10 @@
           "zh": "伊拉克",
           "pt": "Iraque"
         },
+        "visa_comment": "The fee is 206,000 IQD, (about 160$) for most nationals (30 days).\nIf you require a visa for the Kurdistan region only, you can get it at the port of entry (100'000 IQD), or online (75$) at:\nhttps://visit.gov.krd/\nRecently, a transit visa has been introduced (70'000 IQD), available at the Kuwaiti border but maybe not on all border posts.\nIsraelis are banned from Iraq.",
         "updatedat": {
-          "_seconds": 1770199390,
-          "_nanoseconds": 906000000
+          "_seconds": 1775889866,
+          "_nanoseconds": 116000000
         }
       },
       "borderIds": [],
@@ -6188,8 +6235,6 @@
         "population": 8380000,
         "timezone": "Asia/Jerusalem",
         "visa": 0,
-        "visa_url": "https://israel-entry.piba.gov.il/",
-        "visa_comment": "Most nationalities can enter visa-free for 90 days maximum, but they'll need to apply beforehand for an Electronic Travel Authorization (ETA-IL), valid 2 years (see link).\nIsrael doesn't stamp in your passport, but i you also have a Jordanian exit stamp from a border post with Israel, then you can be refused the entry in some Arab countries.",
         "carnet": 0,
         "carnet_comment": "You can apply for a TIP and the entry border.",
         "visa_comment_translations": {
@@ -6240,9 +6285,10 @@
           "ru": "Израиль",
           "zh": "以色列"
         },
+        "visa_comment": "Most nationalities can enter visa-free for 90 days maximum, but they'll need to apply beforehand for an Electronic Travel Authorization (ETA-IL), valid 2 years : https://israel-entry.piba.gov.il/\nIsrael doesn't stamp in your passport, but i you also have a Jordanian exit stamp from a border post with Israel, then you can be refused the entry in some Arab countries.",
         "updatedat": {
-          "_seconds": 1770199391,
-          "_nanoseconds": 149000000
+          "_seconds": 1776526497,
+          "_nanoseconds": 206000000
         }
       },
       "borderIds": [],
@@ -6416,39 +6462,6 @@
         "visa": 2,
         "visa_url": "https://eservices.moi.gov.jo",
         "visa_comment": "e-visa is 40 JOD for 30 days, for most nationalities.\nIf you intend to visit Petra, buy the Jordan pass for 70 JOD, which includes entry to Petra and other sites:\nhttps://www.jordanpass.jo\nThere's a 10 JOD exit tax, to be paid at the border when leaving the country.\nNote that if you enter and exit at Aqaba, and stay for 2 night minimum, then the visa is free (and there's no exit tax).\nVisa extensions can be done in Amman and many other cities at the police station (40 JOD for up to 60 days).",
-        "comment_translations": {
-          "en": "Insurance (bike): 27 JOD\nCarnet stamp: 20 JOD",
-          "fr": "Assurance (vélo) : 27 JOD\nTimbre du carnet : 20 JOD",
-          "de": "Versicherung (Fahrrad): 27 JOD\nCarnet-Stempel: 20 JOD",
-          "it": "Assicurazione (bici): 27 JOD\nFrancobollo sul carnet: 20 JOD",
-          "es": "Seguro (bicicleta): 27 JOD\nSello del cuaderno: 20 JOD",
-          "pt": "Seguro (bicicleta): 27 JOD\nCarimbo de carnet: 20 JOD",
-          "nl": "Verzekering (fiets): 27 JOD\nCarnetstempel: 20 JOD",
-          "pl": "Ubezpieczenie (rower): 27 JOD\nZnaczek karnetu: 20 JOD",
-          "ru": "Страховка (велосипед): 27 JOD.\nКнижка-штамп: 20 динаров."
-        },
-        "carnet_comment_translations": {
-          "en": "You can enter without a carnet and stay with your vehicle up to 1 month (TIP).\nIf your vehicle has a petrol engine, you can extend your TIP at the custom office at the border.\nIf your vehicle has a diesel engine and you want to stay longer than 1 month, you need a carnet and have it stamped at the border.",
-          "fr": "Vous pouvez entrer sans carnet de passage en douane et rester avec votre véhicule jusqu'à un mois (TIP).\n\nSi votre véhicule est à essence, vous pouvez prolonger votre TIP au bureau de douane à la frontière.\n\nSi votre véhicule est diesel et que vous souhaitez rester plus d'un mois, vous devez être muni d'un carnet de passage en douane et le faire tamponner à la frontière.",
-          "de": "Sie können ohne Carnet einreisen und mit Ihrem Fahrzeug bis zu einem Monat bleiben (TIP).\nWenn Ihr Fahrzeug einen Benzinmotor hat, können Sie Ihre TIP beim Zollamt an der Grenze verlängern.\nWenn Ihr Fahrzeug einen Dieselmotor hat und Sie länger als einen Monat bleiben möchten, benötigen Sie ein Carnet, das Sie an der Grenze abstempeln lassen müssen.",
-          "it": "È possibile entrare senza carnet e rimanere con il proprio veicolo fino a 1 mese (TIP).\nSe il veicolo ha un motore a benzina, è possibile estendere il TIP presso l'ufficio doganale di frontiera.\nSe il veicolo ha un motore diesel e si desidera rimanere per più di 1 mese, è necessario un carnet e farlo timbrare alla frontiera.",
-          "es": "Puede entrar sin carnet y permanecer con su vehículo hasta un mes (TIP).\nSi su vehículo tiene motor de gasolina, puede extender su TIP en la aduana de la frontera.\nSi su vehículo tiene motor diésel y desea permanecer más de un mes, necesita un carnet y sellarlo en la frontera.",
-          "pt": "Você pode entrar sem um Carnet e permanecer com seu veículo por até 1 mês (TIP).\nSe o seu veículo tiver motor a gasolina, você pode estender seu TIP na alfândega na fronteira.\nSe o seu veículo tiver motor a diesel e você quiser ficar por mais de 1 mês, você precisa de um Carnet e carimbá-lo na fronteira.",
-          "nl": "Je kunt zonder carnet het land binnenkomen en maximaal 1 maand met je voertuig verblijven (TIP).\n\nAls je voertuig een benzinemotor heeft, kun je je TIP verlengen bij de douane aan de grens.\n\nAls je voertuig een dieselmotor heeft en je langer dan 1 maand wilt blijven, heb je een carnet nodig dat je aan de grens moet laten afstempelen.",
-          "pl": "Możesz wjechać bez karnetu i pozostać w swoim pojeździe do 1 miesiąca (TIP).\nJeśli Twój pojazd ma silnik benzynowy, możesz przedłużyć TIP w urzędzie celnym na granicy.\nJeśli Twój pojazd ma silnik Diesla i chcesz pozostać dłużej niż 1 miesiąc, potrzebujesz karnetu i podstempluj go na granicy.",
-          "ru": "Вы можете въехать без карнета и оставаться на своем транспортном средстве до 1 месяца (TIP).\nЕсли ваше транспортное средство оснащено бензиновым двигателем, вы можете продлить срок действия TIP на таможне на границе.\nЕсли ваше транспортное средство оснащено дизельным двигателем и вы хотите остаться дольше 1 месяца, вам потребуется карнет, который необходимо будет проштамповать на границе."
-        },
-        "visa_comment_translations": {
-          "en": "e-visa is 40 JOD for 30 days, for most nationalities.\nIf you intend to visit Petra, buy the Jordan pass for 70 JOD, which includes entry to Petra and other sites:\nhttps://www.jordanpass.jo\nThere's a 10 JOD exit tax, to be paid at the border when leaving the country.\nNote that if you enter and exit at Aqaba, and stay for 2 night minimum, then the visa is free (and there's no exit tax).\nVisa extensions can be done in Amman and many other cities at the police station (40 JOD for up to 60 days).",
-          "fr": "Le visa électronique coûte 40 JOD pour 30 jours, pour la plupart des nationalités.\n\nSi vous souhaitez visiter Petra, achetez le Jordan Pass à 70 JOD, qui inclut l'entrée à Petra et à d'autres sites :\n\nhttps://www.jordanpass.jo\nUne taxe de sortie de 10 JOD est à régler à la frontière lors de votre départ du pays.\n\nNotez que si vous entrez et sortez par Aqaba et que vous y séjournez au moins deux nuits, le visa est gratuit (et il n'y a pas de taxe de sortie).\n\nIl est possible de prolonger son visa à Amman et dans de nombreuses autres villes, au commissariat de police (40 JOD pour une durée maximale de 60 jours).",
-          "de": "Das E-Visum kostet 40 JOD und ist für die meisten Nationalitäten 30 Tage gültig.\nWenn Sie Petra besuchen möchten, erwerben Sie den Jordan Pass für 70 JOD. Dieser beinhaltet den Eintritt nach Petra und zu weiteren Sehenswürdigkeiten:\n\nhttps://www.jordanpass.jo\nBei der Ausreise wird eine Ausreisesteuer von 10 JOD erhoben, die an der Grenze zu entrichten ist.\nBitte beachten Sie: Bei Ein- und Ausreise über Aqaba und einem Aufenthalt von mindestens zwei Nächten ist das Visum kostenlos (und es fällt keine Ausreisesteuer an). Visumverlängerungen sind in Amman und vielen anderen Städten auf der Polizeiwache möglich (40 JOD für bis zu 60 Tage).",
-          "it": "Il visto elettronico costa 40 JOD per 30 giorni, per la maggior parte delle nazionalità.\nSe intendete visitare Petra, acquistate il Jordan Pass per 70 JOD, che include l'ingresso a Petra e ad altri siti:\nhttps://www.jordanpass.jo\nÈ prevista una tassa di uscita di 10 JOD, da pagare alla frontiera quando si lascia il Paese.\nSi noti che se si entra e si esce ad Aqaba e si rimane per almeno 2 notti, il visto è gratuito (e non è prevista alcuna tassa di uscita).\nLe estensioni del visto possono essere richieste ad Amman e in molte altre città presso la stazione di polizia (40 JOD fino a 60 giorni).",
-          "es": "La visa electrónica cuesta 40 JOD por 30 días para la mayoría de las nacionalidades.\nSi planea visitar Petra, compre el Jordan Pass por 70 JOD, que incluye la entrada a Petra y otros lugares:\nhttps://www.jordanpass.jo\nHay una tasa de salida de 10 JOD que debe pagarse en la frontera al salir del país.\nTenga en cuenta que si entra y sale por Áqaba y se queda un mínimo de dos noches, la visa es gratuita (y no hay tasa de salida).\nLas extensiones de visa se pueden solicitar en Amán y en muchas otras ciudades en la comisaría (40 JOD por hasta 60 días).",
-          "pt": "O visto eletrônico custa 40 JOD para 30 dias, para a maioria das nacionalidades.\nSe você pretende visitar Petra, compre o Jordan Pass por 70 JOD, que inclui a entrada em Petra e outros locais:\nhttps://www.jordanpass.jo\nHá uma taxa de saída de 10 JOD, a ser paga na fronteira ao sair do país.\nObserve que, se você entrar e sair por Aqaba e ficar por no mínimo 2 noites, o visto é gratuito (e não há taxa de saída).\n\nA prorrogação do visto pode ser feita em Amã e muitas outras cidades na delegacia de polícia (40 JOD por até 60 dias).",
-          "nl": "Een e-visum kost 40 JOD voor 30 dagen, voor de meeste nationaliteiten.\n\nAls u Petra wilt bezoeken, koop dan de Jordan Pass voor 70 JOD. Deze pas geeft toegang tot Petra en andere bezienswaardigheden:\nhttps://www.jordanpass.jo\nEr is een uitreisbelasting van 10 JOD, die u aan de grens moet betalen bij het verlaten van het land.\n\nLet op: als u via Aqaba het land binnenkomt en verlaat en minimaal twee nachten blijft, is het visum gratis (en hoeft u geen uitreisbelasting te betalen).\n\nU kunt uw visum verlengen in Amman en vele andere steden bij het politiebureau (40 JOD voor maximaal 60 dagen).",
-          "pl": "Wiza elektroniczna kosztuje 40 JOD na 30 dni dla większości narodowości.\nJeśli planujesz odwiedzić Petrę, kup Jordan Pass za 70 JOD, który obejmuje wstęp do Petry i innych miejsc:\nhttps://www.jordanpass.jo\nNa granicy należy uiścić podatek wyjazdowy w wysokości 10 JOD.\nPamiętaj, że jeśli wjedziesz i wyjedziesz z Akaby i zostaniesz na minimum 2 noce, wiza jest bezpłatna (i nie ma podatku wyjazdowego).\nPrzedłużenia wizy można dokonać w Ammanie i wielu innych miastach na komisariacie policji (40 JOD na okres do 60 dni).",
-          "ru": "Электронная виза стоит 40 иорданских динаров на 30 дней для большинства национальностей.\nЕсли вы планируете посетить Петру, купите Jordan Pass за 70 иорданских динаров, который включает вход в Петру и другие достопримечательности:\nhttps://www.jordanpass.jo\nПри выезде из страны взимается налог в размере 10 иорданских динаров.\nОбратите внимание, что если вы въезжаете и выезжаете через Акабу и остаетесь минимум на 2 ночи, то виза бесплатна (и налог на выезд не взимается).\nПродление визы можно оформить в Аммане и многих других городах в полицейском участке (40 иорданских динаров на срок до 60 дней)."
-        },
         "bounding_box": [
           34.950781,
           29.190479,
@@ -6477,15 +6490,81 @@
           "zh": "约旦",
           "pt": "Jordânia"
         },
-        "stay_duration": "30 days (sometimes you can ask for more).",
         "carnet": 0,
-        "tip": "TIP is given at then entry for 20 JOD.",
         "insurance": 1,
         "insurance_comment": "Insurance price is (1 month):\n- bike: 20 JOD\n- car: 53 JOD\n- camper: 100 JOD",
         "comment": "Exit fees: 10 JOD pp + 25 JOD per car.",
+        "stay_duration": "30 days (sometimes you can ask for more). Can be extended.",
+        "tip": "TIP is given at then entry for 20 JOD.\nExit tax for the vehicle: 25 JOD.",
         "updatedat": {
-          "_seconds": 1774585218,
-          "_nanoseconds": 837000000
+          "_seconds": 1775891745,
+          "_nanoseconds": 477000000
+        },
+        "comment_translations": {
+          "en": "Exit fees: 10 JOD pp + 25 JOD per car.",
+          "fr": "Frais de sortie : 10 JOD par personne + 25 JOD par voiture.",
+          "de": "Ausfahrtgebühren: 10 JOD pro Person + 25 JOD pro Auto.",
+          "it": "Tasse di uscita: 10 JOD a persona + 25 JOD per auto.",
+          "es": "Tasas de salida: 10 JOD por persona + 25 JOD por coche.",
+          "pt": "Taxas de saída: 10 JOD por pessoa + 25 JOD por carro.",
+          "nl": "Uitrijkosten: 10 JOD per persoon + 25 JOD per auto.",
+          "pl": "Opłata wyjazdowa: 10 JOD za osobę + 25 JOD za samochód.",
+          "ru": "Плата за выезд: 10 иорданских динаров с человека + 25 иорданских динаров за автомобиль."
+        },
+        "visa_comment_translations": {
+          "en": "e-visa is 40 JOD for 30 days, for most nationalities.\nIf you intend to visit Petra, buy the Jordan pass for 70 JOD, which includes entry to Petra and other sites:\nhttps://www.jordanpass.jo\nThere's a 10 JOD exit tax, to be paid at the border when leaving the country.\nNote that if you enter and exit at Aqaba, and stay for 2 night minimum, then the visa is free (and there's no exit tax).\nVisa extensions can be done in Amman and many other cities at the police station (40 JOD for up to 60 days).",
+          "fr": "Le visa électronique coûte 40 JOD pour 30 jours, pour la plupart des nationalités.\n\nSi vous souhaitez visiter Petra, achetez le Jordan Pass à 70 JOD, qui inclut l'entrée à Petra et à d'autres sites :\n\nhttps://www.jordanpass.jo\nUne taxe de sortie de 10 JOD est à régler à la frontière lors de votre départ du pays.\n\nNotez que si vous entrez et sortez par Aqaba et que vous y séjournez au moins deux nuits, le visa est gratuit (et il n'y a pas de taxe de sortie).\n\nIl est possible de prolonger son visa à Amman et dans de nombreuses autres villes, au commissariat de police (40 JOD pour un séjour jusqu'à 60 jours).",
+          "de": "Das E-Visum kostet 40 JOD und ist für die meisten Nationalitäten 30 Tage gültig.\nWenn Sie Petra besuchen möchten, erwerben Sie den Jordan Pass für 70 JOD. Dieser beinhaltet den Eintritt nach Petra und zu weiteren Sehenswürdigkeiten:\n\nhttps://www.jordanpass.jo\nBei der Ausreise wird eine Ausreisesteuer von 10 JOD erhoben, die an der Grenze zu entrichten ist.\nBitte beachten Sie: Bei Ein- und Ausreise über Aqaba und einem Aufenthalt von mindestens zwei Nächten ist das Visum kostenlos (und es fällt keine Ausreisesteuer an). Visumverlängerungen sind in Amman und vielen anderen Städten auf der Polizeiwache möglich (40 JOD für bis zu 60 Tage).",
+          "it": "Il visto elettronico costa 40 JOD per 30 giorni ed è valido per la maggior parte delle nazionalità.\n\nSe intendete visitare Petra, acquistate il Jordan Pass per 70 JOD, che include l'ingresso a Petra e ad altri siti:\nhttps://www.jordanpass.jo\nÈ prevista una tassa di uscita di 10 JOD, da pagare alla frontiera al momento di lasciare il Paese.\nSi noti che se si entra e si esce da Aqaba e si soggiorna per almeno 2 notti, il visto è gratuito (e non si paga la tassa di uscita).\nÈ possibile richiedere un'estensione del visto ad Amman e in molte altre città presso la stazione di polizia (40 JOD fino a 60 giorni).",
+          "es": "La visa electrónica cuesta 40 JOD por 30 días para la mayoría de las nacionalidades.\nSi planea visitar Petra, compre el Jordan Pass por 70 JOD, que incluye la entrada a Petra y otros sitios:\nhttps://www.jordanpass.jo\nHay un impuesto de salida de 10 JOD, que se paga en la frontera al salir del país.\nTenga en cuenta que si entra y sale por Aqaba y se queda un mínimo de 2 noches, la visa es gratuita (y no hay impuesto de salida).\nLas extensiones de visa se pueden tramitar en Amán y muchas otras ciudades en la comisaría de policía (40 JOD por hasta 60 días).",
+          "pt": "O visto eletrônico custa 40 JOD para 30 dias, para a maioria das nacionalidades.\nSe você pretende visitar Petra, compre o Jordan Pass por 70 JOD, que inclui a entrada em Petra e outros locais:\nhttps://www.jordanpass.jo\nHá uma taxa de saída de 10 JOD, a ser paga na fronteira ao sair do país.\nObserve que, se você entrar e sair por Aqaba e ficar por no mínimo 2 noites, o visto é gratuito (e não há taxa de saída).\n\nA prorrogação do visto pode ser feita em Amã e muitas outras cidades na delegacia de polícia (40 JOD por até 60 dias).",
+          "nl": "Een e-visum kost 40 JOD voor 30 dagen, voor de meeste nationaliteiten.\n\nAls u Petra wilt bezoeken, koop dan de Jordan Pass voor 70 JOD. Deze pas geeft toegang tot Petra en andere bezienswaardigheden:\nhttps://www.jordanpass.jo\nEr is een uitreisbelasting van 10 JOD, die u aan de grens moet betalen bij het verlaten van het land.\n\nLet op: als u via Aqaba het land binnenkomt en verlaat en minimaal twee nachten blijft, is het visum gratis (en hoeft u geen uitreisbelasting te betalen).\n\nU kunt uw visum verlengen in Amman en vele andere steden bij het politiebureau (40 JOD voor maximaal 60 dagen).",
+          "pl": "Wiza elektroniczna kosztuje 40 JOD na 30 dni dla większości narodowości.\nJeśli planujesz odwiedzić Petrę, kup Jordan Pass za 70 JOD, który obejmuje wstęp do Petry i innych miejsc:\nhttps://www.jordanpass.jo\nNa granicy należy uiścić podatek wyjazdowy w wysokości 10 JOD.\nPamiętaj, że jeśli wjedziesz i wyjedziesz z Akaby i zostaniesz na minimum 2 noce, wiza jest bezpłatna (i nie ma podatku wyjazdowego).\nPrzedłużenia wizy można dokonać w Ammanie i wielu innych miastach na komisariacie policji (40 JOD na okres do 60 dni).",
+          "ru": "Электронная виза стоит 40 иорданских динаров на 30 дней для большинства национальностей.\nЕсли вы планируете посетить Петру, купите Jordan Pass за 70 иорданских динаров, который включает вход в Петру и другие достопримечательности:\nhttps://www.jordanpass.jo\nПри выезде из страны взимается налог в размере 10 иорданских динаров.\nОбратите внимание, что если вы въезжаете и выезжаете через Акабу и остаетесь минимум на 2 ночи, то виза бесплатна (и налог на выезд не взимается).\nПродление визы можно оформить в Аммане и многих других городах в полицейском участке (40 иорданских динаров на срок до 60 дней)."
+        },
+        "carnet_comment_translations": {
+          "en": "You can enter without a carnet and stay with your vehicle up to 1 month (TIP).\nIf your vehicle has a petrol engine, you can extend your TIP at the custom office at the border.\nIf your vehicle has a diesel engine and you want to stay longer than 1 month, you need a carnet and have it stamped at the border.",
+          "fr": "Vous pouvez entrer sans carnet de passage en douane et rester avec votre véhicule jusqu'à un mois (TIP).\n\nSi votre véhicule est à essence, vous pouvez prolonger votre TIP au bureau de douane à la frontière.\n\nSi votre véhicule est diesel et que vous souhaitez rester plus d'un mois, vous devez être muni d'un carnet de passage en douane et le faire tamponner à la frontière.",
+          "de": "Sie können ohne Carnet einreisen und mit Ihrem Fahrzeug bis zu einem Monat bleiben (TIP).\nWenn Ihr Fahrzeug einen Benzinmotor hat, können Sie Ihre TIP beim Zollamt an der Grenze verlängern.\nWenn Ihr Fahrzeug einen Dieselmotor hat und Sie länger als einen Monat bleiben möchten, benötigen Sie ein Carnet, das Sie an der Grenze abstempeln lassen müssen.",
+          "it": "È possibile entrare senza carnet e rimanere con il proprio veicolo fino a un mese (TIP).\n\nSe il veicolo è dotato di motore a benzina, è possibile prolungare il soggiorno TIP presso l'ufficio doganale di frontiera.\nSe il veicolo è dotato di motore diesel e si desidera rimanere per più di un mese, è necessario un carnet da far timbrare alla frontiera.",
+          "es": "Puedes entrar sin carnet y permanecer con tu vehículo hasta un mes (TIP).\n\nSi tu vehículo tiene motor de gasolina, puedes extender tu TIP en la aduana de la frontera.\n\nSi tu vehículo tiene motor diésel y quieres permanecer más de un mes, necesitas un carnet y debes sellarlo en la frontera.",
+          "pt": "Você pode entrar sem um Carnet e permanecer com seu veículo por até 1 mês (TIP).\nSe o seu veículo tiver motor a gasolina, você pode estender seu TIP na alfândega na fronteira.\nSe o seu veículo tiver motor a diesel e você quiser ficar por mais de 1 mês, você precisa de um Carnet e carimbá-lo na fronteira.",
+          "nl": "Je kunt zonder carnet het land binnenkomen en maximaal 1 maand met je voertuig verblijven (TIP).\n\nAls je voertuig een benzinemotor heeft, kun je je TIP verlengen bij de douane aan de grens.\n\nAls je voertuig een dieselmotor heeft en je langer dan 1 maand wilt blijven, heb je een carnet nodig dat je aan de grens moet laten afstempelen.",
+          "pl": "Możesz wjechać bez karnetu i pozostać w swoim pojeździe do 1 miesiąca (TIP).\nJeśli Twój pojazd ma silnik benzynowy, możesz przedłużyć TIP w urzędzie celnym na granicy.\nJeśli Twój pojazd ma silnik Diesla i chcesz pozostać dłużej niż 1 miesiąc, potrzebujesz karnetu i podstempluj go na granicy.",
+          "ru": "Вы можете въехать без карнета и оставаться на своем транспортном средстве до 1 месяца (TIP).\nЕсли ваше транспортное средство оснащено бензиновым двигателем, вы можете продлить срок действия TIP на таможне на границе.\nЕсли ваше транспортное средство оснащено дизельным двигателем и вы хотите остаться дольше 1 месяца, вам потребуется карнет, который необходимо будет проштамповать на границе."
+        },
+        "insurance_comment_translations": {
+          "en": "Insurance price is (1 month):\n- bike: 20 JOD\n- car: 53 JOD\n- camper: 100 JOD",
+          "fr": "Prix de l'assurance (1 mois) :\n\n- moto : 20 JOD\n\n- voiture : 53 JOD\n\n- camping-car : 100 JOD",
+          "de": "Die Versicherungskosten betragen (1 Monat):\n- Fahrrad: 20 JOD\n- Auto: 53 JOD\n- Wohnmobil: 100 JOD",
+          "it": "Il costo dell'assicurazione (per 1 mese) è il seguente:\n- moto: 20 JOD\n- auto: 53 JOD\n- camper: 100 JOD",
+          "es": "El precio del seguro (1 mes) es:\n- Moto: 20 JOD\n- Coche: 53 JOD\n- Autocaravana: 100 JOD",
+          "pt": "O preço do seguro (1 mês) é:\n- moto: 20 JOD\n- carro: 53 JOD\n- autocaravana: 100 JOD",
+          "nl": "De verzekeringskosten bedragen (voor 1 maand):\n- fiets: 20 JOD\n- auto: 53 JOD\n- camper: 100 JOD",
+          "pl": "Cena ubezpieczenia (1 miesiąc):\n- rower: 20 JOD\n- samochód: 53 JOD\n- kamper: 100 JOD",
+          "ru": "Стоимость страховки (на 1 месяц):\n- мотоцикл: 20 JOD\n- автомобиль: 53 JOD\n- кемпер: 100 JOD"
+        },
+        "tip_translations": {
+          "en": "TIP is given at then entry for 20 JOD.\nExit tax for the vehicle: 25 JOD.",
+          "fr": "Un pourboire de 20 JOD est perçu à l'entrée.\n\nTaxe de sortie pour le véhicule : 25 JOD.",
+          "de": "Bei der Einfahrt wird ein Trinkgeld von 20 JOD erhoben.\nAusfahrtsteuer für das Fahrzeug: 25 JOD.",
+          "it": "La mancia viene data all'ingresso e ammonta a 20 JOD.\nLa tassa di uscita per il veicolo è di 25 JOD.",
+          "es": "Se aplica una propina de 20 JOD al entrar.\n\nImpuesto de salida para el vehículo: 25 JOD.",
+          "pt": "A gorjeta é de 20 JOD na entrada.\nTaxa de saída para o veículo: 25 JOD.",
+          "nl": "Fooi wordt bij binnenkomst gegeven voor 20 JOD.\n\nUitreisbelasting voor het voertuig: 25 JOD.",
+          "pl": "Przy wjeździe pobierany jest napiwek w wysokości 20 JOD.\nPodatek wyjazdowy od pojazdu: 25 JOD.",
+          "ru": "Чаевые в размере 20 иорданских динаров вносятся при въезде.\nНалог на выезд транспортного средства: 25 иорданских динаров."
+        },
+        "stay_duration_translations": {
+          "en": "30 days (sometimes you can ask for more). Can be extended.",
+          "fr": "30 jours (possibilité de prolongation).",
+          "de": "30 Tage (manchmal kann man um mehr bitten). Kann verlängert werden.",
+          "it": "30 giorni (a volte è possibile richiedere una proroga). Prorogabile.",
+          "es": "30 días (en ocasiones se puede solicitar más). Se puede prorrogar.",
+          "pt": "30 dias (em alguns casos, é possível solicitar um prazo maior). Pode ser prorrogado.",
+          "nl": "30 dagen (soms kun je om meer vragen). Kan worden verlengd.",
+          "pl": "30 dni (czasem można poprosić o więcej). Możliwość przedłużenia.",
+          "ru": "30 дней (иногда можно запросить больше). Срок может быть продлен."
         }
       },
       "borderIds": [],
@@ -6672,9 +6751,10 @@
           "pt": "Astana"
         },
         "visa_comment": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days.\nYou can stay up to 90 days within a period of 180 days, and up to 120 days during a calendar year.",
+        "comment": "Credit cards don't work, bring enough cash (USD, Euros,.. doesn't matter).\nYou'll need a health insurance coverage, either your own can give you a letter certifying you're covered in Russia, or you can get one online rather cheaply: http://visatorus.com",
         "updatedat": {
-          "_seconds": 1774585922,
-          "_nanoseconds": 328000000
+          "_seconds": 1775891524,
+          "_nanoseconds": 831000000
         }
       },
       "borderIds": [],
@@ -7396,11 +7476,6 @@
       "parameters": {
         "adm0_a3": "LBN",
         "area": 10450,
-        "borders": {
-          "-KwAYrisG63ptYEeOH9d": "SYR",
-          "-KwAYrisG63ptYEeOH9f": "ISR",
-          "-KwAYrjY8-mf4T_6ahLa": "ISR"
-        },
         "capital": "بيروت",
         "carnet": 2,
         "continent": "Asia",
@@ -7415,17 +7490,6 @@
         "visa": 1,
         "insurance": 1,
         "carnet_comment": "It seems it's possible to enter without carnet, by paying a tax/bribe. To be on the safe side, come with a carnet.\nNote that diesel vehicles older than 8 years cannot enter Lebanon.",
-        "carnet_comment_translations": {
-          "en": "It seems it's possible to enter without carnet, by paying a tax/bribe. To be on the safe side, come with a carnet.\nNote that diesel vehicles older than 8 years cannot enter Lebanon.",
-          "fr": "Il semble possible d'entrer sans carnet ATA, moyennant le paiement d'une taxe ou d'un pot-de-vin. Par précaution, munissez-vous d'un carnet ATA.\n\nNotez que les véhicules diesel de plus de 8 ans ne sont pas autorisés à entrer au Liban.",
-          "de": "Es scheint möglich zu sein, ohne Carnet einzureisen, indem man eine Gebühr oder ein Schmiergeld zahlt. Um sicherzugehen, sollten Sie jedoch mit einem Carnet reisen.\nBitte beachten Sie, dass Dieselfahrzeuge, die älter als acht Jahre sind, nicht in den Libanon einreisen dürfen.",
-          "it": "Sembra che sia possibile entrare senza carnet, pagando una tassa/tangente. Per sicurezza, è consigliabile presentarsi con un carnet.\nSi prega di notare che i veicoli diesel con più di 8 anni non possono entrare in Libano.",
-          "es": "Parece que es posible entrar sin carnet, pagando un impuesto o un soborno. Para mayor seguridad, venga con un carnet.\nTenga en cuenta que los vehículos diésel con más de 8 años de antigüedad no pueden entrar al Líbano.",
-          "pt": "Parece ser possível entrar sem o Carnet de Passagem, mediante o pagamento de uma taxa/suborno. Para garantir, venha com o Carnet de Passagem.\nObserve que veículos a diesel com mais de 8 anos não podem entrar no Líbano.",
-          "nl": "Het lijkt mogelijk om zonder carnet het land binnen te komen door belasting/omkoping te betalen. Voor de zekerheid is het verstandig om met een carnet te komen.\n\nLet op: dieselvoertuigen ouder dan 8 jaar mogen Libanon niet in.",
-          "pl": "Wygląda na to, że można wjechać bez karnetu, płacąc podatek/łapówkę. Dla bezpieczeństwa warto zabrać ze sobą karnet.\nNależy pamiętać, że pojazdy z silnikiem Diesla starsze niż 8 lat nie mogą wjeżdżać do Libanu.",
-          "ru": "Похоже, въезд возможен без карнета, заплатив налог/взятку. На всякий случай лучше иметь карнет.\nОбратите внимание, что дизельные автомобили старше 8 лет не могут въезжать в Ливан."
-        },
         "bounding_box": [
           35.108594,
           33.075684,
@@ -7454,9 +7518,36 @@
           "zh": "黎巴嫩",
           "pt": "Líbano"
         },
+        "borders": {
+          "-KwAYrisG63ptYEeOH9d": "SYR",
+          "-KwAYrisG63ptYEeOH9f": "ISR"
+        },
+        "money": "Du to high inflation rate, USD is preferred to the local pound except for small transactions.",
         "updatedat": {
-          "_seconds": 1770199392,
-          "_nanoseconds": 646000000
+          "_seconds": 1776784615,
+          "_nanoseconds": 425000000
+        },
+        "carnet_comment_translations": {
+          "en": "It seems it's possible to enter without carnet, by paying a tax/bribe. To be on the safe side, come with a carnet.\nNote that diesel vehicles older than 8 years cannot enter Lebanon.",
+          "fr": "Il semble possible d'entrer sans carnet ATA, moyennant le paiement d'une taxe ou d'un pot-de-vin. Par précaution, munissez-vous d'un carnet ATA.\n\nNotez que les véhicules diesel de plus de 8 ans ne sont pas autorisés à entrer au Liban.",
+          "de": "Es scheint möglich zu sein, ohne Carnet einzureisen, indem man eine Gebühr oder ein Schmiergeld zahlt. Um sicherzugehen, sollten Sie jedoch mit einem Carnet reisen.\nBitte beachten Sie, dass Dieselfahrzeuge, die älter als acht Jahre sind, nicht in den Libanon einreisen dürfen.",
+          "it": "Sembra possibile entrare senza carnet, pagando una tassa/tangente. Per sicurezza, è meglio munirsi di carnet.\nSi noti che i veicoli diesel con più di 8 anni non possono entrare in Libano.",
+          "es": "Parece que es posible entrar sin carnet, pagando un impuesto o soborno. Para mayor seguridad, es mejor llevar el carnet.\n\nTenga en cuenta que los vehículos diésel con más de 8 años de antigüedad no pueden entrar en Líbano.",
+          "pt": "Parece ser possível entrar sem o Carnet de Passagem, mediante o pagamento de uma taxa/suborno. Para garantir, venha com o Carnet de Passagem.\nObserve que veículos a diesel com mais de 8 anos não podem entrar no Líbano.",
+          "nl": "Het lijkt mogelijk om zonder carnet het land binnen te komen door belasting/omkoping te betalen. Voor de zekerheid is het verstandig om met een carnet te komen.\n\nLet op: dieselvoertuigen ouder dan 8 jaar mogen Libanon niet in.",
+          "pl": "Wygląda na to, że można wjechać bez karnetu, płacąc podatek/łapówkę. Dla bezpieczeństwa warto zabrać ze sobą karnet.\nNależy pamiętać, że pojazdy z silnikiem Diesla starsze niż 8 lat nie mogą wjeżdżać do Libanu.",
+          "ru": "Похоже, въезд возможен без карнета, заплатив налог/взятку. На всякий случай лучше иметь карнет.\nОбратите внимание, что дизельные автомобили старше 8 лет не могут въезжать в Ливан."
+        },
+        "money_translations": {
+          "en": "Du to high inflation rate, USD is preferred to the local pound except for small transactions.",
+          "fr": "En raison du taux d'inflation élevé, le dollar américain est préféré à la livre sterling locale, sauf pour les petites transactions.",
+          "de": "Aufgrund der hohen Inflationsrate wird der US-Dollar dem lokalen Pfund vorgezogen, außer bei kleinen Transaktionen.",
+          "it": "A causa dell'elevato tasso di inflazione, il dollaro statunitense è preferito alla sterlina locale, tranne che per le transazioni di piccolo importo.",
+          "es": "Debido a la alta tasa de inflación, se prefiere el dólar estadounidense a la libra esterlina, excepto para transacciones pequeñas.",
+          "pt": "Devido à alta taxa de inflação, o dólar americano é preferível à libra esterlina local, exceto para pequenas transações.",
+          "nl": "Vanwege de hoge inflatie heeft de Amerikaanse dollar de voorkeur boven het lokale pond, behalve voor kleine transacties.",
+          "pl": "Ze względu na wysoką inflację dolary amerykańskie są preferowaną walutą zamiast funta szterlinga, z wyjątkiem małych transakcji.",
+          "ru": "Из-за высокого уровня инфляции доллар США предпочтительнее местного фунта стерлингов, за исключением мелких транзакций."
         }
       },
       "borderIds": [],
@@ -10979,9 +11070,10 @@
         },
         "insurance": 2,
         "carnet_comment": "If you don' have a carnet, you can also make a deposit of 65$ + a non-refundable fee of 120$.",
+        "insurance_url": "https://msar.com.qa",
         "updatedat": {
-          "_seconds": 1774585731,
-          "_nanoseconds": 84000000
+          "_seconds": 1775891816,
+          "_nanoseconds": 861000000
         }
       },
       "borderIds": [],
@@ -11087,54 +11179,8 @@
         "insurance": 1,
         "tip": "A free TIP is provided when you enter from Europe, or Mongolia, Georgia, etc.. it is valid also for Kazakhstan and Kyrgyzstan, which share a customs union. So when you cross between these countries, there will be no customs, only immigration, and you keep your TIP until you exit one of these countries.",
         "stay_duration": "12 months, including time spent in Kazakhstan and Kyrgyzstan.",
-        "stay_duration_translations": {
-          "en": "12 months, including time spent in Kazakhstan and Kyrgyzstan.",
-          "fr": "12 mois, y compris le temps passé au Kazakhstan et au Kirghizistan.",
-          "de": "12 Monate, einschließlich der Zeit in Kasachstan und Kirgisistan.",
-          "it": "12 mesi, compreso il tempo trascorso in Kazakistan e Kirghizistan.",
-          "es": "12 meses, incluido el tiempo pasado en Kazajstán y Kirguistán.",
-          "pt": "12 meses, incluindo o tempo passado no Cazaquistão e no Quirguistão.",
-          "nl": "12 maanden, inclusief de tijd doorgebracht in Kazachstan en Kirgizië.",
-          "pl": "12 miesięcy, wliczając czas spędzony w Kazachstanie i Kirgistanie.",
-          "ru": "12 месяцев, включая время, проведенное в Казахстане и Кыргызстане."
-        },
         "visa": 2,
-        "comment": "Geopolitical note: for all intent and purposes, and no matter what the international law says, Crimea is owned and administered by Russia, so the map reflects that.\nTake cash with you, credit cards are not accepted in Russia because of the sanctions in place since the war in Ukraine started.\nNote that your GPS may not work in many places in Russia, in particular in the west and around military bases.\nForeigners can't buy a SIM card anymore, or only after a convoluted process.",
-        "visa_comment": "Important: stamp visas (not e-visas) are only available at the embassy of your home country. You'll need a support letter and proof of medical insurance to get your visa. You can ask for a 3-months or 6-months, multiple-entry visa (validity starts when it is issued).\nIn any other country, only a transit is (often) provided, such as in Tbilisi or in Tashkent, but it can take some time and is only valid for 3-10 days (typically 3 days in Tbilisi).\nAn e-visa is available (30 days), but it can be processed only at airports and certain land borders. In particular, it's not possible to enter (or exit) Russia from Kazakhstan with an e-visa. It's allowed at the Georgian and Mongolian borders, and the main borders with Estonia and Latvia (check the specific border post information).\nNote that you're given a \"migration card\" at the border, do not leave it, you'll have to return it at the exit border post.",
-        "visa_comment_translations": {
-          "en": "Important: stamp visas (not e-visas) are only available at the embassy of your home country. You'll need a support letter and proof of medical insurance to get your visa. You can ask for a 3-months or 6-months, multiple-entry visa (validity starts when it is issued).\nIn any other country, only a transit is (often) provided, such as in Tbilisi or in Tashkent, but it can take some time and is only valid for 3-10 days (typically 3 days in Tbilisi).\nAn e-visa is available (30 days), but it can be processed only at airports and certain land borders. In particular, it's not possible to enter (or exit) Russia from Kazakhstan with an e-visa. It's allowed at the Georgian and Mongolian borders, and the main borders with Estonia and Latvia (check the specific border post information).\nNote that you're given a \"migration card\" at the border, do not leave it, you'll have to return it at the exit border post.",
-          "fr": "Important : les visas papier (et non les visas électroniques) ne sont délivrés que par l’ambassade de votre pays d’origine. Vous aurez besoin d’une lettre de soutien et d’une attestation d’assurance maladie pour obtenir votre visa. Vous pouvez demander un visa à entrées multiples de 3 ou 6 mois (sa validité commence à sa date d’émission).\n\nDans tout autre pays, seul un visa de transit est (souvent) accordé, comme à Tbilissi ou à Tachkent. Ce transit peut prendre du temps et n’est valable que de 3 à 10 jours (généralement 3 jours à Tbilissi).\n\nUn visa électronique est disponible (30 jours), mais il ne peut être délivré que dans les aéroports et à certaines frontières terrestres. En particulier, il est impossible d’entrer (ou de sortir) de Russie depuis le Kazakhstan avec un visa électronique. Il est autorisé aux frontières géorgienne et mongole, ainsi qu’aux principales frontières avec l’Estonie et la Lettonie (veuillez consulter les informations spécifiques du poste frontière). Notez qu'une « carte de migration » vous est remise à la frontière ; ne la laissez pas sur place, vous devrez la restituer au poste frontière de sortie.",
-          "de": "Wichtig: Stempelvisa (keine E-Visa) sind nur bei der Botschaft Ihres Heimatlandes erhältlich. Sie benötigen ein Unterstützungsschreiben und einen Nachweis über Ihre Krankenversicherung. Sie können ein Visum mit mehrfacher Einreise für 3 oder 6 Monate beantragen (die Gültigkeit beginnt mit dem Ausstellungsdatum).\nIn anderen Ländern wird (oft) nur ein Transitvisum ausgestellt, beispielsweise in Tiflis oder Taschkent. Dies kann jedoch einige Zeit in Anspruch nehmen und ist nur 3–10 Tage gültig (in Tiflis in der Regel 3 Tage). Ein E-Visum (30 Tage) ist zwar erhältlich, kann aber nur an Flughäfen und bestimmten Landgrenzen beantragt werden. Insbesondere ist die Ein- und Ausreise nach Russland aus Kasachstan mit einem E-Visum nicht möglich. Es ist an den Grenzen zu Georgien und der Mongolei sowie an den Hauptgrenzen zu Estland und Lettland gültig (bitte informieren Sie sich an den jeweiligen Grenzübergängen).\n\nBeachten Sie, dass Sie an der Grenze eine „Migrationskarte“ erhalten. Lassen Sie diese nicht liegen, Sie müssen sie am Ausreisegrenzübergang zurückgeben.",
-          "it": "Importante: i visti con timbro (non i visti elettronici) sono disponibili solo presso l'ambasciata del tuo paese di origine. Per ottenere il visto, avrai bisogno di una lettera di presentazione e di una prova di assicurazione medica. Puoi richiedere un visto di 3 o 6 mesi con ingressi multipli (la validità inizia al momento del rilascio).\nIn qualsiasi altro paese, viene (spesso) fornito solo un visto di transito, come a Tbilisi o a Tashkent, ma può richiedere del tempo ed è valido solo per 3-10 giorni (in genere 3 giorni a Tbilisi).\nÈ disponibile un visto elettronico (30 giorni), ma può essere elaborato solo negli aeroporti e presso alcune frontiere terrestri. In particolare, non è possibile entrare (o uscire) dalla Russia dal Kazakistan con un visto elettronico. È consentito ai confini con Georgia e Mongolia e ai confini principali con Estonia e Lettonia (verificare le informazioni specifiche del posto di frontiera).\nTieni presente che alla frontiera ti verrà consegnata una \"carta di migrazione\": non lasciarla, dovrai restituirla al valico di frontiera di uscita.",
-          "es": "Importante: Las visas con sello (no las visas electrónicas) solo están disponibles en la embajada de su país de origen. Necesitará una carta de apoyo y un comprobante de seguro médico para obtener su visa. Puede solicitar una visa de entradas múltiples de 3 o 6 meses (la validez comienza al momento de su emisión).\nEn otros países, generalmente solo se ofrece un tránsito, como en Tiflis o Taskent, pero puede tardar un tiempo y solo es válida de 3 a 10 días (normalmente 3 días en Tiflis).\nHay una visa electrónica disponible (30 días), pero solo se puede tramitar en aeropuertos y ciertas fronteras terrestres. En particular, no es posible entrar (ni salir) de Rusia desde Kazajistán con una visa electrónica. Está permitida en las fronteras con Georgia y Mongolia, y en las fronteras principales con Estonia y Letonia (consulte la información específica del puesto fronterizo). Tenga en cuenta que en la frontera le entregan una \"tarjeta de migración\", no la deje, deberá devolverla en el puesto fronterizo de salida.",
-          "pt": "Importante: vistos com carimbo (não vistos eletrônicos) só estão disponíveis na embaixada do seu país de origem. Você precisará de uma carta de apoio e comprovante de seguro saúde para obter o visto. Você pode solicitar um visto de múltiplas entradas com validade de 3 ou 6 meses (a validade começa a contar a partir da data de emissão).\nEm outros países, geralmente é concedido apenas um visto de trânsito, como em Tbilisi ou Tashkent, mas o processo pode ser demorado e a validade é de apenas 3 a 10 dias (normalmente 3 dias em Tbilisi).\nExiste um visto eletrônico (30 dias), mas ele só pode ser processado em aeroportos e em determinadas fronteiras terrestres. Em particular, não é possível entrar (ou sair) da Rússia pelo Cazaquistão com um visto eletrônico. Ele é permitido nas fronteiras com a Geórgia e a Mongólia, e nas principais fronteiras com a Estônia e a Letônia (verifique as informações específicas do posto de fronteira).\nObserve que você receberá um \"cartão de imigração\" na fronteira; não o deixe lá, você terá que devolvê-lo no posto de fronteira de saída.",
-          "nl": "Belangrijk: een visum met stempel (geen e-visum) is alleen verkrijgbaar bij de ambassade van uw thuisland. U heeft een ondersteuningsbrief en een bewijs van medische verzekering nodig om uw visum te verkrijgen. U kunt een visum voor meerdere binnenkomsten aanvragen voor 3 of 6 maanden (de geldigheidsduur gaat in op de dag van afgifte).\n\nIn andere landen wordt (vaak) alleen een transitvisum verstrekt, bijvoorbeeld in Tbilisi of Tasjkent, maar dit kan enige tijd in beslag nemen en is slechts 3-10 dagen geldig (doorgaans 3 dagen in Tbilisi).\n\nEen e-visum is beschikbaar (30 dagen), maar kan alleen worden verwerkt op luchthavens en bepaalde landsgrenzen. Het is met name niet mogelijk om Rusland vanuit Kazachstan binnen te komen (of te verlaten) met een e-visum. Het is wel toegestaan aan de grens met Georgië en Mongolië, en aan de belangrijkste grenzen met Estland en Letland (controleer de specifieke informatie van de grenspost).\n\nLet op: u ontvangt een \"migratiekaart\" aan de grens. Laat deze niet achter, u moet hem weer inleveren bij de grenspost aan de uitgang.",
-          "pl": "Ważne: wizy stemplowe (nie e-wizy) są dostępne wyłącznie w ambasadzie Twojego kraju. Aby uzyskać wizę, będziesz potrzebować listu poparcia i dowodu ubezpieczenia zdrowotnego. Możesz ubiegać się o wizę wielokrotnego wjazdu na okres 3 lub 6 miesięcy (ważność rozpoczyna się w momencie jej wydania).\nW każdym innym kraju, na przykład w Tbilisi lub Taszkiencie, zapewniony jest (często) jedynie tranzyt, ale może to zająć trochę czasu i jest ważne tylko przez 3-10 dni (zwykle 3 dni w Tbilisi).\nWiza elektroniczna jest dostępna (30 dni), ale można ją uzyskać tylko na lotniskach i niektórych granicach lądowych. W szczególności nie można wjechać do Rosji (ani wyjechać) z Kazachstanu za pomocą wizy elektronicznej. Jest ona dozwolona na granicach z Gruzją i Mongolią oraz na głównych granicach z Estonią i Łotwą (sprawdź informacje o konkretnych przejściach granicznych).\nPamiętaj, że na granicy otrzymasz „kartę migracyjną”, nie zostawiaj jej, będziesz musiał ją zwrócić na przejściu granicznym.",
-          "ru": "Важно: визы с печатью (не электронные визы) можно получить только в посольстве вашей страны. Для получения визы вам потребуется письмо поддержки и подтверждение наличия медицинской страховки. Вы можете запросить многократную визу на 3 или 6 месяцев (срок действия начинается с момента выдачи).\nВ любой другой стране (часто) предоставляется только транзитная виза, например, в Тбилиси или Ташкенте, но она может занять некоторое время и действительна только в течение 3-10 дней (обычно 3 дня в Тбилиси).\nЭлектронная виза доступна (30 дней), но ее можно оформить только в аэропортах и на некоторых сухопутных границах. В частности, въезд (или выезд) из России из Казахстана по электронной визе невозможен. Она разрешена на границах с Грузией и Монголией, а также на основных границах с Эстонией и Латвией (уточните информацию на конкретном пограничном пункте).\nОбратите внимание, что на границе вам выдадут «миграционный пропуск», не оставляйте его, вам придется вернуть его на выездном пограничном пункте."
-        },
-        "tip_translations": {
-          "en": "A free TIP is provided when you enter from Europe, or Mongolia, Georgia, etc.. it is valid also for Kazakhstan and Kyrgyzstan, which share a customs union. So when you cross between these countries, there will be no customs, only immigration, and you keep your TIP until you exit one of these countries.",
-          "fr": "Un titre de transport gratuit est délivré à l'entrée du territoire venant d'Europe, de Mongolie, de Géorgie, etc. Il est également valable pour le Kazakhstan et le Kirghizistan, pays membres de l'union douanière. Ainsi, lors du passage entre ces pays, vous n'aurez aucun contrôle douanier, seulement un contrôle d'immigration, et vous conserverez votre titre de transport jusqu'à votre sortie du territoire.",
-          "de": "Bei der Einreise aus Europa, der Mongolei, Georgien usw. erhalten Sie eine kostenlose TIP-Karte. Diese gilt auch für Kasachstan und Kirgisistan, die eine Zollunion bilden. Beim Grenzübertritt zwischen diesen Ländern gibt es daher keine Zollkontrolle, sondern nur eine Einreisekontrolle. Ihre TIP-Karte behalten Sie bis zur Ausreise aus einem dieser Länder.",
-          "it": "Un TIP gratuito viene fornito quando si entra dall'Europa, dalla Mongolia, dalla Georgia, ecc. ed è valido anche per il Kazakistan e il Kirghizistan, che condividono un'unione doganale. Quindi, quando si attraversa uno di questi paesi, non ci saranno controlli doganali, solo per l'immigrazione, e si conserva il TIP fino all'uscita da uno di questi paesi.",
-          "es": "Se proporciona un TIP gratuito al entrar desde Europa, Mongolia, Georgia, etc. También es válido para Kazajistán y Kirguistán, que comparten una unión aduanera. Por lo tanto, al cruzar entre estos países, no habrá aduanas, solo inmigración, y conservará su TIP hasta que salga de uno de ellos.",
-          "pt": "Um TIP gratuito é fornecido ao entrar vindo da Europa, Mongólia, Geórgia, etc. Ele também é válido para o Cazaquistão e o Quirguistão, que compartilham uma união aduaneira. Portanto, ao cruzar entre esses países, não haverá alfândega, apenas imigração, e você mantém seu TIP até sair de um desses países.",
-          "nl": "Bij binnenkomst vanuit Europa, Mongolië, Georgië, enz. ontvangt u een gratis TIP (Travel Import Pass). Deze is ook geldig voor Kazachstan en Kirgizië, die een douane-unie delen. Wanneer u de grens tussen deze landen oversteekt, hoeft u zich dus niet door de douane te begeven, alleen door de immigratie. U behoudt uw TIP tot u een van deze landen weer verlaat.",
-          "pl": "Bezpłatny TIP przysługuje przy wjeździe z Europy, Mongolii, Gruzji itd. Jest on również ważny w Kazachstanie i Kirgistanie, które tworzą unię celną. Oznacza to, że przy przekroczeniu granicy między tymi krajami nie obowiązuje odprawa celna, obowiązuje jedynie kontrola imigracyjna, a TIP jest ważny do momentu opuszczenia jednego z tych krajów.",
-          "ru": "Бесплатный TIP предоставляется при въезде из Европы, Монголии, Грузии и т. д. Он также действителен для Казахстана и Кыргызстана, которые входят в таможенный союз. Таким образом, при пересечении границы между этими странами не будет таможенного контроля, только иммиграционный контроль, и ваш TIP будет действовать до выезда из одной из этих стран."
-        },
         "visa_url": "https://evisa.kdmid.ru/",
-        "comment_translations": {
-          "en": "Geopolitical note: for all intent and purposes, and no matter what the international law says, Crimea is owned and administered by Russia, so the map reflects that.\nTake cash with you, credit cards are not accepted in Russia because of the sanctions in place since the war in Ukraine started.\nNote that your GPS may not work in many places in Russia, in particular in the west and around military bases.\nForeigners can't buy a SIM card anymore, or only after a convoluted process.",
-          "de": "Geopolitischer Hinweis: De facto und unabhängig vom Völkerrecht gehört die Krim zu Russland und wird von Russland verwaltet. Die Karte spiegelt dies wider.\nNehmen Sie Bargeld mit. Kreditkarten werden in Russland aufgrund der seit dem Ukraine-Krieg geltenden Sanktionen nicht akzeptiert.\nBeachten Sie, dass Ihr GPS-Gerät in vielen Gegenden Russlands, insbesondere im Westen und in der Nähe von Militärbasen, möglicherweise nicht funktioniert. Ausländer können keine SIM-Karten mehr oder nur nach einem komplizierten Verfahren erwerben.",
-          "it": "Nota geopolitica: a tutti gli effetti, e indipendentemente da quanto stabilito dal diritto internazionale, la Crimea è di proprietà e amministrata dalla Russia, quindi la mappa lo riflette.\nPortate contanti con voi, le carte di credito non sono accettate in Russia a causa delle sanzioni in vigore dall'inizio della guerra in Ucraina.\nSi noti che il GPS potrebbe non funzionare in molte zone della Russia, in particolare nella parte occidentale e intorno alle basi militari.\nGli stranieri non possono più acquistare una scheda SIM, o lo possono fare solo dopo una procedura complicata.",
-          "es": "Nota geopolítica: a todos los efectos, y sin importar lo que diga el derecho internacional, Crimea pertenece a Rusia y está administrada por ella, por lo que el mapa lo refleja.\nLleve efectivo; en Rusia no se aceptan tarjetas de crédito debido a las sanciones vigentes desde el inicio de la guerra en Ucrania.\nTenga en cuenta que su GPS podría no funcionar en muchos lugares de Rusia, especialmente en el oeste y alrededor de bases militares.\nLos extranjeros ya no pueden comprar una tarjeta SIM, o solo pueden hacerlo tras un proceso complejo.",
-          "pt": "Nota geopolítica: para todos os efeitos práticos, e independentemente do que diga o direito internacional, a Crimeia pertence à Rússia e é administrada por ela, e o mapa reflete essa realidade.\nLeve dinheiro em espécie, pois cartões de crédito não são aceitos na Rússia devido às sanções em vigor desde o início da guerra na Ucrânia.\nObserve que seu GPS pode não funcionar em muitos lugares da Rússia, principalmente no oeste e ao redor de bases militares.\n\nEstrangeiros não podem mais comprar um chip SIM, ou só podem fazê-lo após um processo complexo.",
-          "nl": "Geopolitieke opmerking: in feite, en ongeacht wat het internationaal recht zegt, is de Krim eigendom van en wordt bestuurd door Rusland, dus de kaart weerspiegelt dat.\n\nNeem contant geld mee, creditcards worden in Rusland niet geaccepteerd vanwege de sancties die van kracht zijn sinds het begin van de oorlog in Oekraïne.\n\nHoud er rekening mee dat uw GPS mogelijk niet werkt op veel plaatsen in Rusland, met name in het westen en rond militaire bases.\n\nBuitenlanders kunnen geen simkaart meer kopen, of alleen na een ingewikkelde procedure.",
-          "pl": "Uwaga geopolityczna: pod każdym względem, niezależnie od tego, co stanowi prawo międzynarodowe, Krym jest własnością Rosji i jest przez nią administrowany, więc mapa to odzwierciedla.\nZabierz ze sobą gotówkę, karty kredytowe nie są akceptowane w Rosji z powodu sankcji obowiązujących od początku wojny na Ukrainie.\nPamiętaj, że Twój GPS może nie działać w wielu miejscach w Rosji, w szczególności na zachodzie i w pobliżu baz wojskowych.\nCudzoziemcy nie mogą już kupić karty SIM lub mogą to zrobić dopiero po przejściu skomplikowanej procedury.",
-          "ru": "Геополитическая справка: по сути, и независимо от положений международного права, Крым принадлежит России и находится под её управлением, поэтому карта это отражает.\nБерите с собой наличные, кредитные карты в России не принимаются из-за санкций, действующих с начала войны на Украине.\nОбратите внимание, что ваш GPS может не работать во многих местах в России, особенно на западе и вблизи военных баз.\nИностранцы больше не могут купить SIM-карту или могут сделать это только после сложной процедуры.",
-          "fr": "Note géopolitique : en pratique, et indépendamment du droit international, la Crimée est un territoire russe, administré par la Russie. La carte en tient compte.\nPrévoyez de l’argent liquide : les cartes de crédit ne sont pas acceptées en Russie en raison des sanctions en vigueur depuis le début de la guerre en Ukraine.\nSachez que votre GPS risque de ne pas fonctionner dans de nombreuses régions de Russie, notamment à l’ouest et aux abords des bases militaires.\nIl est désormais impossible pour les étrangers d’acheter une carte SIM, ou alors au terme d’une procédure complexe."
-        },
         "bounding_box": [
           28,
           41.199268,
@@ -11162,9 +11208,67 @@
           "zh": "莫斯科",
           "pt": "Moscou"
         },
+        "visa_comment": "Important: stamp visas (not e-visas) are only available at the embassy of your home country. You'll need a support letter and proof of medical insurance to get your visa. You can ask for a 3-months or 6-months, multiple-entry visa (validity starts when it is issued).\nIn any other country, only a transit is (often) provided, such as in Tbilisi or in Tashkent, but it can take some time and is only valid for 3-10 days. E.g. in Tbilisi, it costs 200$ and takes 2-3 weeks for a 3-days visa. In Bishkek, 140$ same day. It's seems also to be easy at the consulate in Antalya.\nAn e-visa is available (30 days), but it can be processed only at airports and certain land borders. In particular, it's not possible to enter (or exit) Russia from Kazakhstan with an e-visa. It's allowed at the Georgian and Mongolian borders, and the main borders with Estonia and Latvia (check the specific border post information).\nNote that you're given a \"migration card\" at the border, do not leave it, you'll have to return it at the exit border post.",
+        "comment": "Geopolitical note: for all intent and purposes, and no matter what the international law says, Crimea is owned and administered by Russia, so the map reflects that.\nTake cash with you, credit cards are not accepted in Russia because of the sanctions in place since the war in Ukraine started.\nNote that your GPS may not work in many places in Russia, in particular in the west and around military bases.\nForeigners can't buy a SIM card anymore, or only after a convoluted process.\nYou'll need a health insurance coverage, either your own insurance can give you a letter certifying you're covered in Russia, or you can get one online rather cheaply: http://visatorus.com",
+        "stay_duration_translations": {
+          "en": "12 months, including time spent in Kazakhstan and Kyrgyzstan.",
+          "fr": "12 mois, y compris le temps passé au Kazakhstan et au Kirghizistan.",
+          "de": "12 Monate, einschließlich der Zeit in Kasachstan und Kirgisistan.",
+          "it": "12 mesi, compreso il periodo trascorso in Kazakistan e Kirghizistan.",
+          "es": "12 meses, incluyendo el tiempo pasado en Kazajstán y Kirguistán.",
+          "pt": "12 meses, incluindo o tempo passado no Cazaquistão e no Quirguistão.",
+          "nl": "12 maanden, inclusief de tijd doorgebracht in Kazachstan en Kirgizië.",
+          "pl": "12 miesięcy, wliczając czas spędzony w Kazachstanie i Kirgistanie.",
+          "ru": "12 месяцев, включая время, проведенное в Казахстане и Кыргызстане."
+        },
+        "insurance_comment": "Insurance is not always available at all borders, and sometimes their rates are too expensive, so you can try also online and get it before you enter. For example:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
         "updatedat": {
-          "_seconds": 1770199398,
-          "_nanoseconds": 619000000
+          "_seconds": 1776798393,
+          "_nanoseconds": 133000000
+        },
+        "comment_translations": {
+          "en": "Geopolitical note: for all intent and purposes, and no matter what the international law says, Crimea is owned and administered by Russia, so the map reflects that.\nTake cash with you, credit cards are not accepted in Russia because of the sanctions in place since the war in Ukraine started.\nNote that your GPS may not work in many places in Russia, in particular in the west and around military bases.\nForeigners can't buy a SIM card anymore, or only after a convoluted process.\nYou'll need a health insurance coverage, either your own insurance can give you a letter certifying you're covered in Russia, or you can get one online rather cheaply: http://visatorus.com",
+          "fr": "Note géopolitique : en pratique, et indépendamment du droit international, la Crimée est un territoire russe, administré par la Russie. La carte en tient compte.\n\nPrévoyez de l’argent liquide, car les cartes de crédit ne sont pas acceptées en Russie en raison des sanctions en vigueur depuis le début de la guerre en Ukraine.\n\nSachez que votre GPS risque de ne pas fonctionner dans de nombreuses régions de Russie, notamment dans l’ouest et aux abords des bases militaires.\n\nIl est désormais impossible pour les étrangers d’acheter une carte SIM, ou alors au terme d’une procédure complexe.\n\nVous aurez besoin d’une assurance maladie. Votre assurance peut vous fournir une attestation de couverture en Russie, ou vous pouvez en souscrire une en ligne à un prix abordable : http://visatorus.com",
+          "de": "Geopolitischer Hinweis: Die Krim gehört faktisch und unabhängig vom Völkerrecht zu Russland und wird von Russland verwaltet. Die Karte spiegelt dies wider.\nNehmen Sie Bargeld mit. Kreditkarten werden in Russland aufgrund der seit dem Ukraine-Krieg geltenden Sanktionen nicht akzeptiert.\nBeachten Sie, dass Ihr GPS-Gerät in vielen Gegenden Russlands, insbesondere im Westen und in der Nähe von Militärbasen, möglicherweise nicht funktioniert.\nAusländer können keine SIM-Karten mehr oder nur nach einem komplizierten Verfahren erwerben.\nSie benötigen eine Krankenversicherung. Entweder Ihre bestehende Versicherung kann Ihnen eine Bescheinigung über Ihren Versicherungsschutz in Russland ausstellen, oder Sie können eine Krankenversicherung günstig online abschließen: http://visatorus.com",
+          "it": "Nota geopolitica: a tutti gli effetti, e a prescindere da ciò che dice il diritto internazionale, la Crimea è territorio russo e amministrato dalla Russia, quindi la mappa riflette questa situazione.\n\nPorta con te contanti, le carte di credito non sono accettate in Russia a causa delle sanzioni in vigore dall'inizio della guerra in Ucraina.\nTieni presente che il tuo GPS potrebbe non funzionare in molte zone della Russia, in particolare nell'ovest e nei pressi delle basi militari.\nGli stranieri non possono più acquistare una SIM card, o solo dopo una procedura complessa.\nAvrai bisogno di una copertura assicurativa sanitaria; la tua assicurazione può fornirti una lettera che certifichi la tua copertura in Russia, oppure puoi stipularne una online a un costo piuttosto contenuto: http://visatorus.com",
+          "es": "Nota geopolítica: a todos los efectos, e independientemente de lo que diga el derecho internacional, Crimea pertenece a Rusia y está administrada por ella, por lo que el mapa lo refleja.\n\nLleve efectivo, ya que las tarjetas de crédito no se aceptan en Rusia debido a las sanciones vigentes desde el inicio de la guerra en Ucrania.\n\nTenga en cuenta que su GPS podría no funcionar en muchas zonas de Rusia, especialmente en el oeste y cerca de bases militares.\n\nLos extranjeros ya no pueden comprar tarjetas SIM, o solo pueden hacerlo mediante un proceso complicado.\n\nNecesitará un seguro médico. Su propia aseguradora puede proporcionarle una carta que certifique su cobertura en Rusia, o puede obtener uno en línea a un precio bastante económico: http://visatorus.com",
+          "pt": "Nota geopolítica: para todos os efeitos práticos, e independentemente do que diga o direito internacional, a Crimeia pertence à Rússia e é administrada por ela, e o mapa reflete essa realidade.\nLeve dinheiro em espécie, pois cartões de crédito não são aceitos na Rússia devido às sanções em vigor desde o início da guerra na Ucrânia.\nObserve que seu GPS pode não funcionar em muitos lugares da Rússia, principalmente no oeste e ao redor de bases militares.\n\nEstrangeiros não podem mais comprar um chip SIM, ou só podem fazê-lo após um processo complexo.\n\nVocê precisará de um seguro saúde. Sua seguradora pode fornecer uma carta comprovando sua cobertura na Rússia, ou você pode contratar um online a um preço acessível: http://visatorus.com",
+          "nl": "Geopolitieke opmerking: in feite, en ongeacht wat het internationaal recht zegt, is de Krim eigendom van en wordt bestuurd door Rusland, dus de kaart weerspiegelt dat.\n\nNeem contant geld mee, creditcards worden niet geaccepteerd in Rusland vanwege de sancties die van kracht zijn sinds het begin van de oorlog in Oekraïne.\n\nHoud er rekening mee dat uw GPS mogelijk niet werkt op veel plaatsen in Rusland, met name in het westen en rond militaire bases.\n\nBuitenlanders kunnen geen simkaart meer kopen, of alleen na een ingewikkelde procedure.\n\nU hebt een zorgverzekering nodig. Uw eigen verzekering kan u een verklaring geven dat u in Rusland gedekt bent, of u kunt er online een afsluiten voor een relatief lage prijs: http://visatorus.com",
+          "pl": "Uwaga geopolityczna: niezależnie od tego, co stanowi prawo międzynarodowe, Krym jest własnością Rosji i jest przez nią administrowany, więc mapa to odzwierciedla.\nZabierz ze sobą gotówkę, karty kredytowe nie są akceptowane w Rosji z powodu sankcji obowiązujących od początku wojny na Ukrainie.\nPamiętaj, że Twój GPS może nie działać w wielu miejscach w Rosji, szczególnie na zachodzie i w pobliżu baz wojskowych.\nCudzoziemcy nie mogą już kupić karty SIM lub mogą to zrobić dopiero po przejściu skomplikowanej procedury.\nBędziesz potrzebować ubezpieczenia zdrowotnego – albo Twoje własne ubezpieczenie może wystawić Ci zaświadczenie potwierdzające ubezpieczenie w Rosji, albo możesz je kupić online dość tanio: http://visatorus.com",
+          "ru": "Геополитическая справка: по сути, и независимо от международного права, Крым принадлежит России и управляется ею, поэтому карта это отражает.\nБерите с собой наличные, кредитные карты в России не принимаются из-за санкций, действующих с начала войны на Украине.\nОбратите внимание, что ваш GPS может не работать во многих местах в России, особенно на западе и вблизи военных баз.\nИностранцы больше не могут купить SIM-карту, или только после сложной процедуры.\nВам понадобится медицинская страховка. Ваша собственная страховая компания может предоставить вам письмо, подтверждающее ваше страховое покрытие в России, или вы можете оформить её онлайн довольно дёшево: http://visatorus.com"
+        },
+        "visa_comment_translations": {
+          "en": "Important: stamp visas (not e-visas) are only available at the embassy of your home country. You'll need a support letter and proof of medical insurance to get your visa. You can ask for a 3-months or 6-months, multiple-entry visa (validity starts when it is issued).\nIn any other country, only a transit is (often) provided, such as in Tbilisi or in Tashkent, but it can take some time and is only valid for 3-10 days. E.g. in Tbilisi, it costs 200$ and takes 2-3 weeks for a 3-days visa. In Bishkek, 140$ same day. It's seems also to be easy at the consulate in Antalya.\nAn e-visa is available (30 days), but it can be processed only at airports and certain land borders. In particular, it's not possible to enter (or exit) Russia from Kazakhstan with an e-visa. It's allowed at the Georgian and Mongolian borders, and the main borders with Estonia and Latvia (check the specific border post information).\nNote that you're given a \"migration card\" at the border, do not leave it, you'll have to return it at the exit border post.",
+          "fr": "Important : les visas papier (et non les visas électroniques) ne sont délivrés que par l’ambassade de votre pays d’origine. Vous aurez besoin d’une lettre de soutien et d’une attestation d’assurance maladie pour obtenir votre visa. Vous pouvez demander un visa à entrées multiples de 3 ou 6 mois (sa validité commence à sa date d’émission).\n\nDans les autres pays, seul un visa de transit est (souvent) délivré, comme à Tbilissi ou à Tachkent, mais l’obtention peut prendre du temps et sa validité est limitée à 3 à 10 jours. Par exemple, à Tbilissi, un visa de 3 jours coûte 200 $ et nécessite 2 à 3 semaines de délai. À Bichkek, il coûte 140 $ et est délivré le jour même. L’obtention d’un visa semble également simple au consulat d’Antalya.\n\nUn visa électronique est disponible (30 jours), mais il ne peut être délivré que dans les aéroports et à certaines frontières terrestres. En particulier, il est impossible d’entrer (ou de sortir) de Russie depuis le Kazakhstan avec un visa électronique. Le passage est autorisé aux frontières géorgienne et mongole, ainsi qu'aux principales frontières avec l'Estonie et la Lettonie (vérifiez les informations spécifiques au poste frontière).\n\nNotez qu'une « carte de migration » vous est remise à la frontière ; ne la laissez pas sur place, vous devrez la restituer au poste frontière de sortie.",
+          "de": "Wichtig: Stempelvisa (keine E-Visa) sind nur bei der Botschaft Ihres Heimatlandes erhältlich. Sie benötigen ein Unterstützungsschreiben und einen Nachweis über Ihre Krankenversicherung. Sie können ein Visum mit mehrfacher Einreise für 3 oder 6 Monate beantragen (die Gültigkeit beginnt mit dem Ausstellungsdatum). In anderen Ländern wird (oft) nur ein Transitvisum ausgestellt, beispielsweise in Tiflis oder Taschkent. Die Bearbeitung kann jedoch einige Zeit in Anspruch nehmen und das Visum ist nur 3–10 Tage gültig. In Tiflis kostet ein 3-Tage-Visum beispielsweise 200 US-Dollar und die Bearbeitungszeit beträgt 2–3 Wochen. In Bischkek kostet es 140 US-Dollar und ist am selben Tag erhältlich. Auch beim Konsulat in Antalya scheint die Beantragung unkompliziert zu sein. Ein E-Visum (30 Tage) ist zwar erhältlich, kann aber nur an Flughäfen und bestimmten Landgrenzen beantragt werden. Insbesondere ist die Ein- und Ausreise nach Russland aus Kasachstan mit einem E-Visum nicht möglich. Die Einreise ist an den Grenzen zu Georgien und der Mongolei sowie an den Hauptgrenzen zu Estland und Lettland erlaubt (bitte informieren Sie sich an den jeweiligen Grenzübergängen). Beachten Sie, dass Sie an der Grenze eine Migrationskarte erhalten. Lassen Sie diese nicht liegen, da Sie sie am Ausreisepunkt wieder abgeben müssen.",
+          "it": "Importante: i visti cartacei (non i visti elettronici) sono disponibili solo presso l'ambasciata del proprio paese d'origine. Per ottenere il visto, è necessaria una lettera di presentazione e la prova di un'assicurazione sanitaria. È possibile richiedere un visto a ingressi multipli valido per 3 o 6 mesi (la validità inizia al momento del rilascio).\n\nIn qualsiasi altro paese, viene (spesso) rilasciato solo un visto di transito, ad esempio a Tbilisi o a Tashkent, ma la procedura può richiedere del tempo ed è valida solo per 3-10 giorni. Ad esempio, a Tbilisi, un visto di 3 giorni costa 200 dollari e richiede 2-3 settimane di attesa. A Bishkek, il visto costa 140 dollari e viene rilasciato in giornata. Sembra che sia più semplice ottenerlo anche presso il consolato di Antalya.\n\nÈ disponibile un visto elettronico (30 giorni), ma può essere richiesto solo negli aeroporti e presso alcuni valichi di frontiera terrestri. In particolare, non è possibile entrare (o uscire) dalla Russia dal Kazakistan con un visto elettronico. È consentito attraversare il confine con la Georgia e la Mongolia, nonché i principali valichi di frontiera con l'Estonia e la Lettonia (verificare le informazioni specifiche del posto di frontiera).\nSi noti che al confine viene rilasciata una \"carta di immigrazione\": non lasciatela lì, dovrete restituirla al posto di frontiera di uscita.",
+          "es": "Importante: las visas con sello (no las visas electrónicas) solo se obtienen en la embajada de su país de origen. Necesitará una carta de apoyo y un comprobante de seguro médico para obtener su visa. Puede solicitar una visa de entrada múltiple de 3 o 6 meses (la validez comienza en el momento de su emisión).\n\nEn otros países, generalmente solo se ofrece un visado de tránsito, como en Tiflis o Taskent, pero este puede tardar y solo es válido por 3 a 10 días. Por ejemplo, en Tiflis, cuesta 200 dólares y tarda de 2 a 3 semanas para una visa de 3 días. En Biskek, cuesta 140 dólares y se obtiene el mismo día. También parece ser fácil en el consulado de Antalya.\n\nExiste una visa electrónica (30 días), pero solo se puede tramitar en aeropuertos y ciertas fronteras terrestres. En particular, no es posible entrar (ni salir) de Rusia desde Kazajistán con una visa electrónica. Está permitido en las fronteras con Georgia y Mongolia, y en las principales fronteras con Estonia y Letonia (consulte la información específica del puesto fronterizo).\n\nTenga en cuenta que le entregarán una tarjeta de migración en la frontera; no la deje allí, deberá devolverla en el puesto fronterizo de salida.",
+          "pt": "Importante: vistos com carimbo (não vistos eletrônicos) só estão disponíveis na embaixada do seu país de origem. Você precisará de uma carta de apoio e comprovante de seguro saúde para obter o visto. Você pode solicitar um visto de múltiplas entradas com validade de 3 ou 6 meses (a validade começa a contar a partir da data de emissão).\nEm outros países, geralmente é concedido apenas um visto de trânsito, como em Tbilisi ou Tashkent, mas o processo pode ser demorado e a validade é de apenas 3 a 10 dias. Por exemplo, em Tbilisi, o visto custa US$ 200 e leva de 2 a 3 semanas para ser emitido por 3 dias. Em Bishkek, o visto custa US$ 140 e é emitido no mesmo dia. Parece ser fácil obtê-lo também no consulado em Antalya.\nExiste um visto eletrônico (30 dias), mas ele só pode ser processado em aeroportos e em algumas fronteiras terrestres. Em particular, não é possível entrar (ou sair) da Rússia pelo Cazaquistão com um visto eletrônico. É permitido nas fronteiras com a Geórgia e a Mongólia, e nas principais fronteiras com a Estônia e a Letônia (verifique as informações específicas do posto de fronteira).\nObserve que você receberá um \"cartão de imigração\" na fronteira; não o deixe lá, você terá que devolvê-lo no posto de fronteira de saída.",
+          "nl": "Belangrijk: een visum met stempel (geen e-visum) is alleen verkrijgbaar bij de ambassade van uw thuisland. U heeft een ondersteuningsbrief en een bewijs van medische verzekering nodig om uw visum te verkrijgen. U kunt een visum voor meerdere binnenkomsten aanvragen voor 3 of 6 maanden (de geldigheid gaat in op de dag van afgifte).\n\nIn andere landen wordt (vaak) alleen een transitvisum verstrekt, zoals in Tbilisi of Tasjkent, maar dit kan enige tijd in beslag nemen en is slechts 3-10 dagen geldig. Bijvoorbeeld: in Tbilisi kost een visum voor 3 dagen $200 en duurt het 2-3 weken. In Bisjkek kost het $140 en is het dezelfde dag verkrijgbaar. Het lijkt ook gemakkelijk te zijn bij het consulaat in Antalya.\n\nEen e-visum is beschikbaar (30 dagen), maar kan alleen worden verwerkt op luchthavens en bepaalde landsgrenzen. Het is met name niet mogelijk om Rusland vanuit Kazachstan binnen te komen (of te verlaten) met een e-visum. Het is toegestaan aan de grens met Georgië en Mongolië, en aan de belangrijkste grenzen met Estland en Letland (controleer de specifieke informatie van de grenspost).\n\nLet op: u ontvangt een \"migratiekaart\" aan de grens. Laat deze niet achter, u moet deze weer inleveren bij de uitreispost.",
+          "pl": "Ważne: wizy stemplowe (nie e-wizy) są dostępne tylko w ambasadzie Twojego kraju. Aby uzyskać wizę, będziesz potrzebować listu poparcia i dowodu ubezpieczenia zdrowotnego. Możesz ubiegać się o wizę wielokrotnego wjazdu na okres 3 lub 6 miesięcy (ważność rozpoczyna się w momencie jej wydania).\nW każdym innym kraju, na przykład w Tbilisi lub Taszkiencie, zapewniony jest (często) tylko tranzyt, ale może to zająć trochę czasu i jest ważne tylko przez 3-10 dni. Np. w Tbilisi wiza 3-dniowa kosztuje 200 dolarów i trwa 2-3 tygodnie. W Biszkeku, tego samego dnia, kosztuje 140 dolarów. Wydaje się, że bez problemu można ją również uzyskać w konsulacie w Antalyi.\nWiza elektroniczna jest dostępna (30 dni), ale można ją uzyskać tylko na lotniskach i niektórych granicach lądowych. W szczególności nie można wjechać do Rosji (ani wyjechać) z Kazachstanu z wizą elektroniczną. Jest to dozwolone na granicach gruzińskiej i mongolskiej oraz na głównych granicach z Estonią i Łotwą (sprawdź informacje na konkretnym przejściu granicznym).\nPamiętaj, że na granicy otrzymasz „kartę migracyjną”, nie zostawiaj jej, będziesz musiał ją zwrócić na przejściu granicznym.",
+          "ru": "Важно: визы с печатью (не электронные визы) можно получить только в посольстве вашей страны. Для получения визы вам потребуется письмо поддержки и подтверждение наличия медицинской страховки. Вы можете запросить многократную визу на 3 или 6 месяцев (срок действия начинается с момента выдачи).\nВ любой другой стране (часто) предоставляется только транзитная виза, например, в Тбилиси или Ташкенте, но это может занять некоторое время и действительна только в течение 3-10 дней. Например, в Тбилиси виза на 3 дня стоит 200 долларов и оформляется в течение 2-3 недель. В Бишкеке — 140 долларов в тот же день. В консульстве в Анталии, кажется, тоже легко оформить.\nЭлектронная виза доступна (30 дней), но ее можно оформить только в аэропортах и на некоторых сухопутных границах. В частности, въезд (или выезд) из России из Казахстана по электронной визе невозможен. Это разрешено на границах с Грузией и Монголией, а также на основных границах с Эстонией и Латвией (уточните информацию на конкретном пограничном пункте).\nОбратите внимание, что на границе вам выдадут «миграционный пропуск», не оставляйте его, вам придется вернуть его на выездном пограничном пункте."
+        },
+        "insurance_comment_translations": {
+          "en": "Insurance is not always available at all borders, and sometimes their rates are too expensive, so you can try also online and get it before you enter. For example:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "fr": "L'assurance n'est pas toujours disponible à toutes les frontières et ses tarifs sont parfois trop élevés. Vous pouvez donc essayer de la souscrire en ligne avant votre départ. Par exemple :\n\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "de": "Eine Versicherung ist nicht immer an allen Grenzen erhältlich und manchmal zu teuer. Sie können daher auch online eine Versicherung abschließen, bevor Sie einreisen. Zum Beispiel:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "it": "L'assicurazione non è sempre disponibile a tutte le frontiere e a volte le tariffe sono troppo elevate, quindi puoi provare anche online e stipularla prima dell'ingresso. Ad esempio:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "es": "No siempre es posible contratar un seguro en todas las fronteras, y a veces sus tarifas son demasiado caras, por lo que también puedes intentarlo online y contratarlo antes de entrar. Por ejemplo:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "pt": "O seguro nem sempre está disponível em todas as fronteiras e, às vezes, os preços são muito caros. Por isso, você também pode tentar online e contratá-lo antes de entrar no país. Por exemplo:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "nl": "Een verzekering is niet altijd bij alle grenzen beschikbaar en soms zijn de tarieven te hoog. Je kunt het daarom ook online proberen en een verzekering afsluiten voordat je de grens overgaat. Bijvoorbeeld:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "pl": "Ubezpieczenie nie zawsze jest dostępne na wszystkich granicach, a czasami ich ceny są zbyt wysokie, dlatego możesz spróbować wykupić je online przed wjazdem. Na przykład:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/",
+          "ru": "Страховка доступна не на всех границах, и иногда её стоимость слишком высока, поэтому вы можете попробовать оформить её онлайн до въезда. Например:\nhttps://attolloassistance.com\nhttps://zelenkarta.com/osago-na-inostrannyj-avto/"
+        },
+        "tip_translations": {
+          "en": "A free TIP is provided when you enter from Europe, or Mongolia, Georgia, etc.. it is valid also for Kazakhstan and Kyrgyzstan, which share a customs union. So when you cross between these countries, there will be no customs, only immigration, and you keep your TIP until you exit one of these countries.",
+          "fr": "Un titre de transport gratuit est délivré à l'entrée du territoire venant d'Europe, de Mongolie, de Géorgie, etc. Il est également valable pour le Kazakhstan et le Kirghizistan, pays membres de l'union douanière. Ainsi, lors du passage entre ces pays, vous n'aurez aucun contrôle douanier, seulement un contrôle d'immigration, et vous conserverez votre titre de transport jusqu'à votre sortie du territoire.",
+          "de": "Bei der Einreise aus Europa, der Mongolei, Georgien usw. erhalten Sie eine kostenlose TIP-Karte. Diese gilt auch für Kasachstan und Kirgisistan, die eine Zollunion bilden. Beim Grenzübertritt zwischen diesen Ländern gibt es daher keine Zollkontrolle, sondern nur eine Einreisekontrolle. Ihre TIP-Karte behalten Sie bis zur Ausreise aus einem dieser Länder.",
+          "it": "Il TIP (Traffic Information Passport) è gratuito per chi entra nel Paese provenendo dall'Europa, dalla Mongolia, dalla Georgia, ecc. È valido anche per il Kazakistan e il Kirghizistan, che condividono un'unione doganale. Pertanto, quando si attraversa il confine tra questi Paesi, non ci saranno controlli doganali, ma solo quelli di immigrazione, e il TIP rimarrà valido fino all'uscita da uno di questi Paesi.",
+          "es": "Se proporciona un TIP gratuito al entrar desde Europa, Mongolia, Georgia, etc. También es válido para Kazajistán y Kirguistán, países que comparten una unión aduanera. Por lo tanto, al cruzar entre estos países, no habrá aduana, solo inmigración, y conservará su TIP hasta que salga de uno de ellos.",
+          "pt": "Um TIP gratuito é fornecido ao entrar vindo da Europa, Mongólia, Geórgia, etc. Ele também é válido para o Cazaquistão e o Quirguistão, que compartilham uma união aduaneira. Portanto, ao cruzar entre esses países, não haverá alfândega, apenas imigração, e você mantém seu TIP até sair de um desses países.",
+          "nl": "Bij binnenkomst vanuit Europa, Mongolië, Georgië, enz. ontvangt u een gratis TIP (Travel Import Pass). Deze is ook geldig voor Kazachstan en Kirgizië, die een douane-unie delen. Wanneer u de grens tussen deze landen oversteekt, hoeft u zich dus niet door de douane te begeven, alleen door de immigratie. U behoudt uw TIP tot u een van deze landen weer verlaat.",
+          "pl": "Bezpłatny TIP przysługuje przy wjeździe z Europy, Mongolii, Gruzji itd. Jest on również ważny w Kazachstanie i Kirgistanie, które tworzą unię celną. Oznacza to, że przy przekroczeniu granicy między tymi krajami nie obowiązuje odprawa celna, obowiązuje jedynie kontrola imigracyjna, a TIP jest ważny do momentu opuszczenia jednego z tych krajów.",
+          "ru": "Бесплатный TIP предоставляется при въезде из Европы, Монголии, Грузии и т. д. Он также действителен для Казахстана и Кыргызстана, которые входят в таможенный союз. Таким образом, при пересечении границы между этими странами не будет таможенного контроля, только иммиграционный контроль, и ваш TIP будет действовать до выезда из одной из этих стран."
         }
       },
       "borderIds": [],
@@ -12845,40 +12949,15 @@
           "-KwAYrisG63ptYEeOH9d": "LBN"
         },
         "capital": "دمشق",
-        "comment": "The situation is not stable yet, enquire about the current regulations before trying to enter. ",
         "continent": "Asia",
         "currency": "SYP",
         "currency_symbol": "£",
         "driving": "r",
         "iso_a2": "SY",
         "name": "Syria",
-        "overlanding": 2,
         "population": 18502000,
         "timezone": "Asia/Damascus",
         "visa": 1,
-        "visa_comment": "The new Syrian government has imposed a visa on arrival for most nationalities, with a fee depending on the country (e.g., 75$ for Europeans and 200$ for Americans, for a 15-days visa).\nThe conditions are likely to change in the future.\nNote that Israelis are forbidden to visit Syria.",
-        "visa_comment_translations": {
-          "en": "The new Syrian government has imposed a visa on arrival for most nationalities, with a fee depending on the country (e.g., 75$ for Europeans and 200$ for Americans, for a 15-days visa).\nThe conditions are likely to change in the future.\nNote that Israelis are forbidden to visit Syria.",
-          "fr": "Le nouveau gouvernement syrien a instauré un visa à l'arrivée pour la plupart des nationalités, moyennant des frais variables selon le pays (par exemple, 75 $ pour les Européens et 200 $ pour les Américains, pour un visa de 15 jours).\n\nCes conditions sont susceptibles d'évoluer.\n\nÀ noter que les ressortissants israéliens ne sont pas autorisés à se rendre en Syrie.",
-          "de": "Die neue syrische Regierung hat für die meisten Nationalitäten eine Visumpflicht bei der Einreise eingeführt. Die Gebühr richtet sich nach dem Herkunftsland (z. B. 75 US-Dollar für Europäer und 200 US-Dollar für Amerikaner für ein 15-Tage-Visum).\nEs ist wahrscheinlich, dass sich die Bedingungen in Zukunft ändern werden.\nBitte beachten Sie, dass Israelis die Einreise nach Syrien untersagt ist.",
-          "it": "Il nuovo governo siriano ha imposto un visto all'arrivo per la maggior parte delle nazionalità, con una tariffa variabile a seconda del Paese (ad esempio, 75 dollari per gli europei e 200 dollari per gli americani, per un visto di 15 giorni).\nÈ probabile che le condizioni cambino in futuro.\nSi noti che agli israeliani è vietato visitare la Siria.",
-          "es": "El nuevo gobierno sirio ha impuesto un visado a la llegada para la mayoría de las nacionalidades, con una tarifa que varía según el país (por ejemplo, 75 $ para europeos y 200 $ para estadounidenses, por un visado de 15 días).\nEs probable que las condiciones cambien en el futuro.\nCabe destacar que los israelíes tienen prohibido visitar Siria.",
-          "pt": "O novo governo sírio impôs um visto à chegada para a maioria das nacionalidades, com uma taxa que varia conforme o país (por exemplo, US$ 75 para europeus e US$ 200 para americanos, para um visto de 15 dias).\nÉ provável que as condições mudem no futuro.\nObserve que os israelenses estão proibidos de visitar a Síria.",
-          "nl": "De nieuwe Syrische regering heeft een visumplicht bij aankomst ingevoerd voor de meeste nationaliteiten, met een vergoeding die afhankelijk is van het land (bijvoorbeeld $75 voor Europeanen en $200 voor Amerikanen, voor een visum van 15 dagen).\n\nDe voorwaarden zullen waarschijnlijk in de toekomst veranderen.\n\nLet op: Israëliërs mogen Syrië niet bezoeken.",
-          "pl": "Nowy rząd Syrii wprowadził obowiązek wizowy dla większości narodowości, z opłatą zależną od kraju (np. 75 dolarów dla Europejczyków i 200 dolarów dla Amerykanów za wizę 15-dniową).\nWarunki prawdopodobnie ulegną zmianie w przyszłości.\nNależy pamiętać, że Izraelczycy mają zakaz wjazdu do Syrii.",
-          "ru": "Новое сирийское правительство ввело визу по прибытии для граждан большинства стран, стоимость которой зависит от страны (например, 75 долларов для европейцев и 200 долларов для американцев за визу на 15 дней).\nВ будущем условия, вероятно, изменятся.\nСледует отметить, что гражданам Израиля въезд в Сирию запрещен."
-        },
-        "comment_translations": {
-          "en": "The situation is not stable yet, enquire about the current regulations before trying to enter. ",
-          "fr": "La situation n'est pas encore stable, renseignez-vous sur la réglementation en vigueur avant de tenter d'entrer.",
-          "de": "Die Lage ist noch nicht stabil, erkundigen Sie sich vor der Einreise nach den aktuellen Bestimmungen.",
-          "it": "La situazione non è ancora stabile, informatevi sulle normative vigenti prima di provare a entrare.",
-          "es": "La situación aún no es estable, infórmese sobre la normativa vigente antes de intentar entrar.",
-          "pt": "A situação ainda não está estável; informe-se sobre as normas vigentes antes de tentar entrar.",
-          "nl": "De situatie is nog niet stabiel, informeer naar de geldende regelgeving voordat u probeert binnen te komen.",
-          "pl": "Sytuacja nie jest jeszcze stabilna, przed wjazdem należy zapoznać się z obowiązującymi przepisami.",
-          "ru": "Ситуация пока нестабильна, поэтому перед въездом уточните действующие правила."
-        },
         "bounding_box": [
           35.764453,
           32.317285,
@@ -12908,9 +12987,59 @@
           "zh": "叙利亚",
           "pt": "Síria"
         },
+        "overlanding": 3,
+        "carnet": 0,
+        "tip": "110$ for 15 days, 200$ for 3 months.",
+        "visa_comment": "The new Syrian government has imposed a visa on arrival for most nationalities, with a fee depending on the country (e.g., 75$ for most Europeans, 150$ for British, Australians and 200$ for Americans, for a 30-days visa).\nNote that Israelis are forbidden to visit Syria.",
+        "money": "Credit cards are not accepted in Syria, as it is disconnected from the international banking system due to sanctions, so you'll need to bring in enough cash (USD preferred, but EUR or SAR/JOD/TRY are also easily changed).\nPrices are often quoted in USD, and dollars bills are often accepted for payment (syrian pounds are returned as change). In particular, VOA (visa at the border) can only be paid in cash in USD.\nThe current rates can be found here: https://sp-today.com",
+        "tip_translations": {
+          "en": "110$ for 15 days, 200$ for 3 months.",
+          "fr": "110 $ pour 15 jours, 200 $ pour 3 mois.",
+          "de": "110 $ für 15 Tage, 200 $ für 3 Monate.",
+          "it": "110 dollari per 15 giorni, 200 dollari per 3 mesi.",
+          "es": "110 dólares por 15 días, 200 dólares por 3 meses.",
+          "pt": "US$ 110 por 15 dias, US$ 200 por 3 meses.",
+          "nl": "$110 voor 15 dagen, $200 voor 3 maanden.",
+          "pl": "110$ za 15 dni, 200$ za 3 miesiące.",
+          "ru": "110 долларов за 15 дней, 200 долларов за 3 месяца."
+        },
+        "comment": "The situation is rather stable, there are lots of checkpoints across the country but no fighting.\nIndeed, during the 2026 Iran war, Syria was the only country not getting any missiles or bombing.",
         "updatedat": {
-          "_seconds": 1770199401,
-          "_nanoseconds": 157000000
+          "_seconds": 1776788130,
+          "_nanoseconds": 215000000
+        },
+        "comment_translations": {
+          "en": "The situation is rather stable, there are lots of checkpoints across the country but no fighting.\nIndeed, during the 2026 Iran war, Syria was the only country not getting any missiles or bombing.",
+          "fr": "La situation est plutôt stable ; de nombreux points de contrôle sont disséminés à travers le pays, mais aucun combat n'est en cours.\n\nEn effet, lors de la guerre Iran-Sylvestre de 2026, la Syrie fut le seul pays à ne subir ni missiles ni bombardements.",
+          "de": "Die Lage ist recht stabil, es gibt zwar viele Kontrollpunkte im ganzen Land, aber keine Kämpfe.\nTatsächlich war Syrien während des Iran-Krieges 2026 das einzige Land, das weder Raketenangriffe noch Bombenangriffe erlitt.",
+          "it": "La situazione è piuttosto stabile, ci sono molti posti di blocco in tutto il paese ma non ci sono combattimenti.\nInfatti, durante la guerra con l'Iran del 2026, la Siria è stato l'unico paese a non subire attacchi missilistici o bombardamenti.",
+          "es": "La situación es bastante estable; hay numerosos puestos de control en todo el país, pero no hay combates.\n\nDe hecho, durante la guerra de Irán de 2026, Siria fue el único país que no sufrió ataques con misiles ni bombardeos.",
+          "pt": "A situação é bastante estável, existem muitos postos de controle em todo o país, mas não há combates.\nDe fato, durante a guerra com o Irã em 2026, a Síria foi o único país que não recebeu mísseis nem bombardeios.",
+          "nl": "De situatie is tamelijk stabiel, er zijn veel controleposten in het hele land, maar er vinden geen gevechten plaats.\n\nSterker nog, tijdens de oorlog met Iran in 2026 was Syrië het enige land dat niet werd getroffen door raketten of bombardementen.",
+          "pl": "Sytuacja jest raczej stabilna, w całym kraju jest wiele punktów kontrolnych, ale nie toczą się żadne walki. Podczas wojny z Iranem w 2026 roku Syria była jedynym krajem, który nie został ostrzelany ani zbombardowany.",
+          "ru": "Ситуация достаточно стабильна, по всей стране много контрольно-пропускных пунктов, но боевых действий нет.\nДействительно, во время войны с Ираном в 2026 году Сирия была единственной страной, которая не подвергалась ракетным обстрелам или бомбардировкам."
+        },
+        "money_translations": {
+          "en": "Credit cards are not accepted in Syria, as it is disconnected from the international banking system due to sanctions, so you'll need to bring in enough cash (USD preferred, but EUR or SAR/JOD/TRY are also easily changed).\nPrices are often quoted in USD, and dollars bills are often accepted for payment (syrian pounds are returned as change). In particular, VOA (visa at the border) can only be paid in cash in USD.\nThe current rates can be found here: https://sp-today.com",
+          "fr": "Les cartes de crédit ne sont pas acceptées en Syrie, car le pays est déconnecté du système bancaire international en raison des sanctions. Vous devrez donc prévoir suffisamment d'argent liquide (de préférence en dollars américains, mais les euros ou les riyals syriens, les dinars syriens et les livres turques sont également faciles à changer).\n\nLes prix sont souvent affichés en dollars américains et les billets de dollars sont généralement acceptés (la monnaie est rendue en livres syriennes). En particulier, le visa à l'arrivée (VOA) ne peut être payé qu'en espèces, en dollars américains.\n\nVous trouverez les taux de change actuels ici : https://sp-today.com",
+          "de": "In Syrien werden keine Kreditkarten akzeptiert, da das Land aufgrund von Sanktionen vom internationalen Bankensystem abgeschnitten ist. Sie benötigen daher ausreichend Bargeld (vorzugsweise US-Dollar, aber auch Euro oder syrische/jordanische Rupien können problemlos umgetauscht werden). Preise werden häufig in US-Dollar angegeben, und US-Dollar-Scheine werden oft als Zahlungsmittel akzeptiert (syrische Pfund werden als Wechselgeld zurückgegeben). Insbesondere das Visum bei Ankunft (VOA) kann nur in bar in US-Dollar bezahlt werden. Die aktuellen Wechselkurse finden Sie hier: https://sp-today.com",
+          "it": "In Siria le carte di credito non sono accettate, poiché il Paese è scollegato dal sistema bancario internazionale a causa delle sanzioni, quindi è necessario portare con sé una quantità sufficiente di contanti (preferibilmente dollari statunitensi, ma anche euro, riyal siriani, jodi o lire turche sono facilmente convertibili).\n\nI prezzi sono spesso indicati in dollari statunitensi e le banconote in dollari sono generalmente accettate come pagamento (il resto viene restituito in lire siriane). In particolare, il visto all'arrivo (VOA) può essere pagato solo in contanti in dollari statunitensi.\nI tassi di cambio aggiornati sono disponibili qui: https://sp-today.com",
+          "es": "En Siria no se aceptan tarjetas de crédito, ya que el país está aislado del sistema bancario internacional debido a las sanciones. Por lo tanto, deberá llevar suficiente efectivo (se prefiere USD, pero también se aceptan EUR, SAR, JOD y TRY, que se cambian fácilmente).\nLos precios suelen indicarse en USD, y los billetes de dólar se aceptan como forma de pago (se devuelven libras sirias como cambio). En particular, la visa a la llegada (VOA) solo se puede pagar en efectivo en USD.\n\nPuede consultar los tipos de cambio actuales aquí: https://sp-today.com",
+          "pt": "Cartões de crédito não são aceitos na Síria, pois o país está desconectado do sistema bancário internacional devido a sanções. Portanto, você precisará levar dinheiro em espécie suficiente (preferencialmente em dólares americanos, mas euros, riais sírios, dinares jordanianos e liras turcas também são facilmente trocados).\nOs preços geralmente são cotados em dólares americanos, e notas de dólar são frequentemente aceitas como pagamento (o troco é dado em libras sírias). Em particular, o visto na fronteira (VOA) só pode ser pago em dinheiro, em dólares americanos.\n\nAs taxas de câmbio atuais podem ser encontradas aqui: https://sp-today.com",
+          "nl": "Creditcards worden niet geaccepteerd in Syrië, omdat het land door sancties is afgesloten van het internationale banksysteem. U moet dus voldoende contant geld meenemen (USD heeft de voorkeur, maar EUR of SAR/JOD/TRY kunnen ook gemakkelijk worden gewisseld).\n\nPrijzen worden vaak in USD vermeld en dollarbiljetten worden vaak als betaalmiddel geaccepteerd (Syrische ponden worden als wisselgeld teruggegeven). Met name een VOA (visum aan de grens) kan alleen contant in USD worden betaald.\n\nDe actuele wisselkoersen vindt u hier: https://sp-today.com",
+          "pl": "Karty kredytowe nie są akceptowane w Syrii, ponieważ kraj ten jest odłączony od międzynarodowego systemu bankowego z powodu sankcji, dlatego należy zabrać ze sobą wystarczającą ilość gotówki (preferowane są USD, ale łatwo wymienić je również na EUR lub SAR/JOD/TRY).\nCeny często podawane są w USD, a dolary są często akceptowane jako forma płatności (funty syryjskie są zwracane jako reszta). W szczególności VOA (wiza na granicy) można opłacić tylko gotówką w USD.\nAktualne kursy można znaleźć tutaj: https://sp-today.com",
+          "ru": "В Сирии кредитные карты не принимаются, так как страна отключена от международной банковской системы из-за санкций, поэтому вам потребуется взять с собой достаточно наличных денег (предпочтительно доллары США, но евро или сирийские арабские динары/иорданские динары/триллионные иены также легко обмениваются).\nЦены часто указываются в долларах США, и долларовые купюры часто принимаются к оплате (сдача выдается в сирийских фунтах). В частности, виза по прибытии (VOA) может быть оплачена только наличными в долларах США.\nАктуальные курсы можно найти здесь: https://sp-today.com"
+        },
+        "visa_comment_translations": {
+          "en": "The new Syrian government has imposed a visa on arrival for most nationalities, with a fee depending on the country (e.g., 75$ for most Europeans, 150$ for British, Australians and 200$ for Americans, for a 30-days visa).\nNote that Israelis are forbidden to visit Syria.",
+          "fr": "Le nouveau gouvernement syrien a instauré un visa à l'arrivée pour la plupart des nationalités, dont le prix varie selon le pays (par exemple, 75 $ pour la plupart des Européens, 150 $ pour les Britanniques et les Australiens, et 200 $ pour les Américains, pour un visa de 30 jours).\n\nÀ noter que les Israéliens n'ont pas le droit de se rendre en Syrie.",
+          "de": "Die neue syrische Regierung hat für die meisten Nationalitäten eine Visumpflicht bei der Einreise eingeführt. Die Gebühr richtet sich nach dem Land (z. B. 75 US-Dollar für die meisten Europäer, 150 US-Dollar für Briten und Australier sowie 200 US-Dollar für Amerikaner für ein 30-Tage-Visum). Bitte beachten Sie, dass Israelis die Einreise nach Syrien untersagt ist.",
+          "it": "Il nuovo governo siriano ha imposto l'obbligo di visto all'arrivo per la maggior parte delle nazionalità, con un costo variabile a seconda del paese (ad esempio, 75 dollari per la maggior parte degli europei, 150 dollari per britannici e australiani e 200 dollari per gli americani, per un visto di 30 giorni).\nSi noti che agli israeliani è vietato entrare in Siria.",
+          "es": "El nuevo gobierno sirio ha impuesto un visado a la llegada para la mayoría de las nacionalidades, con una tarifa que varía según el país (por ejemplo, 75 dólares para la mayoría de los europeos, 150 dólares para británicos y australianos, y 200 dólares para estadounidenses, para un visado de 30 días).\n\nCabe destacar que los israelíes tienen prohibida la entrada a Siria.",
+          "pt": "O novo governo sírio impôs um visto à chegada para a maioria das nacionalidades, com uma taxa que varia conforme o país (por exemplo, 75 dólares para a maioria dos europeus, 150 dólares para britânicos e australianos e 200 dólares para americanos, para um visto de 30 dias).\nNote que os israelenses estão proibidos de visitar a Síria.",
+          "nl": "De nieuwe Syrische regering heeft een visumplicht bij aankomst ingevoerd voor de meeste nationaliteiten, met een vergoeding die afhankelijk is van het land (bijvoorbeeld $75 voor de meeste Europeanen, $150 voor Britten en Australiërs en $200 voor Amerikanen, voor een visum van 30 dagen).\nLet op: Israëliërs mogen Syrië niet bezoeken.",
+          "pl": "Nowy rząd Syrii wprowadził obowiązek wizowy dla większości narodowości, z opłatą zależną od kraju (np. 75 dolarów dla większości Europejczyków, 150 dolarów dla Brytyjczyków i Australijczyków oraz 200 dolarów dla Amerykanów za wizę 30-dniową).\nNależy pamiętać, że Izraelczycy mają zakaz wjazdu do Syrii.",
+          "ru": "Новое сирийское правительство ввело визу по прибытии для граждан большинства стран, стоимость которой зависит от страны (например, 75 долларов для большинства европейцев, 150 долларов для британцев, австралийцев и 200 долларов для американцев за 30-дневную визу).\nСледует отметить, что гражданам Израиля въезд в Сирию запрещен."
         }
       },
       "borderIds": [],
@@ -14938,17 +15067,6 @@
         "visa_url": "https://www.evisa.gov.zw/",
         "voa": true,
         "visa_comment": "90 days e-visa available for 30$ (except for British: 55$ and Canadians: 75$).\nThe visa can also be purchased at the border for the same price.\nThe KaZa visa (50$) including Zambia is pointless for those who don't need a visa for Zambia.",
-        "visa_comment_translations": {
-          "en": "90 days e-visa available for 30$ (except for British: 55$ and Canadians: 75$).\nThe visa can also be purchased at the border for the same price.\nThe KaZa visa (50$) including Zambia is pointless for those who don't need a visa for Zambia.",
-          "fr": "Un visa électronique de 90 jours est disponible au prix de 30 $ (sauf pour les Britanniques : 55 $ et les Canadiens : 75 $).\n\nLe visa peut également être acheté à la frontière au même prix.\n\nLe visa KaZa (50 $), qui inclut la Zambie, est inutile pour ceux qui n'ont pas besoin de visa pour ce pays.",
-          "de": "Ein 90-Tage-E-Visum ist für 30 $ erhältlich (ausgenommen Briten: 55 $ und Kanadier: 75 $).\nDas Visum kann auch an der Grenze zum gleichen Preis erworben werden. Das KaZa-Visum (50 $), das auch Sambia umfasst, ist für diejenigen überflüssig, die kein Visum für Sambia benötigen.",
-          "it": "Visto elettronico di 90 giorni disponibile al costo di 30$ (eccetto per i cittadini britannici: 55$ e i cittadini canadesi: 75$).\nIl visto può essere acquistato anche alla frontiera allo stesso prezzo.\nIl visto KaZa (50$) che include lo Zambia è inutile per chi non ha bisogno di un visto per lo Zambia.",
-          "es": "Visa electrónica de 90 días disponible por 30 $ (excepto para británicos: 55 $ y canadienses: 75 $).\nLa visa también se puede adquirir en la frontera por el mismo precio.\nLa visa KaZa (50 $), que incluye Zambia, no es útil para quienes no necesitan visa para Zambia.",
-          "pt": "Visto eletrônico de 90 dias disponível por US$ 30 (exceto para britânicos: US$ 55 e canadenses: US$ 75).\nO visto também pode ser adquirido na fronteira pelo mesmo preço.\n\nO visto KaZa (US$ 50), que inclui a Zâmbia, é inútil para quem não precisa de visto para a Zâmbia.",
-          "nl": "Een e-visum voor 90 dagen is verkrijgbaar voor $30 (behalve voor Britten: $55 en Canadezen: $75).\n\nHet visum kan ook aan de grens worden gekocht voor dezelfde prijs.\n\nHet Kazachse visum ($50) inclusief Zambia is zinloos voor wie geen visum voor Zambia nodig heeft.",
-          "pl": "Wiza elektroniczna na 90 dni dostępna za 30 dolarów (z wyjątkiem Brytyjczyków: 55 dolarów i Kanadyjczyków: 75 dolarów).\nWizę można również kupić na granicy w tej samej cenie.\nWiza KaZa (50 dolarów) obejmująca Zambię jest bezużyteczna dla osób, które nie potrzebują wizy do Zambii.",
-          "ru": "Электронная виза на 90 дней доступна за 30 долларов (кроме граждан Великобритании: 55 долларов и Канады: 75 долларов).\nВизу также можно приобрести на границе по той же цене.\nВиза KaZa (50 долларов), включая Замбию, бесполезна для тех, кому виза в Замбию не нужна."
-        },
         "tip": "6-month TIP provided free at the border.",
         "stay_duration": "6 months.",
         "insurance_scheme": "yellow_card",
@@ -14972,9 +15090,54 @@
           "zh": "哈拉雷"
         },
         "insurance": 1,
+        "money": "USD is the preferred currency, accepted everywhere. Locals still do not entirely trust ZiG, the new currency.",
         "updatedat": {
-          "_seconds": 1770203008,
-          "_nanoseconds": 495000000
+          "_seconds": 1776783974,
+          "_nanoseconds": 965000000
+        },
+        "visa_comment_translations": {
+          "en": "90 days e-visa available for 30$ (except for British: 55$ and Canadians: 75$).\nThe visa can also be purchased at the border for the same price.\nThe KaZa visa (50$) including Zambia is pointless for those who don't need a visa for Zambia.",
+          "fr": "Un visa électronique de 90 jours est disponible au prix de 30 $ (sauf pour les Britanniques : 55 $ et les Canadiens : 75 $).\n\nLe visa peut également être acheté à la frontière au même prix.\n\nLe visa KaZa (50 $), qui inclut la Zambie, est inutile pour ceux qui n'ont pas besoin de visa pour ce pays.",
+          "de": "Ein 90-Tage-E-Visum ist für 30 $ erhältlich (ausgenommen Briten: 55 $ und Kanadier: 75 $).\nDas Visum kann auch an der Grenze zum gleichen Preis erworben werden. Das KaZa-Visum (50 $), das auch Sambia einschließt, ist für diejenigen überflüssig, die kein Visum für Sambia benötigen.",
+          "it": "È disponibile un visto elettronico di 90 giorni al costo di 30$ (ad eccezione dei cittadini britannici: 55$ e canadesi: 75$).\n\nIl visto può essere acquistato anche alla frontiera allo stesso prezzo.\nIl visto KaZa (50$), che include lo Zambia, è inutile per chi non necessita di un visto per entrare in Zambia.",
+          "es": "Visa electrónica de 90 días disponible por 30 $ (excepto para británicos: 55 $ y canadienses: 75 $).\n\nLa visa también se puede comprar en la frontera por el mismo precio.\n\nLa visa KaZa (50 $), que incluye Zambia, no tiene sentido para quienes no necesitan visa para Zambia.",
+          "pt": "Visto eletrônico de 90 dias disponível por US$ 30 (exceto para britânicos: US$ 55 e canadenses: US$ 75).\nO visto também pode ser adquirido na fronteira pelo mesmo preço.\n\nO visto KaZa (US$ 50), que inclui a Zâmbia, é inútil para quem não precisa de visto para a Zâmbia.",
+          "nl": "Een e-visum voor 90 dagen is verkrijgbaar voor $30 (behalve voor Britten: $55 en Canadezen: $75).\n\nHet visum kan ook aan de grens worden gekocht voor dezelfde prijs.\n\nHet Kazachse visum ($50) inclusief Zambia is zinloos voor wie geen visum voor Zambia nodig heeft.",
+          "pl": "Wiza elektroniczna na 90 dni dostępna za 30 dolarów (z wyjątkiem Brytyjczyków: 55 dolarów i Kanadyjczyków: 75 dolarów).\nWizę można również kupić na granicy w tej samej cenie.\nWiza KaZa (50 dolarów) obejmująca Zambię jest bezużyteczna dla osób, które nie potrzebują wizy do Zambii.",
+          "ru": "Электронная виза на 90 дней доступна за 30 долларов (кроме граждан Великобритании: 55 долларов и Канады: 75 долларов).\nВизу также можно приобрести на границе по той же цене.\nВиза KaZa (50 долларов), включая Замбию, бесполезна для тех, кому виза в Замбию не нужна."
+        },
+        "tip_translations": {
+          "en": "6-month TIP provided free at the border.",
+          "fr": "Un permis de séjour de 6 mois est offert gratuitement à la frontière.",
+          "de": "Ein 6-monatiges TIP wird kostenlos an der Grenze ausgegeben.",
+          "it": "Il permesso di soggiorno temporaneo (TIP) di 6 mesi viene rilasciato gratuitamente alla frontiera.",
+          "es": "Se proporciona un permiso temporal de 6 meses de forma gratuita en la frontera.",
+          "pt": "O TIP de 6 meses é fornecido gratuitamente na fronteira.",
+          "nl": "Een TIP-kaart voor 6 maanden wordt gratis verstrekt aan de grens.",
+          "pl": "6-miesięczny TIP dostarczany bezpłatnie na granicy.",
+          "ru": "6-месячная виза TIP предоставляется бесплатно на границе."
+        },
+        "stay_duration_translations": {
+          "en": "6 months.",
+          "fr": "6 mois.",
+          "de": "6 Monate.",
+          "it": "6 mesi.",
+          "es": "6 meses.",
+          "pt": "6 meses.",
+          "nl": "6 maanden.",
+          "pl": "6 miesięcy.",
+          "ru": "6 месяцев."
+        },
+        "money_translations": {
+          "en": "USD is the preferred currency, accepted everywhere. Locals still do not entirely trust ZiG, the new currency.",
+          "fr": "Le dollar américain est la monnaie de prédilection, acceptée partout. Les habitants locaux n'ont toujours pas entièrement confiance dans le ZiG, la nouvelle monnaie.",
+          "de": "Der US-Dollar ist die bevorzugte Währung und wird überall akzeptiert. Die Einheimischen vertrauen der neuen Währung ZiG noch nicht vollständig.",
+          "it": "Il dollaro statunitense è la valuta preferita e accettata ovunque. La popolazione locale, tuttavia, non si fida ancora completamente dello ZiG, la nuova valuta.",
+          "es": "El dólar estadounidense es la moneda preferida y se acepta en todas partes. Los lugareños aún no confían del todo en ZiG, la nueva moneda.",
+          "pt": "O dólar americano é a moeda preferida, aceita em todos os lugares. Os moradores locais ainda não confiam totalmente no ZiG, a nova moeda.",
+          "nl": "De Amerikaanse dollar is de voorkeursvaluta en wordt overal geaccepteerd. De lokale bevolking vertrouwt ZiG, de nieuwe valuta, nog niet helemaal.",
+          "pl": "USD to preferowana waluta, akceptowana wszędzie. Miejscowi wciąż nie do końca ufają ZiG, nowej walucie.",
+          "ru": "Доллар США является предпочтительной валютой, принимаемой повсюду. Местные жители до сих пор не полностью доверяют новой валюте — ZiG."
         }
       },
       "borderIds": [],

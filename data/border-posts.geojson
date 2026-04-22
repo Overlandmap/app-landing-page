@@ -764,6 +764,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          36.1189592,
+          34.6406869
+        ]
+      },
+      "properties": {
+        "id": "5PORh3vHJWYFgFlOpHSl",
+        "is_open": 1,
+        "name": "Al Abbudiyah",
+        "location": {
+          "_latitude": 34.6406869,
+          "_longitude": 36.1189592
+        },
+        "countries": "LBN-SYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           36.2006898,
           32.53057
         ]
@@ -4226,6 +4246,26 @@
         "updatedat": {
           "_seconds": 1769107909,
           "_nanoseconds": 456000000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.54438,
+          34.42313
+        ]
+      },
+      "properties": {
+        "id": "UZBN0muOudAND94o0Uc0",
+        "is_open": 2,
+        "name": "Jusseh",
+        "countries": "LBN-SYR",
+        "location": {
+          "_latitude": 34.42313,
+          "_longitude": 36.54438
         }
       }
     },
@@ -8365,6 +8405,17 @@
         "updatedat": {
           "_seconds": 1775716480,
           "_nanoseconds": 934000000
+        },
+        "comment_translations": {
+          "en": "Normally the transit is restricted (by Turkey) to Turks and Syrians. But as other countries closed down during the Iran war, it opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey.\nIt seems also that some (foreign) vehicles have been able to cross, but this is not confirmed.",
+          "fr": "Normalement, le transit est réservé (par la Turquie) aux Turcs et aux Syriens. Mais suite à la fermeture de la frontière par d'autres pays pendant la guerre Iran-Iran, elle a été ouverte aux ressortissants d'autres pays quittant la Syrie, à condition qu'ils puissent présenter un billet d'avion au départ de Turquie.\n\nIl semblerait également que certains véhicules (étrangers) aient pu franchir la frontière, mais cela reste à confirmer.",
+          "de": "Normalerweise ist der Transit (von der Türkei) auf Türken und Syrer beschränkt. Da jedoch andere Länder während des Iran-Krieges ihre Grenzen abriegelten, wurde er für andere Staatsangehörige, die Syrien verlassen, geöffnet, sofern sie einen Abflug aus der Türkei vorweisen können.\nEs scheint auch, dass einige (ausländische) Fahrzeuge die Grenze passieren konnten, dies ist jedoch nicht bestätigt.",
+          "it": "Normalmente il transito è limitato (dalla Turchia) a cittadini turchi e siriani. Tuttavia, poiché altri Paesi hanno chiuso i confini durante la guerra con l'Iran, il confine è stato aperto anche a cittadini di altre nazionalità in uscita dalla Siria, a condizione che possano dimostrare di avere un volo in partenza dalla Turchia.\nSembra inoltre che alcuni veicoli (stranieri) siano riusciti ad attraversare il confine, ma ciò non è confermato.",
+          "es": "Normalmente, el tránsito está restringido (por Turquía) a turcos y sirios. Sin embargo, debido a las restricciones impuestas por otros países durante la guerra de Irán, se abrió a ciudadanos de otras nacionalidades que salían de Siria, siempre que pudieran demostrar un vuelo de salida desde Turquía.\n\nAl parecer, algunos vehículos (extranjeros) también han podido cruzar, pero esto no está confirmado.",
+          "pt": "Normalmente, o trânsito é restrito (pela Turquia) a turcos e sírios. Mas, como outros países fecharam as fronteiras durante a guerra com o Irã, a fronteira foi aberta a cidadãos de outras nacionalidades que saíam da Síria, desde que pudessem apresentar um voo de saída da Turquia.\nParece também que alguns veículos (estrangeiros) conseguiram atravessar, mas isso não está confirmado.",
+          "nl": "Normaal gesproken is de doorreis (door Turkije) beperkt tot Turken en Syriërs. Maar omdat andere landen de grens sloten tijdens de oorlog met Iran, werd de grens opengesteld voor andere nationaliteiten die Syrië verlieten, mits ze een uitgaande vlucht vanuit Turkije konden aantonen.\n\nHet lijkt er ook op dat sommige (buitenlandse) voertuigen de grens hebben kunnen oversteken, maar dit is niet bevestigd.",
+          "pl": "Zazwyczaj tranzyt jest ograniczony (przez Turcję) do Turków i Syryjczyków. Jednak, gdy inne kraje zamknęły granice podczas wojny w Iranie, został on otwarty dla innych obywateli opuszczających Syrię, pod warunkiem przedstawienia dowodu odlotu z Turcji.\nWydaje się również, że niektóre (zagraniczne) pojazdy mogły przejechać, ale nie jest to potwierdzone.",
+          "ru": "Обычно транзит (по решению Турции) разрешен только гражданам Турции и Сирии. Но поскольку другие страны закрылись во время войны с Ираном, транзит открылся для граждан других стран, выезжающих из Сирии, при условии, что они смогут предъявить билет на вылет из Турции.\nПо-видимому, некоторым (иностранным) транспортным средствам удалось пересечь границу, но это не подтверждено."
         }
       }
     },
