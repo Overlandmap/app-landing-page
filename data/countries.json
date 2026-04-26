@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-04-22T09:04:08.960Z",
+    "generatedAt": "2026-04-26T15:41:31.254Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -8709,7 +8709,6 @@
         "population": 53897000,
         "timezone": "Asia/Rangoon",
         "visa": 1,
-        "overlanding": 2,
         "comment_translations": {
           "en": "Since the military takeover in 2021, overland travel has been impossible.\nBefore that, an overland travel from India to Thailand was possible with a guide and escort organized by an official travel agent.",
           "fr": "Depuis le coup d'État militaire de 2021, les déplacements terrestres sont impossibles.\n\nAuparavant, un voyage par voie terrestre de l'Inde à la Thaïlande était possible avec un guide et un accompagnateur, organisés par une agence de voyages officielle.",
@@ -8757,9 +8756,10 @@
           "ru": "Мьянма (Бирма)",
           "zh": "缅甸"
         },
+        "overlanding": 0,
         "updatedat": {
-          "_seconds": 1770199394,
-          "_nanoseconds": 810000000
+          "_seconds": 1777216080,
+          "_nanoseconds": 669000000
         }
       },
       "borderIds": [],
@@ -14805,32 +14805,8 @@
         "driving": "r",
         "iso_a2": "YE",
         "name": "Yemen",
-        "overlanding": 2,
         "population": 26832000,
         "timezone": "Asia/Aden",
-        "comment": "The whole north-west area around Sana'a and the saudi border is very unsafe. The east of the country is supposed to be stable, but still very difficult to get it.\nThe small island of Soccotra, which is part of Yemen, is safe and is the only place tourists can routinely visit, but only through a travel agency and by flying in from Abu Dhabi or Cairo.",
-        "comment_translations": {
-          "en": "The whole north-west area around Sana'a and the saudi border is very unsafe. The east of the country is supposed to be stable, but still very difficult to get it.\nThe small island of Soccotra, which is part of Yemen, is safe and is the only place tourists can routinely visit, but only through a travel agency and by flying in from Abu Dhabi or Cairo.",
-          "fr": "Toute la zone nord-ouest, autour de Sanaa et de la frontière saoudienne, est très dangereuse. L'est du pays est censé être stable, mais reste très difficile d'accès.\n\nLa petite île de Socotra, qui fait partie du Yémen, est sûre et constitue le seul endroit que les touristes peuvent visiter régulièrement, mais uniquement par le biais d'une agence de voyages et en arrivant par avion d'Abu Dhabi ou du Caire.",
-          "de": "Die gesamte nordwestliche Region um Sanaa und die saudische Grenze ist sehr unsicher. Der Osten des Landes gilt zwar als stabil, ist aber dennoch schwer zugänglich. Die kleine Insel Sokotra, die zu Jemen gehört, ist sicher und der einzige Ort, den Touristen regelmäßig besuchen können – allerdings nur über ein Reisebüro und per Flugzeug von Abu Dhabi oder Kairo aus.",
-          "it": "Tutta l'area nord-occidentale intorno a Sana'a e al confine con l'Arabia Saudita è molto insicura. La parte orientale del Paese dovrebbe essere stabile, ma è ancora molto difficile da raggiungere.\nLa piccola isola di Soccotra, che fa parte dello Yemen, è sicura ed è l'unico posto che i turisti possono visitare regolarmente, ma solo tramite un'agenzia di viaggi e volando da Abu Dhabi o dal Cairo.",
-          "es": "Toda la zona noroeste alrededor de Saná y la frontera saudí es muy insegura. Se supone que el este del país es estable, pero aún es muy difícil acceder a él.\nLa pequeña isla de Soccotra, que forma parte de Yemen, es segura y es el único lugar que los turistas pueden visitar habitualmente, pero solo a través de una agencia de viajes y volando desde Abu Dabi o El Cairo.",
-          "pt": "Toda a área noroeste em torno de Sana'a e da fronteira com a Arábia Saudita é muito insegura. O leste do país deveria ser estável, mas ainda é muito difícil chegar lá.\nA pequena ilha de Socotra, que faz parte do Iêmen, é segura e é o único lugar que os turistas podem visitar regularmente, mas apenas por meio de uma agência de viagens e voando de Abu Dhabi ou Cairo.",
-          "nl": "Het hele noordwestelijke gebied rond Sana'a en de Saoedische grens is erg onveilig. Het oosten van het land zou stabiel moeten zijn, maar het is nog steeds erg moeilijk om daar een veilig gebied te bereiken.\n\nHet kleine eiland Socotra, dat deel uitmaakt van Jemen, is veilig en is de enige plek die toeristen regelmatig kunnen bezoeken, maar alleen via een reisbureau en door te vliegen vanuit Abu Dhabi of Caïro.",
-          "pl": "Cały północno-zachodni obszar wokół Sany i granicy z Arabią Saudyjską jest bardzo niebezpieczny. Wschodnia część kraju ma być stabilna, ale wciąż trudno się tam dostać.\nMała wyspa Sokotra, należąca do Jemenu, jest bezpieczna i jest jedynym miejscem, które turyści mogą regularnie odwiedzać, ale tylko za pośrednictwem biura podróży i przylatując z Abu Zabi lub Kairu.",
-          "ru": "Весь северо-западный регион вокруг Саны и саудовской границы очень опасен. Восточная часть страны считается стабильной, но добраться туда по-прежнему очень сложно.\nНебольшой остров Соккотра, входящий в состав Йемена, безопасен и является единственным местом, которое туристы могут регулярно посещать, но только через туристическое агентство и прилетая из Абу-Даби или Каира."
-        },
-        "visa_comment_translations": {
-          "en": "Visas are granted through a travel agency only, and basically only together with a package tour to the island of Soccotra.",
-          "fr": "Les visas sont délivrés uniquement par l'intermédiaire d'une agence de voyages, et pratiquement uniquement dans le cadre d'un voyage organisé sur l'île de Soccotra.",
-          "de": "Visa werden ausschließlich über ein Reisebüro und grundsätzlich nur in Verbindung mit einer Pauschalreise auf die Insel Sokotra erteilt.",
-          "it": "I visti vengono rilasciati solo tramite un'agenzia di viaggi e, in genere, solo insieme a un pacchetto turistico per l'isola di Soccotra.",
-          "es": "Los visados se conceden únicamente a través de una agencia de viajes y básicamente sólo junto con un paquete turístico a la isla de Soccotra.",
-          "pt": "Os vistos são concedidos apenas por meio de uma agência de viagens e, basicamente, somente em conjunto com um pacote turístico para a ilha de Socotra.",
-          "nl": "Visa's worden uitsluitend via een reisbureau verstrekt, en in principe alleen in combinatie met een pakketreis naar het eiland Sociëtra.",
-          "pl": "Wizę wydaje się wyłącznie za pośrednictwem biur podróży i zasadniczo tylko w połączeniu z wycieczką zorganizowaną na wyspę Soccotra.",
-          "ru": "Визы оформляются только через туристическое агентство и, как правило, только в рамках пакетного тура на остров Соккотра."
-        },
         "visa": 4,
         "visa_comment": "Visas are granted through a travel agency only, and basically only together with a package tour to the island of Soccotra (Hadramour tours are also sometimes available).",
         "bounding_box": [
@@ -14860,9 +14836,33 @@
           "zh": "也门",
           "pt": "Iêmen"
         },
+        "overlanding": 1,
+        "comment": "The whole north-west area around Sana'a and the saudi border is very unsafe. The east of the country is supposed to be stable, but still very difficult to get it. There are agencies organizing tours in Hadramout, but you need to fly in (not overland).\nThe small island of Soccotra, which is part of Yemen, is safe and is the only place tourists can routinely visit, but only through a travel agency and by flying in from Abu Dhabi or Cairo (or Jeddah possibly).",
         "updatedat": {
-          "_seconds": 1770199403,
-          "_nanoseconds": 898000000
+          "_seconds": 1777216048,
+          "_nanoseconds": 450000000
+        },
+        "comment_translations": {
+          "en": "The whole north-west area around Sana'a and the saudi border is very unsafe. The east of the country is supposed to be stable, but still very difficult to get it. There are agencies organizing tours in Hadramout, but you need to fly in (not overland).\nThe small island of Soccotra, which is part of Yemen, is safe and is the only place tourists can routinely visit, but only through a travel agency and by flying in from Abu Dhabi or Cairo (or Jeddah possibly).",
+          "fr": "Toute la région nord-ouest, autour de Sanaa et de la frontière saoudienne, est très dangereuse. L'est du pays est censé être stable, mais reste très difficile d'accès. Des agences organisent des circuits dans le Hadramaout, mais il faut s'y rendre par avion (pas par voie terrestre).\n\nLa petite île de Socotra, qui fait partie du Yémen, est sûre et constitue le seul endroit que les touristes peuvent visiter régulièrement, mais uniquement par le biais d'une agence de voyages et en arrivant par avion depuis Abou Dabi ou le Caire (ou éventuellement Djeddah).",
+          "de": "Die gesamte nordwestliche Region um Sanaa und die saudische Grenze ist sehr unsicher. Der Osten des Landes gilt als stabil, ist aber dennoch schwer zugänglich. Es gibt Reiseveranstalter, die Touren in Hadramaut anbieten, die jedoch nur per Flugzeug (nicht auf dem Landweg) möglich sind. Die kleine Insel Sokotra, die zu Jemen gehört, ist sicher und der einzige Ort, den Touristen regelmäßig besuchen können, allerdings nur über ein Reisebüro und per Flugzeug von Abu Dhabi oder Kairo (oder möglicherweise Dschidda).",
+          "it": "Tutta la zona nord-occidentale intorno a Sana'a e al confine con l'Arabia Saudita è molto pericolosa. La parte orientale del paese dovrebbe essere stabile, ma è comunque molto difficile da raggiungere. Ci sono agenzie che organizzano tour nell'Hadramaut, ma è necessario arrivarci in aereo (non via terra).\nLa piccola isola di Soccotra, che fa parte dello Yemen, è sicura ed è l'unico luogo che i turisti possono visitare regolarmente, ma solo tramite un'agenzia di viaggi e arrivando in aereo da Abu Dhabi o dal Cairo (o eventualmente da Gedda).",
+          "es": "Toda la zona noroeste, alrededor de Saná y la frontera con Arabia Saudí, es muy insegura. Se supone que el este del país es estable, pero aun así es muy difícil acceder a él. Hay agencias que organizan excursiones en Hadramout, pero es necesario volar (no se puede viajar por tierra).\n\nLa pequeña isla de Socotra, que forma parte de Yemen, es segura y es el único lugar que los turistas pueden visitar con regularidad, pero solo a través de una agencia de viajes y volando desde Abu Dabi o El Cairo (o posiblemente Yeda).",
+          "pt": "Toda a área noroeste em torno de Sana'a e da fronteira com a Arábia Saudita é muito insegura. O leste do país é considerado estável, mas ainda é muito difícil chegar lá. Existem agências que organizam excursões em Hadramout, mas é preciso chegar de avião (não por terra).\nA pequena ilha de Socotra, que faz parte do Iêmen, é segura e é o único lugar que os turistas podem visitar regularmente, mas apenas por meio de uma agência de viagens e voando de Abu Dhabi ou Cairo (ou possivelmente Jeddah).",
+          "nl": "Het hele noordwestelijke gebied rond Sana'a en de Saoedische grens is erg onveilig. Het oosten van het land zou stabiel moeten zijn, maar het is nog steeds erg moeilijk om er te komen. Er zijn reisbureaus die tours naar Hadramout organiseren, maar je moet erheen vliegen (niet over land).\n\nHet kleine eiland Socotra, dat deel uitmaakt van Jemen, is veilig en is de enige plek die toeristen regelmatig kunnen bezoeken, maar alleen via een reisbureau en door te vliegen vanuit Abu Dhabi of Caïro (of mogelijk Jeddah).",
+          "pl": "Cały północno-zachodni obszar wokół Sany i granicy z Arabią Saudyjską jest bardzo niebezpieczny. Sytuacja na wschodzie kraju powinna być stabilna, ale wciąż trudno się tam dostać. W Hadramout działają agencje organizujące wycieczki, ale trzeba tam dotrzeć samolotem (nie drogą lądową).\nMała wyspa Sokotra, należąca do Jemenu, jest bezpieczna i jest jedynym miejscem, które turyści mogą regularnie odwiedzać, ale tylko za pośrednictwem biura podróży i przylatując z Abu Zabi lub Kairu (ewentualnie z Dżuddy).",
+          "ru": "Весь северо-западный регион вокруг Саны и саудовской границы очень небезопасен. Восточная часть страны считается стабильной, но добраться туда по-прежнему очень сложно. Есть агентства, организующие туры в Хадрамаут, но туда нужно добираться самолетом (не наземным транспортом).\nНебольшой остров Соккотра, входящий в состав Йемена, безопасен и является единственным местом, которое туристы могут регулярно посещать, но только через туристическое агентство и самолетом из Абу-Даби или Каира (или, возможно, Джидды)."
+        },
+        "visa_comment_translations": {
+          "en": "Visas are granted through a travel agency only, and basically only together with a package tour to the island of Soccotra (Hadramour tours are also sometimes available).",
+          "fr": "Les visas sont délivrés uniquement par l'intermédiaire d'une agence de voyages, et généralement seulement dans le cadre d'un voyage organisé sur l'île de Soccotra (des circuits à Hadramour sont parfois également disponibles).",
+          "de": "Visa werden ausschließlich über ein Reisebüro und grundsätzlich nur in Verbindung mit einer Pauschalreise zur Insel Sokotra erteilt (Hadramour-Reisen sind gelegentlich ebenfalls möglich).",
+          "it": "I visti vengono rilasciati esclusivamente tramite agenzie di viaggio, e in genere solo in abbinamento a un pacchetto turistico per l'isola di Soccotra (a volte sono disponibili anche tour organizzati da Hadramaur).",
+          "es": "Los visados se conceden únicamente a través de una agencia de viajes, y básicamente solo junto con un paquete turístico a la isla de Soccotra (en ocasiones también se ofrecen excursiones a Hadramour).",
+          "pt": "Os vistos são concedidos apenas por meio de agências de viagens e, basicamente, somente em conjunto com um pacote turístico para a ilha de Socotra (excursões da Hadramour também estão disponíveis ocasionalmente).",
+          "nl": "Visa's worden uitsluitend via een reisbureau verstrekt, en in principe alleen in combinatie met een pakketreis naar het eiland Sociëtra (soms zijn er ook Hadramour-excursies beschikbaar).",
+          "pl": "Wizę wydaje się wyłącznie za pośrednictwem biur podróży i zasadniczo tylko w połączeniu z wycieczką zorganizowaną na wyspę Soccotra (czasami dostępne są również wycieczki Hadramour).",
+          "ru": "Визы оформляются только через туристическое агентство и, как правило, только в комплекте с пакетным туром на остров Соккотра (иногда также доступны туры в Хадрамур)."
         }
       },
       "borderIds": [],

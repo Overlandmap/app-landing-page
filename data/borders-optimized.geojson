@@ -3847,33 +3847,33 @@
           "g4NsPLBzAVTTfxtGHiTf": "Lagodeki / Balakan",
           "uW5JdikVcnRfekYBo0B0": "Sadaxli"
         },
-        "comment": "The land borders of Azerbaijan have been closed to tourists since COVID.",
         "country1": "GEO",
         "country2": "AZE",
         "geomstring": "{\"coordinates\":[[[46.43,41.891],[46.405,41.855],[46.348,41.79],[46.303,41.757],[46.252,41.752],[46.202,41.737],[46.184,41.702],[46.182,41.657],[46.191,41.625],[46.204,41.613],[46.255,41.602],[46.305,41.508],[46.385,41.46],[46.509,41.406],[46.619,41.344],[46.673,41.287],[46.662,41.245],[46.626,41.16],[46.534,41.089],[46.458,41.07],[46.431,41.077],[46.381,41.099],[46.28,41.154],[46.171,41.198],[46.087,41.184],[46.031,41.167],[45.922,41.187],[45.793,41.224],[45.726,41.262],[45.696,41.289],[45.716,41.338],[45.422,41.425],[45.281,41.45],[45.217,41.423],[45.001,41.291]]],\"type\":\"MultiLineString\"}",
         "geomtype": "MultiLineString",
-        "is_open": 2,
         "name": "GEO - AZE",
-        "comment_translations": {
-          "en": "The land borders of Azerbaijan have been closed to tourists since COVID.",
-          "fr": "Les frontières terrestres de l'Azerbaïdjan sont fermées aux touristes depuis le début de la pandémie de COVID-19.",
-          "de": "Die Landgrenzen Aserbaidschans sind seit COVID für Touristen geschlossen.",
-          "it": "I confini terrestri dell'Azerbaigian sono chiusi ai turisti a causa del COVID.",
-          "es": "Las fronteras terrestres de Azerbaiyán han estado cerradas para los turistas desde la pandemia de COVID.",
-          "pt": "As fronteiras terrestres do Azerbaijão estão fechadas para turistas desde o início da COVID-19.",
-          "nl": "De landsgrenzen van Azerbeidzjan zijn sinds COVID-19 gesloten voor toeristen.",
-          "pl": "Granice lądowe Azerbejdżanu są zamknięte dla turystów od czasu pandemii COVID.",
-          "ru": "Наземные границы Азербайджана закрыты для туристов с начала пандемии COVID-19."
-        },
         "bounding_box": [
           45.001,
           41.07,
           46.673,
           41.891
         ],
+        "comment": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
+        "comment_translations": {
+          "fr": "Depuis la pandémie de COVID-19, toutes les frontières terrestres de l'Azerbaïdjan sont fermées aux étrangers. Il est obligatoire d'entrer par avion.\n\nVous pouvez toutefois quitter le pays par voie terrestre.",
+          "de": "Seit COVID-19 sind alle Landgrenzen Aserbaidschans für Ausländer geschlossen. Die Einreise ist nur per Flugzeug möglich. Die Ausreise über Land ist jedoch weiterhin möglich.",
+          "pt": "Todas as fronteiras terrestres do Azerbaijão estão fechadas para estrangeiros desde a COVID. Eles preferem que você entre no país por via aérea.\nVocê pode sair do país usando as fronteiras terrestres.",
+          "it": "Tutti i confini terrestri dell'Azerbaigian sono chiusi agli stranieri che entrano nel paese, dall'inizio della pandemia di COVID-19. L'ingresso è consentito solo in aereo.\nÈ comunque possibile uscire dal paese attraverso i confini terrestri.",
+          "pl": "Wszystkie granice lądowe Azerbejdżanu są zamknięte dla cudzoziemców wjeżdżających do kraju z powodu pandemii COVID-19. Chcą, żebyście przylecieli samolotem.\nMożecie jednak opuścić kraj, korzystając z granic lądowych.",
+          "ru": "С начала пандемии COVID-19 все сухопутные границы Азербайджана закрыты для въезда иностранцев в страну. Въезд осуществляется только самолетом.\nОднако выехать из страны можно по сухопутным границам.",
+          "nl": "Alle landsgrenzen van Azerbeidzjan zijn sinds COVID-19 gesloten voor buitenlanders die het land binnenkomen. Je moet per vliegtuig aankomen.\nJe kunt het land wel via de landsgrenzen verlaten.",
+          "en": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
+          "es": "Todas las fronteras terrestres de Azerbaiyán están cerradas a los extranjeros que intenten entrar al país desde la pandemia de COVID-19. Es necesario viajar en avión. Sin embargo, se puede salir del país por tierra."
+        },
+        "is_open": 3,
         "updatedat": {
-          "_seconds": 1769526928,
-          "_nanoseconds": 943000000
+          "_seconds": 1776869660,
+          "_nanoseconds": 621000000
         }
       }
     },
@@ -5851,9 +5851,21 @@
           41.891
         ],
         "is_open": 3,
+        "comment": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
         "updatedat": {
-          "_seconds": 1776526921,
-          "_nanoseconds": 126000000
+          "_seconds": 1776868746,
+          "_nanoseconds": 245000000
+        },
+        "comment_translations": {
+          "en": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
+          "fr": "Depuis la pandémie de COVID-19, toutes les frontières terrestres de l'Azerbaïdjan sont fermées aux étrangers. Il est recommandé de venir par avion.\n\nVous pouvez toutefois quitter le pays par voie terrestre.",
+          "de": "Seit COVID-19 sind alle Landgrenzen Aserbaidschans für Ausländer geschlossen. Die Einreise ist nur per Flugzeug möglich. Die Ausreise über Land ist jedoch weiterhin möglich.",
+          "it": "Tutti i confini terrestri dell'Azerbaigian sono chiusi agli stranieri che entrano nel paese, dall'inizio della pandemia di COVID-19. L'ingresso è consentito solo in aereo.\nÈ comunque possibile uscire dal paese attraverso i confini terrestri.",
+          "es": "Todas las fronteras terrestres de Azerbaiyán están cerradas a los extranjeros que intenten entrar al país desde la pandemia de COVID-19. Es necesario viajar en avión. Sin embargo, se puede salir del país por tierra.",
+          "pt": "Todas as fronteiras terrestres do Azerbaijão estão fechadas para estrangeiros desde a COVID. Eles preferem que você entre no país por via aérea.\nVocê pode sair do país usando as fronteiras terrestres.",
+          "nl": "Alle landsgrenzen van Azerbeidzjan zijn sinds COVID-19 gesloten voor buitenlanders die het land binnenkomen. Je moet per vliegtuig aankomen.\nJe kunt het land wel via de landsgrenzen verlaten.",
+          "pl": "Wszystkie granice lądowe Azerbejdżanu są zamknięte dla cudzoziemców wjeżdżających do kraju z powodu pandemii COVID-19. Chcą, żebyście przylecieli samolotem.\nMożecie jednak opuścić kraj, korzystając z granic lądowych.",
+          "ru": "С начала пандемии COVID-19 все сухопутные границы Азербайджана закрыты для въезда иностранцев в страну. Въезд осуществляется только самолетом.\nОднако выехать из страны можно по сухопутным границам."
         }
       }
     },
@@ -18609,11 +18621,6 @@
         "geomtype": "MultiLineString",
         "is_open": 2,
         "name": "SYR - IRQ",
-        "border_posts": {
-          "aoYnPJMPXnZ1wjBLL4kS": "Fishkhabour / Semalka",
-          "FZ7O1yTaFpAIwOBj00Zi": "Al Walid / Al Tanf",
-          "cIllekrAJJM0oY1qK01j": "Al Qa’im / Abu Kamal"
-        },
         "bounding_box": [
           38.774,
           33.372,
@@ -18623,6 +18630,12 @@
         "updatedat": {
           "_seconds": 1769526930,
           "_nanoseconds": 565000000
+        },
+        "border_posts": {
+          "aoYnPJMPXnZ1wjBLL4kS": "Fishkhabour / Semalka",
+          "cIllekrAJJM0oY1qK01j": "Al Qa’im / Abu Kamal",
+          "FZ7O1yTaFpAIwOBj00Zi": "Al Walid / Al Tanf",
+          "hjOipPvnkwYMkvTCRcHW": "Rabia"
         }
       }
     },
@@ -87359,7 +87372,6 @@
         "country2": "AZE",
         "geomstring": "{ \"type\": \"MultiLineString\", \"coordinates\": [ [ [ 44.768, 39.704 ], [ 44.783, 39.685 ], [ 44.817, 39.65 ], [ 44.817420595031145, 39.649579404968854 ] ] ] }",
         "geomtype": "MultiLineString",
-        "is_open": 2,
         "name": "TUR - AZE",
         "bounding_box": [
           44.768,
@@ -87367,9 +87379,22 @@
           44.817420595031145,
           39.704
         ],
+        "is_open": 3,
+        "comment": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
         "updatedat": {
-          "_seconds": 1769526937,
-          "_nanoseconds": 216000000
+          "_seconds": 1776869725,
+          "_nanoseconds": 867000000
+        },
+        "comment_translations": {
+          "en": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
+          "fr": "Depuis la pandémie de COVID-19, toutes les frontières terrestres de l'Azerbaïdjan sont fermées aux étrangers. Il est recommandé de venir par avion.\n\nVous pouvez toutefois quitter le pays par voie terrestre.",
+          "de": "Seit COVID-19 sind alle Landgrenzen Aserbaidschans für Ausländer geschlossen. Die Einreise ist nur per Flugzeug möglich. Die Ausreise über Land ist jedoch weiterhin möglich.",
+          "it": "Tutti i confini terrestri dell'Azerbaigian sono chiusi agli stranieri che entrano nel paese, dall'inizio della pandemia di COVID-19. L'ingresso è consentito solo in aereo.\nÈ comunque possibile uscire dal paese attraverso i confini terrestri.",
+          "es": "Todas las fronteras terrestres de Azerbaiyán están cerradas a los extranjeros que intenten entrar al país desde la pandemia de COVID-19. Es necesario viajar en avión. Sin embargo, se puede salir del país por tierra.",
+          "pt": "Todas as fronteiras terrestres do Azerbaijão estão fechadas para estrangeiros desde a COVID. Eles preferem que você entre no país por via aérea.\nVocê pode sair do país usando as fronteiras terrestres.",
+          "nl": "Alle landsgrenzen van Azerbeidzjan zijn sinds COVID-19 gesloten voor buitenlanders die het land binnenkomen. Je moet per vliegtuig aankomen.\nJe kunt het land wel via de landsgrenzen verlaten.",
+          "pl": "Wszystkie granice lądowe Azerbejdżanu są zamknięte dla cudzoziemców wjeżdżających do kraju z powodu pandemii COVID-19. Chcą, żebyście przylecieli samolotem.\nMożecie jednak opuścić kraj, korzystając z granic lądowych.",
+          "ru": "С начала пандемии COVID-19 все сухопутные границы Азербайджана закрыты для въезда иностранцев в страну. Въезд осуществляется только самолетом.\nОднако выехать из страны можно по сухопутным границам."
         }
       }
     },
@@ -87624,23 +87649,11 @@
           "XLvWFTaEexJOnMuYjt2j": "Jolfa/Julfa",
           "yTrr9gGGskIcUIs0RWmC": "Astara"
         },
-        "comment": "All land borders of Azerbaijan are closed to tourists since COVID.",
         "country1": "IRN",
         "country2": "AZE",
         "geomstring": "{ \"type\": \"MultiLineString\", \"coordinates\": [ [ [ 44.817420595031145, 39.649579404968854 ], [ 44.838, 39.629 ], [ 45.0, 39.424 ], [ 45.072, 39.363 ], [ 45.113, 39.312 ], [ 45.141, 39.254 ], [ 45.191, 39.216 ], [ 45.256, 39.195 ], [ 45.336, 39.139 ], [ 45.389, 39.096 ], [ 45.48, 39.006 ], [ 45.575, 38.973 ], [ 45.922, 38.908 ], [ 46.114, 38.878 ] ], [ [ 46.493242959180385, 38.904 ], [ 46.556043997042053, 38.905528648740301 ], [ 46.783, 39.087 ], [ 46.853, 39.148 ], [ 46.989, 39.18 ], [ 47.065, 39.253 ], [ 47.188, 39.341 ], [ 47.321246043254739, 39.41472947726762 ], [ 47.338, 39.424 ], [ 47.476, 39.498 ], [ 47.582, 39.543 ], [ 47.773, 39.649 ], [ 47.892, 39.685 ], [ 47.996, 39.684 ], [ 48.151, 39.561 ], [ 48.282, 39.448 ], [ 48.322, 39.399 ], [ 48.257, 39.355 ], [ 48.136, 39.312 ], [ 48.113, 39.281 ], [ 48.104, 39.241 ], [ 48.109, 39.203 ], [ 48.125, 39.172 ], [ 48.274, 39.099 ], [ 48.291, 39.059 ], [ 48.292, 39.019 ], [ 48.275, 38.994 ], [ 48.242, 38.979 ], [ 48.139, 38.959 ], [ 48.05, 38.935 ], [ 48.019, 38.912 ], [ 47.993, 38.884 ], [ 47.996, 38.854 ], [ 48.023, 38.819 ], [ 48.205, 38.724 ], [ 48.225, 38.689 ], [ 48.261, 38.642 ], [ 48.306, 38.613 ], [ 48.381, 38.606 ], [ 48.417, 38.586 ], [ 48.593, 38.411 ], [ 48.636, 38.399 ], [ 48.84, 38.437 ], [ 48.869, 38.436 ] ] ] }",
         "geomtype": "MultiLineString",
         "name": "IRN - AZE",
-        "comment_translations": {
-          "en": "All land borders of Azerbaijan are closed to tourists since COVID.",
-          "fr": "Depuis la pandémie de COVID, toutes les frontières terrestres de l'Azerbaïdjan sont fermées aux touristes.",
-          "de": "Seit COVID sind alle Landgrenzen Aserbaidschans für Touristen geschlossen.",
-          "it": "Tutti i confini terrestri dell'Azerbaigian sono chiusi ai turisti a causa del COVID.",
-          "es": "Todas las fronteras terrestres de Azerbaiyán están cerradas para los turistas desde el COVID.",
-          "pt": "Todas as fronteiras terrestres do Azerbaijão estão fechadas para turistas desde o início da COVID-19.",
-          "nl": "Alle landsgrenzen van Azerbeidzjan zijn sinds COVID-19 gesloten voor toeristen.",
-          "pl": "Wszystkie granice lądowe Azerbejdżanu są zamknięte dla turystów z powodu COVID.",
-          "ru": "С начала пандемии COVID-19 все сухопутные границы Азербайджана закрыты для туристов."
-        },
         "bounding_box": [
           44.817420595031145,
           38.399,
@@ -87648,9 +87661,21 @@
           39.685
         ],
         "is_open": 3,
+        "comment": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
         "updatedat": {
-          "_seconds": 1776526926,
-          "_nanoseconds": 753000000
+          "_seconds": 1776868732,
+          "_nanoseconds": 32000000
+        },
+        "comment_translations": {
+          "pl": "Wszystkie granice lądowe Azerbejdżanu są zamknięte dla cudzoziemców wjeżdżających do kraju z powodu pandemii COVID-19. Chcą, żebyście przylecieli samolotem.\nMożecie jednak opuścić kraj, korzystając z granic lądowych.",
+          "pt": "Todas as fronteiras terrestres do Azerbaijão estão fechadas para estrangeiros desde a COVID. Eles preferem que você entre no país por via aérea.\nVocê pode sair do país usando as fronteiras terrestres.",
+          "fr": "Depuis la pandémie de COVID-19, toutes les frontières terrestres de l'Azerbaïdjan sont fermées aux étrangers. Il est obligatoire d'entrer par avion.\n\nVous pouvez toutefois quitter le pays par voie terrestre.",
+          "de": "Seit COVID-19 sind alle Landgrenzen Aserbaidschans für Ausländer geschlossen. Die Einreise ist nur per Flugzeug möglich. Die Ausreise über Land ist jedoch weiterhin möglich.",
+          "it": "Tutti i confini terrestri dell'Azerbaigian sono chiusi agli stranieri che entrano nel paese, dall'inizio della pandemia di COVID-19. L'ingresso è consentito solo in aereo.\nÈ comunque possibile uscire dal paese attraverso i confini terrestri.",
+          "en": "All land borders of Azerbaijan are closed to foreigners entering the country, since COVID. They want you to fly in.\nYou can exit the country using land borders, though.",
+          "es": "Todas las fronteras terrestres de Azerbaiyán están cerradas a los extranjeros que intenten entrar al país desde la pandemia de COVID-19. Es necesario viajar en avión. Sin embargo, se puede salir del país por tierra.",
+          "nl": "Alle landsgrenzen van Azerbeidzjan zijn sinds COVID-19 gesloten voor buitenlanders die het land binnenkomen. Je moet per vliegtuig aankomen.\nJe kunt het land wel via de landsgrenzen verlaten.",
+          "ru": "С начала пандемии COVID-19 все сухопутные границы Азербайджана закрыты для въезда иностранцев в страну. Въезд осуществляется только самолетом.\nОднако выехать из страны можно по сухопутным границам."
         }
       }
     },

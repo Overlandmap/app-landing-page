@@ -1815,7 +1815,6 @@
   {
     "id": "LTsCDi3XQr465FXmhAYO",
     "is_open": 0,
-    "name": "Tejen",
     "countries": "KAZ-UZB",
     "location": {
       "_latitude": 44.8959036,
@@ -1837,7 +1836,8 @@
     "updatedAt": {
       "_seconds": 1769107908,
       "_nanoseconds": 215000000
-    }
+    },
+    "name": "Tezhen"
   },
   {
     "id": "LW4ksNtKpaEoQW8d3DDh",
@@ -1864,9 +1864,21 @@
     },
     "name": "Ibrahim Khalil",
     "geohash": "syw729f8",
+    "comment": "You can buy here a visa for the Kurdistan region only, but you won't be able to get to the rest of Iraq. If you wan to go south, you need to get an eVisa for federal Iraq.",
     "updatedAt": {
-      "_seconds": 1769107908,
-      "_nanoseconds": 290000000
+      "_seconds": 1777215228,
+      "_nanoseconds": 391000000
+    },
+    "comment_translations": {
+      "en": "You can buy here a visa for the Kurdistan region only, but you won't be able to get to the rest of Iraq. If you wan to go south, you need to get an eVisa for federal Iraq.",
+      "fr": "Vous pouvez acheter ici un visa uniquement pour la région du Kurdistan, mais il ne vous permettra pas d'accéder au reste de l'Irak. Si vous souhaitez vous rendre dans le sud, vous devez obtenir un visa électronique pour l'Irak fédéral.",
+      "de": "Sie können hier ein Visum nur für die Region Kurdistan erwerben, damit können Sie jedoch nicht in den Rest des Irak reisen. Wenn Sie in den Süden reisen möchten, benötigen Sie ein eVisum für den irakischen Staat.",
+      "it": "Qui puoi acquistare un visto valido solo per la regione del Kurdistan, ma non ti permetterà di visitare il resto dell'Iraq. Se desideri recarti nel sud, devi richiedere un visto elettronico (eVisa) per l'Iraq federale.",
+      "es": "Aquí puedes comprar una visa solo para la región del Kurdistán, pero no podrás viajar al resto de Irak. Si quieres ir al sur, necesitas una visa electrónica para Irak federal.",
+      "pt": "Você pode comprar aqui um visto apenas para a região do Curdistão, mas não poderá entrar no restante do Iraque. Se quiser ir para o sul, precisará de um visto eletrônico (eVisa) para o Iraque federal.",
+      "nl": "Je kunt hier alleen een visum voor de regio Koerdistan kopen, maar je kunt daarmee niet naar de rest van Irak reizen. Als je naar het zuiden wilt, heb je een e-visum voor federaal Irak nodig.",
+      "pl": "Można tu kupić wizę tylko na Kurdystan, ale nie będzie można wjechać do reszty Iraku. Jeśli chcesz pojechać na południe, musisz uzyskać wizę elektroniczną do federalnego Iraku.",
+      "ru": "Здесь вы можете приобрести визу только для региона Курдистан, но в остальную часть Ирака вы не сможете попасть. Если вы хотите поехать на юг, вам потребуется электронная виза для федерального Ирака."
     }
   },
   {
@@ -3520,22 +3532,22 @@
       "_latitude": 37.0891808,
       "_longitude": 42.3484312
     },
-    "comment": "Border between Syria and Kurdistan.",
-    "comment_translations": {
-      "en": "Border between Syria and Kurdistan.",
-      "fr": "Frontière entre la Syrie et le Kurdistan.",
-      "de": "Grenze zwischen Syrien und Kurdistan.",
-      "it": "Confine tra Siria e Kurdistan.",
-      "es": "Frontera entre Siria y Kurdistán.",
-      "pt": "Fronteira entre a Síria e o Curdistão.",
-      "nl": "Grens tussen Syrië en Koerdistan.",
-      "pl": "Granica między Syrią i Kurdystanem.",
-      "ru": "Граница между Сирией и Курдистаном."
-    },
     "geohash": "syw4gxvh",
+    "comment": "Border between Syria and the Kurdistan autonomous region of Iraq.\nThe crossing is via a floating bridge which has been destroyed, waiting for repairs.",
     "updatedAt": {
-      "_seconds": 1769107910,
-      "_nanoseconds": 351000000
+      "_seconds": 1777215836,
+      "_nanoseconds": 426000000
+    },
+    "comment_translations": {
+      "en": "Border between Syria and the Kurdistan autonomous region of Iraq.\nThe crossing is via a floating bridge which has been destroyed, waiting for repairs.",
+      "fr": "Frontière entre la Syrie et la région autonome du Kurdistan irakien.\n\nLe passage se fait par un pont flottant actuellement détruit et en attente de réparation.",
+      "de": "Grenze zwischen Syrien und der kurdischen Autonomen Region im Irak.\nDer Grenzübergang erfolgt über eine Pontonbrücke, die zerstört wurde und auf ihre Reparatur wartet.",
+      "it": "Confine tra la Siria e la regione autonoma del Kurdistan iracheno.\nL'attraversamento avviene tramite un ponte galleggiante distrutto, in attesa di riparazioni.",
+      "es": "Frontera entre Siria y la región autónoma del Kurdistán iraquí.\n\nEl cruce se realiza mediante un puente flotante que ha sido destruido y está a la espera de reparaciones.",
+      "pt": "Fronteira entre a Síria e a região autônoma do Curdistão iraquiano.\nA travessia é feita por uma ponte flutuante que foi destruída e está aguardando reparos.",
+      "nl": "Grens tussen Syrië en de autonome regio Koerdistan in Irak.\n\nDe oversteek vindt plaats via een drijvende brug die is vernield en op reparatie wacht.",
+      "pl": "Granica między Syrią a autonomicznym regionem Kurdystanu w Iraku. Przejście przez nią odbywa się przez zniszczony most pływający, który czeka na naprawę.",
+      "ru": "Граница между Сирией и автономным регионом Курдистан в Ираке.\nПересечение границы осуществляется по плавучему мосту, который был разрушен и ожидает ремонта."
     }
   },
   {
@@ -3677,9 +3689,10 @@
     },
     "name": "Al Qa’im / Abu Kamal",
     "geohash": "syj5smyt",
+    "comment": "Newly opened border crossing (2026).",
     "updatedAt": {
-      "_seconds": 1769107910,
-      "_nanoseconds": 543000000
+      "_seconds": 1777215910,
+      "_nanoseconds": 399000000
     }
   },
   {
@@ -4221,6 +4234,16 @@
     "updatedAt": {
       "_seconds": 1769107911,
       "_nanoseconds": 170000000
+    }
+  },
+  {
+    "id": "hjOipPvnkwYMkvTCRcHW",
+    "is_open": 0,
+    "name": "Rabia",
+    "countries": "IRQ-SYR",
+    "location": {
+      "_latitude": 36.8056659,
+      "_longitude": 42.0759303
     }
   },
   {
@@ -5423,22 +5446,22 @@
       "_latitude": 36.23123,
       "_longitude": 36.69214
     },
-    "name": "Bab al-Hawa",
-    "comment": "Normally the transit is restricted (by Turkey) to Turks and Syrians. But as other countries closed down during the Iran war, it opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey.\nIt seems also that some (foreign) vehicles have been able to cross, but this is not confirmed.",
+    "name": "Bab al-Hawa / Cilvegözü",
+    "comment": "Officially the crossing is restricted (by Turkey) to Turks and Syrians. But as Iraq and Kuwait closed down during the 2026 Iran war, it shortly re-opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey, but that didn't last long.\nA few (foreign) vehicles have been able to cross (April 2026), but only after they got their embassy to write a letter to the Turkish foreign ministry asking for an exception for them specifically.\nSo it is not (yet) to be considered a viable route to/from the Arabic peninsula.",
     "updatedAt": {
-      "_seconds": 1775716480,
-      "_nanoseconds": 934000000
+      "_seconds": 1777215694,
+      "_nanoseconds": 67000000
     },
     "comment_translations": {
-      "en": "Normally the transit is restricted (by Turkey) to Turks and Syrians. But as other countries closed down during the Iran war, it opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey.\nIt seems also that some (foreign) vehicles have been able to cross, but this is not confirmed.",
-      "fr": "Normalement, le transit est réservé (par la Turquie) aux Turcs et aux Syriens. Mais suite à la fermeture de la frontière par d'autres pays pendant la guerre Iran-Iran, elle a été ouverte aux ressortissants d'autres pays quittant la Syrie, à condition qu'ils puissent présenter un billet d'avion au départ de Turquie.\n\nIl semblerait également que certains véhicules (étrangers) aient pu franchir la frontière, mais cela reste à confirmer.",
-      "de": "Normalerweise ist der Transit (von der Türkei) auf Türken und Syrer beschränkt. Da jedoch andere Länder während des Iran-Krieges ihre Grenzen abriegelten, wurde er für andere Staatsangehörige, die Syrien verlassen, geöffnet, sofern sie einen Abflug aus der Türkei vorweisen können.\nEs scheint auch, dass einige (ausländische) Fahrzeuge die Grenze passieren konnten, dies ist jedoch nicht bestätigt.",
-      "it": "Normalmente il transito è limitato (dalla Turchia) a cittadini turchi e siriani. Tuttavia, poiché altri Paesi hanno chiuso i confini durante la guerra con l'Iran, il confine è stato aperto anche a cittadini di altre nazionalità in uscita dalla Siria, a condizione che possano dimostrare di avere un volo in partenza dalla Turchia.\nSembra inoltre che alcuni veicoli (stranieri) siano riusciti ad attraversare il confine, ma ciò non è confermato.",
-      "es": "Normalmente, el tránsito está restringido (por Turquía) a turcos y sirios. Sin embargo, debido a las restricciones impuestas por otros países durante la guerra de Irán, se abrió a ciudadanos de otras nacionalidades que salían de Siria, siempre que pudieran demostrar un vuelo de salida desde Turquía.\n\nAl parecer, algunos vehículos (extranjeros) también han podido cruzar, pero esto no está confirmado.",
-      "pt": "Normalmente, o trânsito é restrito (pela Turquia) a turcos e sírios. Mas, como outros países fecharam as fronteiras durante a guerra com o Irã, a fronteira foi aberta a cidadãos de outras nacionalidades que saíam da Síria, desde que pudessem apresentar um voo de saída da Turquia.\nParece também que alguns veículos (estrangeiros) conseguiram atravessar, mas isso não está confirmado.",
-      "nl": "Normaal gesproken is de doorreis (door Turkije) beperkt tot Turken en Syriërs. Maar omdat andere landen de grens sloten tijdens de oorlog met Iran, werd de grens opengesteld voor andere nationaliteiten die Syrië verlieten, mits ze een uitgaande vlucht vanuit Turkije konden aantonen.\n\nHet lijkt er ook op dat sommige (buitenlandse) voertuigen de grens hebben kunnen oversteken, maar dit is niet bevestigd.",
-      "pl": "Zazwyczaj tranzyt jest ograniczony (przez Turcję) do Turków i Syryjczyków. Jednak, gdy inne kraje zamknęły granice podczas wojny w Iranie, został on otwarty dla innych obywateli opuszczających Syrię, pod warunkiem przedstawienia dowodu odlotu z Turcji.\nWydaje się również, że niektóre (zagraniczne) pojazdy mogły przejechać, ale nie jest to potwierdzone.",
-      "ru": "Обычно транзит (по решению Турции) разрешен только гражданам Турции и Сирии. Но поскольку другие страны закрылись во время войны с Ираном, транзит открылся для граждан других стран, выезжающих из Сирии, при условии, что они смогут предъявить билет на вылет из Турции.\nПо-видимому, некоторым (иностранным) транспортным средствам удалось пересечь границу, но это не подтверждено."
+      "en": "Officially the crossing is restricted (by Turkey) to Turks and Syrians. But as Iraq and Kuwait closed down during the 2026 Iran war, it shortly re-opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey, but that didn't last long.\nA few (foreign) vehicles have been able to cross (April 2026), but only after they got their embassy to write a letter to the Turkish foreign ministry asking for an exception for them specifically.\nSo it is not (yet) to be considered a viable route to/from the Arabic peninsula.",
+      "fr": "Officiellement, le passage est interdit (par la Turquie) aux Turcs et aux Syriens. Cependant, suite à la fermeture de la frontière irakienne et koweïtienne pendant la guerre Iran-Irak de 2026, elle a brièvement rouvert aux ressortissants d'autres pays quittant la Syrie, à condition qu'ils puissent présenter un billet d'avion au départ de Turquie. Cette mesure fut toutefois de courte durée.\n\nQuelques véhicules étrangers ont pu franchir la frontière (avril 2026), mais uniquement après que leur ambassade ait adressé une lettre au ministère turc des Affaires étrangères pour demander une dérogation spécifique.\n\nPar conséquent, ce passage ne peut (pas encore) être considéré comme une voie d'accès viable à la péninsule arabique.",
+      "de": "Offiziell ist der Grenzübergang (von der Türkei) auf Türken und Syrer beschränkt. Da der Irak und Kuwait im Zuge des Iran-Krieges 2026 die Grenze schlossen, wurde sie kurzzeitig für andere Staatsangehörige, die Syrien verließen, wieder geöffnet, sofern sie einen Rückflug aus der Türkei vorweisen konnten. Diese Regelung hielt jedoch nicht lange an.\nEinige (ausländische) Fahrzeuge konnten die Grenze passieren (April 2026), allerdings nur, nachdem die jeweiligen Botschaften einen Brief an das türkische Außenministerium geschrieben und um eine Ausnahmegenehmigung gebeten hatten.\nDaher gilt der Grenzübergang (noch) nicht als praktikable Route zur/von der Arabischen Halbinsel.",
+      "it": "Ufficialmente, il valico è riservato (dalla Turchia) a cittadini turchi e siriani. Tuttavia, con la chiusura di Iraq e Kuwait durante la guerra con l'Iran del 2026, è stato brevemente riaperto anche ad altri cittadini provenienti dalla Siria, a condizione che potessero dimostrare di avere un volo in partenza dalla Turchia, ma questa possibilità non è durata a lungo.\nAlcuni veicoli (stranieri) sono riusciti ad attraversare il confine (aprile 2026), ma solo dopo che le rispettive ambasciate avevano inviato una lettera al Ministero degli Esteri turco chiedendo un'eccezione specifica.\nPertanto, non può (ancora) essere considerato un percorso praticabile da/per la penisola arabica.",
+      "es": "Oficialmente, el cruce fronterizo está restringido (por Turquía) a turcos y sirios. Sin embargo, cuando Irak y Kuwait cerraron el paso durante la guerra con Irán en 2026, se reabrió brevemente a ciudadanos de otras nacionalidades que salían de Siria, siempre que pudieran demostrar un vuelo de salida desde Turquía. No obstante, esta medida no duró mucho.\n\nAlgunos vehículos (extranjeros) lograron cruzar (en abril de 2026), pero solo después de que su embajada enviara una carta al Ministerio de Asuntos Exteriores turco solicitando una excepción específica para ellos.\n\nPor lo tanto, aún no se considera una ruta viable hacia o desde la península arábiga.",
+      "pt": "Oficialmente, a travessia é restrita (pela Turquia) a turcos e sírios. Mas, como o Iraque e o Kuwait fecharam suas fronteiras durante a guerra com o Irã em 2026, ela foi brevemente reaberta para cidadãos de outras nacionalidades que saíam da Síria, desde que pudessem apresentar um voo de saída da Turquia, mas isso não durou muito.\nAlguns veículos (estrangeiros) conseguiram atravessar (em abril de 2026), mas somente depois que suas embaixadas enviaram uma carta ao Ministério das Relações Exteriores da Turquia solicitando uma exceção específica para eles.\nPortanto, ainda não deve ser considerada uma rota viável para/da Península Arábica.",
+      "nl": "Officieel is de grensovergang (door Turkije) beperkt tot Turken en Syriërs. Maar toen Irak en Koeweit zich tijdens de oorlog met Iran in 2026 afsloten, werd de grens kortstondig weer opengesteld voor andere nationaliteiten die Syrië verlieten, mits ze een uitgaande vlucht vanuit Turkije konden aantonen. Dit duurde echter niet lang.\n\nEen paar (buitenlandse) voertuigen hebben de grens kunnen oversteken (april 2026), maar alleen nadat hun ambassade een brief naar het Turkse ministerie van Buitenlandse Zaken had gestuurd met het specifieke verzoek om een uitzondering.\n\nHet is dus (nog) niet te beschouwen als een haalbare route van/naar het Arabische schiereiland.",
+      "pl": "Oficjalnie przejście graniczne jest ograniczone (przez Turcję) do Turków i Syryjczyków. Jednak po zamknięciu granic Iraku i Kuwejtu podczas wojny z Iranem w 2026 roku, wkrótce ponownie otwarto je dla innych obywateli opuszczających Syrię, pod warunkiem przedstawienia dowodu odlotu z Turcji. Jednak ta sytuacja nie trwała długo. Kilka (zagranicznych) pojazdów mogło przekroczyć granicę (kwiecień 2026), ale dopiero po tym, jak ich ambasada napisała list do tureckiego MSZ z prośbą o wyjątek specjalnie dla nich. Zatem nie można (jeszcze) uznać tego przejścia za realną trasę do/z Półwyspu Arabskiego.",
+      "ru": "Официально (по решению Турции) этот пункт пропуска предназначен только для граждан Турции и Сирии. Однако после закрытия границ Ирака и Кувейта во время войны с Ираном в 2026 году он вскоре вновь открылся для граждан других стран, выезжающих из Сирии, при условии предъявления документов об обратном рейсе из Турции, но это продлилось недолго.\nНесколько (иностранных) автомобилей смогли пересечь границу (в апреле 2026 года), но только после того, как их посольство направило письмо в министерство иностранных дел Турции с просьбой о предоставлении им исключения.\nПоэтому пока этот маршрут не считается жизнеспособным путем на/с Аравийского полуострова."
     }
   },
   {

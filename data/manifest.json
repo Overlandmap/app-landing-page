@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-22T09:04:09.017Z",
+  "generatedAt": "2026-04-26T15:41:31.319Z",
   "version": "1.1.0",
   "files": {
     "countries.json": {
       "description": "Country data with parameters and border references",
       "recordCount": 242,
-      "sizeEstimate": "686 KB"
+      "sizeEstimate": "688 KB"
     },
     "borders.json": {
       "description": "Border metadata for route generation only (data loaded from Firestore)",
@@ -15,17 +15,17 @@
     },
     "border-posts.json": {
       "description": "Border post details without geographic data (for lookups)",
-      "recordCount": 323,
-      "sizeEstimate": "441 KB"
+      "recordCount": 324,
+      "sizeEstimate": "454 KB"
     },
     "border-posts.geojson": {
       "description": "Border crossing posts as Point features",
-      "featureCount": 323,
+      "featureCount": 324,
       "sizeEstimate": "Small - Point geometries with status data"
     },
     "border-posts-optimized.geojson": {
       "description": "Optimized border post Point features",
-      "featureCount": 323,
+      "featureCount": 324,
       "sizeEstimate": "Small - optimized Point features"
     },
     "iso3-lookup.json": {
@@ -49,8 +49,8 @@
     "countriesWithIso3": 0,
     "totalBorders": 334,
     "bordersWithGeometry": 334,
-    "totalBorderPosts": 323,
-    "borderPostsWithGeometry": 323,
+    "totalBorderPosts": 324,
+    "borderPostsWithGeometry": 324,
     "iso3Mappings": 0
   }
 }
