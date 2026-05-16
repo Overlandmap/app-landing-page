@@ -3248,7 +3248,7 @@
       },
       "properties": {
         "id": "OKEtwV9XiyGcCn7SwIxK",
-        "is_open": 0,
+        "is_open": 2,
         "countries": "KAZ-TKM",
         "location": {
           "_latitude": 41.9006989,
@@ -3257,8 +3257,8 @@
         "name": "Garabogaz / Temir Baba",
         "geohash": "tpmqq5uc",
         "updatedat": {
-          "_seconds": 1769107908,
-          "_nanoseconds": 623000000
+          "_seconds": 1778934807,
+          "_nanoseconds": 62000000
         }
       }
     },
@@ -4241,6 +4241,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          42.219692,
+          36.933586
+        ]
+      },
+      "properties": {
+        "id": "TuUmKNYVFIfl7RGMRP3e",
+        "is_open": 1,
+        "name": "Al Waleed",
+        "location": {
+          "_latitude": 36.9335864,
+          "_longitude": 42.2196919
+        },
+        "countries": "IRQ-SYR",
+        "updatedat": {
+          "_seconds": 1778950988,
+          "_nanoseconds": 590000000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           70.731634,
           40.112643
         ]
@@ -5185,22 +5209,22 @@
           "_longitude": 39.0071786
         },
         "name": "Ruwaished / Turaibil",
-        "comment": "You'll have to be escorted on Iraqi side, sometimes all the way between the border and Baghdad, sometimes just a few km from the border.",
-        "comment_translations": {
-          "en": "You'll have to be escorted on Iraqi side, sometimes all the way between the border and Baghdad, sometimes just a few km from the border.",
-          "fr": "Vous devrez être escorté du côté irakien, parfois jusqu'à Bagdad, parfois à quelques kilomètres seulement de la frontière.",
-          "de": "Sie müssen auf irakischer Seite eskortiert werden, manchmal die ganze Strecke zwischen der Grenze und Bagdad, manchmal nur wenige Kilometer von der Grenze entfernt.",
-          "it": "Dovrai essere scortato sul lato iracheno, a volte per tutto il tragitto tra il confine e Baghdad, a volte solo per pochi chilometri dal confine.",
-          "es": "Tendrás que ser escoltado en el lado iraquí, a veces durante todo el camino entre la frontera y Bagdad, a veces sólo unos pocos kilómetros de la frontera.",
-          "pt": "Você precisará de escolta no lado iraquiano, às vezes por todo o trajeto entre a fronteira e Bagdá, outras vezes apenas a poucos quilômetros da fronteira.",
-          "nl": "Aan de Iraakse kant moet je onder begeleiding reizen, soms helemaal tussen de grens en Bagdad, soms slechts een paar kilometer van de grens.",
-          "pl": "Będziesz musiał skorzystać z eskorty po stronie irackiej, czasami aż do Bagdadu, a czasami tylko kilka kilometrów od granicy.",
-          "ru": "На иракской стороне вас будут сопровождать, иногда на всем пути от границы до Багдада, а иногда всего в нескольких километрах от границы."
-        },
         "geohash": "svgdr8h4",
+        "comment": "An escort used to be necessary on Iraqi side, nowadays it seems not be necessary anymore, but it could change without notice.",
         "updatedat": {
-          "_seconds": 1769107910,
-          "_nanoseconds": 119000000
+          "_seconds": 1778949674,
+          "_nanoseconds": 527000000
+        },
+        "comment_translations": {
+          "en": "An escort used to be necessary on Iraqi side, nowadays it seems not be necessary anymore, but it could change without notice.",
+          "fr": "Une escorte était autrefois nécessaire du côté irakien ; aujourd'hui, elle ne semble plus l'être, mais cela pourrait changer sans préavis.",
+          "de": "Früher war eine Eskorte auf irakischer Seite notwendig, heutzutage scheint sie nicht mehr nötig zu sein, aber das kann sich jederzeit ändern.",
+          "it": "In passato, sul lato iracheno era necessaria una scorta; oggigiorno sembra non esserlo più, ma la situazione potrebbe cambiare senza preavviso.",
+          "es": "Antes era necesario un escolta por parte iraquí, hoy en día parece que ya no lo es, pero esto podría cambiar sin previo aviso.",
+          "pt": "Antigamente, era necessário ter escolta no lado iraquiano, mas hoje em dia parece não ser mais necessário, embora isso possa mudar sem aviso prévio.",
+          "nl": "Een escorte aan Iraakse zijde was vroeger noodzakelijk, tegenwoordig lijkt dat niet meer het geval, maar dat kan zonder voorafgaande kennisgeving veranderen.",
+          "pl": "Eskorta była kiedyś konieczna po stronie irackiej, dziś wydaje się, że nie jest już konieczna, ale sytuacja może się zmienić w mgnieniu oka.",
+          "ru": "Раньше на иракской стороне требовалось сопровождение, сейчас, похоже, это уже не так необходимо, но ситуация может измениться без предупреждения."
         }
       }
     },
@@ -6566,12 +6590,16 @@
       },
       "properties": {
         "id": "hjOipPvnkwYMkvTCRcHW",
-        "is_open": 0,
+        "is_open": 2,
         "name": "Rabia",
         "countries": "IRQ-SYR",
         "location": {
           "_latitude": 36.8056659,
           "_longitude": 42.0759303
+        },
+        "updatedat": {
+          "_seconds": 1778949735,
+          "_nanoseconds": 258000000
         }
       }
     },

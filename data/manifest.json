@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T15:41:31.319Z",
+  "generatedAt": "2026-05-16T17:24:47.940Z",
   "version": "1.1.0",
   "files": {
     "countries.json": {
@@ -15,17 +15,17 @@
     },
     "border-posts.json": {
       "description": "Border post details without geographic data (for lookups)",
-      "recordCount": 324,
-      "sizeEstimate": "454 KB"
+      "recordCount": 325,
+      "sizeEstimate": "455 KB"
     },
     "border-posts.geojson": {
       "description": "Border crossing posts as Point features",
-      "featureCount": 324,
+      "featureCount": 325,
       "sizeEstimate": "Small - Point geometries with status data"
     },
     "border-posts-optimized.geojson": {
       "description": "Optimized border post Point features",
-      "featureCount": 324,
+      "featureCount": 325,
       "sizeEstimate": "Small - optimized Point features"
     },
     "iso3-lookup.json": {
@@ -49,8 +49,8 @@
     "countriesWithIso3": 0,
     "totalBorders": 334,
     "bordersWithGeometry": 334,
-    "totalBorderPosts": 324,
-    "borderPostsWithGeometry": 324,
+    "totalBorderPosts": 325,
+    "borderPostsWithGeometry": 325,
     "iso3Mappings": 0
   }
 }

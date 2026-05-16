@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-04-26T15:41:31.260Z",
+    "generatedAt": "2026-05-16T17:24:47.881Z",
     "totalBorders": 334,
     "bordersWithGeometry": 334
   },
@@ -2114,10 +2114,11 @@
           "_nanoseconds": 565000000
         },
         "border_posts": {
-          "aoYnPJMPXnZ1wjBLL4kS": "Fishkhabour / Semalka",
+          "hjOipPvnkwYMkvTCRcHW": "Rabia",
           "cIllekrAJJM0oY1qK01j": "Al Qa’im / Abu Kamal",
           "FZ7O1yTaFpAIwOBj00Zi": "Al Walid / Al Tanf",
-          "hjOipPvnkwYMkvTCRcHW": "Rabia"
+          "aoYnPJMPXnZ1wjBLL4kS": "Fishkhabour / Semalka",
+          "TuUmKNYVFIfl7RGMRP3e": "Al Waleed"
         },
         "geomstring": "{\"coordinates\":[[[42.359,37.109],[42.359,37.095],[42.35,37.061],[42.237,36.961],[42.084,36.826],[41.974,36.741],[41.789,36.597],[41.65,36.566],[41.417,36.515],[41.354,36.464],[41.296,36.383],[41.262,36.272],[41.252,36.203],[41.246,36.073],[41.3,35.939],[41.353,35.81],[41.359,35.725],[41.354,35.64],[41.303,35.551],[41.248,35.428],[41.216,35.288],[41.2,35.027],[41.199,34.805],[41.195,34.769],[41.099,34.612],[40.987,34.429],[40.935,34.387],[40.689,34.332],[40.422,34.198],[40.122,34.048],[39.85,33.911],[39.564,33.768],[39.268,33.62],[39.057,33.514],[38.774,33.372]]],\"type\":\"MultiLineString\"}",
         "geomtype": "MultiLineString",
