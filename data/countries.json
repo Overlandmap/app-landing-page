@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-04-26T15:41:31.254Z",
+    "generatedAt": "2026-05-16T17:24:47.876Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -13498,7 +13498,6 @@
         "insurance": 1,
         "tip": "You will need to pay various kind of taxes at the border, for a total of 200$ - 250$.",
         "stay_duration": "Limited by the duration of your visa.",
-        "comment": "On of the most interesting of the former USSR republics, with a lot of reminiscences of the former dictatorship.\nThe fuel there is incredibly cheap, but as a foreigner you'll have to pay an extra fuel tax, so it ends up being about 1$/liter or so.\nNote: the famous Darvaza crater that was burning gas has ben put out in 2025, so there isn't much to see nowadays, unfortunately.",
         "comment_translations": {
           "en": "On of the most interesting of the former USSR republics, with a lot of reminiscences of the former dictatorship.\nThe fuel there is incredibly cheap, but as a foreigner you'll have to pay an extra fuel tax, so it ends up being about 1$/liter or so.\nNote: the famous Darvaza crater that was burning gas has ben put out in 2025, so there isn't much to see nowadays, unfortunately.",
           "fr": "L'une des plus intéressantes des anciennes républiques soviétiques, qui conserve de nombreux vestiges de l'ancienne dictature.\n\nLe carburant y est incroyablement bon marché, mais en tant qu'étranger, vous devrez payer une taxe supplémentaire, ce qui porte le prix à environ 1 $ le litre.\n\nÀ noter : le célèbre cratère de Darvaza, qui était en proie aux flammes, a été éteint en 2025 ; il n'y a donc malheureusement plus grand-chose à voir aujourd'hui.",
@@ -13570,9 +13569,10 @@
           "pt": "Asgabate",
           "it": "Agabat"
         },
+        "comment": "One of the most interesting of the former USSR republics, with a lot of reminiscences of the former dictatorship.\nThe fuel there is incredibly cheap, but as a foreigner you'll have to pay an extra fuel tax, so it ends up being about 1$/liter or so.\nNote: the famous Darvaza crater that was burning gas has ben put out in 2025, so there isn't much to see nowadays, unfortunately.",
         "updatedat": {
-          "_seconds": 1770199401,
-          "_nanoseconds": 730000000
+          "_seconds": 1778504767,
+          "_nanoseconds": 894000000
         }
       },
       "borderIds": [],
