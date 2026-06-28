@@ -1512,16 +1512,28 @@
       "properties": {
         "id": "CpOK2JFdpXpry4BlCs6Z",
         "is_open": 2,
-        "name": "Korday",
         "countries": "KGZ-UZB",
         "location": {
           "_latitude": 40.57256,
           "_longitude": 72.76007
         },
         "geohash": "tx5wzdn2",
+        "name": "Dostuk",
+        "comment": "Main crossing between Kyrgyzstan and Uzbekistan. Usually fast and efficient. No corruption.",
         "updatedat": {
-          "_seconds": 1769107906,
-          "_nanoseconds": 802000000
+          "_seconds": 1782657148,
+          "_nanoseconds": 606000000
+        },
+        "comment_translations": {
+          "en": "Main crossing between Kyrgyzstan and Uzbekistan. Usually fast and efficient. No corruption.",
+          "fr": "Point de passage principal entre le Kirghizistan et l'Ouzbékistan. Généralement rapide et efficace. Pas de corruption.",
+          "de": "Wichtigster Grenzübergang zwischen Kirgisistan und Usbekistan. In der Regel schnell und effizient. Keine Korruption.",
+          "it": "Principale valico di frontiera tra Kirghizistan e Uzbekistan. Solitamente veloce ed efficiente. Nessuna corruzione.",
+          "es": "Principal paso fronterizo entre Kirguistán y Uzbekistán. Generalmente rápido y eficiente. Sin corrupción.",
+          "pt": "Principal passagem de fronteira entre o Quirguistão e o Uzbequistão. Geralmente rápida e eficiente. Sem corrupção.",
+          "nl": "Belangrijkste grensovergang tussen Kirgizië en Oezbekistan. Meestal snel en efficiënt. Geen corruptie.",
+          "pl": "Główne przejście graniczne między Kirgistanem a Uzbekistanem. Zazwyczaj szybkie i sprawne. Bez korupcji.",
+          "ru": "Главный пограничный переход между Кыргызстаном и Узбекистаном. Обычно быстрый и эффективный. Коррупция отсутствует."
         }
       }
     },
