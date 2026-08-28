@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-16T17:24:47.940Z",
+  "generatedAt": "2026-08-28T14:44:02.561Z",
   "version": "1.1.0",
   "files": {
     "countries.json": {
       "description": "Country data with parameters and border references",
       "recordCount": 242,
-      "sizeEstimate": "688 KB"
+      "sizeEstimate": "695 KB"
     },
     "borders.json": {
       "description": "Border metadata for route generation only (data loaded from Firestore)",
@@ -15,17 +15,17 @@
     },
     "border-posts.json": {
       "description": "Border post details without geographic data (for lookups)",
-      "recordCount": 325,
-      "sizeEstimate": "455 KB"
+      "recordCount": 327,
+      "sizeEstimate": "459 KB"
     },
     "border-posts.geojson": {
       "description": "Border crossing posts as Point features",
-      "featureCount": 325,
+      "featureCount": 327,
       "sizeEstimate": "Small - Point geometries with status data"
     },
     "border-posts-optimized.geojson": {
       "description": "Optimized border post Point features",
-      "featureCount": 325,
+      "featureCount": 327,
       "sizeEstimate": "Small - optimized Point features"
     },
     "iso3-lookup.json": {
@@ -36,12 +36,12 @@
     "itineraries.json": {
       "description": "Travel itineraries with editor=GOA filter",
       "recordCount": 128,
-      "sizeEstimate": "326 KB"
+      "sizeEstimate": "351 KB"
     },
     "trackpack.json": {
       "description": "Track packs with editor=GOA filter",
-      "recordCount": 5,
-      "sizeEstimate": "61 KB"
+      "recordCount": 6,
+      "sizeEstimate": "62 KB"
     }
   },
   "statistics": {
@@ -49,8 +49,8 @@
     "countriesWithIso3": 0,
     "totalBorders": 334,
     "bordersWithGeometry": 334,
-    "totalBorderPosts": 325,
-    "borderPostsWithGeometry": 325,
+    "totalBorderPosts": 327,
+    "borderPostsWithGeometry": 327,
     "iso3Mappings": 0
   }
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-05-16T17:24:47.876Z",
+    "generatedAt": "2026-08-28T14:44:02.508Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -6083,41 +6083,8 @@
         "timezone": "Asia/Baghdad",
         "visa": 2,
         "visa_url": "https://eservice.evisa.iq/",
-        "visa_comment_translations": {
-          "en": "The fee is 206,000 IQD, (about 160$) for most nationals (30 days).\nIf you require a visa for the Kurdistan region only, you can get it at the port of entry (100'000 IQD), or online (75$) at:\nhttps://visit.gov.krd/\nIsraelis are banned from Iraq.",
-          "fr": "Les frais s'élèvent à 206 000 IQD (environ 160 $) pour la plupart des ressortissants (séjour de 30 jours).\n\nSi vous avez besoin d'un visa uniquement pour la région du Kurdistan, vous pouvez l'obtenir au point d'entrée (100 000 IQD) ou en ligne (75 $) sur :\n\nhttps://visit.gov.krd/ Les ressortissants israéliens ne sont pas autorisés à entrer en Irak.",
-          "de": "Die Gebühr beträgt 206.000 IQD (ca. 160 US-Dollar) für die meisten Staatsangehörigen (30 Tage).\nWenn Sie nur ein Visum für die Region Kurdistan benötigen, können Sie dieses bei der Einreise (100.000 IQD) oder online (75 US-Dollar) unter folgendem Link beantragen:\n\nhttps://visit.gov.krd/\nIsraelen ist die Einreise in den Irak untersagt.",
-          "it": "La tariffa è di 206.000 IQD (circa 160 $) per la maggior parte dei cittadini (30 giorni).\nSe hai bisogno di un visto solo per la regione del Kurdistan, puoi ottenerlo al porto di ingresso (100.000 IQD) o online (75 $) all'indirizzo:\nhttps://visit.gov.krd/\nAgli israeliani è vietato l'ingresso in Iraq.",
-          "es": "La tarifa es de 206.000 dinares iraquíes (unos 160 dólares) para la mayoría de los ciudadanos (30 días).\nSi necesita una visa solo para la región del Kurdistán, puede obtenerla en el puerto de entrada (100.000 dinares iraquíes) o en línea (75 dólares) en:\nhttps://visit.gov.krd/\nLos israelíes tienen prohibida la entrada a Irak.",
-          "pt": "A taxa é de 206.000 IQD (cerca de 160 dólares) para a maioria das nacionalidades (30 dias).\nSe você precisar de um visto apenas para a região do Curdistão, poderá obtê-lo no ponto de entrada (100.000 IQD) ou online (75 dólares) em:\nhttps://visit.gov.krd/\nIsraelenses estão proibidos de entrar no Iraque.",
-          "nl": "De kosten bedragen 206.000 IQD (ongeveer $160) voor de meeste nationaliteiten (30 dagen).\n\nAls u alleen een visum voor de regio Koerdistan nodig heeft, kunt u dit verkrijgen bij de grenspost (100.000 IQD) of online ($75) via:\nhttps://visit.gov.krd/\nIsraëliërs hebben geen toegang tot Irak.",
-          "pl": "Opłata wynosi 206 000 IQD (około 160 USD) dla większości obywateli (30 dni).\nJeśli potrzebujesz wizy tylko na Kurdystan, możesz ją uzyskać w porcie wjazdowym (100 000 IQD) lub online (75 USD) na stronie:\nhttps://visit.gov.krd/\nIzraelczycy mają zakaz wjazdu do Iraku.",
-          "ru": "Стоимость визы составляет 206 000 иракских динаров (около 160 долларов США) для большинства граждан (на 30 дней).\nЕсли вам нужна виза только для региона Курдистан, вы можете получить ее в пункте въезда (100 000 иракских динаров) или онлайн (75 долларов США) по адресу:\nhttps://visit.gov.krd/\nГражданам Израиля запрещен въезд в Ирак."
-        },
-        "carnet_comment_translations": {
-          "en": "Exception: a carnet is not required if you enter and exit from Kurdistan. It is required if you cross any other border (Kuwait, Iran or Jordan).",
-          "fr": "Exception : un carnet de passage en douane n’est pas requis pour entrer et sortir du Kurdistan. Il est obligatoire pour franchir toute autre frontière (Koweït, Iran ou Jordanie).",
-          "de": "Ausnahme: Für die Ein- und Ausreise nach Kurdistan ist kein Carnet erforderlich. Es ist jedoch erforderlich, wenn Sie eine andere Grenze überqueren (Kuwait, Iran oder Jordanien).",
-          "it": "Eccezione: il carnet non è richiesto per entrare e uscire dal Kurdistan. È obbligatorio per attraversare qualsiasi altro confine (Kuwait, Iran o Giordania).",
-          "es": "Excepción: No se requiere carnet para entrar y salir del Kurdistán. Sí se requiere para cruzar cualquier otra frontera (Kuwait, Irán o Jordania).",
-          "pt": "Exceção: o Carnet não é necessário para entrar e sair do Curdistão. Ele é necessário para atravessar qualquer outra fronteira (Kuwait, Irã ou Jordânia).",
-          "nl": "Uitzondering: een carnet is niet vereist als u Koerdistan binnenkomt en verlaat. Het is wel vereist als u een andere grens oversteekt (Koeweit, Iran of Jordanië).",
-          "pl": "Wyjątek: karnet nie jest wymagany przy wjeździe i wyjeździe z Kurdystanu. Jest wymagany przy przekraczaniu jakiejkolwiek innej granicy (Kuwejtu, Iranu lub Jordanii).",
-          "ru": "Исключение: карнет не требуется при въезде и выезде из Курдистана. Он необходим при пересечении любой другой границы (Кувейт, Иран или Иордания)."
-        },
         "currency_details": "Current street exchange rates is found on: https://qamaralfajr.com/production/exchange_rates.php\nThe first line is the rate for new, crisp USD 100 bills. As usual, lower denominations have a worse rate.",
         "comment": "Note that the quality of diesel is not very good and the availability is not guaranteed. DPF (particle filter) may get clogged due to this.",
-        "comment_translations": {
-          "en": "Note that the quality of diesel is not very good and the availability is not guaranteed. DPF (particle filter) may get clogged due to this.",
-          "fr": "Veuillez noter que la qualité du diesel est médiocre et que sa disponibilité n'est pas garantie. Le filtre à particules (FAP) risque de s'encrasser.",
-          "de": "Beachten Sie, dass die Dieselqualität nicht sehr gut ist und die Verfügbarkeit nicht gewährleistet ist. Dadurch kann der Dieselpartikelfilter (DPF) verstopfen.",
-          "it": "Si noti che la qualità del gasolio non è molto buona e la sua disponibilità non è garantita. Il DPF (filtro antiparticolato) potrebbe intasarsi a causa di ciò.",
-          "es": "Tenga en cuenta que la calidad del diésel no es muy buena y su disponibilidad no está garantizada. El filtro de partículas DPF (DPF) podría obstruirse debido a esto.",
-          "pt": "Note que a qualidade do diesel não é muito boa e a disponibilidade não é garantida. O DPF (filtro de partículas) pode ficar obstruído devido a isso.",
-          "nl": "Houd er rekening mee dat de kwaliteit van diesel niet erg goed is en de beschikbaarheid niet gegarandeerd is. Hierdoor kan het roetfilter (DPF) verstopt raken.",
-          "pl": "Należy pamiętać, że jakość oleju napędowego nie jest najlepsza, a jego dostępność nie jest gwarantowana. Może to spowodować zatkanie filtra cząstek stałych (DPF).",
-          "ru": "Следует отметить, что качество дизельного топлива не очень хорошее, и его доступность не гарантирована. Из-за этого сажевый фильтр (DPF) может засориться."
-        },
         "bounding_box": [
           38.773535,
           29.063672,
@@ -6147,9 +6114,55 @@
           "pt": "Iraque"
         },
         "visa_comment": "The fee is 206,000 IQD, (about 160$) for most nationals (30 days).\nIf you require a visa for the Kurdistan region only, you can get it at the port of entry (100'000 IQD), or online (75$) at:\nhttps://visit.gov.krd/\nRecently, a transit visa has been introduced (70'000 IQD), available at the Kuwaiti border but maybe not on all border posts.\nIsraelis are banned from Iraq.",
+        "insurance": 3,
+        "insurance_comment": "3rd party insurance not available. Drive at your own risk.",
         "updatedat": {
-          "_seconds": 1775889866,
-          "_nanoseconds": 116000000
+          "_seconds": 1786979518,
+          "_nanoseconds": 235000000
+        },
+        "comment_translations": {
+          "en": "Note that the quality of diesel is not very good and the availability is not guaranteed. DPF (particle filter) may get clogged due to this.",
+          "fr": "Veuillez noter que la qualité du diesel est médiocre et que sa disponibilité n'est pas garantie. Le filtre à particules (FAP) risque de s'encrasser.",
+          "de": "Beachten Sie, dass die Dieselqualität nicht sehr gut ist und die Verfügbarkeit nicht gewährleistet ist. Dadurch kann der Dieselpartikelfilter (DPF) verstopfen.",
+          "it": "Si noti che la qualità del gasolio non è molto buona e la sua disponibilità non è garantita. Il filtro antiparticolato (DPF) potrebbe intasarsi a causa di ciò.",
+          "es": "Tenga en cuenta que la calidad del diésel no es muy buena y su disponibilidad no está garantizada. Esto puede provocar la obstrucción del filtro de partículas (DPF).",
+          "pt": "Note que a qualidade do diesel não é muito boa e a disponibilidade não é garantida. O DPF (filtro de partículas) pode ficar obstruído devido a isso.",
+          "nl": "Houd er rekening mee dat de kwaliteit van diesel niet erg goed is en de beschikbaarheid niet gegarandeerd is. Hierdoor kan het roetfilter (DPF) verstopt raken.",
+          "pl": "Należy pamiętać, że jakość oleju napędowego nie jest najlepsza, a jego dostępność nie jest gwarantowana. Może to spowodować zatkanie filtra cząstek stałych (DPF).",
+          "ru": "Следует отметить, что качество дизельного топлива не очень хорошее, и его доступность не гарантирована. Из-за этого сажевый фильтр (DPF) может засориться."
+        },
+        "visa_comment_translations": {
+          "en": "The fee is 206,000 IQD, (about 160$) for most nationals (30 days).\nIf you require a visa for the Kurdistan region only, you can get it at the port of entry (100'000 IQD), or online (75$) at:\nhttps://visit.gov.krd/\nRecently, a transit visa has been introduced (70'000 IQD), available at the Kuwaiti border but maybe not on all border posts.\nIsraelis are banned from Iraq.",
+          "fr": "Les frais s'élèvent à 206 000 IQD (environ 160 $) pour la plupart des ressortissants (30 jours).\n\nSi vous avez besoin d'un visa uniquement pour la région du Kurdistan, vous pouvez l'obtenir au point d'entrée (100 000 IQD) ou en ligne (75 $) sur :\n\nhttps://visit.gov.krd/\nUn visa de transit a récemment été mis en place (70 000 IQD) et est disponible à la frontière koweïtienne, mais pas nécessairement à tous les postes frontières.\n\nL'entrée en Irak est interdite aux Israéliens.",
+          "de": "Die Gebühr beträgt 206.000 IQD (ca. 160 US-Dollar) für die meisten Staatsangehörigen (30 Tage).\nWenn Sie nur ein Visum für die Region Kurdistan benötigen, können Sie dieses bei der Einreise (100.000 IQD) oder online (75 US-Dollar) unter folgendem Link beantragen:\n\nhttps://visit.gov.krd/\nSeit Kurzem gibt es ein Transitvisum (70.000 IQD), das an der kuwaitischen Grenze erhältlich ist, jedoch möglicherweise nicht an allen Grenzübergängen.\nIsraelen ist die Einreise in den Irak untersagt.",
+          "it": "La tariffa è di 206.000 IQD (circa 160$) per la maggior parte delle nazionalità (validità 30 giorni).\nSe hai bisogno di un visto solo per la regione del Kurdistan, puoi ottenerlo al punto di ingresso (100.000 IQD) o online (75$) al seguente indirizzo:\nhttps://visit.gov.krd/\nRecentemente è stato introdotto un visto di transito (70.000 IQD), disponibile al confine con il Kuwait, ma forse non in tutti i valichi di frontiera.\nAgli israeliani è vietato l'ingresso in Iraq.",
+          "es": "La tarifa es de 206 000 IQD (aproximadamente 160 USD) para la mayoría de las nacionalidades (30 días).\nSi solo necesita una visa para la región del Kurdistán, puede obtenerla en el puesto fronterizo (100 000 IQD) o en línea (75 USD) en:\nhttps://visit.gov.krd/\nRecientemente se ha introducido una visa de tránsito (70 000 IQD), disponible en la frontera con Kuwait, aunque posiblemente no en todos los puestos fronterizos.\nLos israelíes tienen prohibida la entrada a Irak.",
+          "pt": "A taxa é de 206.000 IQD (cerca de 160 dólares) para a maioria das nacionalidades (30 dias).\nSe você precisar de um visto apenas para a região do Curdistão, poderá obtê-lo no ponto de entrada (100.000 IQD) ou online (75 dólares) em:\nhttps://visit.gov.krd/\nRecentemente, foi introduzido um visto de trânsito (70.000 IQD), disponível na fronteira do Kuwait, mas talvez não em todos os postos de fronteira.\nIsraelenses estão proibidos de entrar no Iraque.",
+          "nl": "De kosten bedragen 206.000 IQD (ongeveer $160) voor de meeste nationaliteiten (30 dagen).\n\nAls u alleen een visum voor de regio Koerdistan nodig heeft, kunt u dit verkrijgen bij de grenspost (100.000 IQD) of online ($75) via:\nhttps://visit.gov.krd/\nRecent is er een transitvisum geïntroduceerd (70.000 IQD), verkrijgbaar aan de Koeweitse grens, maar mogelijk niet bij alle grensposten.\n\nIsraëliërs hebben geen toegang tot Irak.",
+          "pl": "Opłata wynosi 206 000 IQD (około 160 USD) dla większości obywateli (30 dni).\nJeśli potrzebujesz wizy tylko na Kurdystan, możesz ją uzyskać w porcie wjazdowym (100 000 IQD) lub online (75 USD) na stronie:\nhttps://visit.gov.krd/\nNiedawno wprowadzono wizę tranzytową (70 000 IQD), dostępną na granicy z Kuwejtem, ale być może nie na wszystkich przejściach granicznych.\nIzraelczycy mają zakaz wjazdu do Iraku.",
+          "ru": "Стоимость визы составляет 206 000 иракских динаров (около 160 долларов США) для большинства граждан (30 дней).\nЕсли вам нужна виза только для Курдистана, вы можете получить ее в пункте въезда (100 000 иракских динаров) или онлайн (75 долларов США) по адресу:\nhttps://visit.gov.krd/\nНедавно была введена транзитная виза (70 000 иракских динаров), которую можно получить на кувейтской границе, но, возможно, не на всех пограничных пунктах.\nГражданам Израиля запрещен въезд в Ирак."
+        },
+        "carnet_comment_translations": {
+          "en": "Exception: a carnet is not required if you enter and exit from Kurdistan. It is required if you cross any other border (Kuwait, Iran or Jordan).",
+          "fr": "Exception : un carnet de passage en douane n’est pas requis pour entrer et sortir du Kurdistan. Il est obligatoire pour franchir toute autre frontière (Koweït, Iran ou Jordanie).",
+          "de": "Ausnahme: Für die Ein- und Ausreise nach Kurdistan ist kein Carnet erforderlich. Es ist jedoch erforderlich, wenn Sie eine andere Grenze überqueren (Kuwait, Iran oder Jordanien).",
+          "it": "Eccezione: il carnet non è richiesto se si entra e si esce dal Kurdistan. È invece necessario se si attraversa qualsiasi altro confine (Kuwait, Iran o Giordania).",
+          "es": "Excepción: no se requiere un carnet para entrar y salir del Kurdistán. Sí se requiere para cruzar cualquier otra frontera (Kuwait, Irán o Jordania).",
+          "pt": "Exceção: o Carnet não é necessário para entrar e sair do Curdistão. Ele é necessário para atravessar qualquer outra fronteira (Kuwait, Irã ou Jordânia).",
+          "nl": "Uitzondering: een carnet is niet vereist als u Koerdistan binnenkomt en verlaat. Het is wel vereist als u een andere grens oversteekt (Koeweit, Iran of Jordanië).",
+          "pl": "Wyjątek: karnet nie jest wymagany przy wjeździe i wyjeździe z Kurdystanu. Jest wymagany przy przekraczaniu jakiejkolwiek innej granicy (Kuwejtu, Iranu lub Jordanii).",
+          "ru": "Исключение: карнет не требуется при въезде и выезде из Курдистана. Он необходим при пересечении любой другой границы (Кувейт, Иран или Иордания)."
+        },
+        "insurance_comment_translations": {
+          "en": "3rd party insurance not available. Drive at your own risk.",
+          "fr": "Assurance responsabilité civile non disponible. Conduisez à vos risques et périls.",
+          "de": "Haftpflichtversicherung nicht verfügbar. Fahren auf eigene Gefahr.",
+          "it": "Assicurazione di responsabilità civile non disponibile. Guida a tuo rischio e pericolo.",
+          "es": "No se ofrece seguro a terceros. Conduzca bajo su propia responsabilidad.",
+          "pt": "Seguro contra terceiros não disponível. Dirija por sua conta e risco.",
+          "nl": "Aansprakelijkheidsverzekering is niet beschikbaar. Rijden op eigen risico.",
+          "pl": "Ubezpieczenie OC niedostępne. Jeździsz na własne ryzyko.",
+          "ru": "Страхование гражданской ответственности недоступно. Управляйте автомобилем на свой страх и риск."
         }
       },
       "borderIds": [],
@@ -6750,11 +6763,11 @@
           "zh": "阿斯塔納",
           "pt": "Astana"
         },
-        "visa_comment": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days.\nYou can stay up to 90 days within a period of 180 days, and up to 120 days during a calendar year.",
-        "comment": "Credit cards don't work, bring enough cash (USD, Euros,.. doesn't matter).\nYou'll need a health insurance coverage, either your own can give you a letter certifying you're covered in Russia, or you can get one online rather cheaply: http://visatorus.com",
+        "visa_url": "https://qazeta.kz/",
+        "visa_comment": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days, but they need to obtain an ETA, see the official website (or the associated mobile app).\nYou can stay up to 90 days within a period of 180 days, and up to 120 days during a calendar year.",
         "updatedat": {
-          "_seconds": 1775891524,
-          "_nanoseconds": 831000000
+          "_seconds": 1787925155,
+          "_nanoseconds": 385000000
         }
       },
       "borderIds": [],
@@ -6920,17 +6933,6 @@
           80.246191,
           43.240381
         ],
-        "translations": {
-          "de": "Kirgisistan",
-          "es": "Kirguistán",
-          "fr": "Kirghizstan",
-          "it": "Kirghizistan",
-          "ja": "キルギス",
-          "nl": "Kirgizië",
-          "ru": "Киргизия",
-          "zh": "吉尔吉斯斯坦",
-          "pt": "Quirguistão"
-        },
         "capital_translations": {
           "de": "Bischkek",
           "en": "Bishkek",
@@ -6945,6 +6947,17 @@
         "updatedat": {
           "_seconds": 1770199391,
           "_nanoseconds": 876000000
+        },
+        "translations": {
+          "de": "Kirgisistan",
+          "pt": "Quirguistão",
+          "nl": "Kirgizië",
+          "ja": "キルギス",
+          "es": "Kirguistán",
+          "zh": "吉尔吉斯斯坦",
+          "ru": "Кыргызстан",
+          "it": "Kirghizistan",
+          "fr": "Kirghizstan"
         }
       },
       "borderIds": [],
@@ -13004,32 +13017,6 @@
           "ru": "110 долларов за 15 дней, 200 долларов за 3 месяца."
         },
         "comment": "The situation is rather stable, there are lots of checkpoints across the country but no fighting.\nIndeed, during the 2026 Iran war, Syria was the only country not getting any missiles or bombing.",
-        "updatedat": {
-          "_seconds": 1776788130,
-          "_nanoseconds": 215000000
-        },
-        "comment_translations": {
-          "en": "The situation is rather stable, there are lots of checkpoints across the country but no fighting.\nIndeed, during the 2026 Iran war, Syria was the only country not getting any missiles or bombing.",
-          "fr": "La situation est plutôt stable ; de nombreux points de contrôle sont disséminés à travers le pays, mais aucun combat n'est en cours.\n\nEn effet, lors de la guerre Iran-Sylvestre de 2026, la Syrie fut le seul pays à ne subir ni missiles ni bombardements.",
-          "de": "Die Lage ist recht stabil, es gibt zwar viele Kontrollpunkte im ganzen Land, aber keine Kämpfe.\nTatsächlich war Syrien während des Iran-Krieges 2026 das einzige Land, das weder Raketenangriffe noch Bombenangriffe erlitt.",
-          "it": "La situazione è piuttosto stabile, ci sono molti posti di blocco in tutto il paese ma non ci sono combattimenti.\nInfatti, durante la guerra con l'Iran del 2026, la Siria è stato l'unico paese a non subire attacchi missilistici o bombardamenti.",
-          "es": "La situación es bastante estable; hay numerosos puestos de control en todo el país, pero no hay combates.\n\nDe hecho, durante la guerra de Irán de 2026, Siria fue el único país que no sufrió ataques con misiles ni bombardeos.",
-          "pt": "A situação é bastante estável, existem muitos postos de controle em todo o país, mas não há combates.\nDe fato, durante a guerra com o Irã em 2026, a Síria foi o único país que não recebeu mísseis nem bombardeios.",
-          "nl": "De situatie is tamelijk stabiel, er zijn veel controleposten in het hele land, maar er vinden geen gevechten plaats.\n\nSterker nog, tijdens de oorlog met Iran in 2026 was Syrië het enige land dat niet werd getroffen door raketten of bombardementen.",
-          "pl": "Sytuacja jest raczej stabilna, w całym kraju jest wiele punktów kontrolnych, ale nie toczą się żadne walki. Podczas wojny z Iranem w 2026 roku Syria była jedynym krajem, który nie został ostrzelany ani zbombardowany.",
-          "ru": "Ситуация достаточно стабильна, по всей стране много контрольно-пропускных пунктов, но боевых действий нет.\nДействительно, во время войны с Ираном в 2026 году Сирия была единственной страной, которая не подвергалась ракетным обстрелам или бомбардировкам."
-        },
-        "money_translations": {
-          "en": "Credit cards are not accepted in Syria, as it is disconnected from the international banking system due to sanctions, so you'll need to bring in enough cash (USD preferred, but EUR or SAR/JOD/TRY are also easily changed).\nPrices are often quoted in USD, and dollars bills are often accepted for payment (syrian pounds are returned as change). In particular, VOA (visa at the border) can only be paid in cash in USD.\nThe current rates can be found here: https://sp-today.com",
-          "fr": "Les cartes de crédit ne sont pas acceptées en Syrie, car le pays est déconnecté du système bancaire international en raison des sanctions. Vous devrez donc prévoir suffisamment d'argent liquide (de préférence en dollars américains, mais les euros ou les riyals syriens, les dinars syriens et les livres turques sont également faciles à changer).\n\nLes prix sont souvent affichés en dollars américains et les billets de dollars sont généralement acceptés (la monnaie est rendue en livres syriennes). En particulier, le visa à l'arrivée (VOA) ne peut être payé qu'en espèces, en dollars américains.\n\nVous trouverez les taux de change actuels ici : https://sp-today.com",
-          "de": "In Syrien werden keine Kreditkarten akzeptiert, da das Land aufgrund von Sanktionen vom internationalen Bankensystem abgeschnitten ist. Sie benötigen daher ausreichend Bargeld (vorzugsweise US-Dollar, aber auch Euro oder syrische/jordanische Rupien können problemlos umgetauscht werden). Preise werden häufig in US-Dollar angegeben, und US-Dollar-Scheine werden oft als Zahlungsmittel akzeptiert (syrische Pfund werden als Wechselgeld zurückgegeben). Insbesondere das Visum bei Ankunft (VOA) kann nur in bar in US-Dollar bezahlt werden. Die aktuellen Wechselkurse finden Sie hier: https://sp-today.com",
-          "it": "In Siria le carte di credito non sono accettate, poiché il Paese è scollegato dal sistema bancario internazionale a causa delle sanzioni, quindi è necessario portare con sé una quantità sufficiente di contanti (preferibilmente dollari statunitensi, ma anche euro, riyal siriani, jodi o lire turche sono facilmente convertibili).\n\nI prezzi sono spesso indicati in dollari statunitensi e le banconote in dollari sono generalmente accettate come pagamento (il resto viene restituito in lire siriane). In particolare, il visto all'arrivo (VOA) può essere pagato solo in contanti in dollari statunitensi.\nI tassi di cambio aggiornati sono disponibili qui: https://sp-today.com",
-          "es": "En Siria no se aceptan tarjetas de crédito, ya que el país está aislado del sistema bancario internacional debido a las sanciones. Por lo tanto, deberá llevar suficiente efectivo (se prefiere USD, pero también se aceptan EUR, SAR, JOD y TRY, que se cambian fácilmente).\nLos precios suelen indicarse en USD, y los billetes de dólar se aceptan como forma de pago (se devuelven libras sirias como cambio). En particular, la visa a la llegada (VOA) solo se puede pagar en efectivo en USD.\n\nPuede consultar los tipos de cambio actuales aquí: https://sp-today.com",
-          "pt": "Cartões de crédito não são aceitos na Síria, pois o país está desconectado do sistema bancário internacional devido a sanções. Portanto, você precisará levar dinheiro em espécie suficiente (preferencialmente em dólares americanos, mas euros, riais sírios, dinares jordanianos e liras turcas também são facilmente trocados).\nOs preços geralmente são cotados em dólares americanos, e notas de dólar são frequentemente aceitas como pagamento (o troco é dado em libras sírias). Em particular, o visto na fronteira (VOA) só pode ser pago em dinheiro, em dólares americanos.\n\nAs taxas de câmbio atuais podem ser encontradas aqui: https://sp-today.com",
-          "nl": "Creditcards worden niet geaccepteerd in Syrië, omdat het land door sancties is afgesloten van het internationale banksysteem. U moet dus voldoende contant geld meenemen (USD heeft de voorkeur, maar EUR of SAR/JOD/TRY kunnen ook gemakkelijk worden gewisseld).\n\nPrijzen worden vaak in USD vermeld en dollarbiljetten worden vaak als betaalmiddel geaccepteerd (Syrische ponden worden als wisselgeld teruggegeven). Met name een VOA (visum aan de grens) kan alleen contant in USD worden betaald.\n\nDe actuele wisselkoersen vindt u hier: https://sp-today.com",
-          "pl": "Karty kredytowe nie są akceptowane w Syrii, ponieważ kraj ten jest odłączony od międzynarodowego systemu bankowego z powodu sankcji, dlatego należy zabrać ze sobą wystarczającą ilość gotówki (preferowane są USD, ale łatwo wymienić je również na EUR lub SAR/JOD/TRY).\nCeny często podawane są w USD, a dolary są często akceptowane jako forma płatności (funty syryjskie są zwracane jako reszta). W szczególności VOA (wiza na granicy) można opłacić tylko gotówką w USD.\nAktualne kursy można znaleźć tutaj: https://sp-today.com",
-          "ru": "В Сирии кредитные карты не принимаются, так как страна отключена от международной банковской системы из-за санкций, поэтому вам потребуется взять с собой достаточно наличных денег (предпочтительно доллары США, но евро или сирийские арабские динары/иорданские динары/триллионные иены также легко обмениваются).\nЦены часто указываются в долларах США, и долларовые купюры часто принимаются к оплате (сдача выдается в сирийских фунтах). В частности, виза по прибытии (VOA) может быть оплачена только наличными в долларах США.\nАктуальные курсы можно найти здесь: https://sp-today.com"
-        },
         "visa_comment_translations": {
           "en": "The new Syrian government has imposed a visa on arrival for most nationalities, with a fee depending on the country (e.g., 75$ for most Europeans, 150$ for British, Australians and 200$ for Americans, for a 30-days visa).\nNote that Israelis are forbidden to visit Syria.",
           "fr": "Le nouveau gouvernement syrien a instauré un visa à l'arrivée pour la plupart des nationalités, dont le prix varie selon le pays (par exemple, 75 $ pour la plupart des Européens, 150 $ pour les Britanniques et les Australiens, et 200 $ pour les Américains, pour un visa de 30 jours).\n\nÀ noter que les Israéliens n'ont pas le droit de se rendre en Syrie.",
@@ -13040,6 +13027,45 @@
           "nl": "De nieuwe Syrische regering heeft een visumplicht bij aankomst ingevoerd voor de meeste nationaliteiten, met een vergoeding die afhankelijk is van het land (bijvoorbeeld $75 voor de meeste Europeanen, $150 voor Britten en Australiërs en $200 voor Amerikanen, voor een visum van 30 dagen).\nLet op: Israëliërs mogen Syrië niet bezoeken.",
           "pl": "Nowy rząd Syrii wprowadził obowiązek wizowy dla większości narodowości, z opłatą zależną od kraju (np. 75 dolarów dla większości Europejczyków, 150 dolarów dla Brytyjczyków i Australijczyków oraz 200 dolarów dla Amerykanów za wizę 30-dniową).\nNależy pamiętać, że Izraelczycy mają zakaz wjazdu do Syrii.",
           "ru": "Новое сирийское правительство ввело визу по прибытии для граждан большинства стран, стоимость которой зависит от страны (например, 75 долларов для большинства европейцев, 150 долларов для британцев, австралийцев и 200 долларов для американцев за 30-дневную визу).\nСледует отметить, что гражданам Израиля въезд в Сирию запрещен."
+        },
+        "insurance": 3,
+        "insurance_comment": "3rd party insurance not available. Drive at your own risk.",
+        "updatedat": {
+          "_seconds": 1786979506,
+          "_nanoseconds": 175000000
+        },
+        "comment_translations": {
+          "en": "The situation is rather stable, there are lots of checkpoints across the country but no fighting.\nIndeed, during the 2026 Iran war, Syria was the only country not getting any missiles or bombing.",
+          "fr": "La situation est plutôt stable ; de nombreux points de contrôle sont disséminés à travers le pays, mais aucun combat n'est en cours.\n\nEn effet, lors de la guerre Iran-Sylvestre de 2026, la Syrie fut le seul pays à ne subir ni missiles ni bombardements.",
+          "de": "Die Lage ist recht stabil, es gibt zwar viele Kontrollpunkte im ganzen Land, aber keine Kämpfe.\nTatsächlich war Syrien während des Iran-Krieges 2026 das einzige Land, das weder Raketenangriffe noch Bombenangriffe erlitt.",
+          "it": "La situazione è piuttosto stabile, ci sono molti posti di blocco in tutto il paese ma non ci sono combattimenti.\nInfatti, durante la guerra con l'Iran del 2026, la Siria è stato l'unico paese a non subire attacchi missilistici o bombardamenti.",
+          "es": "La situación es bastante estable; hay numerosos puestos de control en todo el país, pero no hay combates.\n\nDe hecho, durante la guerra entre Irán y Siria en 2026, Siria fue el único país que no sufrió ataques con misiles ni bombardeos.",
+          "pt": "A situação é bastante estável, existem muitos postos de controle em todo o país, mas não há combates.\nDe fato, durante a guerra com o Irã em 2026, a Síria foi o único país que não recebeu mísseis nem bombardeios.",
+          "nl": "De situatie is tamelijk stabiel, er zijn veel controleposten in het hele land, maar er vinden geen gevechten plaats.\n\nSterker nog, tijdens de oorlog met Iran in 2026 was Syrië het enige land dat niet werd getroffen door raketten of bombardementen.",
+          "pl": "Sytuacja jest raczej stabilna, w całym kraju jest wiele punktów kontrolnych, ale nie toczą się żadne walki. Podczas wojny z Iranem w 2026 roku Syria była jedynym krajem, który nie został ostrzelany ani zbombardowany.",
+          "ru": "Ситуация достаточно стабильна, по всей стране много контрольно-пропускных пунктов, но боевых действий нет.\nДействительно, во время войны с Ираном в 2026 году Сирия была единственной страной, которая не подвергалась ракетным обстрелам или бомбардировкам."
+        },
+        "insurance_comment_translations": {
+          "en": "3rd party insurance not available. Drive at your own risk.",
+          "fr": "Assurance responsabilité civile non disponible. Conduisez à vos risques et périls.",
+          "de": "Haftpflichtversicherung nicht verfügbar. Fahren auf eigene Gefahr.",
+          "it": "Assicurazione di responsabilità civile non disponibile. Guida a tuo rischio e pericolo.",
+          "es": "No se ofrece seguro a terceros. Conduzca bajo su propia responsabilidad.",
+          "pt": "Seguro contra terceiros não disponível. Dirija por sua conta e risco.",
+          "nl": "Aansprakelijkheidsverzekering is niet beschikbaar. Rijden op eigen risico.",
+          "pl": "Ubezpieczenie OC niedostępne. Jeździsz na własne ryzyko.",
+          "ru": "Страхование гражданской ответственности недоступно. Управляйте автомобилем на свой страх и риск."
+        },
+        "money_translations": {
+          "en": "Credit cards are not accepted in Syria, as it is disconnected from the international banking system due to sanctions, so you'll need to bring in enough cash (USD preferred, but EUR or SAR/JOD/TRY are also easily changed).\nPrices are often quoted in USD, and dollars bills are often accepted for payment (syrian pounds are returned as change). In particular, VOA (visa at the border) can only be paid in cash in USD.\nThe current rates can be found here: https://sp-today.com",
+          "fr": "Les cartes de crédit ne sont pas acceptées en Syrie, car le pays est déconnecté du système bancaire international en raison des sanctions. Vous devrez donc prévoir suffisamment d'argent liquide (de préférence en dollars américains, mais les euros ou les riyals syriens, les dinars syriens et les livres turques sont également faciles à changer).\n\nLes prix sont souvent affichés en dollars américains et les billets de dollars sont généralement acceptés (la monnaie est rendue en livres syriennes). En particulier, le visa à l'arrivée (VOA) ne peut être payé qu'en espèces, en dollars américains.\n\nVous trouverez les taux de change actuels ici : https://sp-today.com",
+          "de": "In Syrien werden keine Kreditkarten akzeptiert, da das Land aufgrund von Sanktionen vom internationalen Bankensystem abgeschnitten ist. Sie benötigen daher ausreichend Bargeld (vorzugsweise US-Dollar, aber auch Euro oder syrische/jordanische Rupien können problemlos umgetauscht werden). Preise werden häufig in US-Dollar angegeben, und US-Dollar-Scheine werden oft als Zahlungsmittel akzeptiert (syrische Pfund werden als Wechselgeld zurückgegeben). Insbesondere das Visum bei Ankunft (VOA) kann nur in bar in US-Dollar bezahlt werden. Die aktuellen Wechselkurse finden Sie hier: https://sp-today.com",
+          "it": "In Siria le carte di credito non sono accettate, poiché il Paese è scollegato dal sistema bancario internazionale a causa delle sanzioni, quindi è necessario portare con sé una quantità sufficiente di contanti (preferibilmente dollari statunitensi, ma anche euro, riyal siriani, jodi o lire turche sono facilmente convertibili).\n\nI prezzi sono spesso indicati in dollari statunitensi e le banconote in dollari sono generalmente accettate come pagamento (il resto viene restituito in lire siriane). In particolare, il visto all'arrivo (VOA) può essere pagato solo in contanti in dollari statunitensi.\nI tassi di cambio aggiornati sono disponibili qui: https://sp-today.com",
+          "es": "En Siria no se aceptan tarjetas de crédito, ya que el país está aislado del sistema bancario internacional debido a las sanciones. Por lo tanto, deberá llevar suficiente efectivo (se prefiere USD, pero también se aceptan EUR, SAR, JOD y TRY, que se cambian fácilmente).\nLos precios suelen indicarse en USD, y los billetes de dólar se aceptan como forma de pago (se devuelven libras sirias como cambio). En particular, la visa a la llegada (VOA) solo se puede pagar en efectivo en USD.\n\nPuede consultar los tipos de cambio actuales aquí: https://sp-today.com",
+          "pt": "Cartões de crédito não são aceitos na Síria, pois o país está desconectado do sistema bancário internacional devido a sanções. Portanto, você precisará levar dinheiro em espécie suficiente (preferencialmente em dólares americanos, mas euros, riais sírios, dinares jordanianos e liras turcas também são facilmente trocados).\n\nOs preços geralmente são cotados em dólares americanos, e notas de dólar são frequentemente aceitas como pagamento (o troco é dado em libras sírias). Em particular, o visto na fronteira (VOA) só pode ser pago em dinheiro, em dólares americanos.\n\nAs taxas de câmbio atuais podem ser encontradas aqui: https://sp-today.com",
+          "nl": "Creditcards worden niet geaccepteerd in Syrië, omdat het land door sancties is afgesloten van het internationale banksysteem. U moet dus voldoende contant geld meenemen (USD heeft de voorkeur, maar EUR of SAR/JOD/TRY kunnen ook gemakkelijk worden gewisseld).\n\nPrijzen worden vaak in USD vermeld en dollarbiljetten worden vaak als betaalmiddel geaccepteerd (Syrische ponden worden als wisselgeld teruggegeven). Met name een VOA (visum aan de grens) kan alleen contant in USD worden betaald.\n\nDe actuele wisselkoersen vindt u hier: https://sp-today.com",
+          "pl": "Karty kredytowe nie są akceptowane w Syrii, ponieważ kraj ten jest odłączony od międzynarodowego systemu bankowego z powodu sankcji, dlatego należy zabrać ze sobą wystarczającą ilość gotówki (preferowane są USD, ale łatwo wymienić je można również na EUR lub SAR/JOD/TRY).\nCeny często podawane są w USD, a dolary są często akceptowane jako forma płatności (funty syryjskie są zwracane jako reszta). W szczególności VOA (wiza na granicy) można opłacić tylko gotówką w USD.\nAktualne kursy można znaleźć tutaj: https://sp-today.com",
+          "ru": "В Сирии кредитные карты не принимаются, так как страна отключена от международной банковской системы из-за санкций, поэтому вам потребуется взять с собой достаточно наличных денег (предпочтительно доллары США, но евро или сирийские арабские динары/иорданские динары/триллионные иены также легко обмениваются).\nЦены часто указываются в долларах США, и долларовые купюры часто принимаются к оплате (сдача выдается в сирийских фунтах). В частности, виза по прибытии (VOA) может быть оплачена только наличными в долларах США.\nАктуальные курсы можно найти здесь: https://sp-today.com"
         }
       },
       "borderIds": [],
@@ -13808,28 +13834,6 @@
         "visa": 0,
         "visa_comment": "You can stay a maximum of 90 days per period of 180 days (period starts at the date of first entry).\nIf you need to stay longer, you must apply for a Short Term Residence Permit (https://en.goc.gov.tr/residence-permit-types).",
         "carnet": 0,
-        "comment_translations": {
-          "en": "Officially called Republic of Türkiye since 2021, to avoid confusing it with the bird.\nYou can enter with your vehicle without paying any tax, and leave it in the country for a maximum of 2 years, but only if it hasn't spent more than 185 days in the previous year (365-days period before the entry date of the vehicle).\nIn other words, it's usually not an issue for overlanders limited to a 90-days stay anyway. It's there to prevent people with local residency keeping their foreign-plated car indefinitely in Turkey by doing a border run every other year.",
-          "fr": "Officiellement appelée République de Turquie depuis 2021, pour éviter toute confusion avec l'oiseau.\n\nVous pouvez entrer avec votre véhicule sans payer de taxe et le laisser dans le pays pendant deux ans maximum, à condition qu'il n'y ait pas passé plus de 185 jours au cours de l'année précédente (période de 365 jours précédant la date d'entrée du véhicule).\n\nAutrement dit, cela ne pose généralement pas de problème pour les voyageurs au long cours dont le séjour est limité à 90 jours. Cette mesure vise à empêcher les résidents turcs de conserver indéfiniment leur véhicule immatriculé à l'étranger en effectuant des allers-retours à la frontière tous les deux ans.",
-          "de": "Offiziell heißt das Land seit 2021 Republik Türkiye, um Verwechslungen mit dem türkischen Vogel zu vermeiden.\nSie können mit Ihrem Fahrzeug steuerfrei einreisen und es maximal zwei Jahre im Land lassen, sofern es sich im Vorjahr (365 Tage vor der Einreise) nicht länger als 185 Tage im Land aufgehalten hat.\nFür Reisende, die ohnehin nur 90 Tage bleiben dürfen, stellt dies in der Regel kein Problem dar. Die Regelung soll verhindern, dass Personen mit Wohnsitz in der Türkei ihre ausländischen Fahrzeuge durch regelmäßige Grenzübertritte unbegrenzt in der Türkei parken.",
-          "it": "Ufficialmente chiamata Repubblica di Turchia dal 2021, per evitare confusione con l'uccello.\nÈ possibile entrare con il proprio veicolo senza pagare alcuna tassa e lasciarlo nel Paese per un massimo di 2 anni, ma solo se non ha trascorso più di 185 giorni nell'anno precedente (periodo di 365 giorni prima della data di ingresso del veicolo).\nIn altre parole, di solito non è un problema per chi viaggia via terra e ha comunque un limite di soggiorno di 90 giorni. Serve a impedire alle persone residenti in Turchia di tenere la propria auto con targa estera a tempo indeterminato, effettuando un controllo di frontiera ogni due anni.",
-          "es": "Oficialmente llamado República de Turquía desde 2021, para evitar confundirlo con el ave.\nPuede entrar con su vehículo sin pagar impuestos y permanecer en el país durante un máximo de dos años, siempre que no haya permanecido más de 185 días en el año anterior (el período de 365 días anterior a la fecha de entrada del vehículo).\nEn otras palabras, no suele ser un problema para quienes viajan por tierra, con una estancia limitada a 90 días. Su objetivo es evitar que las personas con residencia local mantengan su vehículo con matrícula extranjera indefinidamente en Turquía pasando por la frontera cada dos años.",
-          "pt": "Oficialmente chamada de República da Turquia desde 2021, para evitar confusão com o pássaro.\nVocê pode entrar com seu veículo sem pagar nenhum imposto e deixá-lo no país por um máximo de 2 anos, mas somente se ele não tiver permanecido por mais de 185 dias no ano anterior (período de 365 dias antes da data de entrada do veículo).\nEm outras palavras, geralmente não é um problema para viajantes que têm uma estadia limitada a 90 dias. O objetivo é impedir que pessoas com residência local mantenham seus carros com placas estrangeiras indefinidamente na Turquia, fazendo uma viagem de ida e volta à fronteira a cada dois anos.",
-          "nl": "Officieel heet het sinds 2021 de Republiek Turkije, om verwarring met de vogel te voorkomen.\n\nJe kunt met je voertuig het land binnenkomen zonder belasting te betalen en het maximaal 2 jaar in het land laten staan, maar alleen als het in het voorgaande jaar (365 dagen vóór de datum van binnenkomst van het voertuig) niet langer dan 185 dagen in Turkije heeft doorgebracht.\n\nMet andere woorden, het is meestal geen probleem voor overlanders die sowieso beperkt zijn tot een verblijf van 90 dagen. Het is bedoeld om te voorkomen dat mensen met een lokale verblijfsvergunning hun auto met buitenlands kenteken onbeperkt in Turkije houden door elke twee jaar de grens over te steken.",
-          "pl": "Oficjalnie od 2021 roku nazywa się Republiką Turcji, aby uniknąć pomyłki z ptakiem.\nMożna wjechać samochodem bez płacenia podatku i pozostawić go w kraju maksymalnie na 2 lata, ale tylko pod warunkiem, że w poprzednim roku nie spędził on tam więcej niż 185 dni (365 dni przed datą wjazdu pojazdu).\nInnymi słowy, zazwyczaj nie stanowi to problemu dla osób podróżujących poza granicami kraju, których pobyt jest ograniczony do 90 dni. Ma to na celu uniemożliwienie osobom z lokalnym prawem pobytu bezterminowego przetrzymywania w Turcji samochodu na zagranicznych tablicach rejestracyjnych poprzez przekraczanie granicy co dwa lata.",
-          "ru": "Официально страна называется Республикой Турция с 2021 года, чтобы избежать путаницы с птицей.\nВы можете въехать на своем автомобиле без уплаты налогов и оставить его в стране максимум на 2 года, но только если он не находился в стране более 185 дней в предыдущем году (365 дней до даты въезда автомобиля).\nДругими словами, это обычно не проблема для путешественников, ограниченных 90 днями пребывания. Это сделано для того, чтобы предотвратить ситуацию, когда люди с местным видом на жительство будут оставлять свои автомобили с иностранными номерами в Турции на неопределенный срок, совершая пересечение границы каждые два года."
-        },
-        "visa_comment_translations": {
-          "en": "You can stay a maximum of 90 days per period of 180 days (period starts at the date of first entry).\nIf you need to stay longer, you must apply for a Short Term Residence Permit (https://en.goc.gov.tr/residence-permit-types).",
-          "fr": "Vous pouvez séjourner jusqu'à 90 jours par période de 180 jours (la période commençant à la date de votre première entrée).\n\nSi vous souhaitez prolonger votre séjour, vous devez demander un permis de séjour de courte durée (https://en.goc.gov.tr/residence-permit-types).",
-          "de": "Sie dürfen sich maximal 90 Tage innerhalb eines Zeitraums von 180 Tagen aufhalten (der Zeitraum beginnt mit dem Tag der ersten Einreise).\nWenn Sie länger bleiben möchten, müssen Sie eine Kurzzeit-Aufenthaltserlaubnis beantragen (https://en.goc.gov.tr/residence-permit-types).",
-          "it": "È possibile soggiornare per un massimo di 90 giorni per un periodo di 180 giorni (il periodo inizia dalla data del primo ingresso).\nSe si ha bisogno di rimanere più a lungo, è necessario richiedere un permesso di soggiorno di breve durata (https://en.goc.gov.tr/residence-permit-types).",
-          "es": "Puede permanecer un máximo de 90 días por cada periodo de 180 días (el periodo comienza en la fecha de la primera entrada). Si necesita permanecer más tiempo, debe solicitar un Permiso de Residencia de Corta Duración (https://en.goc.gov.tr/residence-permit-types).",
-          "pt": "Você pode permanecer por um máximo de 90 dias por período de 180 dias (o período começa na data da primeira entrada).\nSe precisar ficar por mais tempo, você deve solicitar uma Autorização de Residência de Curta Duração (https://en.goc.gov.tr/residence-permit-types).",
-          "nl": "Je mag maximaal 90 dagen verblijven binnen een periode van 180 dagen (de periode begint op de datum van eerste binnenkomst).\n\nAls je langer wilt blijven, moet je een kortlopende verblijfsvergunning aanvragen (https://en.goc.gov.tr/residence-permit-types).",
-          "pl": "Możesz przebywać maksymalnie 90 dni w okresie 180 dni (okres rozpoczyna się od daty pierwszego wjazdu).\nJeśli potrzebujesz dłuższego pobytu, musisz ubiegać się o zezwolenie na pobyt krótkoterminowy (https://en.goc.gov.tr/residence-permit-types).",
-          "ru": "Максимальный срок пребывания составляет 90 дней за период в 180 дней (период начинается с даты первого въезда).\nЕсли вам необходимо остаться дольше, вы должны подать заявку на получение краткосрочного вида на жительство (https://en.goc.gov.tr/residence-permit-types)."
-        },
         "bounding_box": [
           25.668945,
           35.831445,
@@ -13854,9 +13858,57 @@
           "pt": "Ancara"
         },
         "comment": "Officially called Republic of Türkiye since 2021, to avoid confusing it with the bird.\nYou can enter with your vehicle without paying any tax, and leave it in the country for a maximum of 2 years, but only if it hasn't spent more than 185 days in the previous year (365-days period before the entry date of the vehicle).\nIn other words, it's usually not an issue for overlanders limited to a 90-days stay anyway. It's there to prevent people with local residency keeping their foreign-plated car indefinitely in Turkey by doing a border run every other year.\nUseful web sites:\n- check your HGS account (motorway tolls): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- check if you have an speeding ticket to pay: https://dijital.gib.gov.tr",
+        "insurance_comment": "The green card usually includes Turkey (European vehicles).",
+        "comment_translations": {
+          "en": "Officially called Republic of Türkiye since 2021, to avoid confusing it with the bird.\nYou can enter with your vehicle without paying any tax, and leave it in the country for a maximum of 2 years, but only if it hasn't spent more than 185 days in the previous year (365-days period before the entry date of the vehicle).\nIn other words, it's usually not an issue for overlanders limited to a 90-days stay anyway. It's there to prevent people with local residency keeping their foreign-plated car indefinitely in Turkey by doing a border run every other year.\nUseful web sites:\n- check your HGS account (motorway tolls): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- check if you have an speeding ticket to pay: https://dijital.gib.gov.tr",
+          "fr": "Officiellement appelée République de Turquie depuis 2021, pour éviter toute confusion avec l'oiseau.\n\nVous pouvez entrer avec votre véhicule sans payer de taxe et le laisser dans le pays pendant deux ans maximum, à condition qu'il n'y ait pas passé plus de 185 jours au cours de l'année précédente (période de 365 jours précédant la date d'entrée du véhicule).\n\nAutrement dit, cela ne pose généralement pas de problème pour les voyageurs au long cours limités à un séjour de 90 jours. Cette mesure vise à empêcher les résidents turcs de conserver indéfiniment leur véhicule immatriculé à l'étranger en effectuant des allers-retours à la frontière tous les deux ans.\n\nSites web utiles :\n\n- Consultez votre compte HGS (péages autoroutiers) : https://hgs.ptt.gov.tr/mobil/hgs.jsf\n\n- Vérifiez si vous avez une contravention pour excès de vitesse à payer : https://dijital.gib.gov.tr",
+          "de": "Seit 2021 offiziell Republik Türkiye, um Verwechslungen mit dem türkischen Vogel zu vermeiden.\nSie können mit Ihrem Fahrzeug steuerfrei einreisen und es maximal zwei Jahre im Land lassen, sofern es sich im Vorjahr (365 Tage vor der Einreise) nicht länger als 185 Tage im Land aufgehalten hat.\nFür Reisende, die ohnehin nur 90 Tage bleiben dürfen, ist dies in der Regel kein Problem. Die Regelung soll verhindern, dass Personen mit Wohnsitz in der Türkei ihre ausländischen Fahrzeuge durch regelmäßige Grenzübertritte unbegrenzt in der Türkei parken.\nNützliche Websites:\n\n- HGS-Konto prüfen (Autobahngebühren): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- Offene Bußgelder wegen Geschwindigkeitsübertretung prüfen: https://dijital.gib.gov.tr",
+          "it": "Ufficialmente chiamata Repubblica di Turchia dal 2021, per evitare di confonderla con l'uccello.\n\nÈ possibile entrare con il proprio veicolo senza pagare alcuna tassa e lasciarlo nel paese per un massimo di 2 anni, ma solo se non ha trascorso più di 185 giorni nell'anno precedente (365 giorni prima della data di ingresso del veicolo).\n\nIn altre parole, di solito non è un problema per chi viaggia via terra e ha un limite di permanenza di 90 giorni. La norma serve a impedire ai residenti locali di tenere la propria auto con targa straniera indefinitamente in Turchia effettuando viaggi di andata e ritorno ogni due anni.\n\nSiti web utili:\n- controlla il tuo account HGS (pedaggi autostradali): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- controlla se hai una multa per eccesso di velocità da pagare: https://dijital.gib.gov.tr",
+          "es": "Oficialmente llamada República de Turquía desde 2021, para evitar confusiones con el ave.\n\nPuedes entrar con tu vehículo sin pagar impuestos y dejarlo en el país por un máximo de 2 años, siempre y cuando no haya permanecido más de 185 días en el año anterior (periodo de 365 días antes de la fecha de entrada).\n\nEn otras palabras, esto no suele ser un problema para los viajeros que realizan viajes por carretera y cuya estancia está limitada a 90 días. El objetivo es evitar que los residentes locales mantengan sus coches con matrícula extranjera indefinidamente en Turquía cruzando la frontera cada dos años.\n\nSitios web útiles:\n- Consulta tu cuenta HGS (peajes de autopista): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- Comprueba si tienes una multa por exceso de velocidad: https://dijital.gib.gov.tr",
+          "pt": "Oficialmente chamada de República da Turquia desde 2021, para evitar confusão com o pássaro.\nVocê pode entrar com seu veículo sem pagar nenhum imposto e deixá-lo no país por um máximo de 2 anos, mas somente se ele não tiver permanecido por mais de 185 dias no ano anterior (período de 365 dias antes da data de entrada do veículo).\nEm outras palavras, geralmente não é um problema para viajantes que têm uma estadia limitada a 90 dias. O objetivo é impedir que pessoas com residência local mantenham seus carros com placas estrangeiras indefinidamente na Turquia, fazendo uma viagem de ida e volta à fronteira a cada dois anos.\n\nSites úteis:\n- verifique sua conta HGS (pedágios de rodovias): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- verifique se você tem alguma multa por excesso de velocidade a pagar: https://dijital.gib.gov.tr",
+          "nl": "Officieel heet het sinds 2021 de Republiek Turkije, om verwarring met de vogel te voorkomen.\n\nJe kunt met je voertuig het land binnenkomen zonder belasting te betalen en het maximaal 2 jaar in het land laten staan, maar alleen als het in het voorgaande jaar (365 dagen vóór de datum van binnenkomst van het voertuig) niet langer dan 185 dagen in Turkije heeft doorgebracht.\n\nMet andere woorden, het is meestal geen probleem voor overlanders die sowieso beperkt zijn tot een verblijf van 90 dagen. Het is bedoeld om te voorkomen dat mensen met een lokale verblijfsvergunning hun auto met buitenlands kenteken onbeperkt in Turkije houden door elke twee jaar de grens over te steken.\n\nHandige websites:\n- controleer je HGS-account (tolwegen): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- controleer of je een snelheidsboete moet betalen: https://dijital.gib.gov.tr",
+          "pl": "Oficjalnie od 2021 roku nazywa się Republiką Turcji, aby uniknąć pomyłki z ptakiem.\nMożna wjechać samochodem bez płacenia podatku i pozostawić go w kraju maksymalnie na 2 lata, ale tylko pod warunkiem, że w poprzednim roku nie spędził on tam więcej niż 185 dni (365 dni przed datą wjazdu pojazdu).\nInnymi słowy, zazwyczaj nie stanowi to problemu dla osób podróżujących poza granicami kraju, których pobyt jest ograniczony do 90 dni. Ma to na celu uniemożliwienie osobom z lokalnym miejscem zamieszkania bezterminowego przetrzymywania w Turcji samochodu na zagranicznych tablicach rejestracyjnych poprzez coroczne przekraczanie granicy.\nPrzydatne strony internetowe:\n- sprawdź swoje konto HGS (opłaty za autostrady): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- sprawdź, czy masz do zapłacenia mandat za przekroczenie prędkości: https://dijital.gib.gov.tr",
+          "ru": "Официально страна называется Республикой Турция с 2021 года, чтобы избежать путаницы с птицей.\nВы можете въехать на своем автомобиле без уплаты налогов и оставить его в стране максимум на 2 года, но только если он не находился в стране более 185 дней в предыдущем году (365 дней до даты въезда автомобиля).\nДругими словами, это обычно не проблема для путешественников, ограниченных 90 днями пребывания. Это сделано для того, чтобы предотвратить ситуацию, когда люди с местным видом на жительство будут оставлять свои автомобили с иностранными номерами в Турции на неопределенный срок, совершая пересечение границы каждые два года.\nПолезные веб-сайты:\n- проверьте свой аккаунт HGS (плата за проезд по автомагистралям): https://hgs.ptt.gov.tr/mobil/hgs.jsf\n- проверьте, есть ли у вас штраф за превышение скорости: https://dijital.gib.gov.tr"
+        },
+        "insurance": 2,
+        "insurance_url": "https://ikamet.com/insurance/foreign-plate/",
+        "insurance_comment_translations": {
+          "en": "The green card usually includes Turkey (European vehicles).",
+          "fr": "La carte verte inclut généralement la Turquie (véhicules européens).",
+          "de": "Die Grüne Karte umfasst üblicherweise auch Fahrzeuge aus der Türkei (europäische Fahrzeuge).",
+          "it": "La carta verde di solito include la Turchia (veicoli europei).",
+          "es": "La tarjeta verde generalmente incluye Turquía (vehículos europeos).",
+          "pt": "O cartão verde geralmente inclui a Turquia (veículos europeus).",
+          "nl": "De groene kaart is doorgaans ook geldig voor Turkije (Europese voertuigen).",
+          "pl": "Zielona karta zazwyczaj obejmuje Turcję (pojazdy europejskie).",
+          "ru": "Зелёная карта обычно распространяется на Турцию (для автомобилей европейского производства)."
+        },
+        "stay_duration": "90 days within 185 days",
         "updatedat": {
-          "_seconds": 1774585517,
-          "_nanoseconds": 404000000
+          "_seconds": 1786980361,
+          "_nanoseconds": 252000000
+        },
+        "stay_duration_translations": {
+          "en": "90 days within 185 days",
+          "fr": "90 jours sur 185 jours",
+          "de": "90 Tage innerhalb von 185 Tagen",
+          "it": "90 giorni entro 185 giorni",
+          "es": "90 días dentro de 185 días",
+          "pt": "90 dias em 185 dias",
+          "nl": "90 dagen binnen 185 dagen",
+          "pl": "90 dni w ciągu 185 dni",
+          "ru": "90 дней в течение 185 дней"
+        },
+        "visa_comment_translations": {
+          "en": "You can stay a maximum of 90 days per period of 180 days (period starts at the date of first entry).\nIf you need to stay longer, you must apply for a Short Term Residence Permit (https://en.goc.gov.tr/residence-permit-types).",
+          "fr": "Vous pouvez séjourner jusqu'à 90 jours par période de 180 jours (la période commençant à la date de votre première entrée).\n\nSi vous souhaitez prolonger votre séjour, vous devez demander un permis de séjour de courte durée (https://en.goc.gov.tr/residence-permit-types).",
+          "de": "Sie dürfen sich maximal 90 Tage innerhalb eines Zeitraums von 180 Tagen aufhalten (der Zeitraum beginnt mit dem Tag der ersten Einreise).\nWenn Sie länger bleiben möchten, müssen Sie eine Kurzzeit-Aufenthaltserlaubnis beantragen (https://en.goc.gov.tr/residence-permit-types).",
+          "it": "È consentito soggiornare per un massimo di 90 giorni per ogni periodo di 180 giorni (il periodo inizia dalla data del primo ingresso).\nSe si necessita di un soggiorno più lungo, è necessario richiedere un permesso di soggiorno di breve durata (https://en.goc.gov.tr/residence-permit-types).",
+          "es": "Puedes permanecer un máximo de 90 días por cada período de 180 días (el período comienza en la fecha de tu primera entrada).\n\nSi necesitas permanecer más tiempo, debes solicitar un Permiso de Residencia de Corta Duración (https://en.goc.gov.tr/residence-permit-types).",
+          "pt": "Você pode permanecer por um máximo de 90 dias por período de 180 dias (o período começa na data da primeira entrada).\nSe precisar ficar por mais tempo, você deve solicitar uma Autorização de Residência de Curta Duração (https://en.goc.gov.tr/residence-permit-types).",
+          "nl": "Je mag maximaal 90 dagen verblijven binnen een periode van 180 dagen (de periode begint op de datum van eerste binnenkomst).\n\nAls je langer wilt blijven, moet je een kortlopende verblijfsvergunning aanvragen (https://en.goc.gov.tr/residence-permit-types).",
+          "pl": "Możesz przebywać maksymalnie 90 dni w okresie 180 dni (okres rozpoczyna się od daty pierwszego wjazdu).\nJeśli potrzebujesz dłuższego pobytu, musisz ubiegać się o zezwolenie na pobyt krótkoterminowy (https://en.goc.gov.tr/residence-permit-types).",
+          "ru": "Максимальный срок пребывания составляет 90 дней за период в 180 дней (период начинается с даты первого въезда).\nЕсли вам необходимо остаться дольше, вы должны подать заявку на получение краткосрочного вида на жительство (https://en.goc.gov.tr/residence-permit-types)."
         }
       },
       "borderIds": [],
@@ -14895,44 +14947,10 @@
         "overlanding": 3,
         "population": 54957000,
         "timezone": "Africa/Johannesburg",
-        "carnet_comment_translations": {
-          "en": "A carnet is required only if you're shipping into the country, not when entering through a land border",
-          "fr": "Un carnet ATA n'est requis que pour l'importation de marchandises dans le pays, et non pour l'entrée par voie terrestre.",
-          "de": "Ein Carnet ist nur erforderlich, wenn Sie Waren in das Land versenden, nicht bei der Einreise über eine Landgrenze.",
-          "it": "Il carnet è richiesto solo se si spedisce nel paese, non quando si entra attraverso una frontiera terrestre",
-          "es": "Solo se requiere un carnet si se realiza un envío al país, no cuando se ingresa a través de una frontera terrestre.",
-          "pt": "O Carnet de Passagem só é necessário se você estiver enviando mercadorias para o país, não ao entrar por uma fronteira terrestre.",
-          "nl": "Een carnet is alleen vereist als u goederen het land in verzendt, niet wanneer u via een landgrens binnenkomt.",
-          "pl": "Karnet jest wymagany tylko w przypadku wysyłki do kraju, a nie przy przekraczaniu granicy lądowej",
-          "ru": "Карнет требуется только при ввозе товаров в страну, а не при пересечении сухопутной границы."
-        },
         "visa": 0,
         "visa_comment": "90 days visa-free for most nationalities.",
         "stay_duration": "3 months",
         "insurance": 0,
-        "insurance_comment": "A 3rd-party insurance is automatically available to all vehicles driving in South Africa, paid for by a levy taken on fuel sales.",
-        "visa_comment_translations": {
-          "en": "90 days visa-free for most nationalities.",
-          "fr": "Séjour de 90 jours sans visa pour la plupart des nationalités.",
-          "de": "Für die meisten Nationalitäten gilt eine visumfreie Einreise für 90 Tage.",
-          "it": "90 giorni senza visto per la maggior parte delle nazionalità.",
-          "es": "90 días sin visa para la mayoría de las nacionalidades.",
-          "pt": "90 dias sem visto para a maioria das nacionalidades.",
-          "nl": "90 dagen visumvrij voor de meeste nationaliteiten.",
-          "pl": "90 dni bez wizy dla większości narodowości.",
-          "ru": "Для граждан большинства стран безвизовый въезд на 90 дней."
-        },
-        "insurance_comment_translations": {
-          "en": "A 3rd-party insurance is automatically available to all vehicles driving in South Africa, paid for by a levy taken on fuel sales.",
-          "fr": "Une assurance responsabilité civile est automatiquement proposée à tous les véhicules circulant en Afrique du Sud, financée par une taxe prélevée sur les ventes de carburant.",
-          "de": "In Südafrika ist für alle Fahrzeuge automatisch eine Haftpflichtversicherung verfügbar, die durch eine Abgabe auf den Kraftstoffverkauf finanziert wird.",
-          "it": "Per tutti i veicoli circolanti in Sudafrica è automaticamente disponibile un'assicurazione di responsabilità civile, pagata tramite una tassa prelevata sulle vendite di carburante.",
-          "es": "Un seguro a terceros está disponible automáticamente para todos los vehículos que circulan en Sudáfrica, y se paga mediante un impuesto aplicado a las ventas de combustible.",
-          "pt": "O seguro de responsabilidade civil contra terceiros está automaticamente disponível para todos os veículos que circulam na África do Sul, sendo financiado por uma taxa cobrada sobre a venda de combustível.",
-          "nl": "Een WA-verzekering is automatisch beschikbaar voor alle voertuigen die in Zuid-Afrika rijden. Deze verzekering wordt gefinancierd door een heffing op brandstofverkopen.",
-          "pl": "Ubezpieczenie OC jest automatycznie dostępne dla wszystkich pojazdów poruszających się po Republice Południowej Afryki, a jego koszt pokrywany jest z opłaty pobieranej od sprzedaży paliwa.",
-          "ru": "Страхование гражданской ответственности автоматически предоставляется всем транспортным средствам, эксплуатируемым в Южной Африке, и оплачивается за счет сбора с продаж топлива."
-        },
         "stay_duration_translations": {
           "en": "3 months",
           "fr": "3 mois",
@@ -14967,9 +14985,43 @@
           "zh": "比勒陀利亞",
           "pt": "Pretória"
         },
+        "insurance_comment": "Note that insurance is automatically provided to all vehicles driving in South Africa, funded by a levy on fuel sales. However, this insurance only covers injuries or death caused to other people; it does not cover damage to third-party vehicles.",
         "updatedat": {
-          "_seconds": 1770199403,
-          "_nanoseconds": 987000000
+          "_seconds": 1787924867,
+          "_nanoseconds": 663000000
+        },
+        "visa_comment_translations": {
+          "en": "90 days visa-free for most nationalities.",
+          "fr": "Séjour de 90 jours sans visa pour la plupart des nationalités.",
+          "de": "Für die meisten Nationalitäten gilt eine visumfreie Einreise für 90 Tage.",
+          "it": "Soggiorno senza visto di 90 giorni per la maggior parte delle nazionalità.",
+          "es": "Noventa días sin visado para la mayoría de las nacionalidades.",
+          "pt": "90 dias sem visto para a maioria das nacionalidades.",
+          "nl": "90 dagen visumvrij voor de meeste nationaliteiten.",
+          "pl": "90 dni bez wizy dla większości narodowości.",
+          "ru": "Для граждан большинства стран безвизовый въезд на 90 дней."
+        },
+        "carnet_comment_translations": {
+          "en": "A carnet is required only if you're shipping into the country, not when entering through a land border",
+          "fr": "Un carnet ATA n'est requis que pour l'importation de marchandises dans le pays, et non pour l'entrée par voie terrestre.",
+          "de": "Ein Carnet ist nur erforderlich, wenn Sie Waren in das Land versenden, nicht bei der Einreise über eine Landgrenze.",
+          "it": "Il carnet è necessario solo se si effettua una spedizione nel paese, non quando si entra attraverso un confine terrestre.",
+          "es": "El carné solo es necesario si se realiza un envío al país, no al entrar por una frontera terrestre.",
+          "pt": "O Carnet de Passagem só é necessário se você estiver enviando mercadorias para o país, não ao entrar por uma fronteira terrestre.",
+          "nl": "Een carnet is alleen vereist als u goederen het land in verzendt, niet wanneer u via een landgrens binnenkomt.",
+          "pl": "Karnet jest wymagany tylko w przypadku wysyłki do kraju, a nie przy przekraczaniu granicy lądowej",
+          "ru": "Карнет требуется только при ввозе товаров в страну, а не при пересечении сухопутной границы."
+        },
+        "insurance_comment_translations": {
+          "en": "Note that insurance is automatically provided to all vehicles driving in South Africa, funded by a levy on fuel sales. However, this insurance only covers injuries or death caused to other people; it does not cover damage to third-party vehicles.",
+          "fr": "Il convient de noter que tous les véhicules circulant en Afrique du Sud sont automatiquement assurés, grâce à une taxe sur les ventes de carburant. Toutefois, cette assurance ne couvre que les blessures ou le décès causés à autrui ; elle ne couvre pas les dommages causés aux véhicules de tiers.",
+          "de": "Beachten Sie, dass in Südafrika alle Fahrzeuge automatisch versichert sind. Die Versicherung wird durch eine Abgabe auf den Kraftstoffverkauf finanziert. Diese Versicherung deckt jedoch nur Verletzungen oder Todesfälle anderer Personen ab; Schäden an Fahrzeugen Dritter sind nicht abgedeckt.",
+          "it": "Si noti che in Sudafrica tutti i veicoli che circolano sono assicurati automaticamente e finanziati da un'imposta sulle vendite di carburante. Tuttavia, questa assicurazione copre solo lesioni o decessi causati a terzi; non copre i danni ai veicoli di terzi.",
+          "es": "Cabe destacar que todos los vehículos que circulan por Sudáfrica cuentan con seguro automático, financiado mediante un impuesto sobre la venta de combustible. Sin embargo, este seguro solo cubre lesiones o fallecimiento de otras personas; no cubre daños a vehículos de terceros.",
+          "pt": "Note que o seguro é fornecido automaticamente a todos os veículos que circulam na África do Sul, financiado por uma taxa sobre a venda de combustíveis. No entanto, esse seguro cobre apenas lesões ou morte causadas a terceiros; não cobre danos a veículos de terceiros.",
+          "nl": "Houd er rekening mee dat alle voertuigen die in Zuid-Afrika rijden automatisch verzekerd zijn. Deze verzekering wordt gefinancierd door een heffing op brandstof. De verzekering dekt echter alleen letsel of overlijden van andere personen; schade aan voertuigen van derden valt hier niet onder.",
+          "pl": "Należy pamiętać, że ubezpieczenie jest automatycznie przyznawane wszystkim pojazdom poruszającym się po RPA, a jego finansowanie pochodzi z podatku od sprzedaży paliwa. Ubezpieczenie to obejmuje jednak wyłącznie obrażenia ciała lub śmierć innych osób; nie obejmuje ono uszkodzeń pojazdów osób trzecich.",
+          "ru": "Обратите внимание, что страхование автоматически предоставляется всем транспортным средствам, эксплуатируемым в Южной Африке, и финансируется за счет сбора с продажи топлива. Однако это страхование покрывает только травмы или смерть, причиненные другим людям; оно не покрывает ущерб транспортным средствам третьих лиц."
         }
       },
       "borderIds": [],

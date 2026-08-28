@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-05-16T17:24:47.938Z",
-    "totalTrackPacks": 5,
+    "generatedAt": "2026-08-28T14:44:02.559Z",
+    "totalTrackPacks": 6,
     "editor": "GOA"
   },
   "trackPacks": [
@@ -36,9 +36,6 @@
       "titlePhotoId": "3e3e7e71-1a7e-400c-7096-930659bbdd00",
       "mbtilesName": "",
       "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/3e3e7e71-1a7e-400c-7096-930659bbdd00/public",
-      "translatedName": {
-        "fr": "Tadjikistan"
-      },
       "price": 39.9,
       "lastUpdate": {
         "_seconds": 1749229441,
@@ -63,7 +60,50 @@
       "freeItineraryZip": "NRwjzZRALifL6L9Ys7XY",
       "freeItineraryZip_version": 22,
       "pmtilesMap_version": 1,
-      "pmtilesMap": "gHFT7inX4m9ZPFQNgsFA"
+      "pmtilesMap": "gHFT7inX4m9ZPFQNgsFA",
+      "translatedName": {
+        "fr": "Tadjikistan",
+        "de": "Tadschikistan"
+      }
+    },
+    {
+      "id": "D7LkvGDh8YTAz0EJ2LGj",
+      "createdAt": {
+        "_seconds": 1786182191,
+        "_nanoseconds": 90412000
+      },
+      "editor": "GOA",
+      "generationDate": {
+        "_nanoseconds": 841408967,
+        "_seconds": 1786142873
+      },
+      "lastUpdate": {
+        "_seconds": 1786107907,
+        "_nanoseconds": 498000000
+      },
+      "latMax": 28.86751937866211,
+      "latMin": 28.315237045288086,
+      "lonMax": 35.93285369873047,
+      "lonMin": 35.56882858276367,
+      "name": "Saudi Arabia Northwest",
+      "nbItineraries": 2,
+      "online": false,
+      "region": "Middle-East",
+      "titlePhotoId": "636ee493-8ddf-47bf-211e-77016f9bfe00",
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/636ee493-8ddf-47bf-211e-77016f9bfe00/public",
+      "translatedName": {
+        "fr": "Arabie Saoudite (nord-ouest)"
+      },
+      "type": "itineraries",
+      "updatedAt": {
+        "_seconds": 1786182190,
+        "_nanoseconds": 946942000
+      },
+      "vehicle": "4x4",
+      "version": 0,
+      "trackPackZip": "g9hj2AP5xHd2eIzNm84W",
+      "trackPackZip_version": 0,
+      "price": 19
     },
     {
       "id": "Fh1H3yWIttiixo79a0Xp",
@@ -89,9 +129,6 @@
       "region": "Middle-East",
       "titleBlurHash": "LJGuaj~oX4IAMy8{9FM{0Kxa%L?b",
       "titlePhotoFSId": "GOA/d3827c59-15ce-4054-930c-0d0416dbb9db.jpeg",
-      "translatedName": {
-        "fr": "Oman"
-      },
       "type": "offroad",
       "vehicle": "4x4",
       "website": "http://www.overlandaventure.com",
@@ -113,34 +150,40 @@
         "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/GOA/Fh1H3yWIttiixo79a0Xp/b1661186-8081-4b38-27c5-bc1ddba1d300.jpg/public"
       ],
       "mbtilesName": "",
-      "lastUpdate": {
-        "_seconds": 1749363726,
-        "_nanoseconds": 550000000
-      },
       "description": "Oman is a dream destination for travelers due to its incredible diversity, from the steep winding road of [Musandam](::Om1) to the babobas of [Dhofar](::Om21) in the far south. With its vast deserts, dramatic mountain ranges, pristine coastline, and welcoming culture, the country offers an incredible variety of landscapes and experiences—often just hours apart. Camp under the stars in the [Wahiba Sands](::Om14), drive the hairpin bends of [Jebel Shams](::Om7) for stunning canyon views, drive to the end of the world and camp on stunning beaches in [Bar al Hikman](::Om16) or follow the [coastal road](::Om18) to discover hidden wadis and turquoise pools. Oman’s well-maintained roads, open wild camping policy, and low crime rate make it one of the safest and most rewarding countries for self-drive adventures in the Middle East.",
-      "translatedDesc": {
-        "fr": "L'Oman est une destination de rêve pour les voyageurs en raison de son incroyable diversité, depuis les routes escarpées de [Musandam](::Om1) jusqu'aux baobabs du [Dhofar](::Om21) dans l'extrême sud, en passant par les champs de dunes immenses de [Rub Al-Khali](::Om23). Avec ses vastes déserts, ses chaînes montagneuses spectaculaires, son littoral immaculé et sa culture accueillante, le pays offre une variété incroyable de paysages et d'expériences, où les distances à parcourir restent modestes. Campez sous les étoiles dans les sables de [Wahiba](::Om14), parcourez les lacets du [Jebel Shams](::Om7) pour admirer des vues époustouflantes sur les canyons, partez au bout du monde sur les plages de rêve de [Bar al Hikman](::Om16) ou suivez la [route côtière](::Om18) pour découvrir des wadis cachés et des vasques turquoise pour se baigner. Les routes bien entretenues d'Oman, les possibilités infinie de camping suavages et son faible taux de criminalité en font l'un des pays les plus sûrs et les plus gratifiants pour une aventure inoubliable au Moyen-Orient."
-      },
-      "freeItineraryZip_version": 7,
       "offlineMap": "TAYquxxUzUMBq0vVCuqm",
       "offlineMap_version": 4,
       "hillshade": "tXUV56NHn9sbBGF83PTM",
       "hillshade_version": 2,
-      "generationDate": {
-        "_nanoseconds": 806868000,
-        "_seconds": 1764536394
-      },
       "nbItineraries": 22,
-      "version": 8,
-      "updatedAt": {
-        "_seconds": 1764536744,
-        "_nanoseconds": 497448000
-      },
-      "trackPackZip": "yCPR8PQUoq5goKLYtvei",
-      "trackPackZip_version": 8,
-      "freeItineraryZip": "9HCJhw9Q0H3o6wxAdEld",
       "pmtilesMap_version": 1,
-      "pmtilesMap": "iEmc5tf0iQ9HzMAKzrfm"
+      "pmtilesMap": "iEmc5tf0iQ9HzMAKzrfm",
+      "lastUpdate": {
+        "_seconds": 1774982988,
+        "_nanoseconds": 154000000
+      },
+      "generationDate": {
+        "_seconds": 1785183655,
+        "_nanoseconds": 778381824
+      },
+      "translatedName": {
+        "pt": "Omã",
+        "es": "Omán",
+        "fr": "Oman",
+        "ru": "Оман"
+      },
+      "version": 9,
+      "translatedDesc": {
+        "fr": "Oman est une destination de rêve pour les voyageurs en raison de son incroyable diversité, depuis les routes escarpées de [Musandam](::Om1) jusqu'aux baobabs du [Dhofar](::Om21) dans l'extrême sud, en passant par les champs de dunes immenses de [Rub Al-Khali](::Om23). Avec ses vastes déserts, ses chaînes montagneuses spectaculaires, son littoral immaculé et sa culture accueillante, le pays offre une variété incroyable de paysages et d'expériences, où les distances à parcourir restent modestes. Campez sous les étoiles dans les sables de [Wahiba](::Om14), parcourez les lacets du [Jebel Shams](::Om7) pour admirer des vues époustouflantes sur les canyons, partez au bout du monde sur les plages de rêve de [Bar al Hikman](::Om16) ou suivez la [route côtière](::Om18) pour découvrir des wadis cachés et des vasques turquoise pour se baigner. Les routes bien entretenues d'Oman, les possibilités infinie de camping suavages et son faible taux de criminalité en font l'un des pays les plus sûrs et les plus gratifiants pour une aventure inoubliable au Moyen-Orient."
+      },
+      "updatedAt": {
+        "_seconds": 1785183707,
+        "_nanoseconds": 381549000
+      },
+      "trackPackZip_version": 10,
+      "freeItineraryZip": "YhWPsFI3dGswbszfFzLF",
+      "freeItineraryZip_version": 10,
+      "trackPackZip": "qWJ0iqlsT06MJwCqkVhb"
     },
     {
       "id": "MKPLji4UsbEGj2Qh4XKU",
@@ -256,10 +299,6 @@
         "_seconds": 1759208466,
         "_nanoseconds": 903745000
       },
-      "trackPackZip": "GCXWd1ncsDQA2C0vnZt8",
-      "trackPackZip_version": 17,
-      "freeItineraryZip": "5reybLoACXrCEXfsvVcA",
-      "freeItineraryZip_version": 17,
       "translatedName": {
         "en": "Ladakh",
         "fr": "Ladakh",
@@ -283,7 +322,11 @@
         "ru": "На протяжении многих лет Ладакх был мифической страной; расположенный высоко в Гималаях, недоступный большую часть года, населенный любящими природу ладакхцами, которые бережно хранят свою культуру. До 70-х годов, когда дорога Сринагар-Лех была открыта для гражданского населения, в Ладакх можно было добраться только пешком или на самолете. Затем, в 90-х годах, была проложена новая дорога из Манали через самые высокие перевалы страны, превышающие 5000 метров (16 500 футов). В то время это было само по себе приключением, скорее похоже на экспедицию. Совсем недавно дорога была улучшена, отремонтирована, а снегоуборочная техника позволяет открывать ее раньше в сезоне, в июне и даже мае.\nДоступность Ладакха значительно возросла за последние несколько лет, чему способствовала необходимость оперативной доставки войск к индийской границе в случае возникновения проблем, а также экспоненциальный рост внутреннего туризма. В 2020 году открылся туннель Атал, сокративший время в пути до Ладакха на несколько часов и позволивший круглый год связывать Лахаул с остальной частью страны. Несмотря на это, трасса Манали-Лех закрыта зимой из-за сильных снегопадов на перевале Баралача Ла.\nТем временем начались работы по бурению туннелей на трассе Сринагар-Лех, чтобы обеспечить ее круглогодичное движение. Ожидается, что туннель З-Морх (между Сринагаром и Сонамаргом) откроется в 2023 году, а более длинный туннель Зоджи Ла (между Сонамаргом и Каргилом) откроется еще через несколько лет. После его открытия Ладакх впервые станет доступен по дороге зимой.\nК сожалению, эта дорога проходит очень близко к пакистанской границе, а это значит, как показала Каргильская война 1999 года, что ее легко перекрыть. В результате был начат еще один проект по строительству всепогодной дороги, которая находилась бы вдали от китайской и пакистанской границ: дорога Дарча-Падум-Нимму, давняя мечта, которая фактически зародилась еще в 70-х годах, чтобы обеспечить лучшее сообщение с Занскаром. В 2019 году была открыта грунтовая дорога через перевал Шинку Ла, которая была улучшена в 2020 году с укладкой асфальта на дороге Шинку Ла со стороны Дарчи. Начался проект по бурению туннеля под перевалом Шинку Ла, так что после завершения строительства дороги «Чадар» вдоль реки Занскар, Лех станет доступен круглый год и со стороны Химачал-Прадеша.\nЭто дает нам, водителям, мотоциклистам и велосипедистам, три разных способа добраться до Ладакха, а также два дополнительных альтернативных пути в Лахаул со стороны Спити и перевала Сач. В самом Ладакхе BRO (Организация по строительству приграничных дорог), подразделение индийской армии, ответственное за эти грандиозные проекты, также занято открытием новых дорог на окраины страны: дорога Шайок-DBO вдоль тибетской границы была открыта в 2019 году (только для военного использования); дорога к перевалу Умлинг-Ла, самому высокому перевалу в мире, была построена в 2017 году, хотя официально для туристов она была открыта только после того, как ее заасфальтировали в 2021 году. Новые дороги строятся каждый год, например, дорога Чард, открытая в 2024 году, новая дорога от Ханле до озера Рюл-Цо и дорога Минг-Ла, которая после завершения строительства станет самой высокой в мире.\n\n"
       },
       "pmtilesMap_version": 1,
-      "pmtilesMap": "gyCcUskMc6NHIJxV3Pir"
+      "pmtilesMap": "gyCcUskMc6NHIJxV3Pir",
+      "trackPackZip_version": 20,
+      "freeItineraryZip_version": 20,
+      "trackPackZip": "R6cfaoZ8upeCpQcBMtVB",
+      "freeItineraryZip": "0fbBeT23Zquiu9TSq3DR"
     },
     {
       "id": "uisU0mliXUGARtjlVVZM",

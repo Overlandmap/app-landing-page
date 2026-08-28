@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-05-16T17:24:47.935Z",
+    "generatedAt": "2026-08-28T14:44:02.557Z",
     "totalItineraries": 128,
     "editor": "GOA"
   },
@@ -57,41 +57,54 @@
     },
     {
       "id": "0CPHGbJcYQAxtGNbNkDQ",
-      "center": {
-        "_latitude": 17.99013614654541,
-        "_longitude": 56.15616416931152
-      },
-      "center_geohash": "t5pymg58j",
       "createdAt": {
         "_seconds": 1737625023,
         "_nanoseconds": 59000000
       },
-      "description": "This brief detour offers a refreshing escape from the monotony of the main road. It descends from the plateau to the sea, leading to a stunning, secluded beach accessible only by a rough track suitable for vehicles with good ground clearance. Other vehicles, including big rigs, can park nearby and walk the final {->km 3} to the beach.\nBe aware that the road back up is very steep and unpaved, but it should pose no issues as long as you drive with care.",
-      "difficulty": 2,
-      "editor": "GOA",
-      "fuelRange": 150,
-      "isFree": false,
-      "itineraryId": "Om19",
-      "lastUpdate": {
-        "_seconds": 1737628393,
-        "_nanoseconds": 135000000
-      },
-      "latMax": 18.053171157836914,
-      "latMin": 17.927101135253906,
-      "lengthDays": 1,
-      "lengthKM": 52.6,
-      "lonMax": 56.275386810302734,
-      "lonMin": 56.03694152832031,
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
       "lovesCount": 0,
-      "name": "Minji",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/eb692152-adc6-4d62-acc9-de8633a9847d.jpeg",
-      "titlePhotoId": "f9a7fe6e-7aa6-48da-221a-f4d0a8ea0e00",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/f9a7fe6e-7aa6-48da-221a-f4d0a8ea0e00/public",
+      "difficulty": 2,
+      "center": {
+        "_latitude": 17.99013614654541,
+        "_longitude": 56.15616416931152
+      },
       "trackIds": [
         "oKqwdBRMu1Xjpxc26dav"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp"
+      "offroadPercent": 30,
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/f9a7fe6e-7aa6-48da-221a-f4d0a8ea0e00/public",
+      "translatedDesc": {
+        "fr": "Ce petit détour rafraîchissant casse la monotonie de la route principale. Il vous fait descendre du plateau jusqu'à la mer et vous mène à une superbe plage isolée, accessible uniquement par une piste difficile réservée aux véhicules dotés d'une bonne garde au sol. Les autres véhicules, y compris les poids lourds, peuvent se garer à proximité et vous devrez marcher sur les 3 derniers kilomètres jusqu'à la plage.\nNotez que la route du retour est très raide et non goudronnée, mais cela ne devrait poser aucun problème tant que vous conduisez prudemment."
+      },
+      "fuelRange": 150,
+      "lengthKM": 52.6,
+      "lonMax": 56.275386810302734,
+      "lengthDays": 1,
+      "highlights": "A pretty little beach away from most tourists.",
+      "translatedHighlights": {
+        "fr": "Une petite plage isolée à l’écart des foules."
+      },
+      "editor": "GOA",
+      "latMax": 18.053171157836914,
+      "lastUpdate": {
+        "_seconds": 1785086219,
+        "_nanoseconds": 686000000
+      },
+      "isFree": false,
+      "description": "This brief detour offers a refreshing escape from the monotony of the main road. It descends from the plateau to the sea, leading to a stunning, secluded beach accessible only by a rough track suitable for vehicles with good ground clearance. Other vehicles, including big rigs, can park nearby and walk the final {->km 3} to the beach.\nBe aware that the road back up is very steep and unpaved, but it should pose no issues as long as you drive with care.",
+      "translatedRoadConditions": {
+        "fr": "Bonne route pour descendre, piste raide pour remonter sur la route principale. Le dernier bout de piste pour atteindre la plage est difficile mais vous pouvez tout aussi bien y aller à pied."
+      },
+      "otherPhotoUrls": [],
+      "name": "Minji",
+      "titlePhotoFSId": "GOA/eb692152-adc6-4d62-acc9-de8633a9847d.jpeg",
+      "lonMin": 56.03694152832031,
+      "titlePhotoId": "f9a7fe6e-7aa6-48da-221a-f4d0a8ea0e00",
+      "permit": false,
+      "center_geohash": "t5pymg58j",
+      "roadConditions": "Good road on the way down, steep unpaved road on the way up. The last bit is to reach the beach is tougher but it’s short and you can walk it.",
+      "latMin": 17.927101135253906,
+      "itineraryId": "Om19"
     },
     {
       "id": "0WBKPHYJN8hANkS2ZnaK",
@@ -597,49 +610,49 @@
     },
     {
       "id": "7LDneMxh3vK8qf16slKM",
-      "center": {
-        "_latitude": 18.93477725982666,
-        "_longitude": 56.253265380859375
-      },
-      "center_geohash": "t7258nfrh",
-      "createdAt": {
-        "_seconds": 1737479592,
-        "_nanoseconds": 752000000
-      },
-      "description": "The road connecting Muscat and Salalah along the ocean is relatively recent. 20 years ago, the only paved route linking these two cities was the inland road that cuts through the desert. The coastal route, extending from Muscat and Sur to Salalah, is far more scenic, although the northern section of this route, approximately 400 km, features fairly uneventful, featureless landscapes. However, picturesque beaches dot the area, providing pleasant breaks from the road. As you continue south, the terrain becomes more rugged and visually interesting.\nThe coastal road is fully paved and very straightforward to navigate. Fuel stations are conveniently spaced every 50 to 100 km, ensuring smooth travel with minimal logistical concerns.",
-      "difficulty": 0,
-      "editor": "GOA",
-      "fuelRange": 150,
-      "isFree": false,
       "itineraryId": "Om18",
+      "lonMin": 54.21908187866211,
+      "titlePhotoId": "ad2048d3-569e-4ae0-d360-3ff834587700",
+      "center_geohash": "t7258nfrh",
+      "latMin": 16.989805221557617,
+      "description": "The road connecting Muscat and Salalah along the ocean is relatively recent. 20 years ago, the only paved route linking these two cities was the inland road that cuts through the desert. The coastal route, extending from Muscat and Sur to Salalah, is far more scenic, although the northern section of this route, approximately 400 km, features fairly uneventful, featureless landscapes. However, picturesque beaches dot the area, providing pleasant breaks from the road. As you continue south, the terrain becomes more rugged and visually interesting.\nThe coastal road is fully paved and very straightforward to navigate. Fuel stations are conveniently spaced every 50 to 100 km, ensuring smooth travel with minimal logistical concerns.",
+      "otherPhotoUrls": [],
+      "name": "Coastal road",
+      "titlePhotoFSId": "GOA/14b68803-dca0-49b4-a6e3-df642f9871c7.jpeg",
+      "translatedName": {
+        "fr": "Route côtière"
+      },
+      "editor": "GOA",
+      "latMax": 20.879749298095703,
       "lastUpdate": {
         "_seconds": 1738139974,
         "_nanoseconds": 319000000
       },
-      "latMax": 20.879749298095703,
-      "latMin": 16.989805221557617,
-      "lengthDays": 3,
+      "isFree": false,
+      "fuelRange": 150,
       "lengthKM": 835,
       "lonMax": 58.28744888305664,
-      "lonMin": 54.21908187866211,
-      "lovesCount": 0,
-      "name": "Coastal road",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/14b68803-dca0-49b4-a6e3-df642f9871c7.jpeg",
-      "titlePhotoId": "ad2048d3-569e-4ae0-d360-3ff834587700",
+      "lengthDays": 3,
       "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/ad2048d3-569e-4ae0-d360-3ff834587700/public",
+      "translatedDesc": {
+        "fr": "La route reliant Muscat à Salalah le long de la mer est relativement récente; il y a 20 ans, la seule route goudronnée reliant les deux villes principales d'Oman passait par le désert. La route côtière, de Sur à Salalah en passant par Duqm est beaucoup plus intéressante et variée que la 2x2 pistes qui traverse le désert. Certes, les pemiers 400 km depuis Mahut et jusqu'aux premiers reliefs de Minji présentent un paysage très monotonne, bordé par de belles plages certes, mais sans relief. La partie sud par contre est absolument magnifique, avec des montagnes, des falaises et des wadis.\nLa route côtière est entièrement goudronnée, et seuls les détours proposés peuvent parfois être un peu compliqués. Les stations-service sont espacées de 50 à 150 km, et elles sont en général accompagnées de magasins et restaurants, donc le ravitaillement ne pose pas de problème particulier."
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lovesCount": 0,
+      "difficulty": 0,
+      "center": {
+        "_latitude": 18.93477725982666,
+        "_longitude": 56.253265380859375
+      },
       "trackIds": [
         "FWejXsgfkt9m1Po7wju3",
         "yyRRt2d95L5ZW8A7Xas7",
         "J6TPA6xXxjvuUQ4inm4i",
         "FbNpZlw76YPKZIjQytBn"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "La route reliant Muscat à Salalah le long de la mer est relativement récente; il y a 20 ans, la seule route goudronnée reliant les deux villes principales d'Oman passait par le désert. La route côtière, de Sur à Salalah en passant par Duqm est beaucoup plus intéressante et variée que la 2x2 pistes qui traverse le désert. Certes, les pemiers 400 km depuis Mahut et jusqu'aux premiers reliefs de Minji présentent un paysage très monotonne, bordé par de belles plages certes, mais sans relief. La partie sud par contre est absolument magnifique, avec des montagnes, des falaises et des wadis.\nLa route côtière est entièrement goudronnée, et seuls les détours proposés peuvent parfois être un peu compliqués. Les stations-service sont espacées de 50 à 150 km, et elles sont en général accompagnées de magasins et restaurants, donc le ravitaillement ne pose pas de problème particulier."
-      },
-      "translatedName": {
-        "fr": "Route côtière"
+      "createdAt": {
+        "_seconds": 1737479592,
+        "_nanoseconds": 752000000
       }
     },
     {
@@ -803,44 +816,48 @@
     },
     {
       "id": "8VlzASUbhP8rMYB2peR8",
-      "center": {
-        "_latitude": 26.084993362426758,
-        "_longitude": 56.296518325805664
+      "translatedDesc": {
+        "fr": "Cette petite excursion vous amène vers la plage la plus connue de Musandam, grâce à une bonne piste très raide.\nLa bonne route goudronnée qui se termine actuellement à Al-Khalidiah, près d'un parc très fréquenté par les locaux, qui est séparé de la mer par une petite montagne. Les autorités ont décidé l'extension de cette route en direction de Limah et Dibba, en passant par la côte très escarpée. Cette nouvelle route raccourcira notablement les temps de parcours entre Khasab, Dibba et par extension le reste d'Oman."
       },
-      "center_geohash": "tk8h3h9u5",
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/24888598-03b0-432f-5bf7-c61862e01400/public",
+      "lonMax": 56.33386993408203,
+      "lengthDays": 1,
+      "fuelRange": 15,
+      "lengthKM": 12.6,
       "createdAt": {
         "_seconds": 1737024711,
         "_nanoseconds": 31000000
       },
-      "description": "This short drive takes you to Musandam most famous beach, over a steep but good track.\nThe good paved road which currently ends at the park of Al-Khalidiah, popular for picnics and camping, which is separated form the sea by a steep mountain. A project has been started to build a new road linking Limah over a very difficult terrain next to the sea, which will cut short the trip to Limah, and onward to Dibba.",
-      "difficulty": 0,
-      "editor": "GOA",
-      "fuelRange": 15,
-      "isFree": false,
-      "itineraryId": "Om3",
-      "lastUpdate": {
-        "_seconds": 1737901440,
-        "_nanoseconds": 472000000
-      },
-      "latMax": 26.09813690185547,
-      "latMin": 26.071849822998047,
-      "lengthDays": 1,
-      "lengthKM": 12.6,
-      "lonMax": 56.33386993408203,
-      "lonMin": 56.2591667175293,
-      "lovesCount": 0,
-      "name": "Khor Najd",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/9348dfd2-ec89-4ea7-a720-050613409ea8.jpeg",
-      "titlePhotoId": "24888598-03b0-432f-5bf7-c61862e01400",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/24888598-03b0-432f-5bf7-c61862e01400/public",
       "trackIds": [
         "N1RTqkqvpApnOupI8VY5"
       ],
+      "offroadPercent": 0,
+      "lovesCount": 0,
+      "difficulty": 0,
+      "center": {
+        "_latitude": 26.084993362426758,
+        "_longitude": 56.296518325805664
+      },
       "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Cette petite excursion vous amène vers la plage la plus connue de Musandam, grâce à une bonne piste très raide.\nLa bonne route goudronnée qui se termine actuellement à Al-Khalidiah, près d'un parc très fréquenté par les locaux, qui est séparé de la mer par une petite montagne. Les autorités ont décidé l'extension de cette route en direction de Limah et Dibba, en passant par la côte très escarpée. Cette nouvelle route raccourcira notablement les temps de parcours entre Khasab, Dibba et par extension le reste d'Oman."
-      }
+      "roadConditions": "Paved road.",
+      "latMin": 26.071849822998047,
+      "titlePhotoId": "24888598-03b0-432f-5bf7-c61862e01400",
+      "center_geohash": "tk8h3h9u5",
+      "lonMin": 56.2591667175293,
+      "itineraryId": "Om3",
+      "isFree": false,
+      "editor": "GOA",
+      "titlePhotoCaption": "Khor Najd.",
+      "latMax": 26.09813690185547,
+      "lastUpdate": {
+        "_seconds": 1764601290,
+        "_nanoseconds": 270000000
+      },
+      "highlights": "Drive the steep road to the gorgeous fjord of Khor Najd.\nCamp under the accacias in Al-Khalidiah.",
+      "name": "Khor Najd",
+      "titlePhotoFSId": "GOA/9348dfd2-ec89-4ea7-a720-050613409ea8.jpeg",
+      "otherPhotoUrls": [],
+      "description": "This short drive takes you to Musandam most famous beach, over a steep but good track.\nThe good paved road which currently ends at the park of Al-Khalidiah, popular for picnics and camping, which is separated form the sea by a steep mountain. \nThe new road which will link Limah and Dibba over a very difficult terrain next to the sea, is still under construction."
     },
     {
       "id": "8hGVlt8F3WL6X2Qr74tE",
@@ -940,85 +957,116 @@
     },
     {
       "id": "BfxNHsaNN1e5GAA1vvZi",
-      "center": {
-        "_latitude": 26.209110260009766,
-        "_longitude": 56.20816612243652
-      },
-      "center_geohash": "thxvp51x1",
-      "createdAt": {
-        "_seconds": 1737023492,
-        "_nanoseconds": 498000000
-      },
+      "name": "Jebel Fitt",
+      "titlePhotoFSId": "GOA/0605f3f8-7122-4e3e-aeaa-c0b1c6d5af6c.jpeg",
+      "otherPhotoUrls": [],
       "description": "This short detour brings you to a nice viewpoint with 360 degrees view over the sea.",
-      "difficulty": 1,
-      "editor": "GOA",
-      "fuelRange": 15,
       "isFree": false,
-      "itineraryId": "Om2",
+      "editor": "GOA",
+      "latMax": 26.233867645263672,
       "lastUpdate": {
         "_seconds": 1737900334,
         "_nanoseconds": 313000000
       },
-      "latMax": 26.233867645263672,
+      "itineraryId": "Om2",
       "latMin": 26.18435287475586,
-      "lengthDays": 1,
-      "lengthKM": 14.2,
-      "lonMax": 56.22096633911133,
-      "lonMin": 56.19536590576172,
-      "lovesCount": 0,
-      "name": "Jebel Fitt",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/0605f3f8-7122-4e3e-aeaa-c0b1c6d5af6c.jpeg",
       "titlePhotoId": "a8607518-3255-4432-f3a8-53071efcc300",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/a8607518-3255-4432-f3a8-53071efcc300/public",
+      "center_geohash": "thxvp51x1",
+      "lonMin": 56.19536590576172,
       "trackIds": [
         "cHdSspQ9ghCk6u6wyow2"
       ],
+      "lovesCount": 0,
+      "difficulty": 1,
+      "center": {
+        "_latitude": 26.209110260009766,
+        "_longitude": 56.20816612243652
+      },
       "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "createdAt": {
+        "_seconds": 1737023492,
+        "_nanoseconds": 498000000
+      },
+      "lonMax": 56.22096633911133,
+      "lengthDays": 1,
+      "fuelRange": 15,
+      "lengthKM": 14.2,
       "translatedDesc": {
         "fr": "Ce petit détour vous amène à une falaise avec une très belle vue à 180 degrés sur la mer."
-      }
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/a8607518-3255-4432-f3a8-53071efcc300/public"
     },
     {
       "id": "Bjg7wrtsaSuW8sqvDt49",
+      "trackIds": [
+        "FAAYkNfNklqauEqEBVaI",
+        "Kjd8JCtgPciGH9HnpP2s"
+      ],
+      "offroadPercent": 30,
+      "lovesCount": 0,
+      "difficulty": 1,
       "center": {
         "_latitude": 26.03931427001953,
         "_longitude": 56.22383689880371
       },
-      "center_geohash": "thxupkkfn",
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
       "createdAt": {
         "_seconds": 1736964432,
         "_nanoseconds": 418000000
       },
-      "description": "Musandam is an exclave of Oman, separated from the rest of the country by the UAE. It lies at the tip of a peninsula facing Iran and the Strait of Hormuz. This mountainous region is connected to the west by a well-paved coastal road leading to Ras al Khaimah (RAK) in the UAE. However, the road from Khasab, the capital, to Dibba in the UAE on the East coast is a (rather good) gravel track that crosses several mountains. In addition, the border at Dibba is only open to Omani and Emirati citizens. \nThe primary ways to access Musandam are via the western coastal road from the UAE or by ferry from Shinas in Oman to Khasab or Limah. Most visitors come here and take a cruise in the stunning fjords at the peninsula's northern tip, which is the region's main tourist attraction. Many also fly into Khasab from Muscat, as the city has its own airport.\nFor those hesitant about driving on gravel, a round trip from RAK in the UAE is an option. However, this route focuses on exploring the interior of the peninsula and ends with the ferry at Limah to avoid backtracking. Locals, in contrast, can drive to Dibba and cross into the UAE to reconnect with Oman.\nThe road from RAK to Khasab is paved and in excellent condition, while the gravel road from Khasab to Limah is generally well-maintained and suitable for all vehicles, including big rigs, though it has some steep sections. There are numerous great camping spots along the way, but all essential facilities, such as hotels, fuel, and supermarkets, are concentrated in Khasab.\nAs of 2024, ferry tickets unfortunately cannot be booked online in advance. Passengers must purchase tickets in person at the ports in Khasab, Limah, or Shinas, with the risk that the next available ferry may already be fully booked.",
-      "difficulty": 1,
-      "editor": "GOA",
-      "fuelRange": 150,
-      "isFree": false,
-      "itineraryId": "Om1",
-      "lastUpdate": {
-        "_seconds": 1738143989,
-        "_nanoseconds": 222000000
-      },
-      "latMax": 26.243898391723633,
-      "latMin": 25.83473014831543,
-      "lengthDays": 3,
-      "lengthKM": 163.2,
       "lonMax": 56.43214416503906,
-      "lonMin": 56.01552963256836,
-      "lovesCount": 0,
-      "name": "Musandam",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/5f043fa0-0e0c-4ba6-ae74-f331b84632cb.jpeg",
-      "titlePhotoId": "54a4ac47-4479-49e6-0a38-eb70b0282e00",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/54a4ac47-4479-49e6-0a38-eb70b0282e00/public",
-      "trackIds": [
-        "FAAYkNfNklqauEqEBVaI"
-      ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lengthDays": 2,
+      "fuelRange": 150,
+      "lengthKM": 179.1,
       "translatedDesc": {
-        "fr": "Musandam est un exclave d'Oman, séparé du reste du pays par les Émirats. Il occupe la pointe nord de la péninsule arabique, en face du détroit d'Hormuz qui le sépare de l'Iran. Cette région montagneuse est connectée à l'ouest par une bonne route goudronnée qui suit la côte depuis Ras al Khaimah aux Émirats. L'autre route, reliant Khasab, la capitale, à Dibba aux Émirats, est une piste de montagne raide et poussiéreuse. De plus, la frontière à Dibba n'est ouverte qu'aux Omanais et aux Émiratis. Le principal accès à Musandam se fait donc soit par la route par la côte nord-ouest, soit par la mer sur le ferry qui relie Shinas (Oman) à Khasab ou Limah.\nLa plupart des visiteurs se rendent à Khasab, à 3h de route de Dubaï, pour faire une croisière dans les fjords sur un boutre traditionnel, ce qui est l'attraction majeure de la région. Certains y accèdent également par les airs depuis Muscat. Il est donc possible de faire un aller-retour rapide depuis les Émirats par une bonne route, mais il serait dommage de ne pas visiter l'intérieur du pays. Cet itinéraire vous emmène donc sur les routes de montagne pour explorer les coins reculés de la péninsule, en évitant de revenir sur ses pas en finissant par le ferry de Limah à Shinas. Les locaux, par contre, pourront rejoindre Dibba par la route, et, qui sait, peut-être que dans l'avenir les touristes étrangers pourront aussi le faire, surtout après la construction de la nouvelle route reliant Khasabà Dibba par la côte;\nLa route goudronnée de RAK à Khasab est excellente, et la piste de Khasab à Limah est bonne également mais pentue et poussiéreuse. Elle est pourtant accessible à tous les véhicules, même les camions. Vous trouverez de nombreux coins de bivouac magnifiques, mais par contre aucun magasin ni hôtel. Khasab est le seul endroit où vous trouverez restaurants, hôtels et stations service.\nJusqu'à présent (2024), il est impossible de réserver le ferry par internet, il faut se rendre en personne au port de Khasab, Limah ou Shinas, au risque de voir le prochain ferry déjà plein."
-      }
+        "nl": "Musandam is een exclave van Oman, gescheiden van de rest van het land door de VAE. Het ligt op het puntje van een schiereiland tegenover Iran en de Straat van Hormuz. Deze bergachtige regio is in het westen verbonden door een goed geasfalteerde kustweg die naar Ras al Khaimah (RAK) in de VAE leidt. De weg van Khasab, de hoofdstad, naar Dibba in de VAE aan de oostkust is echter een (vrij goede) grindweg die door verschillende bergen loopt. Sinds 2025 is er een nieuwe grenspost waar alle toeristen van Musandam (Oman) naar de VAE en terug kunnen, maar vergeet niet om in Khasab een vergunning te halen bij het politiebureau.\nMusandam is gemakkelijk en snel te bereiken via de westelijke kustweg vanuit de VAE. De meeste bezoekers komen hier om een cruise te maken in de adembenemende fjorden in het noordelijke puntje van het schiereiland, de belangrijkste toeristische attractie van de regio. Velen vliegen ook naar Khasab vanuit Muscat, omdat de stad een eigen vliegveld heeft.\nEr is een veerdienst van Shinas naar Dibba, Limah en Khasab, wat belangrijk is omdat de steile grindweg over de berg langzaam is en onderhevig aan rotsvallen en aardverschuivingen. Dit zal veel minder nuttig zijn zodra de nieuwe weg Dibba - Limah - Khasab klaar is (nog in aanbouw in 2025).\nVanaf 2024 kunnen veerboottickets helaas niet van tevoren online worden geboekt. Passagiers moeten hun tickets persoonlijk kopen in de havens van Khasab, Limah of Shinas, met het risico dat de eerstvolgende beschikbare veerboot al volgeboekt is.",
+        "ru": "Мусандам - это эксклав Омана, отделенный от остальной части страны ОАЭ. Он расположен на оконечности полуострова, обращенного к Ирану и Ормузскому проливу. С запада этот горный регион связан хорошо асфальтированной прибрежной дорогой, ведущей в Рас-эль-Хайму (RAK) в ОАЭ. Однако дорога от столицы Хасаба до Диббы в ОАЭ на восточном побережье представляет собой (довольно хорошую) гравийную трассу, пересекающую несколько гор. С 2025 года новый пограничный пост позволяет всем туристам пересекать границу из Мусандама (Оман) в ОАЭ и обратно, но не забудьте получить разрешение на это в Хасабе, в полицейском участке.\nПопасть в Мусандам по западной прибрежной дороге из ОАЭ очень просто и быстро. Большинство туристов приезжают сюда, чтобы отправиться в круиз по потрясающим фьордам на северной оконечности полуострова, которые являются главной туристической достопримечательностью региона. Многие также прилетают в Хасаб из Маската, поскольку в городе есть собственный аэропорт.\nИз Шинаса ходит паром в Диббу, Лиму и Хасаб, что очень важно, поскольку гравийная дорога через горы очень медленная и подвержена камнепадам и обвалам. Эта дорога станет гораздо менее полезной после завершения строительства новой дороги Дибба - Лимах - Хасаб (строительство которой все еще ведется в 2025 году).\nНачиная с 2024 года, билеты на паром, к сожалению, нельзя будет забронировать заранее через интернет. Пассажиры должны покупать билеты лично в портах Хасаба, Лимы или Шинаса, рискуя при этом, что ближайший паром может быть уже полностью забронирован.",
+        "de": "Musandam ist eine Exklave des Oman, die durch die Vereinigten Arabischen Emirate vom Rest des Landes getrennt ist. Sie liegt an der Spitze einer Halbinsel gegenüber dem Iran und der Straße von Hormuz. Diese gebirgige Region ist im Westen durch eine gut ausgebaute Küstenstraße mit Ras al Khaimah (RAK) in den VAE verbunden. Die Straße von Khasab, der Hauptstadt, nach Dibba in den Vereinigten Arabischen Emiraten an der Ostküste ist jedoch eine (recht gute) Schotterpiste, die über mehrere Berge führt. Seit 2025 erlaubt ein neuer Grenzposten allen Touristen die Überfahrt von Musandam (Oman) in die VAE und zurück, aber vergessen Sie nicht, sich in Khasab auf der Polizeistation eine Genehmigung dafür zu holen.\nMusandam ist über die westliche Küstenstraße von den VAE aus leicht und schnell zu erreichen. Die meisten Besucher kommen hierher, um eine Kreuzfahrt durch die atemberaubenden Fjorde an der Nordspitze der Halbinsel zu unternehmen, die die Haupttouristenattraktion der Region darstellen. Viele fliegen auch von Muscat aus nach Khasab, da die Stadt über einen eigenen Flughafen verfügt.\nEs gibt eine Fährverbindung von Shinas nach Dibba, Limah und Khasab, was wichtig ist, da die steile Schotterstraße über das Gebirge langsam und anfällig für Steinschläge und Erdrutsche ist. Nach der Fertigstellung der neuen Straße Dibba - Limah - Khasab (2025 noch im Bau) wird dies nicht mehr so nützlich sein.\nAb 2024 können Fährtickets leider nicht mehr online im Voraus gebucht werden. Die Passagiere müssen die Tickets persönlich in den Häfen von Khasab, Limah oder Shinas kaufen, wobei die Gefahr besteht, dass die nächste verfügbare Fähre bereits ausgebucht ist.",
+        "es": "Musandam es un exclave de Omán, separado del resto del país por los EAU. Se encuentra en la punta de una península frente a Irán y el estrecho de Ormuz. Esta región montañosa está conectada al oeste por una carretera costera bien asfaltada que lleva a Ras al Khaimah (RAK), en los EAU. Sin embargo, la carretera de Jasab, la capital, a Dibba, en los EAU, en la costa oriental, es una pista de grava (bastante buena) que atraviesa varias montañas. Desde 2025, un nuevo puesto fronterizo permite a todos los turistas cruzar de Musandam (Omán) a EAU y viceversa, pero no hay que olvidar ir a pedir un permiso para ello en Khasab, en la comisaría de policía.\nEs fácil y rápido acceder a Musandam por la carretera costera occidental desde los EAU. La mayoría de los visitantes llegan aquí y realizan un crucero por los impresionantes fiordos del extremo norte de la península, que es la principal atracción turística de la región. Muchos también vuelan a Jasab desde Mascate, ya que la ciudad cuenta con su propio aeropuerto.\nHay un servicio de ferry desde Shinas a Dibba, Limah y Jasab, importante porque la carretera de grava que atraviesa la montaña es lenta y está sujeta a desprendimientos de rocas y corrimientos de tierra. Este servicio será mucho menos útil una vez finalizada la nueva carretera Dibba - Limah - Khasab (aún en construcción en 2025).\nA partir de 2024, los billetes de ferry no podrán reservarse por internet con antelación. Los pasajeros deben comprarlos en persona en los puertos de Jasab, Limah o Shinas, con el riesgo de que el siguiente ferry disponible ya esté completo.",
+        "it": "Il Musandam è un'exclave dell'Oman, separata dal resto del Paese dagli Emirati Arabi Uniti. Si trova sulla punta di una penisola di fronte all'Iran e allo Stretto di Hormuz. Questa regione montuosa è collegata a ovest da una strada costiera ben asfaltata che conduce a Ras al Khaimah (RAK) negli Emirati Arabi Uniti. Tuttavia, la strada da Khasab, la capitale, a Dibba negli Emirati Arabi Uniti, sulla costa orientale, è una pista di ghiaia (piuttosto buona) che attraversa diverse montagne. Dal 2025, un nuovo posto di frontiera permette a tutti i turisti di passare dal Musandam (Oman) agli Emirati Arabi Uniti e viceversa, ma non dimenticate di andare a prendere un permesso a Khasab, presso la stazione di polizia.\nÈ facile e veloce accedere al Musandam attraverso la strada costiera occidentale dagli Emirati Arabi Uniti. La maggior parte dei visitatori arriva qui per fare una crociera negli splendidi fiordi sulla punta settentrionale della penisola, che rappresentano la principale attrazione turistica della regione. Molti arrivano a Khasab anche in aereo da Muscat, poiché la città ha un proprio aeroporto.\nC'è un servizio di traghetti da Shinas a Dibba, Limah e Khasab, importante perché la strada di ghiaia che attraversa la montagna è lenta e soggetta a cadute di massi e frane. Questo sarà molto meno utile una volta completata la nuova strada Dibba - Limah - Khasab (ancora in costruzione nel 2025).\nA partire dal 2024, i biglietti del traghetto non potranno purtroppo essere prenotati online in anticipo. I passeggeri devono acquistare i biglietti di persona presso i porti di Khasab, Limah o Shinas, con il rischio che il prossimo traghetto disponibile sia già al completo.",
+        "pt": "Musandam é um exclave de Omã, separado do resto do país pelos Emirados Árabes Unidos. Situa-se na ponta de uma península virada para o Irão e para o Estreito de Ormuz. Esta região montanhosa está ligada a oeste por uma estrada costeira bem pavimentada que conduz a Ras al Khaimah (RAK), nos EAU. No entanto, a estrada que liga Khasab, a capital, a Dibba, nos Emirados Árabes Unidos, na costa oriental, é uma pista de gravilha (bastante boa) que atravessa várias montanhas. Desde 2025, um novo posto fronteiriço permite a todos os turistas atravessar de Musandam (Omã) para os EAU e vice-versa, mas não se esqueça de obter uma autorização para o efeito em Khasab, na esquadra da polícia.\nÉ fácil e rápido aceder a Musandam através da estrada costeira ocidental a partir dos EAU. A maioria dos visitantes vem aqui para fazer um cruzeiro nos deslumbrantes fiordes na ponta norte da península, que é a principal atração turística da região. Muitos também voam para Khasab a partir de Mascate, uma vez que a cidade tem o seu próprio aeroporto.\nExiste um serviço de ferry de Shinas para Dibba, Limah e Khasab, o que é importante, uma vez que a estrada de gravilha que atravessa a montanha é lenta e está sujeita a quedas de rochas e deslizamentos de terra. Esta estrada será muito menos útil quando a nova estrada Dibba - Limah - Khasab estiver concluída (ainda em construção, em 2025).\nInfelizmente, a partir de 2024, os bilhetes de ferry não poderão ser reservados online com antecedência. Os passageiros têm de comprar os bilhetes pessoalmente nos portos de Khasab, Limah ou Shinas, correndo o risco de o próximo ferry disponível já estar totalmente reservado.",
+        "fr": "Musandam est un exclave d'Oman, séparé du reste du pays par les Émirats. Il occupe la pointe nord de la péninsule arabique, en face du détroit d'Hormuz qui le sépare de l'Iran. Cette région montagneuse est connectée à l'ouest par une bonne route goudronnée qui suit la côte depuis Ras al Khaimah aux Émirats. L'autre route, reliant Khasab, la capitale, à Dibba aux Émirats, est une piste de montagne raide et poussiéreuse. Depuis 2025, un nouveau poste-frontière à Dibba est ouvert aussi aux touristes, et permet donc de travers intégralement la péninsule par la route. Toutefois, pour l'instant il faut encore obtenir un permis au poste de police de Khasab pour pouvoir traverser le checkpoint qui garde l'accès à la route.\nLa plupart des visiteurs se rendent à Khasab, à 3h de route de Dubaï, pour faire une croisière dans les fjords sur un boutre traditionnel, ce qui est l'attraction majeure de la région. Certains y accèdent également par les airs depuis Muscat. Il est donc possible de faire un aller-retour rapide depuis les Émirats par une bonne route, mais il serait dommage de ne pas visiter l'intérieur du pays. Cet itinéraire vous emmène donc sur les routes de montagne pour explorer les coins reculés de la péninsule. \nNotez que la nouvelle route en construction Dibba - Limah - Khasab permettra d'éviter la piste de montagne en passant le long de la côte par une série de ponts et de tunnels.\nSi vous désirez prendre le ferry, il est impossible de réserver vos billets par internet, il faut se rendre en personne au port de Khasab, Limah ou Shinas, au risque de voir le prochain ferry déjà plein."
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/54a4ac47-4479-49e6-0a38-eb70b0282e00/public",
+      "name": "Musandam",
+      "titlePhotoFSId": "GOA/5f043fa0-0e0c-4ba6-ae74-f331b84632cb.jpeg",
+      "translatedRoadConditions": {
+        "pt": "A estrada de RAK a Khasab é pavimentada e está em excelentes condições, enquanto que a estrada de gravilha de Khasab a Limah e Dibba está geralmente bem conservada e é adequada para todos os veículos, incluindo os de grande porte, embora tenha algumas secções íngremes. Existem vários locais excelentes para acampar ao longo do caminho, mas todas as instalações essenciais, como hotéis, combustível e supermercados, estão concentradas em Khasab (e Dibba).",
+        "it": "La strada da RAK a Khasab è asfaltata e in ottime condizioni, mentre la strada sterrata da Khasab a Limah e Dibba è generalmente ben tenuta e adatta a tutti i veicoli, compresi i grandi impianti, anche se presenta alcuni tratti ripidi. Lungo il percorso si trovano numerosi ottimi campeggi, ma tutte le strutture essenziali, come alberghi, carburante e supermercati, sono concentrate a Khasab (e Dibba).",
+        "fr": "La route goudronnée de RAK à Khasab est excellente, et la piste qui traverse la montagne de Khasab à Dibba est bonne également mais pentue et poussiéreuse. Elle est pourtant accessible à tous les véhicules, même les camions. Vous trouverez de nombreux coins de bivouac magnifiques, mais par contre aucun magasin ni hôtel. A part Dibba, Khasab est le seul endroit où vous trouverez restaurants, hôtels et stations service.",
+        "nl": "De weg van RAK naar Khasab is verhard en in uitstekende staat, terwijl de gravelweg van Khasab naar Limah en Dibba over het algemeen goed onderhouden is en geschikt voor alle voertuigen, inclusief grote vrachtwagens, hoewel er enkele steile stukken zijn. Er zijn onderweg veel goede kampeerplekken, maar alle essentiële voorzieningen, zoals hotels, brandstof en supermarkten, zijn geconcentreerd in Khasab (en Dibba).",
+        "ru": "Дорога от РАК до Хасаба асфальтирована и находится в отличном состоянии, а гравийная дорога от Хасаба до Лимаха и Диббы в целом хорошо отремонтирована и подходит для всех автомобилей, включая большие грузовики, хотя на ней есть крутые участки. По дороге есть множество отличных мест для кемпинга, но все основные объекты, такие как гостиницы, топливо и супермаркеты, сосредоточены в Хасабе (и Диббе).",
+        "de": "Die Straße von RAK nach Khasab ist asphaltiert und in ausgezeichnetem Zustand, während die Schotterstraße von Khasab nach Limah und Dibba im Allgemeinen gut instand gehalten wird und für alle Fahrzeuge, auch für große Trucks, geeignet ist, obwohl sie einige steile Abschnitte aufweist. Entlang der Strecke gibt es zahlreiche tolle Campingplätze, aber alle wichtigen Einrichtungen wie Hotels, Tankstellen und Supermärkte befinden sich in Khasab (und Dibba).",
+        "es": "La carretera de RAK a Khasab está asfaltada y en excelentes condiciones, mientras que la de grava de Khasab a Limah y Dibba suele estar en buen estado y es apta para todo tipo de vehículos, incluidos los grandes, aunque tiene algunos tramos empinados. Hay numerosos campings estupendos a lo largo del camino, pero todos los servicios esenciales, como hoteles, combustible y supermercados, se concentran en Jasab (y Dibba)."
+      },
+      "otherPhotoUrls": [],
+      "description": "Musandam is an exclave of Oman, separated from the rest of the country by the UAE. It lies at the tip of a peninsula facing Iran and the Strait of Hormuz. This mountainous region is connected to the west by a well-paved coastal road leading to Ras al Khaimah (RAK) in the UAE. However, the road from Khasab, the capital, to Dibba in the UAE on the East coast is a (rather good) gravel track that crosses several mountains. Since 2025, a new border post allows all tourists to cross from Musandam (Oman) to UAE and back, but don't forget to go and get a permit for it in Khasab, at the police station.\nIt is easy anD quick to access Musandam via the western coastal road from the UAE. Most visitors come here and take a cruise in the stunning fjords at the peninsula's northern tip, which is the region's main tourist attraction. Many also fly into Khasab from Muscat, as the city has its own airport.\nThere's a ferry service from Shinas to Dibba, Limah and Khasab, which is important as the precipitous, gravel road across the mountain is slow and subject to rock falls and landlsides. This will be much less useful once the new Dibba - Limah - Khasab road is completed (still in construction in 2025).\nAs of 2024, ferry tickets unfortunately cannot be booked online in advance. Passengers must purchase tickets in person at the ports in Khasab, Limah, or Shinas, with the risk that the next available ferry may already be fully booked.",
+      "isFree": false,
+      "editor": "GOA",
+      "latMax": 26.243898391723633,
+      "lastUpdate": {
+        "_seconds": 1768065040,
+        "_nanoseconds": 935000000
+      },
+      "translatedName": {
+        "ru": "Мусандам"
+      },
+      "translatedHighlights": {
+        "pt": "Conduzir junto ao mar desde RAK até Khasab.\nFazer um cruzeiro nos fiordes à volta de Khasab.\nExplorar as aldeias esquecidas no interior da península.",
+        "it": "Guidare vicino al mare da RAK a Khasab.\nFare una crociera nei fiordi intorno a Khasab.\nEsplorate i villaggi dimenticati nelle profondità della penisola.",
+        "fr": "Les fjords magnifique autour de Khasab.\nLa vie spectaculaire sur la mer.\nLes petits villages perdus dans la montagne.",
+        "nl": "Rijd vlak langs de zee van RAK naar Khasab.\nMaak een cruise in de fjorden rond Khasab.\nVerken de vergeten dorpjes diep op het schiereiland.",
+        "ru": "Поездка на автомобиле прямо к морю из РАК в Хасаб.\nОтправьтесь в круиз по фьордам вокруг Хасаба.\nИсследуйте забытые деревни в глубине полуострова.",
+        "de": "Fahren Sie direkt am Meer entlang von RAK nach Khasab.\nMachen Sie eine Kreuzfahrt durch die Fjorde um Khasab.\nErkunden Sie die vergessenen Dörfer tief im Inneren der Halbinsel.",
+        "es": "Conducir junto al mar desde RAK hasta Jasab.\nHacer un crucero por los fiordos que rodean Jasab.\nExplorar los pueblos olvidados del interior de la península."
+      },
+      "highlights": "Driving right next to the sea from RAK to Khasab.\nTake a cruise in the fjords around Khasab.\nExplore the forgotten villages deep inside the peninsula.",
+      "itineraryId": "Om1",
+      "roadConditions": "The road from RAK to Khasab is paved and in excellent condition, while the gravel road from Khasab to Limah and Dibba is generally well-maintained and suitable for all vehicles, including big rigs, though it has some steep sections. There are numerous great camping spots along the way, but all essential facilities, such as hotels, fuel, and supermarkets, are concentrated in Khasab (and Dibba).",
+      "latMin": 25.83473014831543,
+      "titlePhotoId": "54a4ac47-4479-49e6-0a38-eb70b0282e00",
+      "center_geohash": "thxupkkfn",
+      "lonMin": 56.01552963256836
     },
     {
       "id": "CfeLpjB1tETBnQKFzFiq",
@@ -1194,44 +1242,44 @@
     },
     {
       "id": "EjPPQTQ2lS5o9Q5WFg6X",
-      "center": {
-        "_latitude": 20.45565128326416,
-        "_longitude": 58.78878593444824
-      },
-      "center_geohash": "t79u3gbdy",
-      "createdAt": {
-        "_seconds": 1737284776,
-        "_nanoseconds": 473000000
-      },
-      "description": "Masirah is a stunning island that’s easily accessible via a short ferry ride. If you’re drawn to desert-like landscapes, vast white-sand beaches, turquoise waters, and intriguing shipwrecks, you’ll fall in love with this island.\nThe east coast, which faces the ocean, boasts diverse scenery and superb beaches perfect for swimming and snorkeling. In contrast, the west coast, facing the mainland, features more monotonous landscapes and less inviting beaches for swimming (however it’s a paradise for kite surfers). Note that there are often quite a bit of trash on the beaches, as often in Oman.\nMasirah is well-known for its thriving fishing industry. Along its beaches, you’ll often see fishermen, especially in the evening when they return from the sea. If you meet them at dusk, you might be able to buy fresh fish or even lobster (crawfish) straight from their catch.\nCamping spots abound on the island, so it’d be futile to list them all. That said, we’ll mention a few favorites.\nMasirah has just one main road that circles the island, along with a second paved road that crosses it at the midpoint. These roads are all well-maintained and suitable for any type of vehicle. To add some adventure, we suggest two off-road detours that take you away from the main route. Be cautious, however, when driving to the beaches—loose sand can easily trap a vehicle.\nTraffic on the island is minimal, except perhaps in Hilf, the main town. Even if you choose to camp near the road, it will likely be quiet at night.\nYou can explore the island’s itinerary in either direction; there’s no preferred route.",
-      "difficulty": 0,
-      "editor": "GOA",
-      "fuelRange": 150,
-      "isFree": false,
       "itineraryId": "Om15",
+      "lonMin": 58.633323669433594,
+      "titlePhotoId": "6cff76bb-1759-43d3-d604-78fd7f3ac100",
+      "center_geohash": "t79u3gbdy",
+      "latMin": 20.162076950073242,
+      "description": "Masirah is a stunning island that’s easily accessible via a short ferry ride. If you’re drawn to desert-like landscapes, vast white-sand beaches, turquoise waters, and intriguing shipwrecks, you’ll fall in love with this island.\nThe east coast, which faces the ocean, boasts diverse scenery and superb beaches perfect for swimming and snorkeling. In contrast, the west coast, facing the mainland, features more monotonous landscapes and less inviting beaches for swimming (however it’s a paradise for kite surfers). Note that there are often quite a bit of trash on the beaches, as often in Oman.\nMasirah is well-known for its thriving fishing industry. Along its beaches, you’ll often see fishermen, especially in the evening when they return from the sea. If you meet them at dusk, you might be able to buy fresh fish or even lobster (crawfish) straight from their catch.\nCamping spots abound on the island, so it’d be futile to list them all. That said, we’ll mention a few favorites.\nMasirah has just one main road that circles the island, along with a second paved road that crosses it at the midpoint. These roads are all well-maintained and suitable for any type of vehicle. To add some adventure, we suggest two off-road detours that take you away from the main route. Be cautious, however, when driving to the beaches—loose sand can easily trap a vehicle.\nTraffic on the island is minimal, except perhaps in Hilf, the main town. Even if you choose to camp near the road, it will likely be quiet at night.\nYou can explore the island’s itinerary in either direction; there’s no preferred route.",
+      "otherPhotoUrls": [],
+      "name": "Masirah",
+      "titlePhotoFSId": "GOA/3c5d7f5e-0da9-4958-95b7-5d8c2f861bc3.jpeg",
+      "editor": "GOA",
+      "latMax": 20.749225616455078,
       "lastUpdate": {
         "_seconds": 1738053864,
         "_nanoseconds": 191000000
       },
-      "latMax": 20.749225616455078,
-      "latMin": 20.162076950073242,
-      "lengthDays": 2,
+      "isFree": false,
+      "fuelRange": 150,
       "lengthKM": 145.4,
       "lonMax": 58.94424819946289,
-      "lonMin": 58.633323669433594,
-      "lovesCount": 0,
-      "name": "Masirah",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/3c5d7f5e-0da9-4958-95b7-5d8c2f861bc3.jpeg",
-      "titlePhotoId": "6cff76bb-1759-43d3-d604-78fd7f3ac100",
+      "lengthDays": 2,
       "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/6cff76bb-1759-43d3-d604-78fd7f3ac100/public",
+      "translatedDesc": {
+        "fr": "Masirah est une île superbe pour qui aime les paysages désertiques, les eaux turquoises, les immenses plages de sable blanc... et les épaves de bateau !\nLa côte est (côté océan indien) possède des paysages varies avec des plages de sable blanc immenses, des criques entourées de rochers noirs propices à la baignade et au snorkeling, une eau turquoise, des coquillages magnifiques.\nLa côte ouest possède un relief moins accidenté, une côte plus vaseuse. Elle est plus favorable au kitesurf mais moins esthétique.  Notez que les plages sont souvent encombrées de déchets, quoique peut-être un peu moins qu'ailleurs à Oman.\nL'île est désertique, la seule ville est Hilf, où l'on arrive avec le ferry. Vous ne trouverez aucun point de ravitaillement en dehors de la ville, hormis un restaurant au campement des kite surfeurs. Mais vous pourrez toujours acheter du poisson à un pêcheur n'importe où sur la côte. Ils sont plus nombreux dans la partie sud et ouest de l'île.\nEn saison (printemps - été), vous pourrez avec un peu de chance observer des tortues qui viennent pondre sur la plage. Dans les rochers vous verrez de magnifiques poissons, des oursins, des étoiles de mer et des coraux en tout genre. L'été est propice au kitesurf sur la côte est. \nMasirah est connue pour ses fonds poissonneux, d'ailleurs vous verrez souvent des bâteaux de pêcheurs sur les plages. Masirah est aussi célèbre pour ses ses boutres, les bateaux traditionnels en bois avec des voiles en trapèze, originaires de l'océan indien. Évidemment aujourd'hui ces bateaux naviguent uniquement au moteur. Vous pourrez aussi observer des navires échoués tout le long des côtes. \nMasirah a été occupée depuis le néolithique au moins. Les populations anciennes ont laissé des traces discrètes comme des amas de coquillage. Depuis plus de 4 millénaires le minerais de cuivre est exploité, et on a retrouvé des objets en cuivre de Masirah jusqu'en Mésopotamie. \nLa route qui fait le tour de l'île est en très bon état, et entièrement goudronnée. Un 4x4 n'est nécessaire que pour aller camper sur les plages où le sable est souvent profond.\nLes horaires du ferry sont variables en fonction de la météo. Malheureusement il est toujours impossible de réserver par internet, il faut se rendre au port pour acheter son billet, comptez 17 OMR pour une voiture et deux personnes (aller simple)."
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lovesCount": 0,
+      "difficulty": 0,
+      "center": {
+        "_latitude": 20.45565128326416,
+        "_longitude": 58.78878593444824
+      },
       "trackIds": [
         "T429bBpKqyB8s37TCluj",
         "3BOKsDVPb8fCK8EKXesB"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Masirah est une île superbe pour qui aime les paysages désertiques, les eaux turquoises, les immenses plages de sable blanc... et les épaves de bateau !\nLa côte est (côté océan indien) possède des paysages varies avec des plages de sable blanc immenses, des criques entourées de rochers noirs propices à la baignade et au snorkeling, une eau turquoise, des coquillages magnifiques.\nLa côte ouest possède un relief moins accidenté, une côte plus vaseuse. Elle est plus favorable au kitesurf mais moins esthétique.  Notez que les plages sont souvent encombrées de déchets, quoique peut-être un peu moins qu'ailleurs à Oman.\nL'île est désertique, la seule ville est Hilf, où l'on arrive avec le ferry. Vous ne trouverez aucun point de ravitaillement en dehors de la ville, hormis un restaurant au campement des kite surfeurs. Mais vous pourrez toujours acheter du poisson à un pêcheur n'importe où sur la côte. Ils sont plus nombreux dans la partie sud et ouest de l'île.\nEn saison (printemps - été), vous pourrez avec un peu de chance observer des tortues qui viennent pondre sur la plage. Dans les rochers vous verrez de magnifiques poissons, des oursins, des étoiles de mer et des coraux en tout genre. L'été est propice au kitesurf sur la côte est. \nMasirah est connue pour ses fonds poissonneux, d'ailleurs vous verrez souvent des bâteaux de pêcheurs sur les plages. Masirah est aussi célèbre pour ses ses boutres, les bateaux traditionnels en bois avec des voiles en trapèze, originaires de l'océan indien. Évidemment aujourd'hui ces bateaux naviguent uniquement au moteur. Vous pourrez aussi observer des navires échoués tout le long des côtes. \nMasirah a été occupée depuis le néolithique au moins. Les populations anciennes ont laissé des traces discrètes comme des amas de coquillage. Depuis plus de 4 millénaires le minerais de cuivre est exploité, et on a retrouvé des objets en cuivre de Masirah jusqu'en Mésopotamie. \nLa route qui fait le tour de l'île est en très bon état, et entièrement goudronnée. Un 4x4 n'est nécessaire que pour aller camper sur les plages où le sable est souvent profond.\nLes horaires du ferry sont variables en fonction de la météo. Malheureusement il est toujours impossible de réserver par internet, il faut se rendre au port pour acheter son billet, comptez 17 OMR pour une voiture et deux personnes (aller simple)."
+      "createdAt": {
+        "_seconds": 1737284776,
+        "_nanoseconds": 473000000
       }
     },
     {
@@ -1338,47 +1386,47 @@
     },
     {
       "id": "FqHHOqE2qFv4q7hIukGC",
-      "center": {
-        "_latitude": 22.940178871154785,
-        "_longitude": 59.10584259033203
-      },
-      "center_geohash": "tk448bps1",
       "createdAt": {
         "_seconds": 1737212227,
         "_nanoseconds": 433000000
       },
-      "description": "The northeast coast between Muscat and Sur is a fantastic region to explore, offering a mix of scenic wadis and beautiful beaches—most of which are easily accessible. As you drive along the main road, you can choose your detours: head toward the sea for a swim or venture into the mountains to discover the area's many wadis. Some are famous and attract many visitors, such as Wadi Al Arbiyyin, others are very quiet, but no less picturesque, such as Wadi Shab.\nMost of the route is accessible to all vehicles, including big rigs, and any challenging roads—such as the steep final climb to Wadi Tiwi—are noted accordingly.",
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "trackIds": [
+        "eMnMHuaNmzqeRLRYwHZt"
+      ],
       "difficulty": 0,
-      "editor": "GOA",
+      "center": {
+        "_latitude": 22.940178871154785,
+        "_longitude": 59.10584259033203
+      },
+      "lovesCount": 0,
+      "translatedDesc": {
+        "fr": "La côte nord-est entre Muscat et Sur est connue pour ses belles plages et ses wadis, la plupart faciles d'accès. Tout au long de cette route vous choisirez vos détours, soit côté mer vers une belle plage pour vous baigner, soit côté montagne vers un beau wadi pour une balade, et vous baigner également ! Certaines destinations sont très fréquentées, comme Wadi Al Arbiyyin, d'autres sont beaucoup plus tranquilles, comme Wadi Shab. Le gouffre de Bimmah est peut-être l'endroit le plus touristique, quoique pas le plus intéressant.\nCet itinéraire est facile, accessible à tous véhicules, y compris les camions, et quand ce n'est pas le cas c'est mentionné dans le descriptif, comme par exemple la montée vers Wadi Tiwi."
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/2454089b-76e3-4a84-09e5-884e2df64a00/public",
+      "lengthKM": 76.9,
       "fuelRange": 100,
+      "lengthDays": 2,
+      "lonMax": 59.26099395751953,
+      "translatedName": {
+        "fr": "Wadis et plages"
+      },
       "isFree": false,
-      "itineraryId": "Om13",
+      "latMax": 23.10793113708496,
       "lastUpdate": {
         "_seconds": 1738143505,
         "_nanoseconds": 480000000
       },
-      "latMax": 23.10793113708496,
-      "latMin": 22.77242660522461,
-      "lengthDays": 2,
-      "lengthKM": 76.9,
-      "lonMax": 59.26099395751953,
-      "lonMin": 58.95069122314453,
-      "lovesCount": 0,
+      "editor": "GOA",
+      "description": "The northeast coast between Muscat and Sur is a fantastic region to explore, offering a mix of scenic wadis and beautiful beaches—most of which are easily accessible. As you drive along the main road, you can choose your detours: head toward the sea for a swim or venture into the mountains to discover the area's many wadis. Some are famous and attract many visitors, such as Wadi Al Arbiyyin, others are very quiet, but no less picturesque, such as Wadi Shab.\nMost of the route is accessible to all vehicles, including big rigs, and any challenging roads—such as the steep final climb to Wadi Tiwi—are noted accordingly.",
+      "titlePhotoFSId": "GOA/e64a747f-fc63-4d46-a353-48a85b717d43.jpeg",
       "name": "Wadis and Beaches",
       "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/e64a747f-fc63-4d46-a353-48a85b717d43.jpeg",
+      "center_geohash": "tk448bps1",
       "titlePhotoId": "2454089b-76e3-4a84-09e5-884e2df64a00",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/2454089b-76e3-4a84-09e5-884e2df64a00/public",
-      "trackIds": [
-        "eMnMHuaNmzqeRLRYwHZt"
-      ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "La côte nord-est entre Muscat et Sur est connue pour ses belles plages et ses wadis, la plupart faciles d'accès. Tout au long de cette route vous choisirez vos détours, soit côté mer vers une belle plage pour vous baigner, soit côté montagne vers un beau wadi pour une balade, et vous baigner également ! Certaines destinations sont très fréquentées, comme Wadi Al Arbiyyin, d'autres sont beaucoup plus tranquilles, comme Wadi Shab. Le gouffre de Bimmah est peut-être l'endroit le plus touristique, quoique pas le plus intéressant.\nCet itinéraire est facile, accessible à tous véhicules, y compris les camions, et quand ce n'est pas le cas c'est mentionné dans le descriptif, comme par exemple la montée vers Wadi Tiwi."
-      },
-      "translatedName": {
-        "fr": "Wadis et plages"
-      }
+      "lonMin": 58.95069122314453,
+      "latMin": 22.77242660522461,
+      "itineraryId": "Om13"
     },
     {
       "id": "GIDDXy37RbdRVPVAMGWe",
@@ -1931,86 +1979,86 @@
     },
     {
       "id": "KnctB9tikopHbIfrilxV",
-      "center": {
-        "_latitude": 23.334531784057617,
-        "_longitude": 57.28963088989258
-      },
-      "center_geohash": "tk0sxxvj9",
       "createdAt": {
         "_seconds": 1737104771,
         "_nanoseconds": 739000000
       },
-      "description": "Wadi Sahtan is a great destination not far from Muscat. It forms a large bowl where there are many roads and villages to explore. The highlight is to reach Yasib through a very steep road cut into the face of a cliff. Very impressive. The surface is gravel but in good shape, so it is accessible to any vehicle, although big rigs should be prepared for steep, tight turns. Going down, the heavy vehicles must be sure to use power braking so as not to overheat their brakes.\nThe other attrraction is an excellent camp spot with stunning view on Jebel Shams at sunrise.\nYou can mix this route with [Snake Canyon](::Om5) which linked by a good track, and soon [Jebel Shams](::Om7) although the road has been under construction for some time.",
-      "difficulty": 2,
-      "editor": "GOA",
-      "fuelRange": 80,
-      "isFree": false,
-      "itineraryId": "Om10",
-      "lastUpdate": {
-        "_seconds": 1738143780,
-        "_nanoseconds": 390000000
-      },
-      "latMax": 23.41050910949707,
-      "latMin": 23.258554458618164,
-      "lengthDays": 1,
-      "lengthKM": 35.7,
-      "lonMax": 57.35065841674805,
-      "lonMin": 57.22860336303711,
-      "lovesCount": 0,
-      "name": "Wadi Sahtan",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/790a519e-956d-4ae8-970f-5efd4834ce31.jpeg",
-      "titlePhotoId": "75be0601-d351-431b-458a-232dc9c0d800",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/75be0601-d351-431b-458a-232dc9c0d800/public",
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
       "trackIds": [
         "K5TRI1YgWyrngUjDDdfg",
         "RX1JDDrYyYlk8t8fuQBo"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lovesCount": 0,
+      "difficulty": 2,
+      "center": {
+        "_latitude": 23.334531784057617,
+        "_longitude": 57.28963088989258
+      },
       "translatedDesc": {
         "fr": "Wadi Sahtan est une magnifique destination non loin de Muscat. Le wadi forme une large cuvette où l'on trouve de nombreuses pistes et villages à explorer. Le clou est la montée vers Yasib par une piste très raide construite dans la falaise. La piste est non goudronnée mais en bon état, donc elle est accessible à tous les véhicules, sauf peut-être les camions qui devront négocier des virages serrés avec des fortes pentes.\nL'autre attrait est la vue exceptionnelle sur le Jebel Shams, surtout au lever du soleil. Vous pouvez enchaîner cet itinéraire et le [Snake Canyon](::Om5) en prenant une bonne piste, et bientôt on pourra même continuer vers [Jebel Shams](::Om7), quoique la route soit en construction depuis quelque temps."
-      }
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/75be0601-d351-431b-458a-232dc9c0d800/public",
+      "fuelRange": 80,
+      "lengthKM": 35.7,
+      "lonMax": 57.35065841674805,
+      "lengthDays": 1,
+      "isFree": false,
+      "editor": "GOA",
+      "latMax": 23.41050910949707,
+      "lastUpdate": {
+        "_seconds": 1738143780,
+        "_nanoseconds": 390000000
+      },
+      "description": "Wadi Sahtan is a great destination not far from Muscat. It forms a large bowl where there are many roads and villages to explore. The highlight is to reach Yasib through a very steep road cut into the face of a cliff. Very impressive. The surface is gravel but in good shape, so it is accessible to any vehicle, although big rigs should be prepared for steep, tight turns. Going down, the heavy vehicles must be sure to use power braking so as not to overheat their brakes.\nThe other attrraction is an excellent camp spot with stunning view on Jebel Shams at sunrise.\nYou can mix this route with [Snake Canyon](::Om5) which linked by a good track, and soon [Jebel Shams](::Om7) although the road has been under construction for some time.",
+      "name": "Wadi Sahtan",
+      "titlePhotoFSId": "GOA/790a519e-956d-4ae8-970f-5efd4834ce31.jpeg",
+      "otherPhotoUrls": [],
+      "titlePhotoId": "75be0601-d351-431b-458a-232dc9c0d800",
+      "center_geohash": "tk0sxxvj9",
+      "lonMin": 57.22860336303711,
+      "latMin": 23.258554458618164,
+      "itineraryId": "Om10"
     },
     {
       "id": "Kr7KyZshm35kenoV26br",
-      "center": {
-        "_latitude": 22.738513946533203,
-        "_longitude": 59.131046295166016
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/4856dde5-7ebe-4e03-fb6b-d9097c2d1800/public",
+      "translatedDesc": {
+        "fr": "Cette petite excursion depuis l'[itinéraire 11](::Om11) est un aller-retour sur une des routes les plus isolées d'Oman, pour aller visiter un village abandonné (?) niché au fond de Wadi Tiwi. Attention toutefois, la route est si raide (20 - 25%) qu'elle pourrait être dangereuse si vous ne maîtrisez pas parfaitement votre véhicule. Heureusement, les passages critiques sont bétonnés, mais de toute façon il est préférable d'y aller en 4x4 ou avec une bonne moto. Les camions en tout cas ne devraient jamais s'y aventurer, ni les camping-cars.\nVous trouverez un excellent coin de bivouac dans un petit vallon si vous voulez y passer la nuit."
       },
-      "center_geohash": "tk413e3vm",
+      "fuelRange": 20,
+      "lengthKM": 8.8,
+      "lonMax": 59.15938186645508,
+      "lengthDays": 1,
       "createdAt": {
         "_seconds": 1737127197,
         "_nanoseconds": 59000000
       },
-      "description": "This short trip takes one of the most remote road in Oman to reach an abandoned (?) village nested at the bottom of Wadi Tiwi. The road is so steep (20-25%) that it could be dangerous if you don't know very well your vehicle. Fortunately, the steepest parts are paved, but it still preferrable to drive it with a 4WD car, or a powerful motorbike. Big rigs and campers should in no case venture there.\nThere is an excellent camp spot near the bottom to spend the night.",
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lovesCount": 0,
       "difficulty": 2,
-      "editor": "GOA",
-      "fuelRange": 20,
-      "isFree": false,
+      "center": {
+        "_latitude": 22.738513946533203,
+        "_longitude": 59.131046295166016
+      },
+      "trackIds": [
+        "P0Jbcbvg0uLnw1ZXhiJY"
+      ],
+      "lonMin": 59.10271072387695,
+      "titlePhotoId": "4856dde5-7ebe-4e03-fb6b-d9097c2d1800",
+      "center_geohash": "tk413e3vm",
+      "latMin": 22.728139877319336,
       "itineraryId": "Om12",
+      "editor": "GOA",
+      "latMax": 22.74888801574707,
       "lastUpdate": {
         "_seconds": 1738143572,
         "_nanoseconds": 611000000
       },
-      "latMax": 22.74888801574707,
-      "latMin": 22.728139877319336,
-      "lengthDays": 1,
-      "lengthKM": 8.8,
-      "lonMax": 59.15938186645508,
-      "lonMin": 59.10271072387695,
-      "lovesCount": 0,
-      "name": "Wadi Tiwi top",
+      "isFree": false,
+      "description": "This short trip takes one of the most remote road in Oman to reach an abandoned (?) village nested at the bottom of Wadi Tiwi. The road is so steep (20-25%) that it could be dangerous if you don't know very well your vehicle. Fortunately, the steepest parts are paved, but it still preferrable to drive it with a 4WD car, or a powerful motorbike. Big rigs and campers should in no case venture there.\nThere is an excellent camp spot near the bottom to spend the night.",
       "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/c8ed16ff-6018-4d49-8b7d-9e73b413eae0.jpeg",
-      "titlePhotoId": "4856dde5-7ebe-4e03-fb6b-d9097c2d1800",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/4856dde5-7ebe-4e03-fb6b-d9097c2d1800/public",
-      "trackIds": [
-        "P0Jbcbvg0uLnw1ZXhiJY"
-      ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Cette petite excursion depuis l'[itinéraire 11](::Om11) est un aller-retour sur une des routes les plus isolées d'Oman, pour aller visiter un village abandonné (?) niché au fond de Wadi Tiwi. Attention toutefois, la route est si raide (20 - 25%) qu'elle pourrait être dangereuse si vous ne maîtrisez pas parfaitement votre véhicule. Heureusement, les passages critiques sont bétonnés, mais de toute façon il est préférable d'y aller en 4x4 ou avec une bonne moto. Les camions en tout cas ne devraient jamais s'y aventurer, ni les camping-cars.\nVous trouverez un excellent coin de bivouac dans un petit vallon si vous voulez y passer la nuit."
-      }
+      "name": "Wadi Tiwi top",
+      "titlePhotoFSId": "GOA/c8ed16ff-6018-4d49-8b7d-9e73b413eae0.jpeg"
     },
     {
       "id": "L3HbwThxeMDmGn0OLbdd",
@@ -2165,38 +2213,9 @@
     },
     {
       "id": "O18M3G86wMbWkB6yDX6R",
-      "center": {
-        "_latitude": 23.17306137084961,
-        "_longitude": 57.205976486206055
-      },
-      "center_geohash": "tk0evf80g",
-      "createdAt": {
-        "_seconds": 1737052046,
-        "_nanoseconds": 707000000
-      },
       "description": "This scenic drive winds through a narrow gorge, following the course of a wadi. Much of the road lies in the riverbed, so avoid taking this route if there is any chance of rain. The journey is slow, requiring navigation through shallow puddles and over river rocks. While 4WD is not essential, a vehicle with high clearance is a must. The narrow road is unsuitable for large rigs, and motorcyclists should be ready to handle loose gravel.\nCamping in the wadi is possible if the weather is good, and next to the track, which isn't a problem as nobody drives there during the night.\nThe highlight of this route is the challenging hike to a hidden cave, which contains a pool of crystal-clear water—a rewarding find for intrepid explorers.",
-      "difficulty": 2,
-      "editor": "GOA",
-      "fuelRange": 20,
-      "isFree": false,
-      "itineraryId": "Om8",
-      "lastUpdate": {
-        "_seconds": 1738145088,
-        "_nanoseconds": 5000000
-      },
-      "latMax": 23.199373245239258,
-      "latMin": 23.14674949645996,
-      "lengthDays": 1,
-      "lengthKM": 7.6,
-      "lonMax": 57.21318054199219,
-      "lonMin": 57.19877243041992,
-      "lovesCount": 0,
       "name": "Wadi Nakhur",
-      "otherPhotoFSIds": [
-        "GOA/27f2e557-d233-4c6f-beeb-f2a7aa31c31d.jpeg",
-        "GOA/f5f8d9c0-21d2-43cd-92c6-30046605847a.jpeg",
-        "GOA/50af9ad6-31cc-40b4-837e-8103920063fe.jpeg"
-      ],
+      "titlePhotoFSId": "GOA/d7415f6b-abe6-4c92-83fc-719881b143ca.jpeg",
       "otherPhotoIds": [
         "230ad9c2-0d64-499d-2206-fc5b3ad50400",
         "69b3633f-1cbf-47c4-a791-78b29d124600",
@@ -2207,112 +2226,141 @@
         "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/GOA/Fh1H3yWIttiixo79a0Xp/69b3633f-1cbf-47c4-a791-78b29d124600.jpg/public",
         "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/GOA/Fh1H3yWIttiixo79a0Xp/d167e9c4-38ef-4d20-7504-b9dab4435200.jpg/public"
       ],
-      "titlePhotoFSId": "GOA/d7415f6b-abe6-4c92-83fc-719881b143ca.jpeg",
+      "isFree": false,
+      "editor": "GOA",
+      "latMax": 23.199373245239258,
+      "lastUpdate": {
+        "_seconds": 1738145088,
+        "_nanoseconds": 5000000
+      },
+      "itineraryId": "Om8",
       "titlePhotoId": "0dcbcec9-0b52-4c64-4918-19ff15b84f00",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/0dcbcec9-0b52-4c64-4918-19ff15b84f00/public",
+      "center_geohash": "tk0evf80g",
+      "lonMin": 57.19877243041992,
+      "otherPhotoFSIds": [
+        "GOA/27f2e557-d233-4c6f-beeb-f2a7aa31c31d.jpeg",
+        "GOA/f5f8d9c0-21d2-43cd-92c6-30046605847a.jpeg",
+        "GOA/50af9ad6-31cc-40b4-837e-8103920063fe.jpeg"
+      ],
+      "latMin": 23.14674949645996,
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
       "trackIds": [
         "RcuZP7XYddG1VFaVva8J"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lovesCount": 0,
+      "difficulty": 2,
+      "center": {
+        "_latitude": 23.17306137084961,
+        "_longitude": 57.205976486206055
+      },
+      "createdAt": {
+        "_seconds": 1737052046,
+        "_nanoseconds": 707000000
+      },
+      "fuelRange": 20,
+      "lengthKM": 7.6,
+      "lonMax": 57.21318054199219,
+      "lengthDays": 1,
       "translatedDesc": {
         "fr": "Wadi Nakhur se situe au pied de Jebel Shams, une gorge très étroite au find de laquelle on trouve 2 villages, dont un abandonné. Une piste tracée dans le lit de la rivière permet d'y accéder. Par temps sec, on roule dans les galets et de petites mares, mais si le temps est à l'orage, bien entendu que l'endroit peut être très vite noyé sous la rivière, donc faites bien attention à la météo. Cette piste n'est pas adaptée aux camions ni aux camping-cars, et les motards doivent être prêts à rouler dans les galets et le gravier. Vous pouvez camper dans le wadi, même à côté de la piste, car personne ne l'emprunte la nuit; mais de nouveau, prenez garde à la météo.\nLe parcours dans la gorge est spectaculaire et agréable, mais le clou de l'itinéraire est la balade à pied qui mène depuis la fin de la piste vers une grotte où se niche une vasque d'eau cristalline."
-      }
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/0dcbcec9-0b52-4c64-4918-19ff15b84f00/public"
     },
     {
       "id": "O7VyUxjaXk2Qvm3gM76E",
-      "center": {
-        "_latitude": 23.214540481567383,
-        "_longitude": 57.40590286254883
+      "translatedDesc": {
+        "fr": "Cet itinéraire suit une des rares routes qui traverse les [montagnes Al-Hajar](?Oman Geology), l’épine dorsale rocheuse d’Oman. Vous découvrirez des paysages d’une beauté brute et contrastée. Ici, les reliefs sont puissants : la montagne qui culmine à 3000m est découpée par des canyons étroits et profonds. De hautes parois calcaires, abruptes et striées de couches géologiques, dominent les wadis aux eaux turquoises. La végétation est rare et adaptée à la sécheresse : acacias tordus, buissons épineux et quelques touffes d’herbes arides. Mais dès que l’eau est présente, comme au fond des wadis ou près des sources, apparaissent des poches de verdure éclatante composées de palmiers-dattiers et de cultures en terrasses. Le contraste entre la rudesse minérale et l’aridité des versants et la richesse des vallées irriguées et saisissante. \nAttention : au fond des canyons les crues peuvent être soudaines et d’une extrême violence (flash flood). Il est absolument déconseillé de camper au fond des rivières par temps orageux car l’eau peut monter brutalement même si l’orage est tombé plusieurs kilomètres en amont. Les fortes crues arrivent en général en hiver et au début du printemps (décembre à avril) lors des passages de dépressions méditerranéennes (`i`Al-Wasmi`), apportant des pluies modérées à fortes, ou en été (juin à septembre) quand le khareef (mousson du sud) et surtout les orages convectifs liés à la chaleur génèrent des averses intenses en fin d’après-midi.\nGénéralement les pistes qui traversent ce massif sont spectaculaires. Etroites, elles grimpent en lacets  très raides. Des panneaux annoncent que seuls les véhicules équipées de 4 roues motrices sont autorisés et la petite vitesse est fortement conseillée. Sur cet itinéraire, la route est goudronnée sur la première partie du parcours et la piste qui suit est plutôt bonne mais étroite. Il faut être prudent dans les passages particulièrement raides."
       },
-      "center_geohash": "tk0u461dw",
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/580224f1-7e69-4b36-592d-1a998e370d00/public",
+      "lengthDays": 1,
+      "lonMax": 57.49330139160156,
+      "lengthKM": 59.8,
+      "fuelRange": 100,
       "createdAt": {
         "_seconds": 1737044313,
         "_nanoseconds": 808000000
       },
-      "description": "This route follows one of the rare roads that cross the [Al Hajar Mountains](?Oman Geology), the rocky backbone of Oman. You will discover landscapes of raw and striking beauty. Here, the relief is powerful: the mountains, reaching up to 3,000 m, are carved by narrow and deep canyons (see geology insert). Towering limestone cliffs, sheer and striated with geological layers, rise above wadis with turquoise waters. Vegetation is scarce and adapted to aridity: twisted acacias, thorny bushes, and a few clumps of dry grasses. But wherever water is present—at the bottom of wadis or near springs—bright green pockets appear, made up of date palms and terraced crops. The contrast between the stark, mineral harshness of the slopes and the lushness of the irrigated valleys is striking.\n⚠️ Caution: At the bottom of canyons, floods can be sudden and extremely violent (flash floods). Camping in riverbeds during stormy weather is strongly discouraged, as water levels can rise abruptly—even if the storm has fallen several kilometers upstream. Major floods usually occur in winter and early spring (December to April), during the passage of Mediterranean depressions (`i`Al-Wasmi`), which bring moderate to heavy rains, or in summer (June to September), when the khareef (southern monsoon) and especially heat-driven convective storms generate intense late-afternoon downpours.\nWhile the road is paved for the first few kilometers, the majority is a well-maintained gravel track suitable for all vehicles. However, drivers should be cautious of the steep inclines along the way.",
-      "difficulty": 1,
-      "editor": "GOA",
-      "fuelRange": 100,
-      "highlights": "Thrilling roads and breathtaking mountain landscapes with deep canyons.\nSplendid turquoise-green pools perfect for swimming.\nThe picturesque village of [Bald Sayt](:::8), nestled in a lush setting.\nHiking trails and canyoning routes offering adventurous experiences in nature.\nWadis lined with date palms and fed by [aflaj](?Aflaj), a legacy of Oman’s ancestral traditions.\n",
-      "isFree": true,
-      "itineraryId": "Om5",
-      "lastUpdate": {
-        "_seconds": 1756828482,
-        "_nanoseconds": 198000000
-      },
-      "latMax": 23.342172622680664,
-      "latMin": 23.0869083404541,
-      "lengthDays": 1,
-      "lengthKM": 59.8,
-      "lonMax": 57.49330139160156,
-      "lonMin": 57.318504333496094,
-      "lovesCount": 0,
-      "name": "Snake canyon",
-      "otherPhotoUrls": [],
-      "roadConditions": "While the road is paved for the first few kilometers, the rest is a well-maintained gravel track which is no problem for high-clearance vehicles and motorcycles. However, big rigs, campers and normal cars should turn back after reaching [Wadi Bani Awf](:::9). The climb to the pass that follows is steep and rocky, be cautious.",
-      "titlePhotoCaption": "Gravel road in Snake Canyon.",
-      "titlePhotoFSId": "GOA/d44161a5-7501-4100-ab1a-97d099ab001c.jpeg",
-      "titlePhotoId": "580224f1-7e69-4b36-592d-1a998e370d00",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/580224f1-7e69-4b36-592d-1a998e370d00/public",
       "trackIds": [
         "g2gs605AFonu3Gu7mk8p",
         "xJSoKxNRlK0VVbFZJHqf"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Cet itinéraire suit une des rares routes qui traverse les [montagnes Al-Hajar](?Oman Geology), l’épine dorsale rocheuse d’Oman. Vous découvrirez des paysages d’une beauté brute et contrastée. Ici, les reliefs sont puissants : la montagne qui culmine à 3000m est découpée par des canyons étroits et profonds. De hautes parois calcaires, abruptes et striées de couches géologiques, dominent les wadis aux eaux turquoises. La végétation est rare et adaptée à la sécheresse : acacias tordus, buissons épineux et quelques touffes d’herbes arides. Mais dès que l’eau est présente, comme au fond des wadis ou près des sources, apparaissent des poches de verdure éclatante composées de palmiers-dattiers et de cultures en terrasses. Le contraste entre la rudesse minérale et l’aridité des versants et la richesse des vallées irriguées et saisissante. \nAttention : au fond des canyons les crues peuvent être soudaines et d’une extrême violence (flash flood). Il est absolument déconseillé de camper au fond des rivières par temps orageux car l’eau peut monter brutalement même si l’orage est tombé plusieurs kilomètres en amont. Les fortes crues arrivent en général en hiver et au début du printemps (décembre à avril) lors des passages de dépressions méditerranéennes (`i`Al-Wasmi`), apportant des pluies modérées à fortes, ou en été (juin à septembre) quand le khareef (mousson du sud) et surtout les orages convectifs liés à la chaleur génèrent des averses intenses en fin d’après-midi.\nGénéralement les pistes qui traversent ce massif sont spectaculaires. Etroites, elles grimpent en lacets  très raides. Des panneaux annoncent que seuls les véhicules équipées de 4 roues motrices sont autorisés et la petite vitesse est fortement conseillée. Sur cet itinéraire, la route est goudronnée sur la première partie du parcours et la piste qui suit est plutôt bonne mais étroite. Il faut être prudent dans les passages particulièrement raides."
+      "difficulty": 1,
+      "center": {
+        "_latitude": 23.214540481567383,
+        "_longitude": 57.40590286254883
       },
+      "lovesCount": 0,
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "latMin": 23.0869083404541,
+      "roadConditions": "While the road is paved for the first few kilometers, the rest is a well-maintained gravel track which is no problem for high-clearance vehicles and motorcycles. However, big rigs, campers and normal cars should turn back after reaching [Wadi Bani Awf](:::9). The climb to the pass that follows is steep and rocky, be cautious.",
+      "center_geohash": "tk0u461dw",
+      "titlePhotoId": "580224f1-7e69-4b36-592d-1a998e370d00",
+      "lonMin": 57.318504333496094,
+      "itineraryId": "Om5",
+      "isFree": true,
+      "titlePhotoCaption": "Gravel road in Snake Canyon.",
+      "latMax": 23.342172622680664,
+      "lastUpdate": {
+        "_seconds": 1756828482,
+        "_nanoseconds": 198000000
+      },
+      "editor": "GOA",
       "translatedHighlights": {
         "fr": "Des routes vertigineuses et des paysages de montagnes et de profonds canyons à couper le souffle.\nDe splendides vasques d’eau vert turquoise propices à la baignade.\nLe village pittoresque de [Bald Sayt](:::8) niché dans un écrin de verdure.\nLes sentiers de randonnée et itinéraires de canyoning offrant des expériences d’aventure dans la nature.\nDes wadis bordés de palmiers-dattiers et alimentés par les [aflaj](?Aflaj), témoins vivants des traditions omanaises ancestrales."
       },
+      "highlights": "Thrilling roads and breathtaking mountain landscapes with deep canyons.\nSplendid turquoise-green pools perfect for swimming.\nThe picturesque village of [Bald Sayt](:::8), nestled in a lush setting.\nHiking trails and canyoning routes offering adventurous experiences in nature.\nWadis lined with date palms and fed by [aflaj](?Aflaj), a legacy of Oman’s ancestral traditions.\n",
+      "titlePhotoFSId": "GOA/d44161a5-7501-4100-ab1a-97d099ab001c.jpeg",
+      "name": "Snake canyon",
       "translatedRoadConditions": {
         "fr": "La première partie de cet itinéraire est goudronné, le reste étant de la piste en bon état, qui ne posera aucun problème aux véhicules avec une bonne garde au sol et aux motos. Par contre, les camions, les camping-cars et voitures normales feraient mieux de rebrousser chemin après avoir atteint [Wadi Bani Awf](:::9). La monté qui suit est très raide et rocailleuse, soyez prudents."
       },
+      "otherPhotoUrls": [],
       "translatedTitleCaption": {
         "fr": "Bonne piste dans Snake Canyon."
-      }
+      },
+      "description": "This route follows one of the rare roads that cross the [Al Hajar Mountains](?Oman Geology), the rocky backbone of Oman. You will discover landscapes of raw and striking beauty. Here, the relief is powerful: the mountains, reaching up to 3,000 m, are carved by narrow and deep canyons (see geology insert). Towering limestone cliffs, sheer and striated with geological layers, rise above wadis with turquoise waters. Vegetation is scarce and adapted to aridity: twisted acacias, thorny bushes, and a few clumps of dry grasses. But wherever water is present—at the bottom of wadis or near springs—bright green pockets appear, made up of date palms and terraced crops. The contrast between the stark, mineral harshness of the slopes and the lushness of the irrigated valleys is striking.\n⚠️ Caution: At the bottom of canyons, floods can be sudden and extremely violent (flash floods). Camping in riverbeds during stormy weather is strongly discouraged, as water levels can rise abruptly—even if the storm has fallen several kilometers upstream. Major floods usually occur in winter and early spring (December to April), during the passage of Mediterranean depressions (`i`Al-Wasmi`), which bring moderate to heavy rains, or in summer (June to September), when the khareef (southern monsoon) and especially heat-driven convective storms generate intense late-afternoon downpours.\nWhile the road is paved for the first few kilometers, the majority is a well-maintained gravel track suitable for all vehicles. However, drivers should be cautious of the steep inclines along the way."
     },
     {
       "id": "OG82uwaw9AH0iAgnJlRS",
-      "center": {
-        "_latitude": 23.041205406188965,
-        "_longitude": 57.670644760131836
-      },
-      "center_geohash": "tk1506d2z",
       "createdAt": {
         "_seconds": 1737064525,
         "_nanoseconds": 167000000
       },
-      "description": "The Saiq plateau at around {^2000}-{^2500} altitude is nested within the Jebel Akhdar mountains. It's a rather large area with many roads allowing for exploration for a few days, but there's only one road going in or out, monitored by the police thansk to a checkpoint that you have to cross. There are signs stating that a 4WD vehicle is ncessary, but this is difficult to justify as the paved road up to the main tow of Saiq is very good. For sure, the bikers will have a great time on the steep switchbacks of that great road, making full use of the 100+ hp that the maxi trails can produce. The road climbs {^1400} in about {->km 14}, an average of about 10%, but sometimes more. Cyclists be prepared !\nOn the Saiq plateau you'll find many great spots for camping, although be prepared for chilly nights during the winter. There also some hotels in Saiq, and even a very special boutique hotel in [Suwgra](https://www.thesuwgra.com/).",
-      "difficulty": 0,
-      "editor": "GOA",
-      "fuelRange": 50,
-      "isFree": false,
-      "itineraryId": "Om9",
-      "lastUpdate": {
-        "_seconds": 1738145215,
-        "_nanoseconds": 704000000
-      },
-      "latMax": 23.159374237060547,
-      "latMin": 22.923036575317383,
-      "lengthDays": 1,
-      "lengthKM": 48.3,
-      "lonMax": 57.72844696044922,
-      "lonMin": 57.61284255981445,
-      "lovesCount": 0,
-      "name": "Jebel Akhdar",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/69edeeb2-2e2e-4840-bf52-6a8d292aa6d9.jpeg",
-      "titlePhotoId": "eaf9ed9f-fa96-454b-7249-d52c9165f600",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/eaf9ed9f-fa96-454b-7249-d52c9165f600/public",
       "trackIds": [
         "nQ1hnMC7s7HDB9krHGeE",
         "LFdBDJkXCRWcuUPCRiFV"
       ],
+      "difficulty": 0,
+      "center": {
+        "_latitude": 23.041205406188965,
+        "_longitude": 57.670644760131836
+      },
+      "lovesCount": 0,
       "trackPackId": "Fh1H3yWIttiixo79a0Xp",
       "translatedDesc": {
         "fr": "Le plateau de Saiq s'élève à une altitude de 2000-2500m, entouré par les montagnes du Jebel Akhdar. Il n'y a qu'une seule route pour y accéder, qui est surveillée par la police: il faut passer par un checkpoint où on enregistre nos coordonnées. Il y a même des panneaux qui annoncent qu'un 4x4 est nécessaire pour prendre cette route, vraisemblablement à cause de la déclivité très forte: 10% en moyenne, parfois plus. Mais c'est difficile à justifier car la route est très bonne, donc il n'y a pas de difficulté particulière. La descente bien sûr est plus critique pour les véhicules lourds, qui devront descendre au frein-moteur pour économiser leurs freins. Les motards par contre, surtout ceux qui ont un gros moteur, comme les inévitables GS 1250 ou 1300 par exemple, se feront plaisir dans les épingles serrées et raides. Cyclistes, vous devrez grimper 1400 m en 14 km, ce qui en fait une montée tout aussi longue mais plus raide que celle de l'Alpe d'Huez !\nVous trouverez sur le plateau de nombreuses pistes et des coins de bivouac agréables, mais si vous venez y camper en hiver soyez prêts à passer une nuit très froide. Vous trouverez aussi des hôtels à Saiq, la seule ville de la région, et même un tout petit hôtel dans le charmant village de [Suwgra](https://www.thesuwgra.com/)."
-      }
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/eaf9ed9f-fa96-454b-7249-d52c9165f600/public",
+      "lengthDays": 1,
+      "lonMax": 57.72844696044922,
+      "lengthKM": 48.3,
+      "fuelRange": 50,
+      "isFree": false,
+      "latMax": 23.159374237060547,
+      "lastUpdate": {
+        "_seconds": 1738145215,
+        "_nanoseconds": 704000000
+      },
+      "editor": "GOA",
+      "titlePhotoFSId": "GOA/69edeeb2-2e2e-4840-bf52-6a8d292aa6d9.jpeg",
+      "name": "Jebel Akhdar",
+      "otherPhotoUrls": [],
+      "description": "The Saiq plateau at around {^2000}-{^2500} altitude is nested within the Jebel Akhdar mountains. It's a rather large area with many roads allowing for exploration for a few days, but there's only one road going in or out, monitored by the police thansk to a checkpoint that you have to cross. There are signs stating that a 4WD vehicle is ncessary, but this is difficult to justify as the paved road up to the main tow of Saiq is very good. For sure, the bikers will have a great time on the steep switchbacks of that great road, making full use of the 100+ hp that the maxi trails can produce. The road climbs {^1400} in about {->km 14}, an average of about 10%, but sometimes more. Cyclists be prepared !\nOn the Saiq plateau you'll find many great spots for camping, although be prepared for chilly nights during the winter. There also some hotels in Saiq, and even a very special boutique hotel in [Suwgra](https://www.thesuwgra.com/).",
+      "latMin": 22.923036575317383,
+      "center_geohash": "tk1506d2z",
+      "titlePhotoId": "eaf9ed9f-fa96-454b-7249-d52c9165f600",
+      "lonMin": 57.61284255981445,
+      "itineraryId": "Om9"
     },
     {
       "id": "P0CRx2cDEahXyUE2gRSx",
@@ -2421,44 +2469,44 @@
     },
     {
       "id": "QDQ6iGzrvggdd7UDnT6P",
-      "center": {
-        "_latitude": 17.089866638183594,
-        "_longitude": 54.67477989196777
-      },
-      "center_geohash": "t5nchphgw",
-      "createdAt": {
-        "_seconds": 1737628510,
-        "_nanoseconds": 632000000
-      },
-      "description": "Jebel Samhan is a popular destination for residents of Salalah seeking cooler air. The karstic geology of the area has given rise to fascinating sinkholes and caves, such as those at Tawi Atayr and Tayq, making it a captivating spot for exploration. Additionally, the region boasts excellent hiking trails.\nThe road leading to Jebel Samhan is paved and well-maintained, with the exception of the final {->km 12} of rocky, corrugated track that leads to a campsite offering breathtaking views of Mirbat and the sea below.\nIn winter, the high altitude brings chilly nights, while the khareef season in summer brings rain and fog, adding a misty allure to the landscape.",
-      "difficulty": 1,
       "editor": "GOA",
-      "fuelRange": 100,
-      "isFree": false,
-      "itineraryId": "Om20",
+      "latMax": 17.148754119873047,
       "lastUpdate": {
         "_seconds": 1738145901,
         "_nanoseconds": 827000000
       },
-      "latMax": 17.148754119873047,
-      "latMin": 17.03097915649414,
-      "lengthDays": 1,
-      "lengthKM": 54.2,
-      "lonMax": 54.795780181884766,
-      "lonMin": 54.55377960205078,
-      "lovesCount": 0,
-      "name": "Jebel Samhan",
+      "isFree": false,
       "otherPhotoUrls": [],
+      "name": "Jebel Samhan",
       "titlePhotoFSId": "GOA/b5252e32-8a79-4673-9601-6feae88c69ed.jpeg",
+      "description": "Jebel Samhan is a popular destination for residents of Salalah seeking cooler air. The karstic geology of the area has given rise to fascinating sinkholes and caves, such as those at Tawi Atayr and Tayq, making it a captivating spot for exploration. Additionally, the region boasts excellent hiking trails.\nThe road leading to Jebel Samhan is paved and well-maintained, with the exception of the final {->km 12} of rocky, corrugated track that leads to a campsite offering breathtaking views of Mirbat and the sea below.\nIn winter, the high altitude brings chilly nights, while the khareef season in summer brings rain and fog, adding a misty allure to the landscape.",
+      "latMin": 17.03097915649414,
+      "lonMin": 54.55377960205078,
       "titlePhotoId": "e8c3a1bb-9ca8-42ab-3c91-a4127f026b00",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/e8c3a1bb-9ca8-42ab-3c91-a4127f026b00/public",
+      "center_geohash": "t5nchphgw",
+      "itineraryId": "Om20",
+      "createdAt": {
+        "_seconds": 1737628510,
+        "_nanoseconds": 632000000
+      },
+      "lovesCount": 0,
+      "difficulty": 1,
+      "center": {
+        "_latitude": 17.089866638183594,
+        "_longitude": 54.67477989196777
+      },
       "trackIds": [
         "I3m7F7eiNoWac17w7mKX"
       ],
       "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/e8c3a1bb-9ca8-42ab-3c91-a4127f026b00/public",
       "translatedDesc": {
         "fr": "Jebel Samhan est une destination très prisée des locaux qui cherchent un peu de fraîcheur. En plus, la brume fréquente en période de khareef se transforme en mer de brouillard, vue depuis le sommet de la falaise. La géologie karstique du massif a créé de nombreux gouffres d'effondrement, comme ceux très connus de Tawi Atayr et de Tayq, ce qui en fait une belle région pour la randonnée et l'exploration.\nLa route qui monte à Jebel Shams est goudronnée et en très bon état, en tous cas jusqu'au [point de vue](:::7). La dernière étape de l'itinéraire, 12 km de piste rocailleuse, est optionnelle, mais elle mène aux endroits les plus sauvages et aux meilleurs coins de bivouac de la région, avec une vue à couper le souffle sur Mirbat et la mer.\nEn hiver les nuits sont très fraîches, tandis qu'en été, la brume et la pluie persistante ajoutent une note romantique et mystérieuse."
-      }
+      },
+      "lonMax": 54.795780181884766,
+      "lengthDays": 1,
+      "fuelRange": 100,
+      "lengthKM": 54.2
     },
     {
       "id": "QZxnzbISlvNZh3rReHwm",
@@ -2503,43 +2551,43 @@
     },
     {
       "id": "QiOi6GhbRSg8pC152G7u",
-      "center": {
-        "_latitude": 23.165679931640625,
-        "_longitude": 56.98488426208496
-      },
-      "center_geohash": "tk0eb9pju",
-      "createdAt": {
-        "_seconds": 1737055051,
-        "_nanoseconds": 290000000
-      },
-      "description": "This route takes you to Wadi Damm via an easy road and then continues toward Jebel Shams on a more challenging gravel track. Along the way, you'll encounter a renowned cluster of beehive tombs, which date back to the Iron Age—a fascinating glimpse into the region's ancient history.",
-      "difficulty": 1,
-      "editor": "GOA",
-      "fuelRange": 100,
-      "isFree": false,
       "itineraryId": "Om6",
+      "lonMin": 56.81975555419922,
+      "titlePhotoId": "f5e827fd-0496-4385-ab64-c20052bb6c00",
+      "center_geohash": "tk0eb9pju",
+      "latMin": 23.086450576782227,
+      "description": "This route takes you to Wadi Damm via an easy road and then continues toward Jebel Shams on a more challenging gravel track. Along the way, you'll encounter a renowned cluster of beehive tombs, which date back to the Iron Age—a fascinating glimpse into the region's ancient history.",
+      "otherPhotoUrls": [],
+      "name": "Wadi Damm",
+      "titlePhotoFSId": "GOA/c2aa493f-4f2e-4392-be40-11b284e02362.jpeg",
+      "editor": "GOA",
+      "latMax": 23.244909286499023,
       "lastUpdate": {
         "_seconds": 1738144814,
         "_nanoseconds": 500000000
       },
-      "latMax": 23.244909286499023,
-      "latMin": 23.086450576782227,
-      "lengthDays": 1,
+      "isFree": false,
+      "fuelRange": 100,
       "lengthKM": 44.8,
       "lonMax": 57.1500129699707,
-      "lonMin": 56.81975555419922,
-      "lovesCount": 0,
-      "name": "Wadi Damm",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/c2aa493f-4f2e-4392-be40-11b284e02362.jpeg",
-      "titlePhotoId": "f5e827fd-0496-4385-ab64-c20052bb6c00",
+      "lengthDays": 1,
       "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/f5e827fd-0496-4385-ab64-c20052bb6c00/public",
+      "translatedDesc": {
+        "fr": "Cet itinéraire vous amène tout d'abord à Wadi Damm par une bonne route goudronnée, en passant par une ensemble de tombes de l'âge du fer qui méritent le détour pour leur importance historique. Il continue ensuite en direction de [Jebel Shams](::Om7) par une piste plus difficile mais qui évite de faire un aller-retour.\nTous les véhicules peuvent accéder à Wadi Damm très facilement, mais la piste qui suit, très raide, nécessite une bonne garde au sol. Les camions et les camping-cars feront mieux de faire le tour par la route goudronnée."
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lovesCount": 0,
+      "difficulty": 1,
+      "center": {
+        "_latitude": 23.165679931640625,
+        "_longitude": 56.98488426208496
+      },
       "trackIds": [
         "ZzCaAv7d0qUZ8NE52wHQ"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Cet itinéraire vous amène tout d'abord à Wadi Damm par une bonne route goudronnée, en passant par une ensemble de tombes de l'âge du fer qui méritent le détour pour leur importance historique. Il continue ensuite en direction de [Jebel Shams](::Om7) par une piste plus difficile mais qui évite de faire un aller-retour.\nTous les véhicules peuvent accéder à Wadi Damm très facilement, mais la piste qui suit, très raide, nécessite une bonne garde au sol. Les camions et les camping-cars feront mieux de faire le tour par la route goudronnée."
+      "createdAt": {
+        "_seconds": 1737055051,
+        "_nanoseconds": 290000000
       }
     },
     {
@@ -3225,44 +3273,44 @@
     },
     {
       "id": "ZNWccWegr92jZPfLfsJD",
-      "center": {
-        "_latitude": 23.176793098449707,
-        "_longitude": 57.20720100402832
-      },
-      "center_geohash": "tk0evg1n8",
-      "createdAt": {
-        "_seconds": 1737058433,
-        "_nanoseconds": 990000000
-      },
-      "description": "Jebel Shams (\"Mountain of the Sun\") is the highest peak of Oman, at {^ 3018} altitude. A well-paved road ascends to {^2000}, offering access to an outstanding viewpoint overlooking Oman’s \"Grand Canyon.\" At the end of the road, visitors will find a hotel and several food shacks catering to the many tourists and locals who visit, particularly in the summer, when the cooler temperatures make it a popular retreat.\nIn winter, the temperature can drop significantly, so bikers should add a fleece and warm gloves.",
-      "difficulty": 0,
-      "editor": "GOA",
-      "fuelRange": 100,
-      "isFree": false,
-      "itineraryId": "Om7",
+      "latMax": 23.252836227416992,
       "lastUpdate": {
         "_seconds": 1738144929,
         "_nanoseconds": 230000000
       },
-      "latMax": 23.252836227416992,
-      "latMin": 23.100749969482422,
-      "lengthDays": 1,
-      "lengthKM": 42.6,
-      "lonMax": 57.277740478515625,
-      "lonMin": 57.136661529541016,
-      "lovesCount": 0,
-      "name": "Jebel Shams",
+      "editor": "GOA",
+      "isFree": false,
+      "description": "Jebel Shams (\"Mountain of the Sun\") is the highest peak of Oman, at {^ 3018} altitude. A well-paved road ascends to {^2000}, offering access to an outstanding viewpoint overlooking Oman’s \"Grand Canyon.\" At the end of the road, visitors will find a hotel and several food shacks catering to the many tourists and locals who visit, particularly in the summer, when the cooler temperatures make it a popular retreat.\nIn winter, the temperature can drop significantly, so bikers should add a fleece and warm gloves.",
       "otherPhotoUrls": [],
       "titlePhotoFSId": "GOA/0931ca9c-fb81-469d-8b8f-55e4c995d39d.jpeg",
+      "name": "Jebel Shams",
+      "lonMin": 57.136661529541016,
+      "center_geohash": "tk0evg1n8",
       "titlePhotoId": "50c6d906-87ac-40ba-9dfa-9ad99eac9300",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/50c6d906-87ac-40ba-9dfa-9ad99eac9300/public",
+      "latMin": 23.100749969482422,
+      "itineraryId": "Om7",
+      "createdAt": {
+        "_seconds": 1737058433,
+        "_nanoseconds": 990000000
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "difficulty": 0,
+      "center": {
+        "_latitude": 23.176793098449707,
+        "_longitude": 57.20720100402832
+      },
+      "lovesCount": 0,
       "trackIds": [
         "3UxMRI3GLGhY5wB2czTX"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/50c6d906-87ac-40ba-9dfa-9ad99eac9300/public",
       "translatedDesc": {
         "fr": "Jebel Shams (\"Mont du Soleil\") est le point culminant d'Oman, à 3018 m. Une bonne route goudronnée monte à 2000 m d'altitude et donne accès à un impressionnant panorama sur le Grand Canyon d'Oman. Vous y trouverez un hôtel et de nombreux petits magasins de souvenirs et cafés. En été, les locaux s'y rendent pour échapper à la chaleur étouffante de la plaine. En hiver, par contre, les températures sont fraîches; les motards en particulier devront ressortir les polaires et les gants chauds."
-      }
+      },
+      "lengthKM": 42.6,
+      "fuelRange": 100,
+      "lengthDays": 1,
+      "lonMax": 57.277740478515625
     },
     {
       "id": "ZiXAqGuyOdxrYQ312WPA",
@@ -4028,44 +4076,45 @@
     },
     {
       "id": "fPt4wY2gPdpsRjitvIXh",
-      "center": {
-        "_latitude": 16.8446626663208,
-        "_longitude": 53.6096248626709
-      },
+      "latMin": 16.741153717041016,
+      "permit": false,
       "center_geohash": "t4ypgfmr6",
+      "titlePhotoId": "add57f1d-ecbf-4d20-f63f-6c9e8039f700",
+      "lonMin": 53.27846908569336,
+      "itineraryId": "Om21",
+      "isFree": false,
+      "latMax": 16.948171615600586,
+      "lastUpdate": {
+        "_seconds": 1785138115,
+        "_nanoseconds": 188000000
+      },
+      "editor": "GOA",
+      "titlePhotoFSId": "GOA/345c8c53-2f35-41c8-a46b-7e698fd42ae6.jpeg",
+      "name": "Dhofar",
+      "otherPhotoUrls": [],
+      "description": "West of Salalah, the coastline is remarkably rugged, featuring stunning beaches accessible only via steep, winding roads that descend from the cliffs lining the shore. This area is home to countless camels, which seem to prefer the cooler, greener surroundings over the desert, mingling with cows that thrive on the lush grass brought by the summer rains.\nEvery year from June to September, the mountains around Salalah are transformed by the `b`Khareef`, the seasonal southwest monsoon. Moist air from the Arabian Sea brings cool temperatures, mist, and frequent drizzle, turning the normally arid landscape into lush green hills dotted with waterfalls and flowing streams. The contrast with the surrounding desert makes this one of the most unique climates in the Arabian Peninsula.\nFor Omanis and residents of the Gulf, the Khareef is much more than a weather phenomenon—it is a cherished annual escape from the intense summer heat. Families travel to Salalah to enjoy the cool climate, picnic in the green countryside, and attend the Khareef Festival, making it the busiest tourist season of the year in southern Oman. Hotels are booked out and the prices go up.\nIn winter, the beaches become peaceful retreats, with calm, warm seas—perfect conditions for overlanders seeking tranquility.",
+      "translatedDesc": {
+        "fr": "La côte à l'ouest de Salalah est très accidentée, avec de belles falaises et des plages magnifiques accessibles par des routes vertigineuses. Étonnamment, on trouve aussi dans cette région une quantité invraisemblable de chameaux, beaucoup plus que dans le désert. Ils se mélangent aux vaches qui sont aussi nombreuses dans cette région où l'herbe pousse en été grâce aux pluies de mousson.\nChaque année, de juin à septembre, les montagnes autour de Salalah se transforment grâce au `b`Khareef`, la mousson saisonnière du sud-ouest. L'air humide provenant de la mer d'Arabie apporte des températures plus fraîches, du brouillard et de fréquentes bruines, métamorphosant ce paysage habituellement aride en collines verdoyantes ponctuées de cascades et de ruisseaux. C’est le contraste avec le désert environnant qui en fait l'un des climats les plus singuliers de la péninsule Arabique.\nPour les Omanais et les habitants des pays du Golfe, le Khareef est bien plus qu'un simple phénomène météorologique : c'est une parenthèse estivale très attendue pour échapper à la chaleur accablante de l'été. Les familles se rendent à Salalah pour profiter de la fraîcheur du climat, pique-niquer dans les paysages verdoyants et participer au Festival du Khareef, faisant de cette période la haute saison touristique du sud d'Oman. Tous les hôtels sont pleins et les prix explosent. \nEn hiver par contre, les plages sont beaucoup plus calmes, alors que les conditions sont idéales pour en profiter et se baigner dans la mer chaude."
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/add57f1d-ecbf-4d20-f63f-6c9e8039f700/public",
+      "lengthDays": 2,
+      "lonMax": 53.94078063964844,
+      "lengthKM": 178.3,
+      "fuelRange": 150,
       "createdAt": {
         "_seconds": 1737709466,
         "_nanoseconds": 965000000
       },
-      "description": "West of Salalah, the coastline is remarkably rugged, featuring stunning beaches accessible only via steep, winding roads that descend from the cliffs lining the shore. This area is home to countless camels, which seem to prefer the cooler, greener surroundings over the desert, mingling with cows that thrive on the lush grass brought by the summer rains.\nSummer is the peak season, drawing visitors from Oman and across the Arab world to experience the region's unique weather, vibrant greenery, and cooler air provided by the khareef rains. In winter, the beaches become peaceful retreats, with calm, warm seas—perfect conditions for overlanders seeking tranquility.",
-      "difficulty": 1,
-      "editor": "GOA",
-      "fuelRange": 150,
-      "isFree": false,
-      "itineraryId": "Om21",
-      "lastUpdate": {
-        "_seconds": 1738148650,
-        "_nanoseconds": 593000000
-      },
-      "latMax": 16.948171615600586,
-      "latMin": 16.741153717041016,
-      "lengthDays": 2,
-      "lengthKM": 178.3,
-      "lonMax": 53.94078063964844,
-      "lonMin": 53.27846908569336,
-      "lovesCount": 0,
-      "name": "Dhofar",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/345c8c53-2f35-41c8-a46b-7e698fd42ae6.jpeg",
-      "titlePhotoId": "add57f1d-ecbf-4d20-f63f-6c9e8039f700",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/add57f1d-ecbf-4d20-f63f-6c9e8039f700/public",
       "trackIds": [
         "Ut8xBIzuNilRb5sOlamu"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "La côte à l'ouest de Salalah est très accidentée, avec de belles falaises et des plages magnifiques accessibles par des routes vertigineuses. Étonnamment, on trouve aussi dans cette région une quantité invraisemblable de chameaux, beaucoup plus que dans le désert. Ils se mélangent aux vaches qui sont aussi nombreuses dans cette région où l'herbe pousse en été grâce aux pluies de mousson.\nL'été est la haute saison ici, quand les visiteurs arrivent de toute la péninsule arabique pour échapper à la chaleur étouffante et admirer la végétation luxuriante sous une pluie qui fait descendre la température. Tous les hôtels sont pleins et les prix explosent. En hiver par contre, les plages sont beaucoup plus calmes, alors que les conditions sont idéales pour en profiter et se baigner dans la mer chaude."
-      }
+      "difficulty": 1,
+      "center": {
+        "_latitude": 16.8446626663208,
+        "_longitude": 53.6096248626709
+      },
+      "lovesCount": 0,
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp"
     },
     {
       "id": "fYdOUDWEOOWuJpm9ZJ5i",
@@ -4454,40 +4503,55 @@
     },
     {
       "id": "jvWRuCn8daNy3HIFJzq3",
-      "center": {
-        "_latitude": 17.807909965515137,
-        "_longitude": 53.823272705078125
+      "translatedDesc": {
+        "fr": "Le contraste entre Salalah et le Quart Vide (Rub' al Khali) tout proche est l'un des plus saisissants d'Arabie. En l'espace de quelques dizaines de kilomètres à peine, des collines verdoyantes cèdent la place à l'un des déserts les plus arides de la planète, où de vastes dunes s'étendent à perte de vue et où les précipitations sont extrêmement rares.\nCe changement spectaculaire est dû aux montagnes du Dhofar, qui font office de barrière naturelle. Pendant le `b`Khareef`, les vents chargés d’humidité venant de la mer d’Oman sont contraints de s’élever au-dessus des montagnes, où ils se refroidissent et se condensent en brume et en bruine. Lorsque l’air redescend du versant nord de la chaîne, il a perdu la majeure partie de son humidité et devient chaud et sec, créant ainsi une ombre pluviométrique. Par conséquent, les pluies de mousson atteignent rarement le Quart vide, ce qui donne un désert qui est aride tout au long de l’année.\nVous le remarquerez en quittant Salalah en voiture. La route grimpe en pente raide jusqu’à un plateau situé à environ 800 m d’altitude, où le paysage est déjà beaucoup plus sec. C’est également là que les arbres à [encens](?Frankincense] produisent leur meilleure résine.\nDe là, la route descend en pente douce vers l’entrée du Quart vide, à environ 300 m d’altitude, où il ne reste pratiquement plus aucune végétation."
       },
-      "center_geohash": "t5nm2cbft",
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/5079fd78-612d-49f5-63b1-4f49c7ee5800/public",
+      "lonMax": 54.1530876159668,
+      "lengthDays": 0,
+      "lengthKM": 195.39985088689085,
       "createdAt": {
         "_seconds": 1737726118,
         "_nanoseconds": 876000000
       },
-      "description": "",
-      "difficulty": -1,
-      "editor": "GOA",
-      "isFree": false,
-      "itineraryId": "Om22",
-      "lastUpdate": {
-        "_seconds": 1737726341,
-        "_nanoseconds": 666000000
-      },
-      "latMax": 18.518125534057617,
-      "latMin": 17.097694396972656,
-      "lengthDays": 0,
-      "lengthKM": 195.39985088689085,
-      "lonMax": 54.1530876159668,
-      "lonMin": 53.49345779418945,
-      "lovesCount": 0,
-      "name": "Salalah to Empty Quarter",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/2dd9fcfa-591d-44f1-8b70-af2ef943e623.jpeg",
-      "titlePhotoId": "5079fd78-612d-49f5-63b1-4f49c7ee5800",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/5079fd78-612d-49f5-63b1-4f49c7ee5800/public",
       "trackIds": [
         "I17bgVzAxbjtZTZgBvIT"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp"
+      "lovesCount": 0,
+      "difficulty": 1,
+      "center": {
+        "_latitude": 17.807909965515137,
+        "_longitude": 53.823272705078125
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "roadConditions": "Good paved road all along.",
+      "latMin": 17.097694396972656,
+      "titlePhotoId": "5079fd78-612d-49f5-63b1-4f49c7ee5800",
+      "permit": false,
+      "center_geohash": "t5nm2cbft",
+      "lonMin": 53.49345779418945,
+      "itineraryId": "Om22",
+      "isFree": false,
+      "editor": "GOA",
+      "latMax": 18.518125534057617,
+      "lastUpdate": {
+        "_seconds": 1785142755,
+        "_nanoseconds": 411000000
+      },
+      "translatedName": {
+        "fr": "De Salalah au dunes"
+      },
+      "translatedHighlights": {
+        "fr": "Comprendre la production d’encens à Wadi Dawkah.\nVisiter les ruines supposées de Wubar, l’ancienne cité mythique.\nAller camper sous les étoiles au pied des magnifiques dunes du Quart Vide."
+      },
+      "highlights": "Learn about frankincense production in Wadi Dawkah.\nVisit the supposed ruins of the ancient city of Wubar in Al Shisr.\nSpend a night under the stars in the dunes of the Empty Quarter.",
+      "name": "From Salalah to the dunes",
+      "titlePhotoFSId": "GOA/2dd9fcfa-591d-44f1-8b70-af2ef943e623.jpeg",
+      "translatedRoadConditions": {
+        "fr": "Bonne route goudronnée sur tout le parcours."
+      },
+      "otherPhotoUrls": [],
+      "description": "The contrast between Salalah and the nearby Empty Quarter (Rub' al Khali) is one of the most striking in Arabia. Within just a few dozen kilometres, lush green hills give way to one of the driest deserts on Earth, where vast dunes stretch to the horizon and rainfall is extremely rare.\nThis dramatic change is caused by the Dhofar Mountains, which act as a natural barrier. During the `b`Khareef`, moisture-laden winds from the Arabian Sea are forced to rise over the mountains, cooling and condensing into mist and drizzle. By the time the air descends on the northern side of the range, it has lost most of its moisture and becomes hot and dry, creating a rain shadow. As a result, the monsoon rains rarely reach the Empty Quarter, leaving the desert arid throughout the year.\nYou’ll notice this as you drive from Salalah. The road climbs steeply to a plateau at an altitude of around {^800}, where the landscape is already much drier. This is also where the [frankincense](?Frankincense] trees produce their finest resin.\nFrom there, the road gently descends towards the entrance of the Empty Quarter at around {^300}, where virtually no vegetation remains."
     },
     {
       "id": "kGtCPLMeXRycDPQaIokr",
@@ -4795,52 +4859,52 @@
     },
     {
       "id": "nkXXXdsLI6sycaIyNju9",
-      "center": {
-        "_latitude": 22.687137603759766,
-        "_longitude": 59.084821701049805
-      },
-      "center_geohash": "tk410d060",
       "createdAt": {
         "_seconds": 1736934306,
         "_nanoseconds": 307000000
       },
-      "description": "This route crosses the mountains of Jabal Bani Jabir on very steep tracks which makes for a spectacular drive. It's also a great destination to just enjoy swimming in the blue pools of Wadi Bani Khalid and Wadi Hawer. During the hotter months, the pools and the altitude of the route ({^1700}) is refreshing.\nThe road is paved and easy until Wadi Bani Khalid, which is a major destination. After that, the gravel road the crosses the mountain is generally very good. It is very steep, but the steepest parts have been paved so it is accessible by all vehicles, with the exception of big rigs which may have trouble in the steep and windy curves.",
+      "trackIds": [
+        "1nCTzY0Mn55DyPLAUV2O"
+      ],
       "difficulty": 1,
-      "editor": "GOA",
+      "center": {
+        "_latitude": 22.687137603759766,
+        "_longitude": 59.084821701049805
+      },
+      "lovesCount": 0,
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "translatedDesc": {
+        "fr": "Cet itinéraire traverse les montagnes de Jebel Bani Jabir par de petites routes très escarpées et spectaculaires, un vrai plaisir à moto ou en voiture - les camions et les campings-cars y seront par contre à la peine. On aura aussi l'occasion de se baigner dans les très belles vasques de Wadi Bani Khalid et Wadi Hawer. Pendant les mois les plus chauds, la fraîcheur due à l'altitude du tracé (1000 - 1700 m) et les arrêts baignade sont appréciés.\nLa route jusqu'à Wadi Bani Khalid est goudronnée et excellente, car c'est une destination très prisée. Ensuite c'est une autre histoire: la piste qui traverse la montagne est généralement bonne et les passages les plus pentus ont été bétonnés, donc elle n'est pas très difficile, néanmoins les virages serrés et raides seront compliqués pour les plus gros véhicules."
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/a8ab34e6-abfe-4776-ae66-65f378325100/public",
+      "lengthDays": 1,
+      "lonMax": 59.22414779663086,
+      "lengthKM": 92.4,
       "fuelRange": 125,
       "isFree": false,
-      "itineraryId": "Om11",
+      "latMax": 22.877193450927734,
       "lastUpdate": {
         "_seconds": 1738143675,
         "_nanoseconds": 662000000
       },
-      "latMax": 22.877193450927734,
-      "latMin": 22.497081756591797,
-      "lengthDays": 1,
-      "lengthKM": 92.4,
-      "lonMax": 59.22414779663086,
-      "lonMin": 58.94549560546875,
-      "lovesCount": 0,
+      "editor": "GOA",
+      "titlePhotoFSId": "GOA/d10f633a-2adc-4e3c-a799-51d58d9a53af.jpeg",
       "name": "Bani Khalid - Tiwa",
-      "otherPhotoFSIds": [
-        "GOA/6e4be4f2-5fdb-47cd-9a8a-19521c679311.jpeg"
+      "otherPhotoUrls": [
+        "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/GOA/Fh1H3yWIttiixo79a0Xp/565c828d-7f8f-4ee5-ceb3-aea9732ccf00.jpg/public"
       ],
       "otherPhotoIds": [
         "565c828d-7f8f-4ee5-ceb3-aea9732ccf00"
       ],
-      "otherPhotoUrls": [
-        "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/GOA/Fh1H3yWIttiixo79a0Xp/565c828d-7f8f-4ee5-ceb3-aea9732ccf00.jpg/public"
+      "description": "This route crosses the mountains of Jabal Bani Jabir on very steep tracks which makes for a spectacular drive. It's also a great destination to just enjoy swimming in the blue pools of Wadi Bani Khalid and Wadi Hawer. During the hotter months, the pools and the altitude of the route ({^1700}) is refreshing.\nThe road is paved and easy until Wadi Bani Khalid, which is a major destination. After that, the gravel road the crosses the mountain is generally very good. It is very steep, but the steepest parts have been paved so it is accessible by all vehicles, with the exception of big rigs which may have trouble in the steep and windy curves.",
+      "latMin": 22.497081756591797,
+      "otherPhotoFSIds": [
+        "GOA/6e4be4f2-5fdb-47cd-9a8a-19521c679311.jpeg"
       ],
-      "titlePhotoFSId": "GOA/d10f633a-2adc-4e3c-a799-51d58d9a53af.jpeg",
+      "center_geohash": "tk410d060",
       "titlePhotoId": "a8ab34e6-abfe-4776-ae66-65f378325100",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/a8ab34e6-abfe-4776-ae66-65f378325100/public",
-      "trackIds": [
-        "1nCTzY0Mn55DyPLAUV2O"
-      ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Cet itinéraire traverse les montagnes de Jebel Bani Jabir par de petites routes très escarpées et spectaculaires, un vrai plaisir à moto ou en voiture - les camions et les campings-cars y seront par contre à la peine. On aura aussi l'occasion de se baigner dans les très belles vasques de Wadi Bani Khalid et Wadi Hawer. Pendant les mois les plus chauds, la fraîcheur due à l'altitude du tracé (1000 - 1700 m) et les arrêts baignade sont appréciés.\nLa route jusqu'à Wadi Bani Khalid est goudronnée et excellente, car c'est une destination très prisée. Ensuite c'est une autre histoire: la piste qui traverse la montagne est généralement bonne et les passages les plus pentus ont été bétonnés, donc elle n'est pas très difficile, néanmoins les virages serrés et raides seront compliqués pour les plus gros véhicules."
-      }
+      "lonMin": 58.94549560546875,
+      "itineraryId": "Om11"
     },
     {
       "id": "nty1D4Ixz7YZ0AKRawex",
@@ -5218,36 +5282,50 @@
     },
     {
       "id": "rizGg39zAm3w2w4jRHwm",
+      "itineraryId": "Om23",
+      "lonMin": 53.04709243774414,
+      "permit": false,
+      "center_geohash": "t5q5r9v60",
+      "roadConditions": "After the end of the paved road, it’s all sandy tracks, mostly hard-packed but there are also some stretches of softer sand which require proper skills.\nThere is generally no need to deflate your tires, as long as you drive on hard sand, in order to avoid punctures.",
+      "latMin": 18.276817321777344,
+      "description": "The Empty Quarter, or Rub' al-Khali in Arabic, spans across Saudi Arabia, Oman, and Yemen. It is the largest continuous sand desert in the world, yet remarkably accessible via paved roads.\nWhile you could chart your own path across the wilderness, the towering sand dunes can be exceptionally challenging to cross. Instead, we have mapped out a carefully crafted route that takes you deep into the heart of the most magnificent dunes while keeping you on hard-packed tracks as much as possible, skirting around the dunes rather than climbing them. Because of this, most drivers with a capable 4WD vehicle and basic sand-driving skills will do just fine.\nMotorcycle riders, however, should be physically fit and experienced in sand riding—it’s a long journey from start to finish. A support vehicle is virtually essential unless you’re an expert rider, as carrying a heavy load of fuel, water, and camping gear on a bike is extremely demanding.\nEven though this is a well-known route, you may not encounter anyone for days. For safety, always travel in a group of multiple vehicles.",
+      "translatedRoadConditions": {
+        "fr": "Une fois la route goudronnée terminée, vous suivrez des pistes de sable, pour la plupart bien tassées, mais il y a aussi quelques tronçons de sable plus mou qui exigent une bonne maîtrise de la conduite sur sable.\nIl n’est généralement pas nécessaire de dégonfler vos pneus, tant que vous roulez sur du sable dur, et ainsi vous éviterez les crevaisons. "
+      },
+      "name": "Rub Al-Khali",
+      "highlights": "Feel the loneliness of crossing a vast, empty desert of sand dunes.\nCamp under the stars without light pollution.\nChallenge your sand riding skills.",
+      "translatedHighlights": {
+        "fr": "Découvrez la solitude que l'on ressent en traversant un immense désert de dunes de sable, à perte de vue.\nCampez à la belle étoile, loin de toute pollution lumineuse.\nMettez vos talents de pilote sur le sable à l'épreuve."
+      },
+      "editor": "GOA",
+      "latMax": 19.448179244995117,
+      "lastUpdate": {
+        "_seconds": 1785082927,
+        "_nanoseconds": 822000000
+      },
+      "isFree": false,
+      "fuelRange": 400,
+      "lengthKM": 380.8,
+      "lonMax": 54.50155258178711,
+      "lengthDays": 2,
+      "translatedDesc": {
+        "fr": "Le Quartier Vide, ou Rub’ al-Khali en arabe, s’étend sur l’Arabie saoudite, Oman et le Yémen. Il s’agit un du plus grand désert de sable du monde, et pourtant il est remarquablement accessible par de bonnes routes.\nBien sûr vous pouvez tracer votre propre chemin à travers le désert, mais les dunes de sable imposantes peuvent s’avérer extrêmement difficiles à franchir. C’est pourquoi nous avons tracé un itinéraire soigneusement étudié pour vous emmener au cœur même des plus magnifiques dunes, tout en restant autant que possible sur des pistes de sable dur, en contournant les dunes plutôt qu’en les escaladant. De ce fait, la plupart des conducteurs disposant d’un 4x4 performant et ayant des compétences de base en conduite sur sable s’en sortiront très bien.\nLes motards, en revanche, doivent être en bonne condition physique et avoir de l’expérience en conduite sur sable. Un véhicule d’assistance est pratiquement indispensable, sauf si vous êtes un motard expérimenté, car transporter une lourde charge de carburant, d’eau et de matériel de camping à moto est extrêmement exigeant.\nMême s’il s’agit d’un itinéraire bien connu, il se peut que vous ne croisiez personne pendant plusieurs jours. Par mesure de sécurité, voyagez toujours en groupe avec plusieurs véhicules."
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "lovesCount": 0,
+      "difficulty": 2,
       "center": {
         "_latitude": 18.86249828338623,
         "_longitude": 53.774322509765625
       },
-      "center_geohash": "t5q5r9v60",
-      "createdAt": {
-        "_seconds": 1737798418,
-        "_nanoseconds": 390000000
-      },
-      "difficulty": 2,
-      "editor": "GOA",
-      "fuelRange": 400,
-      "isFree": false,
-      "itineraryId": "Om23",
-      "lastUpdate": {
-        "_seconds": 1738151463,
-        "_nanoseconds": 46000000
-      },
-      "latMax": 19.448179244995117,
-      "latMin": 18.276817321777344,
-      "lengthDays": 2,
-      "lengthKM": 380.8,
-      "lonMax": 54.50155258178711,
-      "lonMin": 53.04709243774414,
-      "lovesCount": 0,
-      "name": "Rub Al-Khali",
       "trackIds": [
         "TTeiy92bDVcIH94x9hrq"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp"
+      "offroadPercent": 100,
+      "createdAt": {
+        "_seconds": 1737798418,
+        "_nanoseconds": 390000000
+      }
     },
     {
       "id": "ssZYvLmJ3sEzU0ORwANq",
@@ -5394,87 +5472,87 @@
     },
     {
       "id": "uvi4Y0A43yBCzkoiF8Mc",
-      "center": {
-        "_latitude": 20.55945587158203,
-        "_longitude": 58.419212341308594
-      },
+      "titlePhotoId": "84fe4fa0-e324-4dd0-98a4-b2b75e9b1500",
       "center_geohash": "t79scqexd",
-      "createdAt": {
-        "_seconds": 1737308128,
-        "_nanoseconds": 597000000
-      },
-      "description": "Bar Al Hikman is a truly unique destination in Oman, offering a vast, flat desert expanse along the Gulf of Masirah. The southern beaches facing Masirah Island are the main draw for visitors, featuring endless stretches of white sand and turquoise waters so picturesque that some have nicknamed them the \"Oman Maldives.\" This area is particularly renowned among kite surfers who flock there during the summer to take advantage of near-perfect conditions, as the steady khareef winds create ideal temperatures and constant breezes. In winter, the area remains just as stunning and is far less crowded.\nAccessing Bar Al Hikman involves navigating desert tracks from the main paved road in the north to the sea. While many tracks lead there, only one is consistently easy to navigate. Other tracks can be challenging, with patches of soft sand or mud. This itinerary suggests taking the well-marked, reliable track on the way in and a more adventurous, difficult route on the way back. If you’re new to off-road driving, traveling solo, or seeking a simpler experience, stick to the main track (steps 2-3-7). It’s well-traveled and generally problem-free, with a higher chance of encountering others who can assist if needed. The other tracks, though more exciting, require self-sufficiency and confidence in handling off-road conditions.\nOne of the standout features is the salt pans (north of [step 11](:::11)), which at times are covered by a shallow layer of water, creating stunning photo opportunities. While the surface is usually firm enough to drive on, it's important to wash your vehicle’s underbody as soon as possible afterward, as the salty water is extremely corrosive.\nAlthough this itinerary is labeled “difficult” due to these off-road challenges, a round-trip using only the main track is rated “normal” and suitable for all vehicles. 4WD is not really necessary if you stick striclty to the well-marked tracks, but highly recommended.\nFacilities in the area are minimal, with only a couple of small hotels around the lagoons, primarily catering to kite surfers during the summer. These are open year-round but can get fully booked in high season. For campers, the coast offers endless incredible spots to pitch a tent, although the many tracks hugging the coastline can be sandy and more demanding than the main route.\nYou should bring enough water and food for your stay, as there are no shops in the area. Fuel is not an issue, as the lagoons are just {->km 45} from the main road, and the nearest fuel station is not far. This ensures easy logistics, leaving you free to focus on enjoying this extraordinary and remote part of Oman.",
-      "difficulty": 2,
-      "editor": "GOA",
-      "fuelRange": 300,
-      "isFree": false,
+      "lonMin": 58.268165588378906,
+      "latMin": 20.352672576904297,
       "itineraryId": "Om16",
+      "isFree": false,
+      "editor": "GOA",
+      "latMax": 20.766239166259766,
       "lastUpdate": {
         "_seconds": 1738140335,
         "_nanoseconds": 684000000
       },
-      "latMax": 20.766239166259766,
-      "latMin": 20.352672576904297,
-      "lengthDays": 2,
+      "description": "Bar Al Hikman is a truly unique destination in Oman, offering a vast, flat desert expanse along the Gulf of Masirah. The southern beaches facing Masirah Island are the main draw for visitors, featuring endless stretches of white sand and turquoise waters so picturesque that some have nicknamed them the \"Oman Maldives.\" This area is particularly renowned among kite surfers who flock there during the summer to take advantage of near-perfect conditions, as the steady khareef winds create ideal temperatures and constant breezes. In winter, the area remains just as stunning and is far less crowded.\nAccessing Bar Al Hikman involves navigating desert tracks from the main paved road in the north to the sea. While many tracks lead there, only one is consistently easy to navigate. Other tracks can be challenging, with patches of soft sand or mud. This itinerary suggests taking the well-marked, reliable track on the way in and a more adventurous, difficult route on the way back. If you’re new to off-road driving, traveling solo, or seeking a simpler experience, stick to the main track (steps 2-3-7). It’s well-traveled and generally problem-free, with a higher chance of encountering others who can assist if needed. The other tracks, though more exciting, require self-sufficiency and confidence in handling off-road conditions.\nOne of the standout features is the salt pans (north of [step 11](:::11)), which at times are covered by a shallow layer of water, creating stunning photo opportunities. While the surface is usually firm enough to drive on, it's important to wash your vehicle’s underbody as soon as possible afterward, as the salty water is extremely corrosive.\nAlthough this itinerary is labeled “difficult” due to these off-road challenges, a round-trip using only the main track is rated “normal” and suitable for all vehicles. 4WD is not really necessary if you stick striclty to the well-marked tracks, but highly recommended.\nFacilities in the area are minimal, with only a couple of small hotels around the lagoons, primarily catering to kite surfers during the summer. These are open year-round but can get fully booked in high season. For campers, the coast offers endless incredible spots to pitch a tent, although the many tracks hugging the coastline can be sandy and more demanding than the main route.\nYou should bring enough water and food for your stay, as there are no shops in the area. Fuel is not an issue, as the lagoons are just {->km 45} from the main road, and the nearest fuel station is not far. This ensures easy logistics, leaving you free to focus on enjoying this extraordinary and remote part of Oman.",
+      "name": "Bar al Hikman",
+      "titlePhotoFSId": "GOA/49464dfd-aa5e-4c25-ad9a-07eed02deb23.jpeg",
+      "otherPhotoUrls": [],
+      "translatedDesc": {
+        "fr": "Bar Al Hikman est une région très particulière d'Oman. C'est une grande plaine désertique très plate le long du golfe de Masirah, sans aucun relief ni végétation. Les plages qui font face à Masirah sont la raison pour laquelle les visiteurs se pressent ici, de grandes étendues de sable très clair qui donnent sur des eaux turquoises qui leur donnent le surnom de \"Maldives d'Oman\". L'endroit est très prisé par les kitesurfeurs qui apprécient les excellentes conditions de vent qui prévalent pendant l'été et les fonds peu profonds. De plus, ce vents de [#khareef#mousson#] tempèrent le climat qui n'est jamais aussi étouffant que dans le nord d'Oman. En hiver, les plages sont tout aussi superbes et l'eau est chaude, sans trop de vent, donc c'est un excellente destination de baignade sans les foules, car leur accès n'est pas aussi facile que sur le reste de la côte.\nPour rejoindre les plages depuis la route principale qui coupe plus au nord, il est important de bien choisir parmi les dizaines de pistes celle qui posera le moins de problèmes. Il est facile de se fourvoyer dans le sable mou et des mares de boue d'où il sera difficile de se sortir seul. Cet itinéraire vous propose une piste qui vous garantit presque à coup sûr une traversée sans souci, mais aussi un itinéraire alternatif pour revenir qui passe par des paysages extraordinaires mais qui peut être plus difficile à négocier. Si vous débutez dans la conduite offroad, ou si votre véhicule n'est pas très adapté, restez absolument sur la piste bien marquée à l'aller comme au retour (étapes 2-3-7). C'est une route qui voit un certain trafic tous les jours, donc si vous rencontrez des problèmes vous recevrez sûrement de l'aide. Notez qu'il n'y a pas de réception GSM dans cette région, ou de manière très ponctuelle.\nSi par contre vous êtes aguerris à la conduite sur sable, vous êtes en groupe et vous préférez les bivouacs isolés, alors il existe quantités de pistes à explorer et des plages éloignées pour installer son camp. Bien sûr il faudra être en autonomie complète car il n'y a aucun village, donc aucun magasin ou restaurant et aucune source d'eau dans toute la région. Et pas d'internet bien entendu ! Toutefois, il existe deux lagunes où des campements louent des tentes ou des chambres aux touristes de passage, surtout en dehors de la période kite surf.\nUn des clous de cet itinéraire est la traversée des déserts de sels, de vastes étendues parfaitement plates de sel couvertes par une fine couche d'eau, offrant des paysages irréels  (au nord de l'[étape 11](:::11)). Le couche de sel est en général suffisamment dure pour pouvoir y rouler sans risque de s'enliser, toutefois il est essentiel de laver son véhicule aussi vite que possible, car l'eau salée est très corrosive et peut faire des dégâts à long terme, mais aussi des problèmes électriques à court terme.\nCet itinéraire est marqué \"difficile\" à cause de ces passages offroad, mais si vous effectuez un simple aller-retour vers la lagune sur les traces principales, il est accessible à tous les véhicules même les camions et les camping-cars, en s'assurant toutefois de ne pas dévier des traces et de ne pas pénétrer sur les plages.\nN'oubliez pas de faire le plein d'eau et de nourriture pour la durée de votre séjour. Le carburant n'est pas un problème, la station la plus proche n'est qu'à 50 km des lagons. Rien ne vous empêche donc de profiter au maximum de cette région tout à fait extraordinaire d'Oman."
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/84fe4fa0-e324-4dd0-98a4-b2b75e9b1500/public",
+      "fuelRange": 300,
       "lengthKM": 156.8,
       "lonMax": 58.57025909423828,
-      "lonMin": 58.268165588378906,
-      "lovesCount": 0,
-      "name": "Bar al Hikman",
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/49464dfd-aa5e-4c25-ad9a-07eed02deb23.jpeg",
-      "titlePhotoId": "84fe4fa0-e324-4dd0-98a4-b2b75e9b1500",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/84fe4fa0-e324-4dd0-98a4-b2b75e9b1500/public",
+      "lengthDays": 2,
+      "createdAt": {
+        "_seconds": 1737308128,
+        "_nanoseconds": 597000000
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
       "trackIds": [
         "fstz5hlXocZ81QIilDne",
         "nGMIoxwXB3FmNW5W3odm"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Bar Al Hikman est une région très particulière d'Oman. C'est une grande plaine désertique très plate le long du golfe de Masirah, sans aucun relief ni végétation. Les plages qui font face à Masirah sont la raison pour laquelle les visiteurs se pressent ici, de grandes étendues de sable très clair qui donnent sur des eaux turquoises qui leur donnent le surnom de \"Maldives d'Oman\". L'endroit est très prisé par les kitesurfeurs qui apprécient les excellentes conditions de vent qui prévalent pendant l'été et les fonds peu profonds. De plus, ce vents de [#khareef#mousson#] tempèrent le climat qui n'est jamais aussi étouffant que dans le nord d'Oman. En hiver, les plages sont tout aussi superbes et l'eau est chaude, sans trop de vent, donc c'est un excellente destination de baignade sans les foules, car leur accès n'est pas aussi facile que sur le reste de la côte.\nPour rejoindre les plages depuis la route principale qui coupe plus au nord, il est important de bien choisir parmi les dizaines de pistes celle qui posera le moins de problèmes. Il est facile de se fourvoyer dans le sable mou et des mares de boue d'où il sera difficile de se sortir seul. Cet itinéraire vous propose une piste qui vous garantit presque à coup sûr une traversée sans souci, mais aussi un itinéraire alternatif pour revenir qui passe par des paysages extraordinaires mais qui peut être plus difficile à négocier. Si vous débutez dans la conduite offroad, ou si votre véhicule n'est pas très adapté, restez absolument sur la piste bien marquée à l'aller comme au retour (étapes 2-3-7). C'est une route qui voit un certain trafic tous les jours, donc si vous rencontrez des problèmes vous recevrez sûrement de l'aide. Notez qu'il n'y a pas de réception GSM dans cette région, ou de manière très ponctuelle.\nSi par contre vous êtes aguerris à la conduite sur sable, vous êtes en groupe et vous préférez les bivouacs isolés, alors il existe quantités de pistes à explorer et des plages éloignées pour installer son camp. Bien sûr il faudra être en autonomie complète car il n'y a aucun village, donc aucun magasin ou restaurant et aucune source d'eau dans toute la région. Et pas d'internet bien entendu ! Toutefois, il existe deux lagunes où des campements louent des tentes ou des chambres aux touristes de passage, surtout en dehors de la période kite surf.\nUn des clous de cet itinéraire est la traversée des déserts de sels, de vastes étendues parfaitement plates de sel couvertes par une fine couche d'eau, offrant des paysages irréels  (au nord de l'[étape 11](:::11)). Le couche de sel est en général suffisamment dure pour pouvoir y rouler sans risque de s'enliser, toutefois il est essentiel de laver son véhicule aussi vite que possible, car l'eau salée est très corrosive et peut faire des dégâts à long terme, mais aussi des problèmes électriques à court terme.\nCet itinéraire est marqué \"difficile\" à cause de ces passages offroad, mais si vous effectuez un simple aller-retour vers la lagune sur les traces principales, il est accessible à tous les véhicules même les camions et les camping-cars, en s'assurant toutefois de ne pas dévier des traces et de ne pas pénétrer sur les plages.\nN'oubliez pas de faire le plein d'eau et de nourriture pour la durée de votre séjour. Le carburant n'est pas un problème, la station la plus proche n'est qu'à 50 km des lagons. Rien ne vous empêche donc de profiter au maximum de cette région tout à fait extraordinaire d'Oman."
+      "lovesCount": 0,
+      "difficulty": 2,
+      "center": {
+        "_latitude": 20.55945587158203,
+        "_longitude": 58.419212341308594
       }
     },
     {
       "id": "v1znCkTWkJFalcYbMBoA",
-      "center": {
-        "_latitude": 20.479206085205078,
-        "_longitude": 57.92465591430664
-      },
+      "otherPhotoFSIds": [],
+      "latMin": 20.3056697845459,
+      "titlePhotoId": "d10c4e36-44c2-45ad-16dd-bb4b2c4b7e00",
       "center_geohash": "t79hw05kn",
-      "createdAt": {
-        "_seconds": 1737366761,
-        "_nanoseconds": 849000000
-      },
-      "description": "The Sugar Dunes are a hallmark of Oman tourism. The sugar-white pristine dunes feature one every toursim agency flyer. They're rather easily accessible, 4WD being not completely necessary but highly recommended.\nThe Khaluf beach next to it is also famous for letting you drive on hard sand for {->km 6} straight.\nNote that the popularity of the place means that the best camp spots on the beach may be busy during wekkends and holidays, but it's never crowded.",
-      "difficulty": 1,
-      "editor": "GOA",
-      "fuelRange": 150,
-      "isFree": false,
+      "lonMin": 57.78319549560547,
       "itineraryId": "Om17",
+      "isFree": false,
+      "editor": "GOA",
+      "latMax": 20.652742385864258,
       "lastUpdate": {
         "_seconds": 1738139698,
         "_nanoseconds": 772000000
       },
-      "latMax": 20.652742385864258,
-      "latMin": 20.3056697845459,
-      "lengthDays": 1,
-      "lengthKM": 71.4,
-      "lonMax": 58.06611633300781,
-      "lonMin": 57.78319549560547,
-      "lovesCount": 0,
       "name": "Sugar Dunes",
-      "otherPhotoFSIds": [],
-      "otherPhotoUrls": [],
       "titlePhotoFSId": "GOA/883f5acb-979e-47ef-95df-ea8e4b9306c4.jpeg",
-      "titlePhotoId": "d10c4e36-44c2-45ad-16dd-bb4b2c4b7e00",
+      "otherPhotoUrls": [],
+      "description": "The Sugar Dunes are a hallmark of Oman tourism. The sugar-white pristine dunes feature one every toursim agency flyer. They're rather easily accessible, 4WD being not completely necessary but highly recommended.\nThe Khaluf beach next to it is also famous for letting you drive on hard sand for {->km 6} straight.\nNote that the popularity of the place means that the best camp spots on the beach may be busy during wekkends and holidays, but it's never crowded.",
+      "translatedDesc": {
+        "fr": "Les Sugar Dunes (\"Dunes de sucre\", par rapport à la couleur du sable) est un haut lieu du tourisme Omanais, elles figurent sur toutes les brochures touristiques. Pour de bonnes raisons, car la vision de ces dunes au coucher de soleil est vraiment magnifique. En plus, la région est relativement facile à atteindre, un 4x4 n'étant pas strictement nécessaire, quoique hautement recommandé. Juste à côté de ces dunes, la plage de Khaluf est également connue, non pas pour ses qualités de baignade, mais pour pouvoir y rouler sur 6 kilomètres sur du sable dur, sans déranger personne.\nNotez que la célébrité des Sugar Dunes implique que vous devrez partager les bivouacs sur la plage lors des week-ends et jours fériés, mais derrière les dunes il est toujours possible de trouver un endroit parfaitement silencieux."
+      },
       "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/d10c4e36-44c2-45ad-16dd-bb4b2c4b7e00/public",
+      "lonMax": 58.06611633300781,
+      "lengthDays": 1,
+      "fuelRange": 150,
+      "lengthKM": 71.4,
+      "createdAt": {
+        "_seconds": 1737366761,
+        "_nanoseconds": 849000000
+      },
       "trackIds": [
         "kEKr8BVuvsDyPwKJ6V10"
       ],
-      "trackPackId": "Fh1H3yWIttiixo79a0Xp",
-      "translatedDesc": {
-        "fr": "Les Sugar Dunes (\"Dunes de sucre\", par rapport à la couleur du sable) est un haut lieu du tourisme Omanais, elles figurent sur toutes les brochures touristiques. Pour de bonnes raisons, car la vision de ces dunes au coucher de soleil est vraiment magnifique. En plus, la région est relativement facile à atteindre, un 4x4 n'étant pas strictement nécessaire, quoique hautement recommandé. Juste à côté de ces dunes, la plage de Khaluf est également connue, non pas pour ses qualités de baignade, mais pour pouvoir y rouler sur 6 kilomètres sur du sable dur, sans déranger personne.\nNotez que la célébrité des Sugar Dunes implique que vous devrez partager les bivouacs sur la plage lors des week-ends et jours fériés, mais derrière les dunes il est toujours possible de trouver un endroit parfaitement silencieux."
-      }
+      "lovesCount": 0,
+      "difficulty": 1,
+      "center": {
+        "_latitude": 20.479206085205078,
+        "_longitude": 57.92465591430664
+      },
+      "trackPackId": "Fh1H3yWIttiixo79a0Xp"
     },
     {
       "id": "w3pk6W8cfgGp4RrsVsmM",
@@ -5534,7 +5612,6 @@
       "trackIds": [
         "Fl4tV48Wq1ifgd10QZkb"
       ],
-      "name": "Nubra Valley",
       "lastUpdate": {
         "_seconds": 1750510364,
         "_nanoseconds": 288000000
@@ -5567,7 +5644,8 @@
       "description": "The Nubra Valley has historically been a vital trading route across the Himalayas. Caravans from Leh would cross Khardung La, Saser La, and the Karakoram Pass to reach Tibet. The altitude of the passes mattered less than their gradient and the feasibility of transporting heavily loaded camels and mules across them.\nToday, the valley has become a dead-end due to geopolitical tensions with Pakistan and China — this territory is claimed by all three countries. The harsh environment of the Siachen Glacier has witnessed the highest-altitude warfare in history, at over {^5000}. In fact, more soldiers — both Indian and Pakistani — have died from exposure than from enemy fire.\nCurrently, the upper reaches of the valley are occupied by the Indian Army and are off-limits to tourists, except for Indian nationals with a special permit to visit the Siachen Base Camp.\nThe lower part of the valley, however, remains open and is incredibly scenic. It also offers several fascinating monasteries well worth a visit.",
       "fuelRange": 125,
       "lengthDays": 1,
-      "lonMax": 77.68704986572266
+      "lonMax": 77.68704986572266,
+      "name": "Nubra Valley"
     },
     {
       "id": "xNcMpyKV4nTiy8FuYxYD",
@@ -5711,45 +5789,45 @@
     },
     {
       "id": "y8HtEaVNESywZdkwOOnS",
-      "center": {
-        "_latitude": 21.788989067077637,
-        "_longitude": 58.84884834289551
-      },
-      "center_geohash": "t7cggns6j",
-      "createdAt": {
-        "_seconds": 1737216530,
-        "_nanoseconds": 649000000
-      },
+      "name": "Wahiba Sands",
+      "titlePhotoFSId": "GOA/c705a5b2-0309-441b-96b2-76c2c7537b3a.jpeg",
+      "otherPhotoUrls": [],
       "description": "Outside of the Empty Quarter, Wahiba Sands is the most famous erg (dune field) of Oman. It's easily reached from Muscat and offers a wide variety of activities: there are several luxury resorts right into the dunes, tent camps for organized overnight tours and of course a spawling playground for the V8 jeeps that Omanis are fond of. \nIf you’re not an expert in soft sand driving or lack a powerful vehicle, don’t worry—there’s an easy route across the dunes suitable for beginners. As long as your vehicle has 4WD, the crossing shouldn’t be a problem. Bikers can also make the journey, but they should have experience with soft sand and rutted tracks, ideally using a lightweight trail or enduro bike. By sticking to the main track and airing down your tires, the likelihood of getting stuck is low. This route serves as an excellent introduction to sand driving before tackling more challenging terrain, such as the Empty Quarter. However, due to the remoteness and sand driving involved, the route is classified as \"difficult.\"\n4wd vans and trucks can also follow this route, if they have some experience. There's no GSM reception in the dunes, so you should be self-sufficient. On the plus side, the itinerary sees some light traffic, so in case of trouble you probably will get help within a few hours.\nIn addition to the thrill of sand driving and the stunning beauty of the dunes, a unique highlight of this journey is a mosque built right in the middle of the dunes, far from any settlement—an unexpected sight.",
-      "difficulty": 2,
-      "editor": "GOA",
-      "fuelRange": 200,
       "isFree": false,
-      "itineraryId": "Om14",
+      "editor": "GOA",
+      "latMax": 22.42009925842285,
       "lastUpdate": {
         "_seconds": 1738141412,
         "_nanoseconds": 426000000
       },
-      "latMax": 22.42009925842285,
-      "latMin": 21.157878875732422,
-      "lengthDays": 1,
-      "lengthKM": 148.8,
-      "lonMax": 58.94015121459961,
-      "lonMin": 58.757545471191406,
-      "lovesCount": 0,
-      "name": "Wahiba Sands",
+      "itineraryId": "Om14",
       "otherPhotoFSIds": [],
-      "otherPhotoUrls": [],
-      "titlePhotoFSId": "GOA/c705a5b2-0309-441b-96b2-76c2c7537b3a.jpeg",
+      "latMin": 21.157878875732422,
       "titlePhotoId": "eef862d2-bfa6-49a2-abc4-f1d6b80c1f00",
-      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/eef862d2-bfa6-49a2-abc4-f1d6b80c1f00/public",
+      "center_geohash": "t7cggns6j",
+      "lonMin": 58.757545471191406,
       "trackIds": [
         "BocITdJ2mIu9lPmo9x7z"
       ],
+      "lovesCount": 0,
+      "difficulty": 2,
+      "center": {
+        "_latitude": 21.788989067077637,
+        "_longitude": 58.84884834289551
+      },
       "trackPackId": "Fh1H3yWIttiixo79a0Xp",
+      "createdAt": {
+        "_seconds": 1737216530,
+        "_nanoseconds": 649000000
+      },
+      "lonMax": 58.94015121459961,
+      "lengthDays": 1,
+      "fuelRange": 200,
+      "lengthKM": 148.8,
       "translatedDesc": {
         "fr": "En dehors de l'\"Empty Quarter\", Wahiba Sand est l'erg le plus célèbre d'Oman. Comme il est facilement accessible depuis Muscat, il attire les locaux pour un week-end ou quelques jours à jouer dans les dunes avec leur jeep V8 puissantes. On y trouve aussi des hôtels de luxe nichées au cœur des dunes et les agences y organisent des excursions avec nuit sous tente. Mais même si vous n'êtes pas un expert de la conduite dans le sable, et si vous n'avez pas de véhicule très puissant, l'itinéraire proposé est accessible à tous - pour autant que vous ayez un 4x4 bien sûr. Les motards pourront aussi le suivre, mais bien sûr il faudra être habitué à rouler dans le sable mou et les ornières, donc c'est plutôt réservé aux trails légers et aux enduros. Quant aux vans et aux camions, 4x4 ou 6x6 bien sûr, tant qu'ils restent sur les traces ils ne devraient pas avoir trop de problème. C'est en tous cas une excellente initiation à la conduite dans le sable si vous êtes un débutant.\nBien sûr, il n'y a plus de réception GSM dans les dunes, donc il vous faudra être en autonomie complète. Mais d'un autre côté, comme c'est un itinéraire bien connu, en cas de coup dur vous ne devriez pas attendre très longtemps sans voir passer quelques voitures qui pourraient vous aider. \nA part le simple plaisir de rouler dans un paysage majestueux, l'itinéraire comporte une curiosité inattendue: une mosquée construite au beau milieu des dunes, loin de toute habitation."
-      }
+      },
+      "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/eef862d2-bfa6-49a2-abc4-f1d6b80c1f00/public"
     },
     {
       "id": "yP9WehJ3KJggwL3mZo51",

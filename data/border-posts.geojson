@@ -4266,9 +4266,10 @@
           "_longitude": 42.2196919
         },
         "countries": "IRQ-SYR",
+        "geohash": "syw40ex3",
         "updatedat": {
-          "_seconds": 1778950988,
-          "_nanoseconds": 590000000
+          "_seconds": 1786976259,
+          "_nanoseconds": 462000000
         }
       }
     },
@@ -4495,28 +4496,28 @@
       "properties": {
         "id": "VHbtbkquEbv7b0JxAJcq",
         "is_open": 4,
-        "comment": "Temporary closed in 2025 when the road was destroyed. Meanwhile the Kodari border post has been reactivated.\nAfter it's fixed, it will again be the only crossing between Tibet and Nepal for tourists.",
         "countries": "NPL-CHN",
         "location": {
           "_latitude": 28.2785926,
           "_longitude": 85.3780088
         },
         "name": "Rasuwagadhi/Gyirong",
-        "comment_translations": {
-          "en": "Temporary closed in 2025 when the road was destroyed. Meanwhile the Kodari border post has been reactivated.\nAfter it's fixed, it will again be the only crossing between Tibet and Nepal for tourists.",
-          "fr": "Fermé temporairement en 2025 suite à la destruction de la route, le poste frontière de Kodari a depuis rouvert ses portes.\n\nUne fois les travaux de réparation terminés, il redeviendra le seul point de passage touristique entre le Tibet et le Népal.",
-          "de": "Der Grenzübergang wurde 2025 aufgrund der Zerstörung der Straße vorübergehend geschlossen. Inzwischen ist der Grenzübergang Kodari wieder in Betrieb. Nach der Instandsetzung wird er wieder der einzige Grenzübergang zwischen Tibet und Nepal für Touristen sein.",
-          "it": "Chiuso temporaneamente nel 2025, quando la strada fu distrutta. Nel frattempo, il valico di frontiera di Kodari è stato riattivato.\nUna volta riparato, tornerà ad essere l'unico valico tra Tibet e Nepal per i turisti.",
-          "es": "Cerrado temporalmente en 2025 cuando la carretera fue destruida. Mientras tanto, el puesto fronterizo de Kodari ha sido reactivado.\nTras su reparación, volverá a ser el único cruce entre el Tíbet y Nepal para turistas.",
-          "pt": "Fechado temporariamente em 2025, quando a estrada foi destruída. Entretanto, o posto fronteiriço de Kodari foi reativado.\nApós ser consertado, voltará a ser a única passagem entre o Tibete e o Nepal para turistas.",
-          "nl": "De grenspost Kodari werd in 2025 tijdelijk gesloten vanwege wegverwoesting. Inmiddels is de grenspost Kodari weer in gebruik genomen.\n\nNa de reparatie zal het opnieuw de enige grensovergang tussen Tibet en Nepal voor toeristen zijn.",
-          "pl": "Tymczasowo zamknięta w 2025 roku, kiedy droga została zniszczona. W międzyczasie ponownie uruchomiono posterunek graniczny w Kodari.\nPo naprawie ponownie będzie to jedyne przejście graniczne między Tybetem a Nepalem dla turystów.",
-          "ru": "Временно закрыт в 2025 году из-за разрушения дороги. Тем временем пограничный пункт Кодари был вновь введен в эксплуатацию.\nПосле его ремонта он снова станет единственным пунктом пересечения границы между Тибетом и Непалом для туристов."
-        },
         "geohash": "tvh8ygfq",
+        "comment": "Temporary closed in 2025 when the road was destroyed. Meanwhile the Kodari border post has been reactivated.\nClosed again after the catastrophic flash flood of August 2026.",
+        "comment_translations": {
+          "en": "Temporary closed in 2025 when the road was destroyed. Meanwhile the Kodari border post has been reactivated.\nClosed again after the catastrophic flash flood of August 2026.",
+          "fr": "Fermé temporairement en 2025 suite à la destruction de la route. Le poste frontière de Kodari a depuis rouvert.\n\nFermé à nouveau après les inondations catastrophiques d'août 2026.",
+          "de": "Der Grenzübergang Kodari wurde 2025 aufgrund der Zerstörung der Straße vorübergehend geschlossen. Inzwischen ist er wieder in Betrieb. Nach der verheerenden Sturzflut im August 2026 wurde er erneut geschlossen.",
+          "it": "Chiusa temporaneamente nel 2025 a causa della distruzione della strada. Nel frattempo, il valico di frontiera di Kodari è stato riattivato.\nChiusa nuovamente dopo la catastrofica alluvione lampo dell'agosto 2026.",
+          "es": "Cerrado temporalmente en 2025 cuando la carretera quedó destruida. Mientras tanto, el puesto fronterizo de Kodari fue reactivado.\nCerrado nuevamente tras las catastróficas inundaciones repentinas de agosto de 2026.",
+          "pt": "Fechado temporariamente em 2025 devido à destruição da estrada. Entretanto, o posto fronteiriço de Kodari foi reativado.\nFechado novamente após a catastrófica enchente repentina de agosto de 2026.",
+          "nl": "Tijdelijk gesloten in 2025 toen de weg werd vernield. De grenspost Kodari is inmiddels heropend.\n\nOpnieuw gesloten na de catastrofale stortvloed van augustus 2026.",
+          "pl": "Tymczasowo zamknięty w 2025 roku, gdy droga została zniszczona. W międzyczasie ponownie uruchomiono posterunek graniczny w Kodari.\nZamknięty ponownie po katastrofalnej powodzi błyskawicznej w sierpniu 2026 roku.",
+          "ru": "Временно закрыт в 2025 году из-за разрушения дороги. Тем временем пограничный пункт Кодари был вновь введен в эксплуатацию.\nВновь закрыт после катастрофического внезапного наводнения в августе 2026 года."
+        },
         "updatedat": {
-          "_seconds": 1769107909,
-          "_nanoseconds": 582000000
+          "_seconds": 1787927624,
+          "_nanoseconds": 770000000
         }
       }
     },
@@ -6118,6 +6119,64 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          84.254068,
+          50.369207
+        ]
+      },
+      "properties": {
+        "id": "dfZ8CTwuX8KUfmw0Jdjz",
+        "is_open": 1,
+        "name": "Ridder-Karagai",
+        "location": {
+          "_latitude": 50.369207,
+          "_longitude": 84.254068
+        },
+        "geohash": "vbgyt1rv",
+        "countries": "RUS_KAZ",
+        "createdat": {
+          "_seconds": 1784195433,
+          "_nanoseconds": 31000000
+        },
+        "updatedat": {
+          "_seconds": 1784195433,
+          "_nanoseconds": 31000000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.178224,
+          41.10171
+        ]
+      },
+      "properties": {
+        "id": "dn6C9XdlwCCFPkvHnaNq",
+        "is_open": 2,
+        "name": "Uchkurgan / Keng-Saï",
+        "location": {
+          "_latitude": 41.10171,
+          "_longitude": 72.178224
+        },
+        "countries": "KGZ_UZB",
+        "createdat": {
+          "_seconds": 1784192447,
+          "_nanoseconds": 705000000
+        },
+        "geohash": "tx73f6qd",
+        "updatedat": {
+          "_seconds": 1784194910,
+          "_nanoseconds": 705000000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           55.9554305,
           24.215886
         ]
@@ -6609,9 +6668,11 @@
           "_latitude": 36.8056659,
           "_longitude": 42.0759303
         },
+        "geohash": "sytcmkqb",
+        "comment": "Depending on the situation in Iraq, you may be escorted from the border to Mosul.",
         "updatedat": {
-          "_seconds": 1778949735,
-          "_nanoseconds": 258000000
+          "_seconds": 1786979330,
+          "_nanoseconds": 485000000
         }
       }
     },
@@ -8475,10 +8536,6 @@
         },
         "name": "Bab al-Hawa / Cilvegözü",
         "comment": "Officially the crossing is restricted (by Turkey) to Turks and Syrians. But as Iraq and Kuwait closed down during the 2026 Iran war, it shortly re-opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey, but that didn't last long.\nA few (foreign) vehicles have been able to cross (April 2026), but only after they got their embassy to write a letter to the Turkish foreign ministry asking for an exception for them specifically.\nSo it is not (yet) to be considered a viable route to/from the Arabic peninsula.",
-        "updatedat": {
-          "_seconds": 1777215694,
-          "_nanoseconds": 67000000
-        },
         "comment_translations": {
           "en": "Officially the crossing is restricted (by Turkey) to Turks and Syrians. But as Iraq and Kuwait closed down during the 2026 Iran war, it shortly re-opened to other nationals exiting Syria, provided they can show an outgoing flight from Turkey, but that didn't last long.\nA few (foreign) vehicles have been able to cross (April 2026), but only after they got their embassy to write a letter to the Turkish foreign ministry asking for an exception for them specifically.\nSo it is not (yet) to be considered a viable route to/from the Arabic peninsula.",
           "fr": "Officiellement, le passage est interdit (par la Turquie) aux Turcs et aux Syriens. Cependant, suite à la fermeture de la frontière irakienne et koweïtienne pendant la guerre Iran-Irak de 2026, elle a brièvement rouvert aux ressortissants d'autres pays quittant la Syrie, à condition qu'ils puissent présenter un billet d'avion au départ de Turquie. Cette mesure fut toutefois de courte durée.\n\nQuelques véhicules étrangers ont pu franchir la frontière (avril 2026), mais uniquement après que leur ambassade ait adressé une lettre au ministère turc des Affaires étrangères pour demander une dérogation spécifique.\n\nPar conséquent, ce passage ne peut (pas encore) être considéré comme une voie d'accès viable à la péninsule arabique.",
@@ -8489,6 +8546,11 @@
           "nl": "Officieel is de grensovergang (door Turkije) beperkt tot Turken en Syriërs. Maar toen Irak en Koeweit zich tijdens de oorlog met Iran in 2026 afsloten, werd de grens kortstondig weer opengesteld voor andere nationaliteiten die Syrië verlieten, mits ze een uitgaande vlucht vanuit Turkije konden aantonen. Dit duurde echter niet lang.\n\nEen paar (buitenlandse) voertuigen hebben de grens kunnen oversteken (april 2026), maar alleen nadat hun ambassade een brief naar het Turkse ministerie van Buitenlandse Zaken had gestuurd met het specifieke verzoek om een uitzondering.\n\nHet is dus (nog) niet te beschouwen als een haalbare route van/naar het Arabische schiereiland.",
           "pl": "Oficjalnie przejście graniczne jest ograniczone (przez Turcję) do Turków i Syryjczyków. Jednak po zamknięciu granic Iraku i Kuwejtu podczas wojny z Iranem w 2026 roku, wkrótce ponownie otwarto je dla innych obywateli opuszczających Syrię, pod warunkiem przedstawienia dowodu odlotu z Turcji. Jednak ta sytuacja nie trwała długo. Kilka (zagranicznych) pojazdów mogło przekroczyć granicę (kwiecień 2026), ale dopiero po tym, jak ich ambasada napisała list do tureckiego MSZ z prośbą o wyjątek specjalnie dla nich. Zatem nie można (jeszcze) uznać tego przejścia za realną trasę do/z Półwyspu Arabskiego.",
           "ru": "Официально (по решению Турции) этот пункт пропуска предназначен только для граждан Турции и Сирии. Однако после закрытия границ Ирака и Кувейта во время войны с Ираном в 2026 году он вскоре вновь открылся для граждан других стран, выезжающих из Сирии, при условии предъявления документов об обратном рейсе из Турции, но это продлилось недолго.\nНесколько (иностранных) автомобилей смогли пересечь границу (в апреле 2026 года), но только после того, как их посольство направило письмо в министерство иностранных дел Турции с просьбой о предоставлении им исключения.\nПоэтому пока этот маршрут не считается жизнеспособным путем на/с Аравийского полуострова."
+        },
+        "geohash": "sy6n4gwq",
+        "updatedat": {
+          "_seconds": 1787925551,
+          "_nanoseconds": 270000000
         }
       }
     },

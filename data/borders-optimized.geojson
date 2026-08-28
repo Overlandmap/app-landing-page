@@ -27543,47 +27543,48 @@
         "geomtype": "MultiLineString",
         "is_open": 2,
         "name": "RUS - KAZ",
-        "border_posts": {
-          "pco7DyzsEKjXrhZ7rGTp": "Karauzek / Kurmangazy",
-          "vSdiAOojVHtZGDJTiaUe": "Polynnyy / Orda",
-          "YSv6TOAkl7ZxGlfX5Qaq": "Vishnevka / Zhanybek",
-          "w8vnn8NwGNXFe47w9jpF": "Veseloyarsk / Auyl",
-          "ty9ywDR5HQLd9Wu0zO7D": "Gornyak / Zhezkent",
-          "YsbVOaRKa4RNh4DHyjqI": "Malinovoe Ozero / Koyanbay",
-          "IB226kMiBA6mUwXbwoRC": "Mikhaylovka / Ube",
-          "xeZdBV3Nc8ZO5h5mmgRO": "Pavlovka / Nayza",
-          "xSY5lB2JbbzMBjyNffyq": "Topolnoe / Baytanat",
-          "WcrV0lTI5WbpzefAjATb": "Kulunda / Sharbakty",
-          "yPZK5gmegz5xjJuaNvTL": "Pavlovka / Kosak",
-          "7GX62rn5dYRzrQKRZzz7": "Olkhovka / Urlyutobe",
-          "nffDEigzPtt4G0dGarZj": "Isilkul / Karakoga",
-          "OvNXJHd3TkJiL8GEdoxU": "Nevolnoe / Amangeldy",
-          "MK3qzThhwhrJCJmUoA3A": "Odesskoe / Bidaik",
-          "Pclxp29gTCUMF2mdzpOp": "Ozinki / Taskala",
-          "IfKChReQMjseN8R3EsHc": "Teploe / Shagan",
-          "0D59FyxuYkD04aYvxD4v": "Ilek / Aksay",
-          "PxjDooBZjCiIKuNMlPZG": "Komsomolskiy / Kondybay",
-          "wcQ056Qx7YCQRNRLhHC6": "Mashtakovo / Syrym",
-          "kUgMpT1DMmOJzORPOcw4": "Orsk / Alimbet",
-          "WToPoJIqXHx9rNq11RHV": "Sagarchin / Zhaysan",
-          "hHO9iVRPh3scF3rKDXzZ": "Svetlyy / Karashatau",
-          "VeKhuAJDNHIdK18KjDDs": "Kazanskoe / Kyzyl Zhar",
-          "yOGju1hDt6Ra3mpWS9Nh": "Zverinogolovskoe / Ubagan",
-          "depu9e9bz68v2nMZebmC": "Petukhovo / Zhana Zhol",
-          "Ur8prBr27nQmbYUkMr2S": "Voskresenskoe / Akbalshyk",
-          "iBDVloBRgzdxG43CkuDa": "Mariinskiy / Zhelkuar",
-          "OoUeMg5qQZlp6WN5XItS": "Nikolaevka / Ayat",
-          "EgbujVzgvsQV1ck2nxzD": "Bugristoe / Kayrak"
-        },
         "bounding_box": [
           46.609,
           46.337,
           87.323,
           55.39
         ],
+        "border_posts": {
+          "iBDVloBRgzdxG43CkuDa": "Mariinskiy / Zhelkuar",
+          "xeZdBV3Nc8ZO5h5mmgRO": "Pavlovka / Nayza",
+          "xSY5lB2JbbzMBjyNffyq": "Topolnoe / Baytanat",
+          "ty9ywDR5HQLd9Wu0zO7D": "Gornyak / Zhezkent",
+          "YsbVOaRKa4RNh4DHyjqI": "Malinovoe Ozero / Koyanbay",
+          "Ur8prBr27nQmbYUkMr2S": "Voskresenskoe / Akbalshyk",
+          "IB226kMiBA6mUwXbwoRC": "Mikhaylovka / Ube",
+          "MK3qzThhwhrJCJmUoA3A": "Odesskoe / Bidaik",
+          "EgbujVzgvsQV1ck2nxzD": "Bugristoe / Kayrak",
+          "WToPoJIqXHx9rNq11RHV": "Sagarchin / Zhaysan",
+          "IfKChReQMjseN8R3EsHc": "Teploe / Shagan",
+          "Pclxp29gTCUMF2mdzpOp": "Ozinki / Taskala",
+          "OvNXJHd3TkJiL8GEdoxU": "Nevolnoe / Amangeldy",
+          "depu9e9bz68v2nMZebmC": "Petukhovo / Zhana Zhol",
+          "7GX62rn5dYRzrQKRZzz7": "Olkhovka / Urlyutobe",
+          "yOGju1hDt6Ra3mpWS9Nh": "Zverinogolovskoe / Ubagan",
+          "VeKhuAJDNHIdK18KjDDs": "Kazanskoe / Kyzyl Zhar",
+          "0D59FyxuYkD04aYvxD4v": "Ilek / Aksay",
+          "vSdiAOojVHtZGDJTiaUe": "Polynnyy / Orda",
+          "wcQ056Qx7YCQRNRLhHC6": "Mashtakovo / Syrym",
+          "WcrV0lTI5WbpzefAjATb": "Kulunda / Sharbakty",
+          "YSv6TOAkl7ZxGlfX5Qaq": "Vishnevka / Zhanybek",
+          "pco7DyzsEKjXrhZ7rGTp": "Karauzek / Kurmangazy",
+          "OoUeMg5qQZlp6WN5XItS": "Nikolaevka / Ayat",
+          "hHO9iVRPh3scF3rKDXzZ": "Svetlyy / Karashatau",
+          "nffDEigzPtt4G0dGarZj": "Isilkul / Karakoga",
+          "PxjDooBZjCiIKuNMlPZG": "Komsomolskiy / Kondybay",
+          "yPZK5gmegz5xjJuaNvTL": "Pavlovka / Kosak",
+          "kUgMpT1DMmOJzORPOcw4": "Orsk / Alimbet",
+          "w8vnn8NwGNXFe47w9jpF": "Veseloyarsk / Auyl",
+          "dfZ8CTwuX8KUfmw0Jdjz": "Ridder-Karagai"
+        },
         "updatedat": {
-          "_seconds": 1769526931,
-          "_nanoseconds": 610000000
+          "_seconds": 1784195433,
+          "_nanoseconds": 253000000
         }
       }
     },
@@ -69677,14 +69678,15 @@
           73.137,
           42.285
         ],
-        "updatedat": {
-          "_seconds": 1769526935,
-          "_nanoseconds": 918000000
-        },
         "border_posts": {
           "1NKE2quODtPBVDDMNNLk": "Madaniyat",
           "CpOK2JFdpXpry4BlCs6Z": "Dostuk",
-          "sixl1sBMTXhOhi2EsU7U": "Khanabad"
+          "sixl1sBMTXhOhi2EsU7U": "Khanabad",
+          "dn6C9XdlwCCFPkvHnaNq": "Uchkurgan / Keng-Saï"
+        },
+        "updatedat": {
+          "_seconds": 1784192448,
+          "_nanoseconds": 42000000
         }
       }
     },
