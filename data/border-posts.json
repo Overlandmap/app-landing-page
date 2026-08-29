@@ -1826,7 +1826,7 @@
   },
   {
     "id": "LTsCDi3XQr465FXmhAYO",
-    "is_open": 0,
+    "is_open": 4,
     "countries": "KAZ-UZB",
     "location": {
       "_latitude": 44.8959036,
@@ -1845,11 +1845,11 @@
       "ru": "Закрыто на реконструкцию. Ожидается открытие в 2026 году."
     },
     "geohash": "tpzz6jpc",
+    "name": "Tezhen",
     "updatedAt": {
-      "_seconds": 1769107908,
-      "_nanoseconds": 215000000
-    },
-    "name": "Tezhen"
+      "_seconds": 1787930852,
+      "_nanoseconds": 895000000
+    }
   },
   {
     "id": "LW4ksNtKpaEoQW8d3DDh",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-08-28T14:44:02.508Z",
+    "generatedAt": "2026-08-29T07:31:41.717Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -913,7 +913,6 @@
         "carnet_comment": "If you have a carnet, then the procedure for importing your vehicle is pretty straightforward.\nThere's a possibility of requesting a VIA (Vehicle Import Approval), this means basically the importation of the vehicle with full payment of taxes and duties, so it is long and expensive. See: https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-road-vehicle-australia",
         "insurance": 3,
         "visa": 0,
-        "visa_comment": "Most Europeans, British, Americans, Candaians nationals can enter visa-free with an ETA. They can stay a maximum of 3 months within a year. Register using the ETA app (20 AUD fee).\nYou can also apply for an eVisa (3 months) or a tourist visa (up to 12 months).",
         "visa_comment_translations": {
           "en": "Most Europeans, British, Americans, Candaians nationals can enter visa-free with an ETA. They can stay a maximum of 3 months within a year. Register using the ETA app (20 AUD fee).\nYou can also apply for an eVisa (3 months) or a tourist visa (up to 12 months).",
           "fr": "La plupart des ressortissants européens, britanniques, américains et canadiens peuvent entrer sans visa avec une ETA. Leur séjour est limité à trois mois par an. L’inscription se fait via l’application ETA (20 AUD).\n\nVous pouvez également demander un visa électronique (3 mois) ou un visa touristique (jusqu’à 12 mois).",
@@ -954,9 +953,13 @@
           "ru": "Австралия",
           "zh": "澳大利亞"
         },
+        "eta": true,
+        "eta_price": "20 AUD",
+        "visa_comment": "Most Europeans, British, Americans, Candaians nationals can enter visa-free with an ETA. They can stay a maximum of 3 months within a year.\nYou can also apply for an eVisa (3 months) or a tourist visa (up to 12 months).",
+        "eta_website": "https://etaaustraliaonline.com/",
         "updatedat": {
-          "_seconds": 1770199380,
-          "_nanoseconds": 781000000
+          "_seconds": 1787987823,
+          "_nanoseconds": 448000000
         }
       },
       "borderIds": [],
@@ -2283,9 +2286,12 @@
           "ru": "Оттава",
           "zh": "渥太華"
         },
+        "eta": true,
+        "eta_website": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+        "eta_price": "7 CAD",
         "updatedat": {
-          "_seconds": 1770199383,
-          "_nanoseconds": 972000000
+          "_seconds": 1787987600,
+          "_nanoseconds": 576000000
         }
       },
       "borderIds": [],
@@ -4588,10 +4594,6 @@
           "zh": "倫敦",
           "pt": "Londres"
         },
-        "updatedat": {
-          "_seconds": 1770199388,
-          "_nanoseconds": 210000000
-        },
         "translations": {
           "nl": "Verenigd Koninkrijk",
           "zh": "英国",
@@ -4603,6 +4605,13 @@
           "es": "Reino Unido",
           "ru": "Великобритания",
           "ja": "イギリス"
+        },
+        "eta": true,
+        "eta_website": "https://www.gov.uk/eta/apply",
+        "eta_price": "20 GBP",
+        "updatedat": {
+          "_seconds": 1787987192,
+          "_nanoseconds": 220000000
         }
       },
       "borderIds": [],
@@ -6298,10 +6307,13 @@
           "ru": "Израиль",
           "zh": "以色列"
         },
-        "visa_comment": "Most nationalities can enter visa-free for 90 days maximum, but they'll need to apply beforehand for an Electronic Travel Authorization (ETA-IL), valid 2 years : https://israel-entry.piba.gov.il/\nIsrael doesn't stamp in your passport, but i you also have a Jordanian exit stamp from a border post with Israel, then you can be refused the entry in some Arab countries.",
+        "visa_comment": "Most nationalities can enter visa-free for 90 days maximum, but they'll need to apply beforehand for an Electronic Travel Authorization (ETA-IL), valid 2 years.\nIsrael doesn't stamp in your passport, but i you also have a Jordanian exit stamp from a border post with Israel, then you can be refused the entry in some Arab countries.",
+        "eta": true,
+        "eta_website": "https://israel-entry.piba.gov.il/",
+        "eta_price": "25 ILS",
         "updatedat": {
-          "_seconds": 1776526497,
-          "_nanoseconds": 206000000
+          "_seconds": 1787987656,
+          "_nanoseconds": 342000000
         }
       },
       "borderIds": [],
@@ -6691,51 +6703,7 @@
         "insurance": 1,
         "stay_duration": "12 months, including time in Russia and Kyrgyzstan.",
         "tip": "The TIP is valid for Russia and Kyrgyzstan too, so crossing from these countries you keep your TIP and do not have to process your vehicle at customs.",
-        "visa_comment_translations": {
-          "en": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days.",
-          "fr": "La plupart des pays européens et quelques autres n'ont pas besoin de visa pour entrer au Kazakhstan pour un séjour allant jusqu'à 30 jours.",
-          "de": "Die meisten europäischen Länder und einige andere benötigen für die Einreise nach Kasachstan für einen Aufenthalt von bis zu 30 Tagen kein Visum.",
-          "it": "La maggior parte dei paesi europei e alcuni altri non necessitano di visto per entrare in Kazakistan per un periodo massimo di 30 giorni.",
-          "es": "La mayoría de los países europeos y algunos otros no necesitan visa para ingresar a Kazajstán por hasta 30 días.",
-          "pt": "A maioria dos países europeus e alguns outros não exigem visto para entrar no Cazaquistão por até 30 dias.",
-          "nl": "Voor de meeste Europese landen en enkele andere landen is geen visum nodig om Kazachstan te bezoeken voor een verblijf van maximaal 30 dagen.",
-          "pl": "Większość krajów europejskich i kilka innych nie potrzebuje wizy, aby wjechać do Kazachstanu na okres do 30 dni.",
-          "ru": "В большинстве европейских стран, а также в некоторых других, виза для въезда в Казахстан на срок до 30 дней не требуется."
-        },
-        "stay_duration_translations": {
-          "en": "12 months, including time in Russia and Kyrgyzstan.",
-          "fr": "12 mois, y compris un séjour en Russie et au Kirghizistan.",
-          "de": "12 Monate, einschließlich der Zeit in Russland und Kirgisistan.",
-          "it": "12 mesi, incluso il periodo trascorso in Russia e Kirghizistan.",
-          "es": "12 meses, incluido tiempo en Rusia y Kirguistán.",
-          "pt": "12 meses, incluindo o período na Rússia e no Quirguistão.",
-          "nl": "12 maanden, inclusief de tijd doorgebracht in Rusland en Kirgizië.",
-          "pl": "12 miesięcy, wliczając czas spędzony w Rosji i Kirgistanie.",
-          "ru": "12 месяцев, включая время, проведенное в России и Кыргызстане."
-        },
         "insurance_comment": "Insurance can be bought at the border.",
-        "insurance_comment_translations": {
-          "en": "Insurance can be bought at the border.",
-          "fr": "L'assurance peut être achetée à la frontière.",
-          "de": "Eine Versicherung kann an der Grenze abgeschlossen werden.",
-          "it": "L'assicurazione può essere stipulata alla frontiera.",
-          "es": "El seguro se puede comprar en la frontera.",
-          "pt": "O seguro pode ser adquirido na fronteira.",
-          "nl": "Een verzekering kan aan de grens worden afgesloten.",
-          "pl": "Ubezpieczenie można kupić na granicy.",
-          "ru": "Страховку можно приобрести на границе."
-        },
-        "tip_translations": {
-          "en": "The TIP is valid for Russia and Kyrgyzstan too, so crossing from these countries you keep your TIP and do not have to process your vehicle at customs.",
-          "fr": "Le TIP est également valable pour la Russie et le Kirghizistan ; ainsi, en traversant ces pays, vous conservez votre TIP et n'avez pas à faire passer votre véhicule en douane.",
-          "de": "Die TIP ist auch für Russland und Kirgisistan gültig, sodass Sie bei der Einreise aus diesen Ländern Ihre TIP behalten und Ihr Fahrzeug nicht beim Zoll abfertigen müssen.",
-          "it": "Il TIP è valido anche per la Russia e il Kirghizistan, quindi se attraversi questi paesi conservi il tuo TIP e non devi presentare il tuo veicolo alla dogana.",
-          "es": "El TIP también es válido para Rusia y Kirguistán, por lo que al cruzar desde estos países conservas tu TIP y no tienes que tramitar tu vehículo en la aduana.",
-          "pt": "O TIP também é válido para a Rússia e o Quirguistão, portanto, ao atravessar esses países, você mantém seu TIP e não precisa processar seu veículo na alfândega.",
-          "nl": "De TIP is ook geldig voor Rusland en Kirgizië, dus bij het oversteken vanuit deze landen behoudt u uw TIP en hoeft u uw voertuig niet bij de douane te laten controleren.",
-          "pl": "TIP obowiązuje również w Rosji i Kirgistanie, więc przekraczając granicę z tymi krajami, zachowujesz TIP i nie musisz przechodzić kontroli celnej pojazdu.",
-          "ru": "Карта TIP действительна также для России и Кыргызстана, поэтому при пересечении границы этих стран вы сохраняете свою карту TIP и вам не нужно проходить таможенный контроль для вашего транспортного средства."
-        },
         "visa": 0,
         "bounding_box": [
           46.60918,
@@ -6763,11 +6731,56 @@
           "zh": "阿斯塔納",
           "pt": "Astana"
         },
-        "visa_url": "https://qazeta.kz/",
         "visa_comment": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days, but they need to obtain an ETA, see the official website (or the associated mobile app).\nYou can stay up to 90 days within a period of 180 days, and up to 120 days during a calendar year.",
+        "insurance_comment_translations": {
+          "en": "Insurance can be bought at the border.",
+          "fr": "L'assurance peut être achetée à la frontière.",
+          "de": "Eine Versicherung kann an der Grenze abgeschlossen werden.",
+          "it": "L'assicurazione può essere acquistata al confine.",
+          "es": "El seguro se puede comprar en la frontera.",
+          "pt": "O seguro pode ser adquirido na fronteira.",
+          "nl": "Een verzekering kan aan de grens worden afgesloten.",
+          "pl": "Ubezpieczenie można kupić na granicy.",
+          "ru": "Страховку можно приобрести на границе."
+        },
+        "stay_duration_translations": {
+          "en": "12 months, including time in Russia and Kyrgyzstan.",
+          "fr": "12 mois, y compris un séjour en Russie et au Kirghizistan.",
+          "de": "12 Monate, einschließlich der Zeit in Russland und Kirgisistan.",
+          "it": "12 mesi, comprensivi di periodi trascorsi in Russia e Kirghizistan.",
+          "es": "12 meses, incluyendo el tiempo en Rusia y Kirguistán.",
+          "pt": "12 meses, incluindo o período na Rússia e no Quirguistão.",
+          "nl": "12 maanden, inclusief de tijd doorgebracht in Rusland en Kirgizië.",
+          "pl": "12 miesięcy, wliczając czas spędzony w Rosji i Kirgistanie.",
+          "ru": "12 месяцев, включая время, проведенное в России и Кыргызстане."
+        },
+        "tip_translations": {
+          "en": "The TIP is valid for Russia and Kyrgyzstan too, so crossing from these countries you keep your TIP and do not have to process your vehicle at customs.",
+          "fr": "Le TIP est également valable pour la Russie et le Kirghizistan ; ainsi, en traversant ces pays, vous conservez votre TIP et n'avez pas à faire passer votre véhicule en douane.",
+          "de": "Die TIP ist auch für Russland und Kirgisistan gültig, sodass Sie bei der Einreise aus diesen Ländern Ihre TIP behalten und Ihr Fahrzeug nicht beim Zoll abfertigen lassen müssen.",
+          "it": "Il TIP è valido anche per la Russia e il Kirghizistan, quindi attraversando il confine da questi paesi mantieni il tuo TIP e non devi sbrigare le pratiche doganali con il tuo veicolo.",
+          "es": "El TIP también es válido para Rusia y Kirguistán, por lo que al cruzar desde estos países conserva su TIP y no tiene que pasar por la aduana para tramitar su vehículo.",
+          "pt": "O TIP também é válido para a Rússia e o Quirguistão, portanto, ao atravessar esses países, você mantém seu TIP e não precisa processar seu veículo na alfândega.",
+          "nl": "De TIP is ook geldig voor Rusland en Kirgizië, dus bij het oversteken vanuit deze landen behoudt u uw TIP en hoeft u uw voertuig niet bij de douane te laten controleren.",
+          "pl": "TIP obowiązuje również w Rosji i Kirgistanie, więc przekraczając granicę z tymi krajami, zachowujesz TIP i nie musisz przechodzić kontroli celnej pojazdu.",
+          "ru": "Карта TIP действительна также для России и Кыргызстана, поэтому при пересечении границы этих стран вы сохраняете свою карту TIP и вам не нужно проходить таможенный контроль для вашего транспортного средства."
+        },
+        "visa_comment_translations": {
+          "en": "Most European countries and a few others don't need a visa to enter Kazakhstan for up to 30 days, but they need to obtain an ETA, see the official website (or the associated mobile app).\nYou can stay up to 90 days within a period of 180 days, and up to 120 days during a calendar year.",
+          "fr": "La plupart des ressortissants européens et quelques autres n'ont pas besoin de visa pour entrer au Kazakhstan pour un séjour de 30 jours maximum, mais doivent obtenir une ETA (autorisation de voyage électronique). Consultez le site web officiel (ou l'application mobile associée).\n\nVous pouvez séjourner jusqu'à 90 jours sur une période de 180 jours et jusqu'à 120 jours par année civile.",
+          "de": "Staatsangehörige der meisten europäischen Länder und einiger anderer Länder benötigen für einen Aufenthalt von bis zu 30 Tagen kein Visum für die Einreise nach Kasachstan. Sie müssen jedoch eine elektronische Reisegenehmigung (eTA) beantragen. Weitere Informationen finden Sie auf der offiziellen Website (oder in der zugehörigen mobilen App).\nSie können sich innerhalb eines Zeitraums von 180 Tagen bis zu 90 Tage und innerhalb eines Kalenderjahres bis zu 120 Tage in Kasachstan aufhalten.",
+          "it": "La maggior parte dei cittadini dei paesi europei e di alcuni altri paesi non necessitano di visto per entrare in Kazakistan per soggiorni fino a 30 giorni, ma devono comunque ottenere un'ETA (Autorizzazione Elettronica di Viaggio), consultando il sito web ufficiale (o l'app mobile dedicata).\nÈ possibile soggiornare fino a 90 giorni in un periodo di 180 giorni e fino a 120 giorni durante un anno solare.",
+          "es": "La mayoría de los países europeos y algunos otros no necesitan visa para entrar a Kazajistán por un máximo de 30 días, pero sí deben obtener una ETA (Autorización Electrónica de Viaje). Consulte el sitio web oficial (o la aplicación móvil correspondiente).\n\nPuede permanecer hasta 90 días dentro de un período de 180 días y hasta 120 días durante un año calendario.",
+          "pt": "A maioria dos países europeus e alguns outros não precisam de visto para entrar no Cazaquistão por até 30 dias, mas precisam obter uma Autorização Eletrônica de Viagem (ETA). Consulte o site oficial (ou o aplicativo móvel correspondente).\nVocê pode permanecer por até 90 dias dentro de um período de 180 dias e até 120 dias durante um ano civil.",
+          "nl": "Voor de meeste Europese landen en een paar andere landen is geen visum nodig om Kazachstan tot 30 dagen te bezoeken, maar wel een ETA (Electronic Travel Authorization). Zie de officiële website (of de bijbehorende mobiele app).\nJe mag maximaal 90 dagen binnen een periode van 180 dagen en maximaal 120 dagen gedurende een kalenderjaar verblijven.",
+          "pl": "Większość krajów europejskich i kilka innych nie potrzebuje wizy, aby wjechać do Kazachstanu na okres do 30 dni, ale konieczne jest uzyskanie ETA, dostępnej na oficjalnej stronie internetowej (lub w powiązanej aplikacji mobilnej).\nMożliwy jest pobyt do 90 dni w okresie 180 dni i do 120 dni w ciągu roku kalendarzowego.",
+          "ru": "Большинству европейских стран и некоторым другим не требуется виза для въезда в Казахстан на срок до 30 дней, но необходимо получить электронное разрешение на въезд (ETA), подробности см. на официальном сайте (или в соответствующем мобильном приложении).\nВы можете находиться в Казахстане до 90 дней в течение 180-дневного периода и до 120 дней в течение календарного года."
+        },
+        "eta": true,
+        "eta_website": "https://qazeta.kz/",
         "updatedat": {
-          "_seconds": 1787925155,
-          "_nanoseconds": 385000000
+          "_seconds": 1787986723,
+          "_nanoseconds": 457000000
         }
       },
       "borderIds": [],
@@ -6798,32 +6811,9 @@
           "-KwAYrltYoSuss-mGgUz": "ETH"
         },
         "carnet_comment": "Theoretically a carnet is needed, but it's always possible to get away without.",
-        "carnet_comment_translations": {
-          "en": "Theoretically a carnet is needed, but it's always possible to get away without.",
-          "fr": "En théorie, un carnet ATA est nécessaire, mais il est toujours possible de s'en passer.",
-          "de": "Theoretisch ist ein Carnet erforderlich, aber es ist immer möglich, auch ohne auszukommen.",
-          "it": "In teoria sarebbe necessario un carnet, ma è sempre possibile farne a meno.",
-          "es": "En teoría se necesita un carnet, pero siempre es posible prescindir de él.",
-          "pt": "Teoricamente, é necessário um carnet, mas é sempre possível dispensar o documento.",
-          "nl": "Theoretisch is een carnet vereist, maar het is altijd mogelijk om er zonder te reizen.",
-          "pl": "Teoretycznie karnet jest potrzebny, ale zawsze można się bez niego obejść.",
-          "ru": "Теоретически необходим карнет, но всегда можно обойтись и без него."
-        },
         "insurance_scheme": "yellow_card",
         "visa": 0,
         "visa_url": "https://etakenya.go.ke/",
-        "visa_comment": "Most nationalities don't need a visa, but need to obtain an ETA online (30$ / 90 days) before entering.",
-        "visa_comment_translations": {
-          "en": "Most nationalities don't need a visa, but need to obtain an ETA online (30$ / 90 days) before entering.",
-          "fr": "La plupart des nationalités n'ont pas besoin de visa, mais doivent obtenir une ETA en ligne (30 $ / 90 jours) avant d'entrer.",
-          "de": "Staatsangehörige der meisten Länder benötigen kein Visum, müssen aber vor der Einreise online eine elektronische Einreisegenehmigung (ETA) beantragen (30 $ / 90 Tage).",
-          "it": "La maggior parte delle nazionalità non ha bisogno di un visto, ma deve ottenere un ETA online (30$ / 90 giorni) prima di entrare.",
-          "es": "La mayoría de las nacionalidades no necesitan visa, pero deben obtener una ETA en línea (30$ / 90 días) antes de ingresar.",
-          "pt": "A maioria das nacionalidades não precisa de visto, mas precisa obter uma Autorização Eletrônica de Viagem (ETA) online (30 dólares / 90 dias) antes de entrar no país.",
-          "nl": "Voor de meeste nationaliteiten is geen visum nodig, maar ze moeten wel online een ETA aanvragen (30 dollar / 90 dagen) voordat ze het land binnenkomen.",
-          "pl": "Obywatele większości krajów nie potrzebują wizy, ale przed wjazdem muszą uzyskać ETA online (30 USD / 90 dni).",
-          "ru": "Гражданам большинства стран виза не требуется, но перед въездом необходимо получить электронное разрешение на въезд (ETA) онлайн (30 долларов США / 90 дней)."
-        },
         "bounding_box": [
           33.9,
           -4.692383,
@@ -6844,9 +6834,35 @@
           "ru": "Найроби",
           "zh": "內羅畢"
         },
+        "eta": true,
+        "eta_website": "https://etakenya.go.ke/",
+        "eta_price": "30 USD",
+        "visa_comment": "Most nationalities don't need a visa, but all travelers need to obtain an ETA online (30$ / 90 days) before entering.",
         "updatedat": {
-          "_seconds": 1770199391,
-          "_nanoseconds": 787000000
+          "_seconds": 1787988004,
+          "_nanoseconds": 704000000
+        },
+        "visa_comment_translations": {
+          "en": "Most nationalities don't need a visa, but all travelers need to obtain an ETA online (30$ / 90 days) before entering.",
+          "fr": "La plupart des nationalités n'ont pas besoin de visa, mais tous les voyageurs doivent obtenir une ETA en ligne (30 $ / 90 jours) avant d'entrer.",
+          "de": "Staatsangehörige der meisten Länder benötigen kein Visum, aber alle Reisenden müssen vor der Einreise online eine elektronische Einreisegenehmigung (ETA) beantragen (30 $ / 90 Tage).",
+          "it": "La maggior parte delle nazionalità non necessita di visto, ma tutti i viaggiatori devono ottenere un'ETA online (30$ / 90 giorni) prima dell'ingresso.",
+          "es": "La mayoría de las nacionalidades no necesitan visa, pero todos los viajeros deben obtener una ETA en línea (30$ / 90 días) antes de entrar.",
+          "pt": "A maioria das nacionalidades não precisa de visto, mas todos os viajantes precisam obter uma Autorização Eletrônica de Viagem (ETA) online (US$ 30 / 90 dias) antes de entrar no país.",
+          "nl": "Voor de meeste nationaliteiten is geen visum nodig, maar alle reizigers moeten wel online een ETA aanvragen (30 dollar / 90 dagen) voordat ze het land binnenkomen.",
+          "pl": "Obywatele większości krajów nie potrzebują wizy, ale wszyscy podróżni muszą uzyskać ETA online (30 USD / 90 dni) przed wjazdem.",
+          "ru": "Гражданам большинства стран виза не требуется, но всем путешественникам необходимо получить электронное разрешение на въезд (ETA) онлайн (30 долларов США / 90 дней) до въезда."
+        },
+        "carnet_comment_translations": {
+          "en": "Theoretically a carnet is needed, but it's always possible to get away without.",
+          "fr": "En théorie, un carnet ATA est nécessaire, mais il est toujours possible de s'en passer.",
+          "de": "Theoretisch ist ein Carnet erforderlich, aber es ist immer möglich, auch ohne auszukommen.",
+          "it": "In teoria è necessario un carnet, ma è sempre possibile farne a meno.",
+          "es": "En teoría se necesita un carnet, pero siempre es posible prescindir de él.",
+          "pt": "Teoricamente, é necessário um carnet, mas é sempre possível dispensar o documento.",
+          "nl": "Theoretisch is een carnet vereist, maar het is altijd mogelijk om er zonder te reizen.",
+          "pl": "Teoretycznie karnet jest potrzebny, ale zawsze można się bez niego obejść.",
+          "ru": "Теоретически необходим карнет, но всегда можно обойтись и без него."
         }
       },
       "borderIds": [],
@@ -7221,9 +7237,11 @@
           "zh": "首尔",
           "pt": "Seul"
         },
+        "eta": true,
+        "eta_website": "https://www.k-eta.go.kr/portal/newapply/index.do",
         "updatedat": {
-          "_seconds": 1770199392,
-          "_nanoseconds": 239000000
+          "_seconds": 1787987060,
+          "_nanoseconds": 584000000
         }
       },
       "borderIds": [],
@@ -10080,9 +10098,12 @@
           "ru": "Новая Зеландия",
           "zh": "紐西蘭"
         },
+        "eta_website": "https://www.immigration.govt.nz/visas/new-zealand-electronic-travel-authority-nzeta/",
+        "eta": true,
+        "eta_price": "17 NZD",
         "updatedat": {
-          "_seconds": 1770199396,
-          "_nanoseconds": 862000000
+          "_seconds": 1787987214,
+          "_nanoseconds": 106000000
         }
       },
       "borderIds": [],
@@ -14269,9 +14290,12 @@
           "ru": "Вашингтон",
           "pt": "Washington, D.C."
         },
+        "eta": true,
+        "eta_website": "https://esta.eta.travel/",
+        "eta_price": "40.27 USD",
         "updatedat": {
-          "_seconds": 1770199402,
-          "_nanoseconds": 760000000
+          "_seconds": 1787987450,
+          "_nanoseconds": 611000000
         }
       },
       "borderIds": [],
@@ -15014,7 +15038,7 @@
         },
         "insurance_comment_translations": {
           "en": "Note that insurance is automatically provided to all vehicles driving in South Africa, funded by a levy on fuel sales. However, this insurance only covers injuries or death caused to other people; it does not cover damage to third-party vehicles.",
-          "fr": "Il convient de noter que tous les véhicules circulant en Afrique du Sud sont automatiquement assurés, grâce à une taxe sur les ventes de carburant. Toutefois, cette assurance ne couvre que les blessures ou le décès causés à autrui ; elle ne couvre pas les dommages causés aux véhicules de tiers.",
+          "fr": "Il convient de noter que tous les véhicules circulant en Afrique du Sud sont automatiquement assurés, grâce à une taxe sur les ventes de carburant. Toutefois, cette assurance ne couvre que les blessures aux personnes et les décès ; elle ne couvre pas les dommages causés aux véhicules.",
           "de": "Beachten Sie, dass in Südafrika alle Fahrzeuge automatisch versichert sind. Die Versicherung wird durch eine Abgabe auf den Kraftstoffverkauf finanziert. Diese Versicherung deckt jedoch nur Verletzungen oder Todesfälle anderer Personen ab; Schäden an Fahrzeugen Dritter sind nicht abgedeckt.",
           "it": "Si noti che in Sudafrica tutti i veicoli che circolano sono assicurati automaticamente e finanziati da un'imposta sulle vendite di carburante. Tuttavia, questa assicurazione copre solo lesioni o decessi causati a terzi; non copre i danni ai veicoli di terzi.",
           "es": "Cabe destacar que todos los vehículos que circulan por Sudáfrica cuentan con seguro automático, financiado mediante un impuesto sobre la venta de combustible. Sin embargo, este seguro solo cubre lesiones o fallecimiento de otras personas; no cubre daños a vehículos de terceros.",
