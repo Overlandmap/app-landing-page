@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:31:41.782Z",
+  "generatedAt": "2026-10-26T16:10:45.499Z",
   "version": "1.1.0",
   "files": {
     "countries.json": {
@@ -41,7 +41,7 @@
     "trackpack.json": {
       "description": "Track packs with editor=GOA filter",
       "recordCount": 6,
-      "sizeEstimate": "62 KB"
+      "sizeEstimate": "63 KB"
     }
   },
   "statistics": {

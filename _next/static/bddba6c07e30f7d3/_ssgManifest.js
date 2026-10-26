@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fborder\u002F[id]","\u002Fborder_post\u002F[id]","\u002Fcountry\u002F[code]","\u002Fitinerary\u002F[id]","\u002Fzone\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

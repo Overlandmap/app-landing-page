@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-08-29T07:31:41.780Z",
+    "generatedAt": "2026-10-26T16:10:45.498Z",
     "totalTrackPacks": 6,
     "editor": "GOA"
   },
@@ -31,8 +31,6 @@
       "offlineMap_version": 5,
       "hillshade": "9VtINeO6dqaMUIErIzGq",
       "hillshade_version": 1,
-      "contour_version": 1,
-      "contour": "2yqcncJ2ZS0TPr3uBIzX",
       "titlePhotoId": "3e3e7e71-1a7e-400c-7096-930659bbdd00",
       "mbtilesName": "",
       "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/3e3e7e71-1a7e-400c-7096-930659bbdd00/public",
@@ -54,9 +52,7 @@
         "_seconds": 1753291432,
         "_nanoseconds": 244622000
       },
-      "version": 21,
       "trackPackZip_version": 23,
-      "trackPackZip": "FctT1bye6fwELl0Y7Owy",
       "freeItineraryZip": "NRwjzZRALifL6L9Ys7XY",
       "freeItineraryZip_version": 22,
       "pmtilesMap_version": 1,
@@ -64,46 +60,64 @@
       "translatedName": {
         "fr": "Tadjikistan",
         "de": "Tadschikistan"
-      }
+      },
+      "dem_version": 1,
+      "dem": "PUGMy9C5wmj06TWhyA9V",
+      "contour_version": 3,
+      "contour": "0oV3x4JageQfqedNAoho",
+      "trackPackZip": "gOITEQECWi3ridTQa8vf",
+      "version": 23
     },
     {
       "id": "D7LkvGDh8YTAz0EJ2LGj",
-      "createdAt": {
-        "_seconds": 1786182191,
-        "_nanoseconds": 90412000
-      },
       "editor": "GOA",
-      "generationDate": {
-        "_nanoseconds": 841408967,
-        "_seconds": 1786142873
-      },
-      "lastUpdate": {
-        "_seconds": 1786107907,
-        "_nanoseconds": 498000000
-      },
-      "latMax": 28.86751937866211,
-      "latMin": 28.315237045288086,
-      "lonMax": 35.93285369873047,
-      "lonMin": 35.56882858276367,
-      "name": "Saudi Arabia Northwest",
-      "nbItineraries": 2,
       "online": false,
       "region": "Middle-East",
       "titlePhotoId": "636ee493-8ddf-47bf-211e-77016f9bfe00",
       "titlePhotoUrl": "https://imagedelivery.net/kLFoGYyvldGdieKRrzQmRQ/636ee493-8ddf-47bf-211e-77016f9bfe00/public",
-      "translatedName": {
-        "fr": "Arabie Saoudite (nord-ouest)"
-      },
       "type": "itineraries",
-      "updatedAt": {
-        "_seconds": 1786182190,
-        "_nanoseconds": 946942000
-      },
       "vehicle": "4x4",
-      "version": 0,
-      "trackPackZip": "g9hj2AP5xHd2eIzNm84W",
-      "trackPackZip_version": 0,
-      "price": 19
+      "price": 19,
+      "name": "Saudi Arabia",
+      "translatedName": {
+        "de": "Saudi-Arabien",
+        "es": "Arabia Saudí",
+        "fr": "Arabie Saoudite",
+        "it": "Arabia Saudita",
+        "nl": "Saoedi-Arabië",
+        "pt": "Arábia Saudita",
+        "ru": "Саудовская Аравия"
+      },
+      "createdAt": {
+        "_seconds": 1788599083,
+        "_nanoseconds": 530520000
+      },
+      "lonMax": 46.20880126953125,
+      "lastUpdate": {
+        "_seconds": 1788599083,
+        "_nanoseconds": 530520000
+      },
+      "generationDate": "2026-09-05T09:00:14Z",
+      "latMin": 22.888322830200195,
+      "nbItineraries": 21,
+      "latMax": 29.027639389038086,
+      "lonMin": 34.82626724243164,
+      "updatedAt": {
+        "_seconds": 1788599083,
+        "_nanoseconds": 530519000
+      },
+      "beta": true,
+      "freeItineraryZip_version": 2,
+      "dem_version": 6,
+      "dem": "j00jxo1covUtMgHzayg4",
+      "contour_version": 2,
+      "contour": "8cSiu60XoKzpS9yk9pmp",
+      "pmtilesMap_version": 3,
+      "pmtilesMap": "o5XhLUv2rN2O8paXAoxg",
+      "freeItineraryZip": "TkJwK4lZDU5l1I3p4taK",
+      "trackPackZip_version": 4,
+      "version": 4,
+      "trackPackZip": "TtRc5xC7v6ixN8sOFs40"
     },
     {
       "id": "Fh1H3yWIttiixo79a0Xp",
@@ -156,8 +170,6 @@
       "hillshade": "tXUV56NHn9sbBGF83PTM",
       "hillshade_version": 2,
       "nbItineraries": 22,
-      "pmtilesMap_version": 1,
-      "pmtilesMap": "iEmc5tf0iQ9HzMAKzrfm",
       "lastUpdate": {
         "_seconds": 1774982988,
         "_nanoseconds": 154000000
@@ -172,7 +184,6 @@
         "fr": "Oman",
         "ru": "Оман"
       },
-      "version": 9,
       "translatedDesc": {
         "fr": "Oman est une destination de rêve pour les voyageurs en raison de son incroyable diversité, depuis les routes escarpées de [Musandam](::Om1) jusqu'aux baobabs du [Dhofar](::Om21) dans l'extrême sud, en passant par les champs de dunes immenses de [Rub Al-Khali](::Om23). Avec ses vastes déserts, ses chaînes montagneuses spectaculaires, son littoral immaculé et sa culture accueillante, le pays offre une variété incroyable de paysages et d'expériences, où les distances à parcourir restent modestes. Campez sous les étoiles dans les sables de [Wahiba](::Om14), parcourez les lacets du [Jebel Shams](::Om7) pour admirer des vues époustouflantes sur les canyons, partez au bout du monde sur les plages de rêve de [Bar al Hikman](::Om16) ou suivez la [route côtière](::Om18) pour découvrir des wadis cachés et des vasques turquoise pour se baigner. Les routes bien entretenues d'Oman, les possibilités infinie de camping suavages et son faible taux de criminalité en font l'un des pays les plus sûrs et les plus gratifiants pour une aventure inoubliable au Moyen-Orient."
       },
@@ -183,7 +194,14 @@
       "trackPackZip_version": 10,
       "freeItineraryZip": "YhWPsFI3dGswbszfFzLF",
       "freeItineraryZip_version": 10,
-      "trackPackZip": "qWJ0iqlsT06MJwCqkVhb"
+      "dem_version": 5,
+      "dem": "JtXRHhtoSc0KqNse5UXE",
+      "contour_version": 1,
+      "contour": "4qVRmdHcOIsB3EN0Pljq",
+      "pmtilesMap_version": 3,
+      "pmtilesMap": "jbaHlwghpSZuUApthg1Y",
+      "version": 10,
+      "trackPackZip": "9XF6UEpkesqT3lAvBWdm"
     },
     {
       "id": "MKPLji4UsbEGj2Qh4XKU",
@@ -272,8 +290,6 @@
       "offlineMap_version": 1,
       "hillshade": "1CDAo9sbyqhFxoe9APGM",
       "hillshade_version": 1,
-      "contour_version": 1,
-      "contour": "9gw7U4WW4tczwYzzeRbO",
       "lonMax": 79.44384002685547,
       "latMin": 31.085987091064453,
       "latMax": 34.94496154785156,
@@ -321,12 +337,16 @@
         "pl": "Przez wiele lat Ladakh był mitycznym krajem; położonym wysoko w Himalajach, niedostępnym przez większość roku, zamieszkanym przez kochających naturę Ladakhów, którzy pielęgnują swoją kulturę. Do lat 70., kiedy droga Srinagar-Leh została otwarta dla cywilów, do Ladakhu można było dotrzeć tylko pieszo lub samolotem. Następnie, w latach 90., wytyczono nową drogę z Manali, prowadzącą przez najwyższe przełęcze kraju, przekraczające 5000 m n.p.m. (16 500 stóp). Wówczas była to prawdziwa przygoda, niczym wyprawa. Niedawno droga została ulepszona, odnowiona, a sprzęt do odśnieżania pozwala na jej wcześniejsze otwarcie w sezonie, w czerwcu, a nawet maju.\nDostępność Ladakhu znacznie wzrosła w ciągu ostatnich kilku lat, napędzana koniecznością szybkiego przerzutu wojsk na granicę z Indiami w razie problemów oraz gwałtownym wzrostem turystyki krajowej. W 2020 roku otwarto tunel Atal, skracając podróż do Ladakhu o kilka godzin i umożliwiając Lahaulowi połączenie z resztą kraju przez cały rok. Mimo to autostrada Manali-Leh jest zamknięta zimą z powodu obfitych opadów śniegu na Baralacha La.\nW międzyczasie rozpoczęto prace nad drążeniem tuneli na autostradzie Srinagar-Leh, aby umożliwić jej całoroczne funkcjonowanie. Otwarcie tunelu Z-Morh (pomiędzy Srinagarem a Sonamargiem) planowane jest na 2023 rok, a budowa dłuższego tunelu Zoji La (pomiędzy Sonamargiem a Kargilem) potrwa kolejne kilka lat. Po jego otwarciu Ladakh będzie po raz pierwszy możliwy dojazd drogą lądową zimą.\nNiestety, droga ta biegnie bardzo blisko granicy z Pakistanem, co oznacza, jak pokazała wojna w Kargil w 1999 roku, że jest ona łatwo odcięta. W związku z tym rozpoczęto kolejny projekt budowy całorocznej drogi, która miałaby przebiegać z dala od granic Chin i Pakistanu: Darcha-Padum-Nimmu. To marzenie zrodziło się już w latach 70. XX wieku, aby zapewnić lepsze połączenie z Zanskarem. W 2019 roku otwarto drogę gruntową nad Shinku La, którą w 2020 roku ulepszono, kładąc nawierzchnię drogi Shinku La po stronie Darchy. Rozpoczęto również projekt budowy tunelu pod Shinku La, dzięki czemu po ukończeniu drogi „Chadar” wzdłuż rzeki Zanskar, Leh będzie dostępny przez cały rok również od strony Himachal Pradesh. Daje to kierowcom, rowerzystom i rowerzystom trzy różne sposoby dotarcia do Ladakhu, a także dwie alternatywne drogi do Lahaul ze Spiti i przełęczy Sach. W samym Ladakhu BRO (Border Roads Organisation), oddział indyjskiej armii odpowiedzialny za te tytaniczne projekty, również aktywnie otwiera nowe drogi na obrzeża kraju: droga Shyok-DBO wzdłuż granicy tybetańskiej została otwarta w 2019 roku (wyłącznie do użytku wojskowego); droga do Umling La, najwyższej przełęczy na świecie, została zbudowana w 2017 roku, choć dopiero po jej odsłonięciu w 2021 roku została oficjalnie otwarta dla turystów. Co roku trwają prace nad nowymi drogami, np. nad drogą Chard, która została otwarta w 2024 roku, nową drogą z Hanle do Ryul Tso i drogą Ming La, która po ukończeniu stanie się najwyższą drogą na świecie.",
         "ru": "На протяжении многих лет Ладакх был мифической страной; расположенный высоко в Гималаях, недоступный большую часть года, населенный любящими природу ладакхцами, которые бережно хранят свою культуру. До 70-х годов, когда дорога Сринагар-Лех была открыта для гражданского населения, в Ладакх можно было добраться только пешком или на самолете. Затем, в 90-х годах, была проложена новая дорога из Манали через самые высокие перевалы страны, превышающие 5000 метров (16 500 футов). В то время это было само по себе приключением, скорее похоже на экспедицию. Совсем недавно дорога была улучшена, отремонтирована, а снегоуборочная техника позволяет открывать ее раньше в сезоне, в июне и даже мае.\nДоступность Ладакха значительно возросла за последние несколько лет, чему способствовала необходимость оперативной доставки войск к индийской границе в случае возникновения проблем, а также экспоненциальный рост внутреннего туризма. В 2020 году открылся туннель Атал, сокративший время в пути до Ладакха на несколько часов и позволивший круглый год связывать Лахаул с остальной частью страны. Несмотря на это, трасса Манали-Лех закрыта зимой из-за сильных снегопадов на перевале Баралача Ла.\nТем временем начались работы по бурению туннелей на трассе Сринагар-Лех, чтобы обеспечить ее круглогодичное движение. Ожидается, что туннель З-Морх (между Сринагаром и Сонамаргом) откроется в 2023 году, а более длинный туннель Зоджи Ла (между Сонамаргом и Каргилом) откроется еще через несколько лет. После его открытия Ладакх впервые станет доступен по дороге зимой.\nК сожалению, эта дорога проходит очень близко к пакистанской границе, а это значит, как показала Каргильская война 1999 года, что ее легко перекрыть. В результате был начат еще один проект по строительству всепогодной дороги, которая находилась бы вдали от китайской и пакистанской границ: дорога Дарча-Падум-Нимму, давняя мечта, которая фактически зародилась еще в 70-х годах, чтобы обеспечить лучшее сообщение с Занскаром. В 2019 году была открыта грунтовая дорога через перевал Шинку Ла, которая была улучшена в 2020 году с укладкой асфальта на дороге Шинку Ла со стороны Дарчи. Начался проект по бурению туннеля под перевалом Шинку Ла, так что после завершения строительства дороги «Чадар» вдоль реки Занскар, Лех станет доступен круглый год и со стороны Химачал-Прадеша.\nЭто дает нам, водителям, мотоциклистам и велосипедистам, три разных способа добраться до Ладакха, а также два дополнительных альтернативных пути в Лахаул со стороны Спити и перевала Сач. В самом Ладакхе BRO (Организация по строительству приграничных дорог), подразделение индийской армии, ответственное за эти грандиозные проекты, также занято открытием новых дорог на окраины страны: дорога Шайок-DBO вдоль тибетской границы была открыта в 2019 году (только для военного использования); дорога к перевалу Умлинг-Ла, самому высокому перевалу в мире, была построена в 2017 году, хотя официально для туристов она была открыта только после того, как ее заасфальтировали в 2021 году. Новые дороги строятся каждый год, например, дорога Чард, открытая в 2024 году, новая дорога от Ханле до озера Рюл-Цо и дорога Минг-Ла, которая после завершения строительства станет самой высокой в мире.\n\n"
       },
-      "pmtilesMap_version": 1,
-      "pmtilesMap": "gyCcUskMc6NHIJxV3Pir",
-      "trackPackZip_version": 20,
-      "freeItineraryZip_version": 20,
-      "trackPackZip": "R6cfaoZ8upeCpQcBMtVB",
-      "freeItineraryZip": "0fbBeT23Zquiu9TSq3DR"
+      "contour_version": 2,
+      "contour": "V15jINpjTjLnhxDoSzOi",
+      "dem_version": 6,
+      "dem": "cZHDFzCqu09sVkWG8nZe",
+      "trackPackZip": "jZhuNPz71LIVnvt0hlVC",
+      "trackPackZip_version": 21,
+      "freeItineraryZip_version": 21,
+      "pmtilesMap_version": 4,
+      "pmtilesMap": "RcoFi8JlqZg1NCwakJzD",
+      "freeItineraryZip": "7TXC2oAxeqDYzpUq79xc"
     },
     {
       "id": "uisU0mliXUGARtjlVVZM",
@@ -366,7 +386,6 @@
         "_nanoseconds": 682000000
       },
       "description": "Imagine the vastness and freedom of rolling green steppes, emerald lakes, golden sand dunes and lost oases of the Gobi Desert. Perhaps you'd like to follow in the footsteps of the great Genghis Khan, explore mysterious archaeological remains and dinosaur fossils; meet nomadic peoples whose millennia-old traditions have been preserved from modernity, and whose hospitality is so generous. This guide is here to help you plan your trip to Mongolia, and to take you on a tour of the country's best-known and to the most unusual places.",
-      "version": 36,
       "updatedAt": {
         "_seconds": 1747645795,
         "_nanoseconds": 346973000
@@ -379,14 +398,17 @@
       "offlineMap_version": 2,
       "hillshade": "EFG0eigngghFEfI6rmjX",
       "hillshade_version": 2,
-      "contour_version": 4,
-      "contour": "12wVB1LVLUJywh3SutXJ",
-      "freeItineraryZip_version": 42,
-      "freeItineraryZip": "a8xtD5mNfgCN9TEEu5bz",
-      "pmtilesMap_version": 5,
-      "pmtilesMap": "PNSR1Rb2hWxc9rJYpBMo",
-      "trackPackZip_version": 45,
-      "trackPackZip": "WxTMVsrEx5htHR1BgeoX"
+      "trackPackZip_version": 46,
+      "freeItineraryZip_version": 46,
+      "version": 46,
+      "pmtilesMap_version": 6,
+      "pmtilesMap": "nmaXu9pIYVZYtjzl7mu5",
+      "dem_version": 1,
+      "dem": "0bwEikx9UptlAtTat9O2",
+      "contour_version": 5,
+      "contour": "PVnntpukj3L6g7ljrSUa",
+      "trackPackZip": "5PfXqe3Hbe5dLTbC7vT2",
+      "freeItineraryZip": "nGBnShZ03gnt6aBLawYh"
     }
   ]
 }

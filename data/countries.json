@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-08-29T07:31:41.717Z",
+    "generatedAt": "2026-10-26T16:10:45.441Z",
     "totalCountries": 242,
     "countriesWithIso3": 0,
     "countriesWithBorders": 0
@@ -9271,7 +9271,6 @@
         "overlanding": 3,
         "population": 30331000,
         "timezone": "Asia/Kuala_Lumpur",
-        "stay_duration": "180 days within 1 year",
         "tip": "You need an ICP (International Circulation Permit) to enter with a foreign vehicle:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nThere are JPJ offices at the border which can provide this document.\nIt's valid for 90 days, and can be extended for another 90 days.",
         "visa_comment": "Visa-free entry for 90 days for most Europeans, Americans, Australians, etc.\nYou need to fill in a Digital Arrival Card:\nhttps://imigresen-online.imi.gov.my/mdac/main",
         "visa": 0,
@@ -9323,17 +9322,6 @@
           "pl": "Karnet jest wymagany tylko w przypadku wysyłki do kraju. Nie jest sprawdzany, jeśli wjeżdżasz z Tajlandii.\nJest on również potrzebny w przypadku wysyłki z Malezji Zachodniej na Borneo.",
           "ru": "Карнет требуется только при ввозе груза в страну; его не проверяют при въезде из Таиланда.\nОн также необходим при ввозе груза из Западной Малайзии на Борнео."
         },
-        "tip_translations": {
-          "en": "You need an ICP (International Circulation Permit) to enter with a foreign vehicle:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nThere are JPJ offices at the border which can provide this document.\nIt's valid for 90 days, and can be extended for another 90 days.",
-          "fr": "Vous avez besoin d'un permis de circulation international (PCI) pour entrer au Japon avec un véhicule étranger :\n\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\n\nDes bureaux du JPJ sont situés à la frontière et peuvent vous délivrer ce document.\n\nIl est valable 90 jours et peut être prolongé de 90 jours supplémentaires.",
-          "de": "Für die Einreise mit einem ausländischen Fahrzeug benötigen Sie eine internationale Verkehrsgenehmigung (ICP):\n\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nDiese Genehmigung erhalten Sie bei den JPJ-Büros an der Grenze.\nSie ist 90 Tage gültig und kann um weitere 90 Tage verlängert werden.",
-          "it": "Per entrare con un veicolo straniero è necessario un ICP (Permesso di Circolazione Internazionale):\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nGli uffici JPJ alla frontiera possono rilasciare questo documento.\nÈ valido per 90 giorni e può essere prorogato per altri 90 giorni.",
-          "es": "Necesita un Permiso de Circulación Internacional (ICP) para entrar con un vehículo extranjero:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nHay oficinas del JPJ en la frontera que pueden proporcionar este documento.\nTiene una validez de 90 días y puede prorrogarse por otros 90 días.",
-          "pt": "Você precisa de uma Permissão de Circulação Internacional (ICP) para entrar com um veículo estrangeiro:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\n\nExistem escritórios do JPJ na fronteira que podem fornecer este documento.\nEle é válido por 90 dias e pode ser prorrogado por mais 90 dias.",
-          "nl": "Voor het binnenkomen met een buitenlands voertuig heeft u een ICP (International Circulation Permit) nodig:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\n\nEr zijn JPJ-kantoren aan de grens waar u dit document kunt aanvragen.\n\nHet is 90 dagen geldig en kan met nog eens 90 dagen worden verlengd.",
-          "pl": "Aby wjechać zagranicznym pojazdem, potrzebujesz ICP (Międzynarodowego Zezwolenia na Ruch Drogowy):\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nNa granicy znajdują się placówki JPJ, które mogą wydać ten dokument.\nJest on ważny przez 90 dni i można go przedłużyć o kolejne 90 dni.",
-          "ru": "Для въезда на иностранном транспортном средстве вам потребуется разрешение на международное передвижение (ICP):\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nНа границе есть офисы JPJ, где можно получить этот документ.\nОн действителен в течение 90 дней и может быть продлен еще на 90 дней."
-        },
         "bounding_box": [
           99.646289,
           0.861963,
@@ -9354,9 +9342,21 @@
           "ru": "Куала-Лумпур",
           "zh": "吉隆坡"
         },
+        "tip_translations": {
+          "nl": "Voor het binnenkomen met een buitenlands voertuig heeft u een ICP (International Circulation Permit) nodig:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\n\nEr zijn JPJ-kantoren aan de grens waar u dit document kunt aanvragen.\n\nHet is 90 dagen geldig en kan met nog eens 90 dagen worden verlengd.",
+          "fr": "Vous avez besoin d'un permis de circulation international (ICP) pour entrer au Myanmar avec un véhicule étranger :\n\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\n\nDes bureaux du JPJ sont situés à la frontière et peuvent vous délivrer ce document.\n\nIl est valable 90 jours et peut être prolongé de 90 jours supplémentaires.",
+          "en": "You need an ICP (International Circulation Permit) to enter with a foreign vehicle:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nThere are JPJ offices at the border which can provide this document.\nIt's valid for 90 days, and can be extended for another 90 days.",
+          "ru": "Для въезда на иностранном транспортном средстве вам потребуется разрешение на международное передвижение (ICP):\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nНа границе есть офисы JPJ, где можно получить этот документ.\nОн действителен в течение 90 дней и может быть продлен еще на 90 дней.",
+          "es": "Necesita un Permiso de Circulación Internacional (ICP) para entrar con un vehículo extranjero:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nHay oficinas del JPJ en la frontera que pueden proporcionar este documento.\nTiene una validez de 90 días y puede prorrogarse por otros 90 días.",
+          "it": "Per entrare con un veicolo straniero è necessario un ICP (Permesso di Circolazione Internazionale):\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nGli uffici JPJ alla frontiera possono rilasciare questo documento.\nÈ valido per 90 giorni e può essere prorogato per altri 90 giorni.",
+          "pt": "Você precisa de uma Permissão de Circulação Internacional (ICP) para entrar com um veículo estrangeiro:\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\n\nExistem escritórios do JPJ na fronteira que podem fornecer este documento.\nEle é válido por 90 dias e pode ser prorrogado por mais 90 dias.",
+          "pl": "Aby wjechać zagranicznym pojazdem, potrzebujesz ICP (Międzynarodowego Zezwolenia na Ruch Drogowy):\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nNa granicy znajdują się placówki JPJ, które mogą wydać ten dokument.\nJest on ważny przez 90 dni i można go przedłużyć o kolejne 90 dni.",
+          "de": "Für die Einreise mit einem ausländischen Fahrzeug benötigen Sie eine internationale Verkehrsgenehmigung (ICP):\n\nhttps://www.jpj.gov.my/en/procedure-for-applying-for-icp-permit-for-foreign-vehicles/.\nDiese Genehmigung erhalten Sie bei den JPJ-Büros an der Grenze.\nSie ist 90 Tage gültig und kann um weitere 90 Tage verlängert werden."
+        },
+        "stay_duration": "90 days if entering with a TIP, with a CdP 180 days within 1 year",
         "updatedat": {
-          "_seconds": 1770199395,
-          "_nanoseconds": 655000000
+          "_seconds": 1788704079,
+          "_nanoseconds": 700000000
         }
       },
       "borderIds": [],

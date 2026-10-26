@@ -3646,7 +3646,6 @@
       "_longitude": 81.6004603
     },
     "comment": "On this border post, the Indian eVisa is accepted, even for the first entry.",
-    "name": "Napalganj / Rupaidiha",
     "comment_translations": {
       "en": "On this border post, the Indian eVisa is accepted, even for the first entry.",
       "fr": "À ce poste frontière, le visa électronique indien est accepté, même pour une première entrée.",
@@ -3662,7 +3661,8 @@
     "updatedAt": {
       "_seconds": 1769107910,
       "_nanoseconds": 463000000
-    }
+    },
+    "name": "Nepalganj / Rupaidiha"
   },
   {
     "id": "c7nG4cZWiYrmOobFQrAP",
